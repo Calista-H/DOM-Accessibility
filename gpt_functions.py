@@ -74,6 +74,3 @@ class GPTFunctions:
         # means no corrections needed
         else:
             return self.df['html'][row_index]
-
-# Create an instance of the class
-gpt_functions = GPTFunctions()

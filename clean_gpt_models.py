@@ -1,17 +1,7 @@
-import numpy as np
-import matplotlib.pyplot as plt
 import pandas as pd
 import os
 import glob
-import shutil
-import json
-import io
-import re
-import requests
-from bs4 import BeautifulSoup
 import openai
-import panel as pn
-import tiktoken
 from gpt_functions import GPTFunctions
 
 
@@ -232,7 +222,7 @@ Suggested change: Headings should not be empty
 
 Incorrect: [['<h3></h3>', '<h3></h3>', '<h3></h3>', '<h3></h3>']]"""
 
-model.gpt_functions.GPT_response(system_msg, user_msg)
+print(model.gpt_functions.GPT_response(system_msg, user_msg))
 
 #model.create_corrected_dom_column()
 #model.call_corrections2violations()
