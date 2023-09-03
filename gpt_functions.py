@@ -1,11 +1,12 @@
 import openai
 import tiktoken
+import pandas as pd
 import os
 import re
 
 class GPTFunctions:
-    #def __init__(self):
-        #openai.api_key = os.environ["OPENAI_API_KEY"]
+    def __init__(self):
+        self.df = pd.read_csv('urlViolations.csv')
 
     # function to count the number of tokens
     def count_tokens(self, text):
@@ -17,8 +18,8 @@ class GPTFunctions:
     # function to get responses given system and user messages
     # change model name as needed
     def GPT_response(self, system, user):
-        print("system tokens: ", self.count_tokens(system))
-        print("user tokens: ", self.count_tokens(user))
+        #print("system tokens: ", self.count_tokens(system))
+        #print("user tokens: ", self.count_tokens(user))
         response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo-16k",
             messages=[

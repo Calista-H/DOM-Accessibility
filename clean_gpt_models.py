@@ -37,19 +37,19 @@ class CleanGPTModels:
         'cosmetic': 1,
       }
       # asssign numerical values to the 'impactValue' column
-      df['impactValue'] = df['impact'].map(impact_values)
+      self.df['impactValue'] = self.df['impact'].map(impact_values)
 
       # group by 'webURL' and calculate the score by summing the 'impactValue' for each group
-      score_df = df.groupby('webURL')['impactValue'].sum().reset_index()
+      score_df = self.df.groupby('webURL')['impactValue'].sum().reset_index()
 
       # merge  'score_df' dataframe back into the original df based on 'webURL'
-      df = pd.merge(df, score_df.rename(columns={'impactValue': column_name}), on='webURL')
+      self.df = pd.merge(self.df, score_df.rename(columns={'impactValue': column_name}), on='webURL')
       # insert score column at specified index
-      df.insert(insert_index, column_name, df.pop(column_name))
+      self.df.insert(insert_index, column_name, self.df.pop(column_name))
       # drop the intermediary 'impactValue' column
-      df.drop(columns='impactValue', inplace=True)
+      self.df.drop(columns='impactValue', inplace=True)
 
-      return df
+      return self.df
 
   """Create corrected DOM column"""
   def create_corrected_dom_column(self):
@@ -172,8 +172,8 @@ class CleanGPTModels:
         df.insert(1, "numViolations", length)
 
         #extract html and failure summary from nodes column
-        df['html'] = [[[node_item['html'] for node_item in nodes]] for nodes in df['nodes']]
-        df['failureSummary'] = [[[node_item['failureSummary'] for node_item in nodes]] for nodes in df['nodes']]
+        self.df['html'] = [[[node_item['html'] for node_item in nodes]] for nodes in self.df['nodes']]
+        self.df['failureSummary'] = [[[node_item['failureSummary'] for node_item in nodes]] for nodes in self.df['nodes']]
         #drop the nodes column
         df.drop(['nodes'], axis = 1, inplace = True)
 
@@ -181,10 +181,10 @@ class CleanGPTModels:
       else:
         df_temp = pd.DataFrame({'webURL' : [url], 'numViolations' : ['0'], 'id': ['None'], 'impact': ['None'], 'tags' : ['None'], 'description': ['None'], 'help' : ['None'], 'helpUrl' : ['None'], 'html' : ['None'], 'failureSummary' : ['None']})
         df_temp = df_temp.reset_index(drop = True)
-        df = pd.concat([df, df_temp])
+        self.df = pd.concat([self.df, df_temp])
 
       #add row index
-      df = df.reset_index(drop=True)
+      self.df = self.df.reset_index(drop=True)
 
       #delete data.json's to reset for the next round
       self.remove_files_starting_with("data*")
@@ -193,14 +193,14 @@ class CleanGPTModels:
       if os.path.exists('num_violations.txt'):
         os.remove('num_violations.txt')
 
-      df = self.add_severity_score(df, 'finalScore', 3)
-      return df
+      self.df = self.add_severity_score(df, 'finalScore', 3)
+      return self.df
 
 
   # call corrections2violations on entire corrections dataset
   def call_corrections2violations(self):
     df_corrections = pd.DataFrame()
-    first_rows = df.groupby('webURL').first()
+    first_rows = self.df.groupby('webURL').first()
 
     for webURL, row in first_rows.iterrows():
         # Print current URL for progress
@@ -212,9 +212,29 @@ class CleanGPTModels:
 
     df_corrections.to_csv('correctionViolations.csv')
 
-  #print(df_corrections['finalScore'].sum())
-  #print("final mean severity score: ", df_corrections['finalScore'].unique().sum() / df_corrections['webURL'].nunique())
-
 model = CleanGPTModels()
 model.drop_potential_issues()
 model.add_severity_score('initialScore', 5)
+print(model.df['initialScore'].sum())
+print("initial mean severity score: ", model.df['initialScore'].unique().sum() / model.df['webURL'].nunique())
+system_msg = """You are a helpful assistant who will correct accessibility issues of a provided website.
+                Provide your thought before you provide a fixed version of the results.
+
+                E.g.
+                Incorrect: [['<span>Search</span>']]
+                Thought: because ... I will ...
+                Correct: [['<span class="DocSearch-Button-Placeholder">Search</span>']]"""
+user_msg = """You are operating on this website: www.playwright.dev
+
+Error: empty-heading
+Description: Ensures headings have discernible text
+Suggested change: Headings should not be empty
+
+Incorrect: [['<h3></h3>', '<h3></h3>', '<h3></h3>', '<h3></h3>']]"""
+
+model.gpt_functions.GPT_response(system_msg, user_msg)
+
+#model.create_corrected_dom_column()
+#model.call_corrections2violations()
+#print(model.df_corrections['finalScore'].sum())
+#print("final mean severity score: ", model.df_corrections['finalScore'].unique().sum() / model.df_corrections['webURL'].nunique())
