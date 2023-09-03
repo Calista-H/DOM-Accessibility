@@ -1,4 +1,3 @@
-pip install seaborn
 pip install bs4
 pip install openai
 pip install panel
