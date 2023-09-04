@@ -1,3 +1,5 @@
+"""RUN THIS FILE ONLY"""
+
 import pandas as pd
 import os
 import glob
@@ -10,11 +12,6 @@ class CleanGPTModels:
     self.gpt_functions = GPTFunctions()
     openai.api_key = os.environ["OPENAI_API_KEY"]
     self.df = pd.read_csv('urlViolations.csv')
-
-  # drop rows where the 'DOM' column contains potential issues
-  def drop_potential_issues(self):
-    indices_to_drop = [31, 54, 55, 56, 57]
-    self.df = self.df.drop(indices_to_drop)
 
   # function adds a severity score column with specified name at given index
   def add_severity_score(self, column_name, insert_index):
@@ -40,6 +37,18 @@ class CleanGPTModels:
       self.df.drop(columns='impactValue', inplace=True)
 
       return self.df
+  
+  def get_dom_by_idnum(self, idnum):
+        # Create the path to the text file based on 'idnum'
+        dom_file_path = os.path.join('DOM', f'{idnum}.txt')
+
+        # Check if the file exists
+        if os.path.exists(dom_file_path):
+            # Read and return the content of the text file
+            with open(dom_file_path, 'r') as text_file:
+                return text_file.read()
+        else:
+            return None  # Return None if the file doesn't exist
 
   """Create corrected DOM column"""
   def create_corrected_dom_column(self):
@@ -61,16 +70,21 @@ class CleanGPTModels:
         # generate corrections for all html errors in a group
         dom = ''
         for index, row in group_df.iterrows():
-            # print(row['webURL'], row['html'])
+            print(row['webURL'])
             # if at first row of group, initialize dom to be original group DOM
             if dom == '':
-              dom = row['DOM']
+              dom_file_path = os.path.join('DOM', f'{row["DOM"]}.txt')
+              if os.path.exists(dom_file_path):
+                # Read the content of the text file
+                with open(dom_file_path, 'r') as text_file:
+                  dom = text_file.read()
             # call get_correction function and store correction in dictionary
             # error_fix_dict[row['html']] = get_correction(index)
             error = row['html']
             fix = self.gpt_functions.get_correction(index)
+            #print(self.gpt_functions.get_correction(index))
             error_fix_dict[error] = fix
-            print(row['webURL'], error, fix)
+            #print(row['webURL'], error, fix)
 
         dom_corrected = dom
         # iterate through error_fix dictionary and replace errors with fixes
@@ -90,7 +104,7 @@ class CleanGPTModels:
     self.df['DOMCorrected'] = self.df.index.map(corrected_doms_dict)
 
     # save dataframe with corrections as a csv file
-    self.df.to_csv('corrections.csv')
+    #self.df.to_csv('corrections.csv')
 
   """Run corrections through Playwright"""
   #df = pd.read_csv('corrections.csv')
@@ -165,7 +179,7 @@ class CleanGPTModels:
         self.df['html'] = [[[node_item['html'] for node_item in nodes]] for nodes in self.df['nodes']]
         self.df['failureSummary'] = [[[node_item['failureSummary'] for node_item in nodes]] for nodes in self.df['nodes']]
         #drop the nodes column
-        df.drop(['nodes'], axis = 1, inplace = True)
+        self.df.drop(['nodes'], axis = 1, inplace = True)
 
       #make a row of null values for a URL that has no violations
       else:
@@ -203,28 +217,11 @@ class CleanGPTModels:
     df_corrections.to_csv('correctionViolations.csv')
 
 model = CleanGPTModels()
-model.drop_potential_issues()
 model.add_severity_score('initialScore', 5)
 print(model.df['initialScore'].sum())
 print("initial mean severity score: ", model.df['initialScore'].unique().sum() / model.df['webURL'].nunique())
-system_msg = """You are a helpful assistant who will correct accessibility issues of a provided website.
-                Provide your thought before you provide a fixed version of the results.
 
-                E.g.
-                Incorrect: [['<span>Search</span>']]
-                Thought: because ... I will ...
-                Correct: [['<span class="DocSearch-Button-Placeholder">Search</span>']]"""
-user_msg = """You are operating on this website: www.playwright.dev
-
-Error: empty-heading
-Description: Ensures headings have discernible text
-Suggested change: Headings should not be empty
-
-Incorrect: [['<h3></h3>', '<h3></h3>', '<h3></h3>', '<h3></h3>']]"""
-
-print(model.gpt_functions.GPT_response(system_msg, user_msg))
-
-#model.create_corrected_dom_column()
-#model.call_corrections2violations()
-#print(model.df_corrections['finalScore'].sum())
-#print("final mean severity score: ", model.df_corrections['finalScore'].unique().sum() / model.df_corrections['webURL'].nunique())
+model.create_corrected_dom_column()
+model.call_corrections2violations()
+print(model.df_corrections['finalScore'].sum())
+print("final mean severity score: ", model.df_corrections['finalScore'].unique().sum() / model.df_corrections['webURL'].nunique())

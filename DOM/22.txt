@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>Kaggle: Your Machine Learning and Data Science Community</title>
+<meta charset="utf-8"/>
+<meta content="index, follow" name="robots"/>
+<meta content="Kaggle is the world’s largest data science community with powerful tools and resources to help you achieve your data science goals." name="description"/>
+<meta content="no-cache" name="turbolinks-cache-control"/>
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0" name="viewport"/>
+<meta content="#008ABC" name="theme-color">
+<script nonce="bhyKH7q9S/wirPji2sBOXA==" type="text/javascript">
+    window["pageRequestStartTime"] = 1692074902838;
+    window["pageRequestEndTime"] = 1692074902844;
+    window["initialPageLoadStartTime"] = new Date().getTime();
+  </script>
+<link crossorigin="anonymous" href="https://www.google-analytics.com" rel="preconnect"/><link href="https://stats.g.doubleclick.net" rel="preconnect"/><link href="https://storage.googleapis.com" rel="preconnect"/><link href="https://apis.google.com" rel="preconnect"/>
+<link href="/static/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link crossorigin="use-credentials" href="/static/json/manifest.json" rel="manifest"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
+<link as="style" href="https://fonts.googleapis.com/icon?family=Google+Material+Icons&amp;display=block" rel="preload"/>
+<link as="style" href="https://fonts.googleapis.com/css?family=Inter:400,400i,500,500i,600,600i,700,700i&amp;display=swap" rel="preload"/>
+<link href="https://fonts.googleapis.com/icon?family=Google+Material+Icons&amp;display=block" id="async-google-font-1" media="print" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Inter:400,400i,500,500i,600,600i,700,700i&amp;display=swap" id="async-google-font-2" media="print" rel="stylesheet"/>
+<script nonce="bhyKH7q9S/wirPji2sBOXA==" type="text/javascript">
+    const styleSheetIds = ["async-google-font-1", "async-google-font-2"];
+    styleSheetIds.forEach(function (id) {
+      document.getElementById(id).addEventListener("load", function() {
+        this.media = "all";
+      });
+    });
+  </script>
+<link href="/static/assets/vendor.css?v=dd064d680b3ca5c8a76b" rel="stylesheet" type="text/css"/>
+<link href="/static/assets/app.css?v=c5ea368bfe8bd6c8f533" rel="stylesheet" type="text/css"/>
+<script nonce="bhyKH7q9S/wirPji2sBOXA==">
+        try{(function(a,s,y,n,c,h,i,d,e){d=s.createElement("style");
+        d.appendChild(s.createTextNode(""));s.head.appendChild(d);d=d.sheet;
+        y=y.map(x => d.insertRule(x + "{ opacity: 0 !important }"));
+        h.start=1*new Date;h.end=i=function(){y.forEach(x => x<d.cssRules.length ? d.deleteRule(x) : {})};
+        (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+        })(window,document,['.site-header-react__nav'],'dataLayer',2000,{'GTM-52LNT9S':true});}catch(ex){}
+    </script>
+<script nonce="bhyKH7q9S/wirPji2sBOXA==">
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-T7QHS60L4Q', {
+            'optimize_id': 'GTM-52LNT9S',
+            'displayFeaturesTask': null,
+            'send_page_view': false,
+            'content_group1': 'Home'
+        });
+    </script>
+<script async="" nonce="bhyKH7q9S/wirPji2sBOXA==" src="https://www.googletagmanager.com/gtag/js?id=G-T7QHS60L4Q"></script>
+<meta content="Kaggle: Your Machine Learning and Data Science Community" property="og:title"/>
+<meta content="Kaggle is the world’s largest data science community with powerful tools and resources to help you achieve your data science goals." property="og:description"/>
+<meta content="https://www.kaggle.com/" property="og:url"/>
+<meta content="website" property="og:type"/>
+<meta content="@Kaggle" name="twitter:site"/>
+<script nonce="bhyKH7q9S/wirPji2sBOXA==">window['useKaggleAnalytics'] = true;</script>
+<script async="" defer="" id="gapi-target" nonce="bhyKH7q9S/wirPji2sBOXA==" src="https://apis.google.com/js/api.js"></script>
+<script data-turbolinks-track="reload" nonce="bhyKH7q9S/wirPji2sBOXA==" src="/static/assets/runtime.js?v=d5f3c9e895cf47e259d6"></script>
+<script data-turbolinks-track="reload" nonce="bhyKH7q9S/wirPji2sBOXA==" src="/static/assets/vendor.js?v=4306927b086ff81d87b2"></script>
+<script data-turbolinks-track="reload" nonce="bhyKH7q9S/wirPji2sBOXA==" src="/static/assets/app.js?v=e30d236f33f1a68ecb22"></script>
+<script nonce="bhyKH7q9S/wirPji2sBOXA==" type="text/javascript">
+      window.kaggleStackdriverConfig = {
+        key: 'AIzaSyA4eNqUdRRskJsCZWVz-qL655Xa5JEMreE',
+        projectId: 'kaggle-161607',
+        service: 'web-fe',
+        version: 'ci',
+        userId: '0'
+      }
+    </script>
+</link></meta></head>
+<body data-turbolinks="false">
+<main>
+<div id="site-container"></div>
+<div class="hide" id="site-body">
+</div>
+</main>
+</body>
+</html>

@@ -1,0 +1,812 @@
+
+<!DOCTYPE HTML>
+
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<title>Life Insurance, Retirement Income, Investments</title>
+<meta content="For more than 150 years, Pacific Life has helped millions of individuals and families with their financial needs through a wide range of life insurance products, annuities, and mutual funds, and offers a variety of investment products and services to individuals, businesses, and pension plans." name="description"/>
+<meta content="content-template" name="template"/>
+<meta content="Life Insurance, Retirement Income, Investments" property="og:title"/>
+<meta content="https://www.pacificlife.com/home.html" property="og:url"/>
+<meta content="website" property="og:type"/>
+<meta content="Pacific Life" property="og:site_name"/>
+<meta content="https://www.pacificlife.com/home.thumb.800.480.png?ck=1691422933" property="og:image"/>
+<meta content="For more than 150 years, Pacific Life has helped millions of individuals and families with their financial needs through a wide range of life insurance products, annuities, and mutual funds, and offers a variety of investment products and services to individuals, businesses, and pension plans." property="og:description"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="no-cache" forua="true" http-equiv="Cache-Control"/>
+<meta content="gbtuQysyOXTLHiBR_Dh6tKYYIWUe0KwcqECf3E5NPCU" name="google-site-verification"/>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+<link href="/etc.clientlibs/pcwr/clientlibs/clientlib-base.min.css" rel="stylesheet" type="text/css"/>
+<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
+<script type="text/javascript">
+window.digitalData = window.digitalData || {
+	pageInstanceID: window.location.host + "/content/pl-corp/home",
+	page: {
+	    pageName: "PacificLife:LifeInsuranceRetirementIncomeInvestments",
+		pageTitle: "LifeInsuranceRetirementIncomeInvestments",
+		pagePath: "/content/pl-corp/home",
+		pageType: "page",
+		pageTemplate: "content-template",
+		language: "en",
+	    sectionLvl1: "PacificLife",
+	    sectionLvl2: "",
+	    sectionLvl3: "",
+	    sectionLvl4: "",
+	    sectionLvl5: "",
+    	domain: window.location.host,
+    	environment: "crx3tar-nofds,prod,s7connect,crx3,nosamplecontent,publish,publish2",
+    	tags: ""
+	},
+	event: {}
+};
+</script>
+<!-- BEGIN Header SLY Scripts -->
+<script async="" src="//assets.adobedtm.com/a79b0dc1801d/5aa514d32abe/launch-04947357c73b.min.js" type="text/javascript"></script>
+<!-- END Header SLY Scripts -->
+<link href="/etc/designs/pcwr/default/static.css" rel="stylesheet" type="text/css">
+<!--[if IE]><link rel="shortcut icon" href="/etc/designs/pcwr/default/favicon.ico"/><![endif]-->
+<link href="/etc/designs/pcwr/default/favicon.ico" rel="icon"/>
+</link></head>
+<body>
+<div class="root responsivegrid">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="topnav aem-GridColumn aem-GridColumn--default--12"><nav class="navbar navbar-expand-lg plcorp-main-nav d-print-flex position-relative" data-component-name="Top Navigation">
+<a class="navbar-brand left-nav-items" href="/home.html"><img alt="" src="/content/dam/paclife/crp/images/logos/PL-Logo-Horz-PMS-224px.svg"/></a>
+<button aria-controls="searchNavCollapse" aria-expanded="false" class="btn btn-link ml-auto pr-0 d-lg-none search-nav-toggle-btn collapsed" data-target="#searchNavCollapse" data-toggle="collapse" id="searchNavHeading">
+<i class="material-icons d-none-imp d-none-imp nav-search-icon">search</i>
+</button>
+<button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler plcorp-mobile-menu-btn collapsed" data-target="#navbarSupportedContent" data-toggle="collapse" type="button">
+<i class="material-icons d-none-imp d-none-imp"></i>
+</button>
+<div class="cmp-navigation--header collapse navbar-collapse" data-parent=".plcorp-main-nav" id="navbarSupportedContent">
+<!-- <a class="navbar-brand left-nav-items" href="#"><img alt="" src="/etc/designs/pcwr/default/images/logo-horiz.svg"></a> -->
+<ul class="cmp-navigation__group navbar-nav navbar-nav-header mx-lg-auto mr-auto g order-lg-0 order-1 fadein_navbar">
+<li class="cmp-navigation__item cmp-navigation__item--level-0 nav-item dropdown">
+<a class="cmp-navigation__item-link nav-link" href="/home/life-goals.html" title="Life Goals">Life Goals</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-0 nav-item dropdown">
+<a aria-expanded="false" aria-haspopup="true" class="cmp-navigation__item-link nav-link" data-toggle="dropdown" href="" id="navbarDropdown" role="button" title="Products"><span class="nav-menu-dropdown-title">Products</span> <i class="nav-menu-dropdown-title material-icons d-none-imp d-sm-inline-block">keyboard_arrow_down</i>
+<div class="mobile-nav-back-btn d-none">
+<div><i class="material-icons d-none-imp" style="vertical-align: bottom;font-size:20px">keyboard_arrow_left</i><span>back</span></div>
+</div>
+</a>
+<span class="d-lg-block d-none"></span>
+<div aria-labelledby="navbarDropdown" class="dropdown-menu">
+<span class="pl-md-4 position-absolute d-none d-lg-inline" style="right:10px;"><i class="material-icons d-none-imp nav-close-icon">close</i></span>
+<ul class="cmp-navigation__group">
+<li class="cmp-navigation__item cmp-navigation__item--level-1">
+<a class="cmp-navigation__item-link" href="/home/products/annuities.html" title="Annuities">Annuities</a>
+<span class="d-lg-block d-none"></span>
+<span class="d-lg-block d-none padding-for-span">Pacific Life offers a variety of annuities designed to help grow, protect, and manage retirement savings turning it into steady, reliable lifetime income based on your personal preferences and goals.</span>
+<ul class="cmp-navigation__group g2">
+<li class="cmp-navigation__item cmp-navigation__item--level-2">
+<a class="cmp-navigation__item-link" href="/home/products/annuities/variable-annuities.html" title="Variable Annuities">Variable Annuities</a>
+<span class="d-lg-block d-none"></span>
+<ul class="cmp-navigation__group navbar-nav navbar-nav-header mx-lg-auto mr-auto g order-lg-0 order-1 fadein_navbar">
+<li class="cmp-navigation__item cmp-navigation__item--level-3">
+<a class="cmp-navigation__item-link" href="/home/products/annuities/variable-annuities/performance.html" title="Performance">Performance</a>
+<span class="d-lg-block d-none"></span>
+</li>
+</ul>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-2">
+<a class="cmp-navigation__item-link" href="/home/products/annuities/fixed-indexed-annuities.html" title="Fixed Indexed Annuities">Fixed Indexed Annuities</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-2">
+<a class="cmp-navigation__item-link" href="/home/products/annuities/fixed-annuities.html" title="Fixed Annuities">Fixed Annuities</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-2">
+<a class="cmp-navigation__item-link" href="/home/products/annuities/immediate-annuities.html" title="Immediate Annuities">Immediate Annuities</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-2">
+<a class="cmp-navigation__item-link" href="/home/products/annuities/deferred-income-annuities.html" title="Deferred Income Annuities">Deferred Income Annuities</a>
+<span class="d-lg-block d-none"></span>
+</li>
+</ul>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-1">
+<a class="cmp-navigation__item-link" href="/home/products/life-insurance.html" title="Life Insurance">Life Insurance</a>
+<span class="d-lg-block d-none"></span>
+<span class="d-lg-block d-none padding-for-span">Life insurance is most commonly used to help protect your family from any financial effects of your and/or your spouse's death. Protect your family's financial well-being with life insurance, which can pay a death benefit to help replace a lifetime of your loved one's lost earning potential.</span>
+<ul class="cmp-navigation__group g2">
+<li class="cmp-navigation__item cmp-navigation__item--level-2">
+<a class="cmp-navigation__item-link" href="/home/products/life-insurance/variable-universal-life-insurance.html" title="Variable Universal Life Insurance">Variable Universal Life Insurance</a>
+<span class="d-lg-block d-none"></span>
+<ul class="cmp-navigation__group navbar-nav navbar-nav-header mx-lg-auto mr-auto g order-lg-0 order-1 fadein_navbar">
+<li class="cmp-navigation__item cmp-navigation__item--level-3">
+<a class="cmp-navigation__item-link" href="/home/products/life-insurance/variable-universal-life-insurance/fund-performance-and-daily-unit-values.html" title="Performance &amp; DUVs">Performance &amp; DUVs</a>
+<span class="d-lg-block d-none"></span>
+</li>
+</ul>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-2">
+<a class="cmp-navigation__item-link" href="/home/products/life-insurance/indexed-universal-life-insurance.html" title="Indexed Universal Life Insurance">Indexed Universal Life Insurance</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-2">
+<a class="cmp-navigation__item-link" href="/home/products/life-insurance/term-life-insurance.html" title="Term Life Insurance">Term Life Insurance</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-2">
+<a class="cmp-navigation__item-link" href="/home/products/life-insurance/universal-life-insurance.html" title="Universal  Life Insurance">Universal  Life Insurance</a>
+<span class="d-lg-block d-none"></span>
+</li>
+</ul>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-1">
+<a class="cmp-navigation__item-link" href="/home/products/institutions.html" title="For Institutions">For Institutions</a>
+<span class="d-lg-block d-none"></span>
+<span class="d-lg-block d-none padding-for-span">Whether you’re looking for a de-risking strategy for your company’s pension plan, want to provide financial security to your retirees, or looking for a strong investing partner, Pacific Life has the solutions and experience to help you succeed.</span>
+<ul class="cmp-navigation__group g2">
+<li class="cmp-navigation__item cmp-navigation__item--level-2">
+<a class="cmp-navigation__item-link" href="/home/products/institutions/overview.html" title="Overview">Overview</a>
+<span class="d-lg-block d-none"></span>
+</li>
+</ul>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-1">
+<a class="cmp-navigation__item-link" href="/home/products/workforce-benefits.html" title="Workforce Benefits">Workforce Benefits</a>
+<span class="d-lg-block d-none"></span>
+<span class="d-lg-block d-none padding-for-span">Pacific Life is revolutionizing employee benefits by empowering you with a premier, comprehensive, friction-free, digitally native experience.</span>
+<ul class="cmp-navigation__group g2">
+<li class="cmp-navigation__item cmp-navigation__item--level-2">
+<a class="cmp-navigation__item-link" href="/home/products/workforce-benefits/overview.html" title="Overview">Overview</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-2">
+<a class="cmp-navigation__item-link" href="/home/products/workforce-benefits/why-choose-us.html" title="Why Choose Us">Why Choose Us</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-2">
+<a class="cmp-navigation__item-link" href="/home/products/workforce-benefits/benefits.html" title="Benefits">Benefits</a>
+<span class="d-lg-block d-none"></span>
+</li>
+</ul>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-1">
+<a class="cmp-navigation__item-link" href="/home/products/additional-solutions.html" title="Additional Solutions">Additional Solutions</a>
+<span class="d-lg-block d-none"></span>
+</li>
+</ul>
+</div>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-0 nav-item dropdown">
+<a class="cmp-navigation__item-link nav-link" href="/home/insights.html" title="Insights">Insights</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-0 nav-item dropdown">
+<a aria-expanded="false" aria-haspopup="true" class="cmp-navigation__item-link nav-link" data-toggle="dropdown" href="" id="navbarDropdown" role="button" title="About Us"><span class="nav-menu-dropdown-title">About Us</span> <i class="nav-menu-dropdown-title material-icons d-none-imp d-sm-inline-block">keyboard_arrow_down</i>
+<div class="mobile-nav-back-btn d-none">
+<div><i class="material-icons d-none-imp" style="vertical-align: bottom;font-size:20px">keyboard_arrow_left</i><span>back</span></div>
+</div>
+</a>
+<span class="d-lg-block d-none"></span>
+<div aria-labelledby="navbarDropdown" class="dropdown-menu">
+<span class="pl-md-4 position-absolute d-none d-lg-inline" style="right:10px;"><i class="material-icons d-none-imp nav-close-icon">close</i></span>
+<ul class="cmp-navigation__group">
+<li class="cmp-navigation__item cmp-navigation__item--level-1">
+<a class="cmp-navigation__item-link" href="/home/about.html" title="About Us">About Us</a>
+<span class="d-lg-block d-none padding-for-span">Whether you’re protecting your loved ones or growing your assets, you’re highly invested in your financial future. And so are we. When you purchase life and retirement insurance, you’re buying a promise. A promise that today, tomorrow or ten years from now, we’ll be there. For more than 150 years, we’ve fulfilled that promise. Our clients trust Pacific Life to protect what matters most to them—their families, their businesses, their futures.</span>
+<ul class="cmp-navigation__group g2 about-flex-continer">
+<li class="cmp-navigation__item cmp-navigation__item--level-1">
+<a class="cmp-navigation__item-link" href="/home/about/overview.html" title="Overview">Overview</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-1">
+<a class="cmp-navigation__item-link" href="/home/about/darryl-button-ceo-of-pacific-life.html" title="Meet our CEO">Meet our CEO</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-1">
+<a class="cmp-navigation__item-link" href="/home/about/brand.html" title="Our Brand">Our Brand</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-1">
+<a class="cmp-navigation__item-link" href="/home/about/insurance-ratings-and-financials.html" title="Insurance Ratings &amp; Financials">Insurance Ratings &amp; Financials</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-1">
+<a class="cmp-navigation__item-link" href="/home/about/corporate-social-responsibility.html" title="Corporate Social Responsibility">Corporate Social Responsibility</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-1">
+<a class="cmp-navigation__item-link" href="/home/about/careers.html" title="Careers">Careers</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-1">
+<a class="cmp-navigation__item-link" href="/home/about/leadership.html" title="Leadership">Leadership</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-1">
+<a class="cmp-navigation__item-link" href="/home/about/news.html" title="Newsroom">Newsroom</a>
+<span class="d-lg-block d-none"></span>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-1">
+<a class="cmp-navigation__item-link" href="/home/about/subsidiaries.html" title="Subsidiaries">Subsidiaries</a>
+<span class="d-lg-block d-none"></span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li class="nav-item dropdown search-nav-item d-none d-lg-block">
+<a aria-controls="searchNavCollapse" aria-expanded="false" class="nav-link collapsed navTopToggle" data-target="#searchNavCollapse" data-toggle="collapse" href="" id="searchNavHeading" role="button" title="Search">
+<i class="material-icons d-none-imp nav-search-icon">search</i>
+</a>
+</li>
+</ul>
+<div class="login-container">
+<span id="login-box">
+<div class="login-menu dropdown order-0 order-lg-1">
+<a aria-expanded="false" aria-haspopup="true" class="login-dropdown-toggle d-flex" data-toggle="dropdown" href="" id="dropdownMenuLink" role="button"><i class="material-icons d-none-imp">account_circle</i><span class="d-flex justify-content-between w-100">Login <i class="material-icons d-none-imp d-lg-none">keyboard_arrow_right</i></span></a>
+<div aria-labelledby="dropdownMenuLink" class="dropdown-menu login-dropdown" data-component-name="Login">
+<div class="mobile-nav-back-btn login-back d-lg-none">
+<div><i class="material-icons d-none-imp" style="vertical-align: bottom;font-size:20px">keyboard_arrow_left</i><span style="cursor:pointer;">BACK</span></div>
+</div>
+<a class="dropdown-item" href="/home/annuities-login.html" target="_blank">Annuities</a>
+<a class="dropdown-item" href="https://life.myaccount.pacificlife.com" target="_blank">Life Insurance</a>
+<a class="dropdown-item" href="https://broker.benefits.pacificlife.com" target="_blank">Workforce Benefits</a>
+<a class="dropdown-item" href="/home/benefits-of-working-with-us/financial-professional-logins.html" target="_blank">Financial Professionals</a>
+</div>
+</div>
+</span>
+</div>
+<span class="more-menu-toggle order-last d-lg-block d-none" name="more-menu-toggle"><i class="material-icons d-none-imp d-none-imp">menu</i>More</span>
+</div>
+<div class="more-menu text-left" id="more-menu">
+<span class="more-menu-toggle d-lg-none" name="more-menu-toggle"><span class="toggle-label"></span><i class="material-icons d-none-imp ml-auto">keyboard_arrow_right</i></span>
+<div class="more-menu-content" data-component-name="More Section">
+<span class="more-menu-toggle text-white d-none d-lg-block" name="more-menu-toggle"><i class="material-icons d-none-imp">close</i>Close</span>
+<h6><a href="/home/benefits-of-working-with-us.html">For Financial Professionals</a></h6>
+<h6><a href="/home/Careers.html">Careers</a></h6>
+<h6><a href="/home/investor-relations.html">Investor Relations</a></h6>
+<h6><a href="/home/contact-us.html">Contact Us</a></h6>
+<div class="sharethis-inline-follow-buttons" data-component-name="AddThis" id="668147f4-6aed-490a-8060-ded8b5556926/root/topnav/moreSection">
+</div>
+</div>
+</div>
+<div aria-labelledby="searchNavHeading" class="search-nav mobileNav w-100 collapse" data-parent=".plcorp-main-nav" data-resourcepath="/conf/pcwr/settings/wcm/templates/content-template/structure/jcr:content/root/topnav" data-searchrootpath="/content/pl-corp/search-results" id="searchNavCollapse">
+<div class="pt-lg-4">
+<div class="form-inline justify-content-lg-center">
+<div class="form-group form-group-search-input mx-lg-3 mb-2 mx-0">
+<label class="sr-only" for="inputSearchValue"></label>
+<input autocomplete="off" class="form-control py-0 inputValueSearch" id="inputSearchValue" name="q" type="text"/>
+</div>
+<button class="btn btn-primary cta-text-btn mb-2 d-lg-block searchSubmit-mb" type="submit">SEARCH</button> <span class="search-nav-close-icon pl-md-4" data-target="#searchNavCollapse" data-toggle="collapse"><i class="material-icons d-none-imp d-none-imp nav-close-icon">close</i></span>
+</div>
+<ul class="list-group searchItem historySearchItems historySearchItems-mb">
+</ul>
+</div>
+</div>
+<div aria-labelledby="searchNavHeading" class="search-nav collapse desktopNav" data-parent=".plcorp-main-nav" data-resourcepath="/conf/pcwr/settings/wcm/templates/content-template/structure/jcr:content/root/topnav" data-searchrootpath="/content/pl-corp/search-results" id="searchNavCollapse">
+<div class="pt-lg-4">
+<label class="sr-only" for="inputSearchValue"></label>
+<div class="search-wrapper">
+<div class="input-group form-group-search-input-new">
+<div class="input-group-prepend">
+<span class="input-group-text"><i class="material-icons d-none-imp d-none-imp">search</i></span>
+</div>
+<input autocomplete="off" class="form-control y-0 inputValueSearch" id="inputSearchValue" name="q" type="text"/>
+<div class="input-group-prepend">
+<a class="showNavbar" data-target="#searchNavCollapse" data-toggle="collapse"><i class="material-icons d-none-imp d-none-imp">clear</i></a>
+</div>
+<div class="input-group-prepend">
+<button class="btn btn-primary cta-text-btn searchSubmit" type="submit">SEARCH</button>
+</div>
+</div>
+</div>
+<div class="list-group searchItem" id="historySearchItemsList">
+<ul class="historySearchItems"></ul>
+</div>
+</div>
+</div>
+</nav>
+</div>
+<div class="cmp cmp-breadcrumb aem-GridColumn aem-GridColumn--default--12">
+</div>
+<div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="landingHero aem-GridColumn aem-GridColumn--default--12">
+<div class="landing-flex-container-wrapper landing-hero-component">
+<div class="landing-hero-background">
+<div class="zoom zoom-repeat-once card detail-hero-img-overlay overlay-item-below" data-component-name="Landing Hero">
+<div class="hero-background-img-wrapper">
+<div class="landing-hero-background-img" style="background-image:url('\2f content\2f dam\2fpaclife\2f crp\2fimages\2fhome\2fHomePage-v2-181kb.jpg') "> </div>
+</div>
+<input class="landing-lg-img" type="hidden" value="/content/dam/paclife/crp/images/home/HomePage-v2-181kb.jpg"/>
+<input class="landing-sm-img" type="hidden" value="/content/dam/paclife/crp/images/home/HomePage-Mobile-1440x550-2.jpg"/>
+<div class="landing-overlay animate__animated animate__fadeInDownHalfBig animate__duration_1s animate__delay-02s"></div>
+<div class="white-overlay-landing-hero"></div>
+<div class="card-img-overlay text-center position-relative my-auto">
+<!-- /*NOTE: Add class 'large-hero-title' to get the larger title text seen in the visual design*/ -->
+<div class="landing-component-content-wrapper animate__animated animate__fadeInDownSmall animate__fast animate__delay-1s">
+<h1 class="card-title mx-auto text-white">
+                        
+                        Achieve Your Life Goals with Pacific Life
+                    </h1>
+<p class="card-text mx-auto text-white detail-hero-subtitle"></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="iconCardNavigationCarousel aem-GridColumn aem-GridColumn--default--12"><!-- /* [1/2] CAROUSEL- Icon Card Nav Carousel PCWR-126- NOTE- use class: bgcolor-blue for blue version */ -->
+<!-- /* [2/2] STATIC- Icon Card Nav Carousel PCWR-126- NOTE- use class *offset-top* to overlap with the above component NOTE- use class: bgcolor-blue for blue version- */ -->
+<div class="icon-card-nav-carousel row d-flex justify-content-center my-5 icon-nav-carousel-static bgcolor-blue animate__animated animate__fadeIn animate__delay_one_half_s icon-card-nav-car-hover-animations-enabled icon-card-nav-car-mobile-animations-disabled" data-component-name="Icon Card Navigation Carousel">
+<!--  /* icon nav items add class *show-anchor-arrow* below to get anchor arrows */ -->
+<div class="col my-md-auto icon-nav-carousel-static-item position-relative white-overlay-icon">
+<div class="alt-overlay"></div>
+<a href="/home/life-goals/save-enough-money-to-meet-my-needs.html" target="_self">
+<img alt="" class="mx-auto d-block" src="/content/dam/paclife/crp/images/icons/Icon_SaveEnoughMoneyToMeetMyNeeds_White.svg"/>
+</a>
+<div class="mx-auto mt-4 d-block">
+<p class="cta-text-btn all-text text-center">
+<a class="" href="/home/life-goals/save-enough-money-to-meet-my-needs.html" target="_self">Save enough to meet my needs
+			 			
+			 				<!-- /* optional carrot icon */  -->
+<i class="material-icons"></i>
+</a>
+</p>
+</div>
+<a class="clickable" href="/home/life-goals/save-enough-money-to-meet-my-needs.html" target="_self"></a>
+</div>
+<!--  /* icon nav items add class *show-anchor-arrow* below to get anchor arrows */ -->
+<div class="col my-md-auto icon-nav-carousel-static-item position-relative white-overlay-icon">
+<div class="alt-overlay"></div>
+<a href="/home/life-goals/ensure-my-family-is-protected.html" target="_self">
+<img alt="" class="mx-auto d-block" src="/content/dam/paclife/crp/images/icons/Icon_EnsureMyFamilyIsProtected_White.svg"/>
+</a>
+<div class="mx-auto mt-4 d-block">
+<p class="cta-text-btn all-text text-center">
+<a class="" href="/home/life-goals/ensure-my-family-is-protected.html" target="_self">Protect My Family
+			 			
+			 				<!-- /* optional carrot icon */  -->
+<i class="material-icons"></i>
+</a>
+</p>
+</div>
+<a class="clickable" href="/home/life-goals/ensure-my-family-is-protected.html" target="_self"></a>
+</div>
+<!--  /* icon nav items add class *show-anchor-arrow* below to get anchor arrows */ -->
+<div class="col my-md-auto icon-nav-carousel-static-item position-relative white-overlay-icon">
+<div class="alt-overlay"></div>
+<a href="/home/life-goals/make-sure-i-don-t-run-out-of-money.html" target="_self">
+<img alt="" class="mx-auto d-block" src="/content/dam/paclife/crp/images/icons/Icon_MakeSureIDon%27tRunOutOfMoney_White.svg"/>
+</a>
+<div class="mx-auto mt-4 d-block">
+<p class="cta-text-btn all-text text-center">
+<a class="" href="/home/life-goals/make-sure-i-don-t-run-out-of-money.html" target="_self">Make sure I don’t run out of money
+			 			
+			 				<!-- /* optional carrot icon */  -->
+<i class="material-icons"></i>
+</a>
+</p>
+</div>
+<a class="clickable" href="/home/life-goals/make-sure-i-don-t-run-out-of-money.html" target="_self"></a>
+</div>
+<!--  /* icon nav items add class *show-anchor-arrow* below to get anchor arrows */ -->
+<div class="col my-md-auto icon-nav-carousel-static-item position-relative white-overlay-icon">
+<div class="alt-overlay"></div>
+<a href="/home/life-goals/protect-and-plan-for-my-business.html" target="_self">
+<img alt="" class="mx-auto d-block" src="/content/dam/paclife/crp/images/icons/Icon_ProtectAndPlanForMyBusiness_White.svg"/>
+</a>
+<div class="mx-auto mt-4 d-block">
+<p class="cta-text-btn all-text text-center">
+<a class="" href="/home/life-goals/protect-and-plan-for-my-business.html" target="_self">Protect and Grow My Business
+			 			
+			 				<!-- /* optional carrot icon */  -->
+<i class="material-icons"></i>
+</a>
+</p>
+</div>
+<a class="clickable" href="/home/life-goals/protect-and-plan-for-my-business.html" target="_self"></a>
+</div>
+<!--  /* icon nav items add class *show-anchor-arrow* below to get anchor arrows */ -->
+<div class="col my-md-auto icon-nav-carousel-static-item position-relative white-overlay-icon">
+<div class="alt-overlay"></div>
+<a href="/home/life-goals/ensure-i-have-access-to-the-care-i-need.html" target="_self">
+<img alt="" class="mx-auto d-block" src="/content/dam/paclife/crp/images/icons/Icons_LongTermCareProtection_White.svg"/>
+</a>
+<div class="mx-auto mt-4 d-block">
+<p class="cta-text-btn all-text text-center">
+<a class="" href="/home/life-goals/ensure-i-have-access-to-the-care-i-need.html" target="_self">ENSURE I HAVE PROTECTION FOR THE CARE I MAY NEED
+			 			
+			 				<!-- /* optional carrot icon */  -->
+<i class="material-icons"></i>
+</a>
+</p>
+</div>
+<a class="clickable" href="/home/life-goals/ensure-i-have-access-to-the-care-i-need.html" target="_self"></a>
+</div>
+</div></div>
+<div class="textHero aem-GridColumn aem-GridColumn--default--12">
+<div class="text-hero text-center mx-auto my-5 py-3" data-component-name="Text Hero">
+<h3 class="mb-3" style="color:inherit;">Because Tomorrow Matters.</h3>
+<p class="mb-4"><p>You can’t always predict what’s ahead, but being prepared allows you to protect what matters most. With Pacific Life’s strength, stability, and more than 150 years of expertise in retirement and life insurance solutions, you can have the confidence to enjoy a life well-lived and trust that Pacific Life will protect your tomorrow.</p>
+</p>
+<a class="btn btn-primary cta-text-btn" href="/home/life-goals.html">Learn  More</a>
+</div>
+</div>
+<div class="contentMosaic aem-GridColumn aem-GridColumn--default--12">
+<div class="row content-mosaic-container" data-component-name="Content Mosaic">
+<div class="col-md-5 ml-md-auto mosaic-col">
+<div data-media-block-title="Corporate Social Responsibility">
+<div class="card mosaic-card" style="background-image:url('\2f content\2f dam\2fpaclife\2f crp\2fimages\2fhome\2f CSR_mosaic_tile.jpg');">
+<!-- <img class="card-img" src="http://placehold.it/555x600" alt="Card image"> -->
+<div class="card-img-overlay mosaic-copy" style="max-height: ">
+<table>
+<tr>
+<td class="mosaic-text">
+<table>
+<tr>
+<td><h5 class="card-title mosaic-text-title">Corporate Social Responsibility</h5></td>
+</tr>
+<tr>
+<td><p class="card-text p-alt-16 mosaic-text-subtitle">Pacific Life is committed to creating a meaningful future for our stakeholders. Read about our mission and areas of focus through our CSR efforts.</p></td>
+</tr>
+<tr>
+<td class="mosaic-text-cta"><h7 class="card-text cta-text all-text">Learn More<i class="material-icons" style="vertical-align: top;">keyboard_arrow_right</i></h7></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<input class="mosaic-card-link-value" type="hidden" value="/content/pl-corp/home/about/corporate-social-responsibility.html"/>
+</div>
+</div>
+<div data-media-block-title="The Value of Life Insurance">
+<div class="card mosaic-card" style="background-image:url('\2f content\2f dam\2fpaclife\2f crp\2fimages\2fhome\2fGettyImages-707447605.jpg');">
+<div class="card-img-overlay mosaic-copy" style="max-height: ">
+<table>
+<tr>
+<td class="mosaic-text">
+<table>
+<tr>
+<td><h5 class="card-title mosaic-text-title">The Value of Life Insurance</h5></td>
+</tr>
+<tr>
+<td><p class="card-text p-alt-16 mosaic-text-subtitle">It's what happens the day after you buy your life insurance policy that matters most.</p></td>
+</tr>
+<tr>
+<td class="mosaic-text-cta"><h7 class="card-text cta-text all-text">Explore Life Insurance<i class="material-icons" style="vertical-align: top;">keyboard_arrow_right</i></h7></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<input class="mosaic-card-link-value" type="hidden" value="/content/pl-corp/home/products/life-insurance.html"/>
+</div>
+</div>
+</div>
+<div class="col-md-5 mr-md-auto mosaic-col">
+<div data-media-block-title="The Power of Annuities">
+<div class="card mosaic-card" style="background-image:url('\2f content\2f dam\2fpaclife\2f crp\2fimages\2finsights\2fPL64 - The Importance of Financial Literacy_main.jpg');">
+<div class="card-img-overlay mosaic-copy" style="max-height: ">
+<table>
+<tr>
+<td class="mosaic-text">
+<table>
+<tr>
+<td><h5 class="card-title mosaic-text-title">The Power of Annuities</h5></td>
+</tr>
+<tr>
+<td><p class="card-text p-alt-16 mosaic-text-subtitle">Knowing you'll have the income you need, when you need it most.</p></td>
+</tr>
+<tr>
+<td class="mosaic-text-cta"><h7 class="card-text cta-text all-text">Explore Annuities<i class="material-icons" style="vertical-align: top;">keyboard_arrow_right</i></h7></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<input class="mosaic-card-link-value" type="hidden" value="/content/pl-corp/home/products/annuities.html"/>
+</div>
+</div>
+<div data-media-block-title="A New Approach to Workforce Benefits">
+<div class="card mosaic-card" style="background-image:url('\2f content\2f dam\2fpaclife\2f crp\2fimages\2fworkforce-benefits\2fwb_homepage_mosaic_tile.jpg');">
+<div class="card-img-overlay mosaic-copy" style="max-height: ">
+<table>
+<tr>
+<td class="mosaic-text">
+<table>
+<tr>
+<td><h5 class="card-title mosaic-text-title">A New Approach to Workforce Benefits</h5></td>
+</tr>
+<tr>
+<td><p class="card-text p-alt-16 mosaic-text-subtitle">Revolutionizing employee benefits by empowering you with a better experience.</p></td>
+</tr>
+<tr>
+<td class="mosaic-text-cta">
+<h7 class="card-text cta-text all-text">Explore Benefits
+                                            <i class="material-icons" style="vertical-align: top;">keyboard_arrow_right</i></h7>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<input class="mosaic-card-link-value" type="hidden" value="/content/pl-corp/home/products/workforce-benefits.html"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="inTheNews aem-GridColumn aem-GridColumn--default--12">
+<div class="container in-the-news-container my-5" data-component-name="In The News">
+<div class="row justify-content-between mb-0">
+<div class="col-md-4">
+<h5 class="headline">In The News</h5>
+</div>
+<div class="col-md-4 text-md-right">
+<a class="cta-text-btn" href="/home/about/news.html">see all news<i class="material-icons">keyboard_arrow_right</i> </a>
+</div>
+</div>
+<div class="row mb-4">
+<div class="col-sm-12">
+<div style="border-bottom:1px solid #d5d5d5;"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-md">
+<div class="media">
+<img alt="" class="mr-3"/>
+<div class="media-body mt-md-1">
+<span class="news-date">07-18-23</span>
+<p class="news-title mt-1">Newsweek Names Pacific Life One of America’s Greatest Workplaces 2023</p>
+</div>
+<a class="clickable" href="/press-releases/newsweek-names-pacific-life-one-of-americas-greatest-workplaces-2023.html"></a>
+</div>
+</div>
+<div class="col-md mt-3 mt-md-0">
+<div class="media">
+<img alt="" class="mr-3"/>
+<div class="media-body mt-md-1">
+<span class="news-date">07-10-23</span>
+<p class="news-title mt-1">Pacific Life Unveils New Survivorship Variable Universal Life Product for Cost-Effective Legacy Planning</p>
+</div>
+</div>
+<a class="clickable" href="/press-releases/pacific-life-unveils-new-survivorship-variable-universal-life-product-for-cost-effective-legacy-planning.html"></a>
+</div>
+<div class="col-md mt-3 mt-md-0">
+<div class="media">
+<img alt="" class="mr-3"/>
+<div class="media-body mt-md-1">
+<span class="news-date">06-06-23</span>
+<p class="news-title mt-1">Pacific Life Announces Sales Leadership Team  for New Workforce Benefits Business</p>
+</div>
+</div>
+<a class="clickable" href="/press-releases/pacific-life-announces-sales-leadership-team--for-new-workforce-benefits-business.html"></a>
+</div>
+</div>
+</div></div>
+<div class="iconCardContentCarouselModified aem-GridColumn aem-GridColumn--default--12"><!-- Icon Card Content Carousel PCWR-127 -->
+<div class="icon-card-carousel-component animatedParent animateOnce animations-enabled" data-appear-top-offset="-150" data-is-carousel="false">
+<div class="container-fluid icon-card-content-carousel bgcolor-blue" data-component-name="Icon Card Content Carousel">
+<div class="animated animateOnce icon-card-carousel-white-background"></div>
+<div class="icon-card-content-wrapper mx-auto">
+<div class="animated fadeInDownHalfVeryShort delay-1000 animateOnce display-wrapper-alt mx-auto d-block">
+<h3 class="mx-auto text-center">What the Power of Pacific Means for You</h3>
+</div>
+<div class="icon-card-carousel mod carousel slide row touch-enabled-carousel" data-interval="false" data-pause="hover" id="PoP">
+<div class="animated fadeInDownHalfVeryShort delay-500 carousel-inner row w-100 mx-auto icon-card-carousel-inner" role="listbox">
+<div class="carousel-item col-md-4 icon-card-carousel-item active">
+<div class="mx-auto icon-card">
+<img alt="" class="icon-img mx-auto d-block" src="/content/dam/paclife/crp/images/icons/Icon_Freedom_White.svg"/>
+<div class="mx-auto mt-4 d-block">
+<h5 class="text-center my-3">Freedom</h5>
+<p class="text-center">Life insurance and retirement solutions to help you reach your goals.</p>
+</div>
+<a class="clickable"></a>
+</div>
+</div>
+<div class="carousel-item col-md-4 icon-card-carousel-item">
+<div class="mx-auto icon-card">
+<img alt="" class="icon-img mx-auto d-block" src="/content/dam/paclife/crp/images/icons/Icon_SafetySecurity_White.svg"/>
+<div class="mx-auto mt-4 d-block">
+<h5 class="text-center my-3">Security</h5>
+<p class="text-center">A deep commitment to protecting generations of families.</p>
+</div>
+<a class="clickable"></a>
+</div>
+</div>
+<div class="carousel-item col-md-4 icon-card-carousel-item">
+<div class="mx-auto icon-card">
+<img alt="" class="icon-img mx-auto d-block" src="/content/dam/paclife/crp/images/icons/Icon_150+YearsTrust_White.svg"/>
+<div class="mx-auto mt-4 d-block">
+<h5 class="text-center my-3">Trust</h5>
+<p class="text-center">More than 150 years of strength and stability by your side.</p>
+</div>
+<a class="clickable"></a>
+</div>
+</div>
+</div>
+<a class="carousel-control-prev d-md-none" data-slide="prev" data-target="PoP" href="javascript:void(0)" role="button">
+<img class="carousel-arrow-left" src="/etc/designs/pcwr/default/images/carousel-arrow-left.svg"/>
+<span class="sr-only">Previous</span>
+</a>
+<a class="carousel-control-next d-md-none" data-slide="next" data-target="PoP" href="javascript:void(0)" role="button">
+<img class="carousel-arrow-right" src="/etc/designs/pcwr/default/images/carousel-arrow-right.svg"/>
+<span class="sr-only">Next</span>
+</a>
+<div class="mx-auto">
+<!-- mobile "dots" -->
+<ul class="mobile-dots carousel-indicators list-inline mx-auto">
+<li class="list-inline-item cta-text-btn selected active" data-slide-to="0" data-target="PoP" id="carousel-selector-0"></li>
+<li class="list-inline-item cta-text-btn" data-slide-to="1" data-target="PoP" id="carousel-selector-1"></li>
+<li class="list-inline-item cta-text-btn" data-slide-to="2" data-target="PoP" id="carousel-selector-2"></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="findAProfessional aem-GridColumn aem-GridColumn--default--12">
+<div class="container-fluid my-5 fifty-fifty" data-component-name="Find A Professional">
+<input id="fafp-results-url" type="hidden" value="/content/pl-corp/home/find-a-financial-professional"/>
+<div class="row py-4">
+<div class="col-md-6 d-flex justify-content-center align-items-center flex-column position-relative animatedParent animateOnce" data-appear-top-offset="-300" style="overflow: hidden;">
+<div class="animated animate-uncover-with-offset-parent-from-top animateOnce">
+<img class="img-fluid width-img" src="/content/dam/paclife/crp/images/home/Find_a_Financial_Professional.jpg"/>
+<div class="animated animate-fade-out-top-background animateUncoverfromTop"></div>
+</div>
+</div>
+<div class="col-md-6 d-flex justify-content-center align-items-center flex-column animatedParent animateOnce" data-appear-top-offset="-300">
+<div class="px-4 text-content-right animated fadeInDownHalfShort" style="opacity: 0;">
+<h3>Find a Financial Professional</h3>
+<h6></h6>
+<div class="pcwr-richtext">You want to reach your goals. A financial professional can help you get there.</div>
+<form class="form-inline mt-4">
+<div class="form-group form-group-search-input mr-sm-3 mb-2">
+<label class="sr-only" for="fap-inputSearchValue">Enter ZIP code</label>
+<input class="form-control" id="fap-inputSearchValue" onkeyup="$('button').prop('disabled', !this.value.match(/^\d{5}$/))" placeholder="Enter ZIP code" type="text"/>
+</div>
+<button class="DTM-TAG-fap-button btn btn-primary cta-text-btn mb-2" id="fap-button">SEARCH</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="productDisclosure aem-GridColumn aem-GridColumn--default--12">
+<div class="product-disclosure p" data-component-name="Product Disclosure" data-display-when="always">
+<span class="pcwr-richtext"><p>In order to sell life insurance, a financial professional must be a properly licensed and appointed life insurance producer.</p>
+<p>Pacific Life refers to Pacific Life Insurance Company and its affiliates, including Pacific Life &amp; Annuity Company. Insurance products are issued by Pacific Life Insurance Company in all states except New York and in New York by Pacific Life &amp; Annuity Company. Product availability and features may vary by state. Each insurance company is solely responsible for the financial obligations accruing under the products it issues.<br/>
+<br/>
+Pacific Life's Home Office is located in Newport Beach, CA.<br/>
+</p>
+<p>PL9A</p>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="bottomnav aem-GridColumn aem-GridColumn--default--12">
+<div class="footer-nav d-flex align-items-center footer-nav-publish" data-component-name="Bottom Navigation">
+<div class="container-fluid mt-2 mt-md-0">
+<div class="row mx-auto footer-nav-wrapper">
+<div class="col-md"><div class="col" data-component-name="Link Card">
+<p class="footer-nav-link-group-title p-alt-14 mb-md-4">Client Account Sign-In</p>
+<a class="d-block footer-nav-link" href="https://annuities.myaccount.pacificlife.com">
+	   Annuities
+	</a>
+<a class="d-block footer-nav-link" href="https://life.myaccount.pacificlife.com/">
+	   Life Insurance
+	</a>
+</div></div>
+<div class="col-md"><div class="col" data-component-name="Link Card">
+<p class="footer-nav-link-group-title p-alt-14 mb-md-4">Financial Professionals Sign-In</p>
+<a class="d-block footer-nav-link" href="https://www.annuities.pacificlife.com/home/misc/advisor-login.html">
+	   Annuities
+	</a>
+<a class="d-block footer-nav-link" href="https://ria.pacificlife.com/home_ria/misc/ria-login.html">
+	   Annuities for RIAs
+	</a>
+<a class="d-block footer-nav-link" href="https://lifeline.pacificlife.com/lifeline">
+	   Life Insurance
+	</a>
+<a class="d-block footer-nav-link" href="/home/benefits-of-working-with-us.html">
+	   Benefits of Working with Us
+	</a>
+</div></div>
+<div class="col-md"><div class="col" data-component-name="Link Card">
+<p class="footer-nav-link-group-title p-alt-14 mb-md-4">Products &amp; Solutions</p>
+<a class="d-block footer-nav-link" href="/home/products/annuities.html">
+	   Annuities
+	</a>
+<a class="d-block footer-nav-link" href="/home/products/life-insurance.html">
+	   Life Insurance
+	</a>
+<a class="d-block footer-nav-link" href="/home/products/workforce-benefits.html">
+	   Workforce Benefits
+	</a>
+<a class="d-block footer-nav-link" href="/home/products/additional-solutions/pension-risk-transfer.html">
+	   Pension Risk-Transfer Solutions
+	</a>
+<a class="d-block footer-nav-link" href="/home/products/additional-solutions/real-estate-investments.html">
+	   Commercial Real Estate
+	</a>
+<a class="d-block footer-nav-link" href="/home/products/additional-solutions/structured-settlements.html">
+	   Structured Settlement Annuities
+	</a>
+</div></div>
+<div class="col-md"><div class="col" data-component-name="Link Card">
+<p class="footer-nav-link-group-title p-alt-14 mb-md-4">About Us</p>
+<a class="d-block footer-nav-link" href="/home/contact-us.html">
+	   Contact Us
+	</a>
+<a class="d-block footer-nav-link" href="/home/about/brand.html">
+	   Our Brand
+	</a>
+<a class="d-block footer-nav-link" href="/home/about/news.html">
+	   Newsroom
+	</a>
+<a class="d-block footer-nav-link" href="/home/about/insurance-ratings-and-financials.html">
+	   Ratings &amp; Financials
+	</a>
+<a class="d-block footer-nav-link" href="/home/corporate-social-responsibility.html">
+	   Corporate Social Responsibility
+	</a>
+<a class="d-block footer-nav-link" href="/home/Careers.html">
+	   Careers
+	</a>
+</div></div>
+<div class="d-none"><div class="col" data-component-name="Link Card">
+<p class="footer-nav-link-group-title p-alt-14 mb-md-4">Menu</p>
+</div></div>
+</div>
+</div>
+</div></div>
+<div class="footer aem-GridColumn aem-GridColumn--default--12">
+<footer class="footer-pac-life footer-text footer-publish" data-component-name="Footer">
+<div class="d-flex justify-content-md-between flex-column align-items-center mx-auto px-5 flex-md-row" style="height:100%;">
+<span class="footer-copyright-text">Copyright © Pacific Life Insurance Company</span>
+<span class="footer-links">
+<a href="/home/privacy-and-other-policies.html">Privacy &amp; Other Policies </a>
+<span class="footer-link-separator"><br/><span>|</span></span>
+<a href="/home/privacy-and-other-policies/legal-information-and-website-usage.html">Legal Information &amp; Website Usage </a>
+</span>
+<span><div class="addThis">
+<div class="sharethis-inline-follow-buttons" data-component-name="AddThis" id="668147f4-6aed-490a-8060-ded8b5556926/root/footer/addThis">
+</div>
+</div>
+</span>
+</div>
+</footer>
+</div>
+<div class="notificationbanner aem-GridColumn aem-GridColumn--default--12"><span data-wcm-mode="DISABLED" id="wcmmmode"> </span>
+<div class="animatedParent animateOnce" data-appear-top-offset="-150">
+<div class="notification_bar fade-banner cookienotification" data-banner-position="bottom" data-banner-type="cookienotification" data-cookie-expiry="30">
+<div class="text"><p>This website or its third-party tools use cookies, which are necessary to its functioning and are required to achieve the purposes illustrated in our <a href="/home/privacy-and-other-policies/online-privacy-policy.html" target="_blank">online privacy policy</a>.</p>
+</div>
+<button class="btn btn-primary cta-text-btn bannerButton" data-button-type="linkButton" id="cookie-button" onclick="setBannerType(this)">Accept &amp; Close</button>
+</div>
+</div></div>
+</div>
+</div>
+<script src="/etc.clientlibs/pcwr/clientlibs/clientlib-base.min.js"></script>
+<div class="device-sm d-sm-none"></div>
+<div class="device-md d-md-none"></div>
+<div class="device-lg d-lg-none"></div>
+<div class="device-xl d-xl-none"></div>
+<script type="text/javascript">
+window.digitalData.page.responsiveState = 
+	       $('.device-xl').is(':hidden') ? 'xl' 
+		: ($('.device-lg').is(':hidden') ? 'lg'
+    	: ($('.device-md').is(':hidden') ? 'md'
+    	: ($('.device-sm').is(':hidden') ? 'sm' : 'xs')));
+</script>
+<!-- BEGIN Footer SLY Scripts -->
+<!-- END Footer SLY Scripts -->
+</body>
+</html>

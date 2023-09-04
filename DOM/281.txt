@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<title>The Bazaar by José Andrés | Beverly Hills, South Beach, Las Vegas</title>
+<!-- Powered by BentoBox http://getbento.com -->
+<!--
+	___ ___ _  _ _____ ___  ___  _____  __
+	| _ ) __| \| |_   _/ _ \| _ )/ _ \ \/ /
+	| _ \ _|| .` | | || (_) | _ \ (_) >  <
+	|___/___|_|\_| |_| \___/|___/\___/_/\_\
+
+	-->
+<meta content="José Andrés, Washington DC, New York, Las Vegas, Los Angeles, Waldorf Astoria, Ritz Carlton NoMad" name="keywords"/>
+<meta content="A vibrant mix of sophisticated cuisine, artful service and playful theatrics, The Bazaar by José Andrés is where dining transcends into fête extraordinaire." name="description"/>
+<link href="https://media-cdn.getbento.com/ksxi97AyQe6vHDCNI2MH_favi.png" rel="icon"/>
+<link href="https://www.thebazaar.com/" rel="canonical"/>
+<meta content="5 Days" name="Revisit-After"/>
+<meta content="Global" name="Distribution"/>
+<meta content="General" name="Rating"/>
+<meta content="The Bazaar by José Andrés" property="og:site_name"/>
+<meta content="The Bazaar by José Andrés | Beverly Hills, South Beach, Las Vegas" property="og:title"/>
+<meta content="website" property="og:type"/>
+<meta content="https://www.thebazaar.com/" property="og:url"/>
+<meta content="A vibrant mix of sophisticated cuisine, artful service and playful theatrics, The Bazaar by José Andrés is where dining transcends into fête extraordinaire." property="og:description"/>
+<meta content="https://images.getbento.com/37ZWJGu3SQSoLxNQWml9_Bazaar_Logo_Color.png?w=1200&amp;fit=fill&amp;auto=compress,format&amp;h=600&amp;bg=EDEDF1&amp;pad=100" property="og:image"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="The Bazaar by José Andrés | Beverly Hills, South Beach, Las Vegas" name="twitter:title"/>
+<meta content="A vibrant mix of sophisticated cuisine, artful service and playful theatrics, The Bazaar by José Andrés is where dining transcends into fête extraordinaire." name="twitter:description"/>
+<meta content="@Bazaarbyjose" name="twitter:site"/>
+<meta content="@Bazaarbyjose" name="twitter:creator"/>
+<meta content="https://images.getbento.com/37ZWJGu3SQSoLxNQWml9_Bazaar_Logo_Color.png?w=1200&amp;fit=fill&amp;auto=compress,format&amp;h=600&amp;bg=EDEDF1&amp;pad=100" name="twitter:image"/>
+<script src="https://theme-assets.getbento.com/sensei/83a3e5e.sensei/assets/js/head.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+			WebFont.load({custom: { families: ["Verlag Con Book", "Garamond Bold", "Garamond Reg", "Verlag Book", "Verlag Light", "Verlag Bold"] }, typekit: { id : "lfx8jpw" }});
+		</script>
+<link href="//assets-cdn-refresh.getbento.com/stylesheet/thebazaartfg/1/scss/main.f46c55c072a7e3cf5a7404d1c20ce4be.scss" rel="stylesheet">
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FRYJWLN9YD&amp;l=newGADatalayer"></script>
+<script>
+			window.newGADatalayer = window.newGADatalayer || [];
+			function gtag4(){newGADatalayer.push(arguments);}
+			gtag4('js', new Date());
+			gtag4('config', 'G-FRYJWLN9YD');
+		</script>
+<script type="text/javascript">
+	    Modernizr.addTest("maybemobile", function(){ return (Modernizr.touchevents && Modernizr.mq("only screen and (max-width: 768px)")) ? true : false; });
+	</script>
+<script>
+	  !function(f,b,e,v,n,t,s)
+	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	  n.queue=[];t=b.createElement(e);t.async=!0;
+	  t.src=v;s=b.getElementsByTagName(e)[0];
+	  s.parentNode.insertBefore(t,s)}(window, document,'script',
+	  'https://connect.facebook.net/en_US/fbevents.js');
+	  fbq('init', '408405759941066');
+	  fbq('track', 'PageView');
+	</script>
+<noscript>
+<img height="1" src="https://www.facebook.com/tr?id=408405759941066&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TZS9N8M');
+	</script>
+<script>!function(){var t=function(){var t=document.createElement("script");t.src="https://ws.audioeye.com/ae.js",t.type="text/javascript",t.setAttribute("async",""),document.getElementsByTagName("body")[0].appendChild(t)};"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",t):window.attachEvent&&window.attachEvent("onload",t):t()}();</script>
+<script type="text/javascript">
+			window.Sensei = { settings: { store: { enabled: false, cart_quantity: null }, gmaps: { apikey: "AIzaSyCxtTPdJqQMOwjsbKBO3adqPGzBR1MgC5g", styles: [ { "featureType": "water", "elementType": "geometry", "stylers": [ { "color": "#000000" }, { "lightness": 17 } ] }, { "featureType": "landscape", "elementType": "geometry", "stylers": [ { "color": "#000000" }, { "lightness": 20 } ] }, { "featureType": "road.highway", "elementType": "geometry.fill", "stylers": [ { "color": "#000000" }, { "lightness": 17 } ] }, { "featureType": "road.highway", "elementType": "geometry.stroke", "stylers": [ { "color": "#000000" }, { "weight": 0.2 }, { "lightness": 29 } ] }, { "featureType": "road.arterial", "elementType": "geometry", "stylers": [ { "color": "#000000" }, { "lightness": 18 } ] }, { "featureType": "road.local", "elementType": "geometry", "stylers": [ { "color": "#000000" }, { "lightness": 16 } ] }, { "featureType": "poi", "elementType": "geometry", "stylers": [ { "color": "#000000" }, { "lightness": 21 } ] }, { "featureType": "all", "elementType": "labels.text.stroke", "stylers": [ { "visibility": "on" }, { "color": "#000000" }, { "lightness": 16 } ] }, { "featureType": "all", "elementType": "labels.text.fill", "stylers": [ { "color": "#000000" }, { "lightness": 40 } ] }, { "featureType": "all", "elementType": "labels.icon", "stylers": [ { "visibility": "off" } ] }, { "featureType": "transit", "elementType": "geometry", "stylers": [ { "color": "#000000" }, { "lightness": 19 } ] }, { "featureType": "administrative", "elementType": "geometry.fill", "stylers": [ { "color": "#000000" }, { "lightness": 20 } ] }, { "featureType": "administrative", "elementType": "geometry.stroke", "stylers": [ { "color": "#000000" }, { "weight": 1.2 }, { "lightness": 17 } ] } ] , icon: "https://images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/media/images/12031MapMarkergold.png", mobile_icon: "https%3A//images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/media/images/12031MapMarkergold.png%3Fw%3D50%26fit%3Dmax%26auto%3Dcompress%2Cformat" }, galleries: { autoplay: false, fade: true }, heros: { autoplay_galleries: true }, srcset_enabled: false }, modernizr: window.Modernizr }; fbq('track', 'PageView');
+	</script>
+<!--[if lt IE 9]>
+	    <script type="text/javascript" src="https://theme-assets.getbento.com/sensei/83a3e5e.sensei/assets/assets/js/ltie9.min.js "></script>
+	<![endif] -->
+<script type="application/ld+json">{"@context": "http://schema.org", "@type": "Organization", "@id": "https://www.thebazaar.com/#organization", "url": "https://www.thebazaar.com", "name": "The Bazaar", "description": "A vibrant mix of sophisticated cuisine, artful service and playful theatrics, The Bazaar by Jos\u00e9 Andr\u00e9s is where dining transcends into f\u00eate extraordinaire. Each Bazaar location offers its own unique flair, all with the promise of an experience of a lifetime.", "logo": "https://images.getbento.com/37ZWJGu3SQSoLxNQWml9_Bazaar_Logo_Color.png?w=600\u0026fit=max\u0026auto=compress,format\u0026h=600", "subOrganization": [{"@type": "FoodEstablishment", "@id": "https://www.thebazaar.com/location/bar-mar-chicago/#foodestablishment", "url": "https://www.thebazaar.com/location/bar-mar-chicago/", "name": "Bar Mar (Chicago)", "description": "Fresh oysters piled on mounds of sparkling ice. Ceviches that taste of the ocean. Chef Jos\u0026eacute; Andr\u0026eacute;s\u0026rsquo; brilliant renditions of iconic seafood classics like fried calamari and lobster rolls. Located at the Bank of America Tower in Chicago, Bar Mar is a true celebration of the bounty of the sea, with modern takes on classics you know and love, festive cocktails, and a bright, beautiful space that interweaves the nautical with the elegant.For a one-of-a-kind menu that weaves from inventive takes on carpaccio to ribeye aged to perfection, visit Bazaar Meat, located just above Bar Mar in the Bank of America Tower.\u0026nbsp;\u0026nbsp;Gift CardsPhysical and electronic gift cards for Bazaar Meat and Bar Mar are available for purchase online.Purchase Gift Card", "image": "https://images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/media/images/70971Bar_Mar_Bazaar_Meat-09.jpg?w=1800\u0026fit=max\u0026auto=compress,format\u0026h=1800", "photo": "https://images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/media/images/70971Bar_Mar_Bazaar_Meat-09.jpg?w=1800\u0026fit=max\u0026auto=compress,format\u0026h=1800", "address": {"@type": "PostalAddress", "name": "Bar Mar (Chicago)", "streetAddress": "120 N Wacker Drive", "addressLocality": "Chicago", "addressRegion": "IL", "postalCode": "60606"}, "location": {"@type": "PostalAddress", "name": "Bar Mar (Chicago)", "streetAddress": "120 N Wacker Drive", "addressLocality": "Chicago", "addressRegion": "IL", "postalCode": "60606"}, "telephone": "(312) 820-6602", "hasMap": "https://www.thebazaar.com/location/bar-mar-chicago/", "parentOrganization": {"@type": "Organization", "@id": "https://www.thebazaar.com/#organization"}, "acceptsReservations": "https://www.thebazaar.com/location/bar-mar-chicago/", "potentialAction": {"@type": "ReserveAction", "object": {"@type": "Reservation", "name": "Table at Bar Mar (Chicago)"}, "result": {"@type": "Reservation", "name": "Table at Bar Mar (Chicago)"}, "target": "https://www.thebazaar.com/location/bar-mar-chicago/", "location": {"@id": "https://www.thebazaar.com/location/bar-mar-chicago/#foodestablishment"}}}, {"@type": "FoodEstablishment", "@id": "https://www.thebazaar.com/location/bazaar-meat-chicago/#foodestablishment", "url": "https://www.thebazaar.com/location/bazaar-meat-chicago/", "name": "Bazaar Meat (Chicago)", "description": "Underneath sparkling crimson chandeliers designed to mimic the flames of a volcano, sit for a curated tasting menu that weaves from raw preparations to the prized vaca vieja, or ribeye aged to perfection. As the flames in the fire kitchen flicker, you\u0026rsquo;ll have a one-of-a-kind meal, from inventive takes on carpaccio to the most tender rotisserie-style meat. No matter how many times you come see us at Bazaar, no two meals will be the same.For Chef Jos\u0026eacute; Andr\u0026eacute;s\u0026#39; brilliant renditions of iconic seafood classics-like fried calamari and lobster rolls-visit Bar Mar in the Bank of America Tower just below Bazaar Meat.\u0026nbsp;\u0026nbsp;Gift CardsPhysical and electronic gift cards for Bazaar Meat and Bar Mar are available for purchase online.Purchase Gift Card", "image": "https://images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/media/images/74923bm_05.jpg?w=1800\u0026fit=max\u0026auto=compress,format\u0026h=1800", "photo": "https://images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/media/images/74923bm_05.jpg?w=1800\u0026fit=max\u0026auto=compress,format\u0026h=1800", "address": {"@type": "PostalAddress", "name": "Bazaar Meat (Chicago)", "streetAddress": "120 N Wacker Drive", "addressLocality": "Chicago", "addressRegion": "IL", "postalCode": "60606"}, "location": {"@type": "PostalAddress", "name": "Bazaar Meat (Chicago)", "streetAddress": "120 N Wacker Drive", "addressLocality": "Chicago", "addressRegion": "IL", "postalCode": "60606"}, "telephone": "(312) 820-6601", "hasMap": "https://www.thebazaar.com/location/bazaar-meat-chicago/", "parentOrganization": {"@type": "Organization", "@id": "https://www.thebazaar.com/#organization"}, "acceptsReservations": "https://www.thebazaar.com/location/bazaar-meat-chicago/", "potentialAction": {"@type": "ReserveAction", "object": {"@type": "Reservation", "name": "Table at Bazaar Meat (Chicago)"}, "result": {"@type": "Reservation", "name": "Table at Bazaar Meat (Chicago)"}, "target": "https://www.thebazaar.com/location/bazaar-meat-chicago/", "location": {"@id": "https://www.thebazaar.com/location/bazaar-meat-chicago/#foodestablishment"}}}, {"@type": "FoodEstablishment", "@id": "https://www.thebazaar.com/location/las-vegas/#foodestablishment", "url": "https://www.thebazaar.com/location/las-vegas/", "name": "Bazaar Meat (Las Vegas, NV)", "description": "Located in the Sahara Las Vegas, Bazaar Meat is a wild and wonderful celebration of the carnivorous, in all its forms. The design, ambiance and menu are adapted to resonate with a Las Vegas audience where bold choices, big flavor, and stunning showmanship rule the day.Guests at Bazaar Meat are invited to begin their evening with cocktails at Bar Centro and then progress to the expansive dining room, which takes open kitchens to the next level \u0026mdash; from the dramatic fire kitchen with wood grills and rotisseries to the raw bars for ceviches, carpaccios and tartares. Two private dining rooms also offer unique environments\u0026mdash;the Silver Room, with its striking all-silver d\u0026eacute;cor, and the elegant Mar, with its open kitchen focused on seafood.", "image": "", "photo": "", "address": {"@type": "PostalAddress", "name": "Bazaar Meat (Las Vegas, NV)", "streetAddress": "2535 S Las Vegas Blvd", "addressLocality": "Las Vegas", "addressRegion": "NV", "postalCode": "89109"}, "location": {"@type": "PostalAddress", "name": "Bazaar Meat (Las Vegas, NV)", "streetAddress": "2535 S Las Vegas Blvd", "addressLocality": "Las Vegas", "addressRegion": "NV", "postalCode": "89109"}, "telephone": "702.761.7610", "hasMap": "https://www.thebazaar.com/location/las-vegas/", "parentOrganization": {"@type": "Organization", "@id": "https://www.thebazaar.com/#organization"}, "acceptsReservations": "https://www.thebazaar.com/location/las-vegas/", "potentialAction": {"@type": "ReserveAction", "object": {"@type": "Reservation", "name": "Table at Bazaar Meat (Las Vegas, NV)"}, "result": {"@type": "Reservation", "name": "Table at Bazaar Meat (Las Vegas, NV)"}, "target": "https://www.thebazaar.com/location/las-vegas/", "location": {"@id": "https://www.thebazaar.com/location/las-vegas/#foodestablishment"}}}, {"@type": "FoodEstablishment", "@id": "https://www.thebazaar.com/location/new-york-city/#foodestablishment", "url": "https://www.thebazaar.com/location/new-york-city/", "name": "The Bazaar (New York City)", "description": "The Bazaar is a culinary journey 400 years in the making. Inspired by a group of samurai who sailed from Japan to Spain for an audience with the king, Chef Jos\u0026eacute; Andr\u0026eacute;s takes guests through the two cultures\u0026rsquo; deep respect for ingredients and dedication to technique. Start your experience at The Bazaar Bar downstairs before voyaging up to the main dining room\u0026mdash;a warm and theatrical culmination set within The Ritz-Carlton New York, NoMad. FOR RESERVATIONS, PLEASE EMAILrsvp.nyc@thebazaar.comJOIN OUR MAILING LIST", "image": "", "photo": "", "address": {"@type": "PostalAddress", "name": "The Bazaar (New York City)", "streetAddress": "The Ritz-Carlton New York, NoMad\u003cbr\u003e 35 West 28th Street", "addressLocality": "New York", "addressRegion": "NY", "postalCode": "10001"}, "location": {"@type": "PostalAddress", "name": "The Bazaar (New York City)", "streetAddress": "The Ritz-Carlton New York, NoMad\u003cbr\u003e 35 West 28th Street", "addressLocality": "New York", "addressRegion": "NY", "postalCode": "10001"}, "telephone": "(212) 804-9070", "hasMap": "https://www.thebazaar.com/location/new-york-city/", "parentOrganization": {"@type": "Organization", "@id": "https://www.thebazaar.com/#organization"}, "acceptsReservations": "https://www.thebazaar.com/location/new-york-city/", "potentialAction": {"@type": "ReserveAction", "object": {"@type": "Reservation", "name": "Table at The Bazaar (New York City)"}, "result": {"@type": "Reservation", "name": "Table at The Bazaar (New York City)"}, "target": "https://www.thebazaar.com/location/new-york-city/", "location": {"@id": "https://www.thebazaar.com/location/new-york-city/#foodestablishment"}}}, {"@type": "FoodEstablishment", "@id": "https://www.thebazaar.com/location/washington-dc/#foodestablishment", "url": "https://www.thebazaar.com/location/washington-dc/", "name": "The Bazaar (Washington, DC)", "description": "Set in the Waldorf Astoria Washington DC, this Bazaar is the culmination of a 30-year dream for Chef Jos\u0026eacute; Andr\u0026eacute;s. Drawing inspiration from this iconic location, which first opened in 1899 and served as DC\u0026rsquo;s General Post Office until 1914, the Bazaar is a multi-level destination reinvented with avant-garde and Americana-inspired decor.Reservations\u0026nbsp;*Valet parking is available for $25 with validationJOIN OUR MAILING LIST\u0026nbsp;", "image": "", "photo": "", "address": {"@type": "PostalAddress", "name": "The Bazaar (Washington, DC)", "streetAddress": "Waldorf Astoria Washington DC\u003cbr\u003e1100 Pennsylvania Avenue NW", "addressLocality": "Washington", "addressRegion": "DC", "postalCode": "20004"}, "location": {"@type": "PostalAddress", "name": "The Bazaar (Washington, DC)", "streetAddress": "Waldorf Astoria Washington DC\u003cbr\u003e1100 Pennsylvania Avenue NW", "addressLocality": "Washington", "addressRegion": "DC", "postalCode": "20004"}, "telephone": "(202) 868-5088", "hasMap": "https://www.thebazaar.com/location/washington-dc/", "parentOrganization": {"@type": "Organization", "@id": "https://www.thebazaar.com/#organization"}, "acceptsReservations": "https://www.thebazaar.com/location/washington-dc/", "potentialAction": {"@type": "ReserveAction", "object": {"@type": "Reservation", "name": "Table at The Bazaar (Washington, DC)"}, "result": {"@type": "Reservation", "name": "Table at The Bazaar (Washington, DC)"}, "target": "https://www.thebazaar.com/location/washington-dc/", "location": {"@id": "https://www.thebazaar.com/location/washington-dc/#foodestablishment"}}}], "sameAs": "https://www.instagram.com/bazaarbyjose", "potentialAction": [{"@type": "ReserveAction", "object": {"@type": "Reservation", "name": "Table", "url": "https://www.thebazaar.com/#action-reservations"}, "result": {"@type": "Reservation", "name": "Table"}, "target": "https://www.thebazaar.com"}, {"@type": "SubscribeAction", "object": {"@type": "Product", "name": "Mailing List"}, "target": "https://www.thebazaar.com"}]}</script>
+<script type="application/ld+json">{"@context": "http://schema.org", "@type": "WebSite", "@id": "https://www.thebazaar.com/#website", "url": "https://www.thebazaar.com", "name": "The Bazaar"}</script>
+<script type="application/ld+json">{"@context": "http://schema.org", "@type": "WebPage", "@id": "https://www.thebazaar.com/#webpage", "url": "https://www.thebazaar.com", "name": "The Bazaar"}</script>
+</link></head>
+<body class="has-hero-intent has-mobi-footer index-template">
+<div id="cookieConsentContainer">
+</div>
+<div class="site-notifications">
+</div>
+<header class="site-header">
+<a class="skip" href="#main-content">Skip to main content</a>
+<div class="site-header-desktop">
+<div class="site-header-desktop-primary site-header-desktop-primary--floatable" data-header-sticky="">
+<div class="container">
+<div class="site-logo">
+<a class="site-logo__btn" href="/">
+<img alt="The Bazaar Home" class="site-logo__expanded" src="https://images.getbento.com/37ZWJGu3SQSoLxNQWml9_Bazaar_Logo_Color.png"/>
+</a>
+</div>
+<nav class="site-nav">
+<ul class="site-nav-menu" data-menu-type="desktop">
+<li class="site-nav-submenu">
+<button aria-controls="SubMenu-1" aria-expanded="false" class="site-nav-link site-nav-submenu-toggle" type="button">
+					Menus
+				</button>
+<div class="sub-menu" id="SubMenu-1">
+<ul>
+<li>
+<a href="/bar-mar-chicago-menu/">Chicago <span>Bar Mar</span></a>
+</li>
+<li>
+<a href="/bazaar-meat-chicago-menu/">Chicago <span>Bazaar Meat</span></a>
+</li>
+<li>
+<a href="/las-vegas-menus/">Las Vegas <span>Bazaar Meat</span></a>
+</li>
+<li>
+<a href="/the-bazaar-new-york-menus/">New York <span>The Bazaar</span></a>
+</li>
+<li>
+<a href="/washington-dc-menus/">Washington, DC <span>The Bazaar</span></a>
+</li>
+</ul>
+</div>
+</li>
+<li class="site-nav-submenu">
+<button aria-controls="SubMenu-2" aria-expanded="false" class="site-nav-link site-nav-submenu-toggle" type="button">
+					Locations
+				</button>
+<div class="sub-menu" id="SubMenu-2">
+<ul>
+<li>
+<a href="/bar-mar-chicago/">Chicago <span>Bar Mar</span></a>
+</li>
+<li>
+<a href="/bazaar-meat-chicago/">Chicago <span>Bazaar Meat</span></a>
+</li>
+<li>
+<a href="/location/las-vegas/">Las Vegas <span>Bazaar Meat</span></a>
+</li>
+<li>
+<a href="/los-angeles/">Los Angeles<span>Bazaar Meat</span></a>
+</li>
+<li>
+<a href="/new-york-city/">New York <span>The Bazaar</span></a>
+</li>
+<li>
+<a href="/washington-dc/">Washington, DC<span>The Bazaar</span></a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a class="site-nav-link" href="/our-story/">Our Story</a>
+</li>
+<li>
+<a class="site-nav-link" href="/discover/">Discover</a>
+</li>
+<li>
+<a class="site-nav-link" href="/private-events/">Private Events</a>
+</li>
+<li><button class="btn btn-brand" data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Reservations Trigger Button" data-bb-track-label="Callout, Header" data-bb-track-on="click" data-popup="inline" data-popup-src="#popup-reservations-form" tabindex="0" type="button">Reservations</button></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div aria-label="Navigation Menu Modal" class="site-header-mobi">
+<div class="site-logo">
+<a class="site-logo__btn" href="/">
+<img alt="The Bazaar Home" src="https://images.getbento.com/37ZWJGu3SQSoLxNQWml9_Bazaar_Logo_Color.png"/>
+</a>
+</div>
+<button aria-controls="SiteHeaderMobilePanel" aria-expanded="false" class="nav-toggle-btn" type="button">
+<span class="sr-only">Toggle Navigation</span>
+<span class="nav-toggle-btn__line"></span>
+<span class="nav-toggle-btn__line"></span>
+<span class="nav-toggle-btn__line"></span>
+</button>
+<div class="site-header-mobi-panel" id="SiteHeaderMobilePanel">
+<div class="site-header-mobi-panel__inner">
+<nav aria-label="Navigation Menu" class="site-nav">
+<ul class="site-nav-menu" data-menu-type="mobile">
+<li class="site-nav-submenu">
+<button aria-controls="MobileSubMenu-1" aria-expanded="false" class="site-nav-link site-nav-submenu-toggle" type="button">
+					Menus
+				</button>
+<div class="sub-menu" id="MobileSubMenu-1">
+<ul>
+<li>
+<a href="/bar-mar-chicago-menu/">Chicago <span>Bar Mar</span></a>
+</li>
+<li>
+<a href="/bazaar-meat-chicago-menu/">Chicago <span>Bazaar Meat</span></a>
+</li>
+<li>
+<a href="/las-vegas-menus/">Las Vegas <span>Bazaar Meat</span></a>
+</li>
+<li>
+<a href="/the-bazaar-new-york-menus/">New York <span>The Bazaar</span></a>
+</li>
+<li>
+<a href="/washington-dc-menus/">Washington, DC <span>The Bazaar</span></a>
+</li>
+</ul>
+</div>
+</li>
+<li class="site-nav-submenu">
+<button aria-controls="MobileSubMenu-2" aria-expanded="false" class="site-nav-link site-nav-submenu-toggle" type="button">
+					Locations
+				</button>
+<div class="sub-menu" id="MobileSubMenu-2">
+<ul>
+<li>
+<a href="/bar-mar-chicago/">Chicago <span>Bar Mar</span></a>
+</li>
+<li>
+<a href="/bazaar-meat-chicago/">Chicago <span>Bazaar Meat</span></a>
+</li>
+<li>
+<a href="/location/las-vegas/">Las Vegas <span>Bazaar Meat</span></a>
+</li>
+<li>
+<a href="/los-angeles/">Los Angeles<span>Bazaar Meat</span></a>
+</li>
+<li>
+<a href="/new-york-city/">New York <span>The Bazaar</span></a>
+</li>
+<li>
+<a href="/washington-dc/">Washington, DC<span>The Bazaar</span></a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a class="site-nav-link" href="/our-story/">Our Story</a>
+</li>
+<li>
+<a class="site-nav-link" href="/discover/">Discover</a>
+</li>
+<li>
+<a class="site-nav-link" href="/private-events/">Private Events</a>
+</li>
+<li>
+<a class="site-nav-link" href="/privacy-policy/">Privacy Policy</a>
+</li>
+<li>
+<a class="site-nav-link" href="/careers/">Careers</a>
+</li>
+<li>
+<a class="site-nav-link" href="/terms-of-use/">Terms Of Use</a>
+</li>
+<li>
+<a class="site-nav-link" href="/contact/">Contact</a>
+</li>
+<li>
+<a class="site-nav-link" href="/accessibility-statement/">Accessibility</a>
+</li>
+<li><button class="" data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Reservations Trigger Button" data-bb-track-label="Callout, Header" data-bb-track-on="click" data-popup="inline" data-popup-src="#popup-reservations-form" tabindex="0" type="button">Reservations</button></li><li><a class="" href="https://app.e2ma.net/app2/audience/signup/1950069/1934242/" rel="noopener" target="_blank">Email Signup</a></li>
+</ul>
+</nav>
+<div class="site-social site-social--bordered">
+<ul class="social-accounts">
+<li><a data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Social Icons" data-bb-track-label="Twitter, Header" data-bb-track-on="click" href="https://twitter.com/Bazaarbyjose" rel="noopener" target="_blank"><span aria-hidden="true" class="fa fa-twitter"></span><span class="sr-only">Twitter</span></a></li>
+<li><a data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Social Icons" data-bb-track-label="Instagram, Header" data-bb-track-on="click" href="https://www.instagram.com/bazaarbyjose" rel="noopener" target="_blank"><span aria-hidden="true" class="fa fa-instagram"></span><span class="sr-only">Instagram</span></a></li>
+</ul>
+</div>
+</div>
+<div class="site-powered-by">
+<a href="https://getbento.com/?utm_source=header&amp;utm_campaign=thebazaar.com" rel="noopener" target="_blank">powered by BentoBox</a>
+</div>
+</div>
+</div>
+</header>
+<div class="site-content">
+<main class="site-content__main page-id--637559">
+<h1 class="sr-only">Home</h1>
+<span class="sr-only" id="main-content">Main content starts here, tab to start navigating</span>
+<section aria-label="hero-section" class="hero hero--no-content hero--gallery hero--fullheight revealable" id="hero">
+<div class="gallery gallery--fit">
+<li>
+<div aria-label="food on a plate" class="gallery__item gallery__item-fallback" role="img" style="background-image: url('https://images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/media/images/47498bazaar_1.jpg?w=1200&amp;fit=crop&amp;auto=compress,format&amp;crop=focalpoint&amp;fp-x=0.5&amp;fp-y=0.5'); background-position: 
+  
+  
+    
+  
+
+  50.0% 50.0%
+;">
+</div>
+<span class="sr-only">Slide 1 of 7</span>
+</li>
+<li>
+<div aria-label="a cake made to look like a train" class="gallery__item gallery__item-fallback" role="img" style="background-image: url('https://images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/media/images/74002bazaar-4.jpg?w=1200&amp;fit=crop&amp;auto=compress,format&amp;crop=focalpoint&amp;fp-x=0.5&amp;fp-y=0.5'); background-position: 
+  
+  
+    
+  
+
+  50.0% 50.0%
+;">
+</div>
+<span class="sr-only">Slide 2 of 7</span>
+</li>
+<li>
+<div aria-label="a close up of a coffee cup" class="gallery__item gallery__item-fallback" role="img" style="background-image: url('https://images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/media/images/5350bazaar_2.jpg?w=1200&amp;fit=crop&amp;auto=compress,format&amp;crop=focalpoint&amp;fp-x=0.5&amp;fp-y=0.5'); background-position: 
+  
+  
+    
+  
+
+  50.0% 50.0%
+;">
+</div>
+<span class="sr-only">Slide 3 of 7</span>
+</li>
+<li>
+<div aria-label="The Bazaar by José Andrés - a photo of air breads" class="gallery__item gallery__item-fallback" role="img" style="background-image: url('https://images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/mediausers/custom_fields_galleries/images/ZVOZlEuDToeuSICqBq5P_Bazaar_HomepageCarousel_1.jpg?w=1200&amp;fit=max&amp;auto=compress,format'); background-position: 
+  
+  
+    
+  
+
+  none
+;">
+</div>
+<span class="sr-only">Slide 4 of 7</span>
+</li>
+<li>
+<div aria-label="The Bazaar by José Andrés - a sample dish" class="gallery__item gallery__item-fallback" role="img" style="background-image: url('https://images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/mediausers/custom_fields_galleries/images/s1IfxQsWSm2oQ6BR1oOa_Bazaar_HomepageCarousel_2.jpg?w=1200&amp;fit=max&amp;auto=compress,format'); background-position: 
+  
+  
+    
+  
+
+  none
+;">
+</div>
+<span class="sr-only">Slide 5 of 7</span>
+</li>
+<li>
+<div aria-label="a book sitting on top of a wooden table" class="gallery__item gallery__item-fallback" role="img" style="background-image: url('https://images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/media/images/21578bazaar-3.jpg?w=1200&amp;fit=crop&amp;auto=compress,format&amp;crop=focalpoint&amp;fp-x=0.5&amp;fp-y=0.5'); background-position: 
+  
+  
+    
+  
+
+  50.0% 50.0%
+;">
+</div>
+<span class="sr-only">Slide 6 of 7</span>
+</li>
+<li>
+<div aria-label="The Bazaar by José Andrés - a sample dish" class="gallery__item gallery__item-fallback" role="img" style="background-image: url('https://images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/mediausers/custom_fields_galleries/images/AvIxfZ9QkuxX3kba6qQ3_Bazaar_HomepageCarousel_3.jpg?w=1200&amp;fit=max&amp;auto=compress,format'); background-position: 
+  
+  
+    
+  
+
+  none
+;">
+</div>
+<span class="sr-only">Slide 7 of 7</span>
+</li>
+</div>
+<div id="motion-elements-control-section">
+<button class="btn fa fa-play play-motion ada-motion-toggle-btns hide-motion" data-action="play">
+<span class="sr-only">hero gallery paused, press to play images slides</span>
+</button>
+<button class="btn fa fa-pause pause-motion ada-motion-toggle-btns" data-action="pause">
+<span class="sr-only">Playing hero gallery, press to pause images slides</span>
+</button>
+</div>
+</section>
+<div class="c-embed revealable">
+<script async="" src="https://inkindscript.com/inkind.js"></script>
+</div>
+<section class="c-one-col--text content container revealable">
+<h2>The Bazaar</h2>
+<p>A vibrant mix of sophisticated cuisine, artful service and playful theatrics, The Bazaar by José Andrés is where dining transcends into fête extraordinaire. Each Bazaar location offers its own unique flair, all with the promise of an experience of a lifetime. From a carnivorous celebration in Las Vegas, to the Americana spirit in Washington, DC, The Bazaar showcases the unbridled creativity and rich talents of José and his José Andrés Group team.</p>
+</section>
+<section class="c-split c-split--vcenter revealable">
+<div class="c-split__col">
+<div class="c-split__col-inner">
+<div class="c-split__content content">
+<h2 class="h2 c-split__heading">NEW YORK CITY</h2>
+<p>In the heart of The Ritz-Carlton New York, NoMad, The Bazaar New York invites you to savor a 400-year culinary journey, showcasing the Japanese Robata grill (“konro”) and the Spanish Josper oven grill.</p>
+<a class="btn btn-brand" href="/location/new-york-city" target="_parent">NOW OPEN</a>
+</div>
+</div>
+</div>
+<div class="c-split__col c-split__col--empty">
+<div class="c-split__col-inner">
+<div alt="" class="c-split__image" style="background-image: url('https://images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/media/images/61734LEICA_2300_2.jpg?w=1200&amp;fit=crop&amp;auto=compress,format&amp;crop=focalpoint&amp;fp-x=0.5&amp;fp-y=0.67');background-position: 
+  
+  
+    
+  
+
+  50.0% 67.0%
+"></div>
+</div>
+</div>
+</section>
+<section class="c-split c-split--vcenter c-split--alternate revealable">
+<div class="c-split__col">
+<div class="c-split__col-inner">
+<div class="c-split__content content">
+<h2 class="h2 c-split__heading">Washington, DC</h2>
+<p>Signature dishes from The Bazaar are infused here with new items that pay homage to our nations’ capital—boasting an Americana flair with a nod to U.S. history.</p>
+<a class="btn btn-brand" href="/menus/washington-dc/" target="_parent">View Menus</a>
+</div>
+</div>
+</div>
+<div class="c-split__col c-split__col--empty">
+<div class="c-split__col-inner">
+<div aria-label="a group of people in front of a building" class="c-split__image" role="img" style="background-image: url('https://images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/media/images/10809The_Bazaar_DC_Exterior_Shot_Rey_Lopez.jpg?w=1200&amp;fit=crop&amp;auto=compress,format&amp;crop=focalpoint&amp;fp-x=0.5&amp;fp-y=0.5');background-position: 
+  
+  
+    
+  
+
+  50.0% 50.0%
+"></div>
+</div>
+</div>
+</section>
+<section class="c-split c-split--vcenter revealable">
+<div class="c-split__col">
+<div class="c-split__col-inner">
+<div class="c-split__content content">
+<h2 class="h2 c-split__heading">Las Vegas</h2>
+<p>Located in the Sahara Las Vegas, this Bazaar Meat is a celebration of the carnivorous, in all its forms—meat reigns supreme at this steakhouse, redefined.</p>
+<a class="btn btn-brand" href="/location/sls-hotel-las-vegas/" target="_parent">Learn More</a>
+</div>
+</div>
+</div>
+<div class="c-split__col c-split__col--empty">
+<div class="c-split__col-inner">
+<div aria-label="Bazaar Meat by José Andrés in Las Vegas" class="c-split__image" role="img" style="background-image: url('https://images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/media/H8uHpdFBQ6eD0kF6lgN0_BazaarMeat_MeatBar_RyanForbes_2015.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+"></div>
+</div>
+</div>
+</section>
+<section class="c-split c-split--vcenter revealable">
+<div class="c-split__col c-split__col--empty">
+<div class="c-split__col-inner">
+<div aria-label="Bar Mar by José Andrés in Chicago" class="c-split__image" role="img" style="background-image: url('https://images.getbento.com/accounts/81bb1875cf6e20eae65ebdfd8c190b75/media/images/27543bm_dish_02.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+"></div>
+</div>
+</div>
+<div class="c-split__col">
+<div class="c-split__col-inner">
+<div class="c-split__content content">
+<h2 class="h2 c-split__heading">CHICAGO</h2>
+<p>The ultimate take on mar y montaña—Bar Mar and Bazaar Meat each offer one-of-a-kind celebrations of the bounty of the sea, and all things carnivorous. Visit both in the Bank of America Tower.</p><p><a class="btn btn-brand" href="https://www.thebazaar.com/location/bar-mar-chicago/"><span style="color: rgb(255, 255, 255);">BAR MAR</span></a></p>
+<a class="btn btn-brand" href="/location/bazaar-meat-chicago/" target="_parent">BAZAAR MEAT</a>
+</div>
+</div>
+</div>
+</section>
+</main>
+<aside class="mobi-footer mobi-footer--sticky">
+<ul class="mobi-footer__list">
+<li class="mobi-footer__item">
+<button class="btn btn-brand btn-block" data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Reservations Trigger Button" data-bb-track-label="Callout, Footer" data-bb-track-on="click" data-popup="inline" data-popup-src="#popup-reservations-form" tabindex="0" type="button">Reservations</button>
+</li>
+</ul>
+</aside>
+</div>
+<footer>
+<div class="site-footer-desktop">
+<div class="site-footer-desktop-primary" data-footer-sticky="">
+<div class="site-footer-desktop-primary__container container">
+<ul class="social-accounts">
+<li><a data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Social Icons" data-bb-track-label="Twitter, Footer" data-bb-track-on="click" href="https://twitter.com/Bazaarbyjose" rel="noopener" target="_blank"><span aria-hidden="true" class="fa fa-twitter"></span><span class="sr-only">Twitter</span></a></li>
+<li><a data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Social Icons" data-bb-track-label="Instagram, Footer" data-bb-track-on="click" href="https://www.instagram.com/bazaarbyjose" rel="noopener" target="_blank"><span aria-hidden="true" class="fa fa-instagram"></span><span class="sr-only">Instagram</span></a></li>
+</ul>
+<nav class="site-nav">
+<ul class="site-nav-menu">
+<li>
+<a class="site-nav-link" href="/privacy-policy/">Privacy Policy</a>
+</li>
+<li>
+<a class="site-nav-link" href="/careers/">Careers</a>
+</li>
+<li>
+<a class="site-nav-link" href="/terms-of-use/">Terms Of Use</a>
+</li>
+<li>
+<a class="site-nav-link" href="/contact/">Contact</a>
+</li>
+<li>
+<a class="site-nav-link" href="/accessibility-statement/">Accessibility</a>
+</li>
+<li><a class="btn btn-brand" href="https://app.e2ma.net/app2/audience/signup/1950069/1934242/" rel="noopener" target="_blank">Email Signup</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="site-footer-desktop-secondary">
+<div class="site-powered-by">
+<a href="https://getbento.com/?utm_source=footer&amp;utm_campaign=thebazaar.com" rel="noopener" target="_blank">powered by BentoBox</a>
+</div>
+</div>
+</div>
+</footer>
+<div class="popup popup--form mfp-hide" id="popup-newsletter-form">
+<form class="js-form-ajax form-alt container-sm" data-form-endpoint="/forms/submit/newsletter/" enctype="multipart/form-data" method="post">
+<div style="display: none;">
+<label>leave this field blank
+            <input name="comment_body" type="text" value=""/>
+</label>
+</div>
+<input name="form" type="hidden" value="newsletter"/>
+<div aria-hidden="true" data-bb-track="form" data-bb-track-action="Submit" data-bb-track-category="Forms" data-bb-track-label="Email Sign Up" data-bb-track-on="submit"></div>
+<div class="form-header">
+<h2 class="h1 form-heading">Email Signup</h2>
+</div>
+<div class="form-ui">
+<label for="89778">
+<i class="error-label"></i>
+<span class="input-label">First Name
+         <span class="input-label-required">- Required</span>
+</span>
+<input autocomplete="given-name" class="form-control" id="89778" name="89778" placeholder="First Name" required="" type="text"/>
+</label>
+<label for="89779">
+<i class="error-label"></i>
+<span class="input-label">Last Name
+         <span class="input-label-required">- Required</span>
+</span>
+<input autocomplete="family-name" class="form-control" id="89779" name="89779" placeholder="Last Name" required="" type="text"/>
+</label>
+<label for="89780">
+<i class="error-label"></i>
+<span class="input-label">Email
+         <span class="input-label-required">- Required</span>
+</span>
+<input autocomplete="email" class="form-control" id="89780" name="89780" placeholder="Email" required="" type="email"/>
+</label>
+</div>
+<div class="form-actions">
+<button class="btn btn-brand-alt" type="submit">Submit</button>
+<span class="form-error-msg">Please check errors in the form above</span>
+</div>
+<div class="form-success-msg">
+<span role="alert">Thank you for signing up for email updates!</span>
+<button class="btn btn-brand-alt js-popup-closebtn" type="button">Close</button>
+</div>
+</form>
+</div>
+<div class="popup popup--form mfp-hide" id="popup-reservations-form">
+<form class="reservations-form form-alt container-sm">
+<div aria-hidden="true" data-bb-track="form" data-bb-track-action="Submit" data-bb-track-category="Forms" data-bb-track-label="Reservations" data-bb-track-on="submit"></div>
+<div class="form-header"><h2 class="h1 form-heading">Reservations</h2>
+</div>
+<div class="form-ui">
+<label for="location">
+<i class="error-label"></i>
+<span class="input-label">Location
+								<span class="input-label-required">- Required</span>
+</span>
+<div class="form-control-group has-icon-right">
+<select aria-describedby="location" class="form-control unselected" id="location" name="location" required="">
+<option disabled="" selected="" value="">Location</option>
+<option data-reservation-api-key="" data-reservation-id="1176499" data-reservation-service="opentable" value="bar-mar-chicago">Bar Mar (Chicago)
+										</option>
+<option data-reservation-api-key="" data-reservation-id="1176493" data-reservation-service="opentable" value="bazaar-meat-chicago">Bazaar Meat (Chicago)
+										</option>
+<option data-reservation-api-key="" data-reservation-id="146122" data-reservation-service="opentable" value="las-vegas">Bazaar Meat (Las Vegas, NV)
+										</option>
+<option data-reservation-api-key="" data-reservation-id="thebazaarnewyork" data-reservation-service="sevenrooms" value="new-york-city">The Bazaar (New York City)
+										</option>
+<option data-reservation-api-key="" data-reservation-id="thebazaardc" data-reservation-service="sevenrooms" value="washington-dc">The Bazaar (Washington, DC)
+										</option>
+</select>
+<span aria-hidden="true" class="form-control-group--icon is-positioned-right">
+<i class="fa fa-chevron-down"></i>
+</span>
+</div>
+</label>
+<label for="seats">
+<span aria-hidden="true" class="input-label">Number of People
+								<span class="input-label-optional">- Optional</span>
+</span>
+<div class="form-control-group has-icon-right">
+<select class="form-control unselected" id="seats" name="seats">
+<option disabled="" selected="" value="">Number of People</option>
+<option value="1">1 Person</option>
+<option value="2">2 People</option>
+<option value="3">3 People</option>
+<option value="4">4 People</option>
+<option value="5">5 People</option>
+<option value="6">6 People</option>
+<option value="7">7 People</option>
+<option value="8">8+ People</option>
+</select>
+<span aria-hidden="true" class="form-control-group--icon is-positioned-right">
+<i class="fa fa-chevron-down"></i>
+</span>
+</div>
+</label>
+<label for="date">
+<i class="error-label"></i>
+<span class="input-label">Date
+								<span class="input-label-required">- Required</span>
+</span>
+<div data-react-component="accessible-date-picker"></div>
+</label>
+<label for="time">
+<span aria-hidden="true" class="input-label">Time
+								<span class="input-label-optional">- Optional</span>
+</span>
+<div class="form-control-group has-icon-left has-icon-right">
+<span aria-hidden="true" class="form-control-group--icon is-positioned-left">
+<i class="fa fa-clock-o"></i>
+</span>
+<select class="form-control unselected" id="time" name="time">
+<option disabled="" selected="" value="">Time</option>
+<option value="2300">11:00 PM</option>
+<option value="2230">10:30 PM</option>
+<option value="2200">10:00 PM</option>
+<option value="2130">9:30 PM</option>
+<option value="2100">9:00 PM</option>
+<option value="2030">8:30 PM</option>
+<option value="2000">8:00 PM</option>
+<option value="1930">7:30 PM</option>
+<option value="1900">7:00 PM</option>
+<option value="1830">6:30 PM</option>
+<option value="1800">6:00 PM</option>
+<option value="1730">5:30 PM</option>
+<option value="1700">5:00 PM</option>
+<option value="1630">4:30 PM</option>
+<option value="1600">4:00 PM</option>
+<option value="1530">3:30 PM</option>
+<option value="1500">3:00 PM</option>
+<option value="1430">2:30 PM</option>
+<option value="1400">2:00 PM</option>
+<option value="1330">1:30 PM</option>
+<option value="1300">1:00 PM</option>
+<option value="1230">12:30 PM</option>
+<option value="1200">12:00 PM</option>
+<option value="1130">11:30 AM</option>
+<option value="1100">11:00 AM</option>
+<option value="1030">10:30 AM</option>
+<option value="1000">10:00 AM</option>
+<option value="0930">9:30 AM</option>
+<option value="0900">9:00 AM</option>
+<option value="0830">8:30 AM</option>
+<option value="0800">8:00 AM</option>
+<option value="0730">7:30 AM</option>
+<option value="0700">7:00 AM</option>
+</select>
+<span aria-hidden="true" class="form-control-group--icon is-positioned-right">
+<i class="fa fa-chevron-down"></i>
+</span>
+</div>
+</label>
+</div>
+<div class="form-actions">
+<button class="btn btn-brand-alt" type="submit">Find A Table</button>
+<span class="form-error-msg">Please check errors in the form above</span>
+</div>
+<div class="form-success-msg">
+<span>Thanks!</span>
+</div>
+</form>
+</div>
+<script src="https://theme-assets.getbento.com/sensei/83a3e5e.sensei/assets/js/foot.libs.min.js" type="text/javascript"></script>
+<script src="https://theme-assets.getbento.com/sensei/83a3e5e.sensei/assets/js/bentobox.min.js" type="text/javascript"></script>
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-TZS9N8M" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script id="alerts-component-script" src="https://app-assets.getbento.com/alerts-component/5c6af41/main.js" type="text/javascript"></script>
+<script src="https://app-assets.getbento.com/alerts-component/5c6af41/main.js.map" type="text/javascript"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function(){
+		const has_diner_signup_ff = "false" === 'true'
+
+      	window.bentobox.overlayAlertComponent.init(
+			'div',  { has_diner_signup_ff }
+	  	);
+      	window.bentobox.bannerAlertComponent.init();
+    });
+  </script>
+<script data-bentoanalytics='{"account": "thebazaartfg", "theme": "sensei", "template": "index.html", "preset": "darko-preset", "cartType": "", "indicativeApiKey": "62e150f7-1993-460b-90ab-1bb1bd494ad7", "snowplowAppId": "customer-websites", "devMode": false, "templateNameFromMapping": "Landing Page"}' src="https://app-assets.getbento.com/analytics/e87720c/bento-analytics.min.js" type="text/javascript"></script></body></html>

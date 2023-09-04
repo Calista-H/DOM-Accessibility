@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<title>Shy Bird | American Restaurant in MA</title>
+<!-- Powered by BentoBox http://getbento.com -->
+<!--
+	___ ___ _  _ _____ ___  ___  _____  __
+	| _ ) __| \| |_   _/ _ \| _ )/ _ \ \/ /
+	| _ \ _|| .` | | || (_) | _ \ (_) >  <
+	|___/___|_|\_| |_| \___/|___/\___/_/\_\
+
+	-->
+<meta content="Shy Bird in Cambridge, Shy Bird Cafe in Cambridge, Chicken, Rotisserie, Coffee, Wine, Shy Bird, Kendall Square, Cambridge, MA, Lunch, Brunch, Breakfast, Dinner Cafe, Casual Lunch, Fried Chicken, Sandwiches, Coffee" name="keywords"/>
+<meta content="Shy Bird is an all day neighborhood rotisserie &amp; cafe. We are a counter service restaurant with a full service bar. We offer exceptional coffee, wine, drinks, beer and sincere hospitality. Our full menu is available for dine-in, takeout, and delivery." name="description"/>
+<link href="https://media-cdn.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/4759shy-bird.png" rel="icon"/>
+<link href="https://www.shybird.com/" rel="canonical"/>
+<meta content="5 Days" name="Revisit-After"/>
+<meta content="Global" name="Distribution"/>
+<meta content="General" name="Rating"/>
+<meta content="Shy Bird | American Restaurant in MA" property="og:site_name"/>
+<meta content="Shy Bird | American Restaurant in MA" property="og:title"/>
+<meta content="website" property="og:type"/>
+<meta content="https://www.shybird.com/" property="og:url"/>
+<meta content="Shy Bird is an all day neighborhood rotisserie &amp; cafe. We are a counter service restaurant with a full service bar. We offer exceptional coffee, wine, drinks, beer and sincere hospitality. Our full menu is available for dine-in, takeout, and delivery." property="og:description"/>
+<meta content="https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/6882475254SHY_ALL_DAY.png?w=1200&amp;fit=fill&amp;auto=compress,format&amp;h=600&amp;bg=EDEDF1&amp;pad=100" property="og:image"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="Shy Bird | American Restaurant in MA" name="twitter:title"/>
+<meta content="Shy Bird is an all day neighborhood rotisserie &amp; cafe. We are a counter service restaurant with a full service bar. We offer exceptional coffee, wine, drinks, beer and sincere hospitality. Our full menu is available for dine-in, takeout, and delivery." name="twitter:description"/>
+<meta content="https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/6882475254SHY_ALL_DAY.png?w=1200&amp;fit=fill&amp;auto=compress,format&amp;h=600&amp;bg=EDEDF1&amp;pad=100" name="twitter:image"/>
+<script src="https://theme-assets.getbento.com/sensei/83a3e5e.sensei/assets/js/head.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+			WebFont.load({custom: { families: ["Spoof Regular", "Spoof Medium", "Spoof Bold", "Mars Condensed", "Mars Extended"] }});
+		</script>
+<link href="//assets-cdn-refresh.getbento.com/stylesheet/shybird/5/scss/main.e9be89ce512504640f1c5610ce68fa46.scss" rel="stylesheet">
+<script type="text/javascript">
+	    Modernizr.addTest("maybemobile", function(){ return (Modernizr.touchevents && Modernizr.mq("only screen and (max-width: 768px)")) ? true : false; });
+	</script>
+<script>
+	  !function(f,b,e,v,n,t,s)
+	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	  n.queue=[];t=b.createElement(e);t.async=!0;
+	  t.src=v;s=b.getElementsByTagName(e)[0];
+	  s.parentNode.insertBefore(t,s)}(window, document,'script',
+	  'https://connect.facebook.net/en_US/fbevents.js');
+	  fbq('init', '263638561332245');
+	  fbq('track', 'PageView');
+	</script>
+<noscript>
+<img height="1" src="https://www.facebook.com/tr?id=263638561332245&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+</noscript>
+<script>!function(){var t=function(){var t=document.createElement("script");t.src="https://ws.audioeye.com/ae.js",t.type="text/javascript",t.setAttribute("async",""),document.getElementsByTagName("body")[0].appendChild(t)};"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",t):window.attachEvent&&window.attachEvent("onload",t):t()}();</script>
+<script type="text/javascript">
+			window.Sensei = { settings: { store: { enabled: false, cart_quantity: null }, gmaps: { apikey: "AIzaSyCxtTPdJqQMOwjsbKBO3adqPGzBR1MgC5g", styles: [{"featureType":"water","elementType":"geometry","stylers":[{"color":"#e9e9e9"},{"lightness":17}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#f5f5f5"},{"lightness":20}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#ffffff"},{"lightness":17}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#ffffff"},{"lightness":29},{"weight":0.2}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#ffffff"},{"lightness":18}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#ffffff"},{"lightness":16}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#f5f5f5"},{"lightness":21}]},{"featureType":"poi.park","elementType":"geometry","stylers":[{"color":"#dedede"},{"lightness":21}]},{"elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#ffffff"},{"lightness":16}]},{"elementType":"labels.text.fill","stylers":[{"color":"#333333"},{"lightness":40}]},{"elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#f2f2f2"},{"lightness":19}]},{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#fefefe"},{"lightness":20}]},{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#fefefe"},{"lightness":17},{"weight":1.2}]}], icon: "https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/91228s-marker.png", mobile_icon: "https%3A//images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/91228s-marker.png%3Fw%3D50%26fit%3Dmax%26auto%3Dcompress%2Cformat" }, galleries: { autoplay: false, fade: false }, heros: { autoplay_galleries: true }, srcset_enabled: false }, modernizr: window.Modernizr }; /* Slider dots */ window.Sensei.settings.galleries.dots = false; window.Sensei.settings.galleries.arrows = true; /* Slider speed */ window.Sensei.settings.galleries.autoplaySpeed = 3000; window.Sensei.settings.galleries.speed = 2000; /* Triple panel slideshow */ window.Sensei.settings.galleries.centerMode = false; document.addEventListener('DOMContentLoaded', function() { var heroCards = document.querySelectorAll('.c-tout-overlay'); heroCards.forEach(function(heroCard, heroCardIndex, heroCardList) { heroCard.style.backgroundImage = heroCard.style.backgroundImage.replaceAll('1200', '2000') }); var hasClass, addClass, removeClass; if ('classList' in document.documentElement) { hasClass = function (el, className) { return el.classList.contains(className); }; addClass = function (el, className) { el.classList.add(className); }; removeClass = function (el, className) { el.classList.remove(className); }; } else { hasClass = function (el, className) { return new RegExp('\\b'+ className+'\\b').test(el.className); }; addClass = function (el, className) { if (!hasClass(el, className)) { el.className += ' ' + className; } }; removeClass = function (el, className) { el.className = el.className.replace(new RegExp('\\b'+ className+'\\b', 'g'), ''); }; } HTMLCollection.prototype.forEach = Array.prototype.forEach; const allCSplits = document.getElementsByClassName('c-split'); allCSplits.forEach(function(cSplit, cSplitIndex, cSplitList) { addClass(cSplit, "c-split-" + (cSplitIndex + 1)); if(cSplitIndex % 2 === 0 ) { addClass(cSplit, "c-split-odd"); } else { addClass(cSplit, "c-split-even"); } if(Object.is(cSplitList.length - 1, cSplitIndex)) { addClass(cSplit, "c-split-last"); } }); const oneColTexts = document.getElementsByClassName('c-one-col--text'); oneColTexts.forEach(function(oneColText, oneColTextIndex, oneColTextList) { addClass(oneColText, "c-one-col-" + (oneColTextIndex + 1)); if(oneColTextIndex % 2 === 0 ) { addClass(oneColText, "c-one-col-odd"); } else { addClass(oneColText, "c-one-col-even"); } if(Object.is(oneColTextList.length - 1, oneColTextIndex)) { addClass(oneColText, "c-one-col-last"); } }); const lonelyTab = document.querySelector('.tabs-nav li:only-child'); if(lonelyTab) { lonelyTab.parentElement.remove(); } const twoColumnPs = document.querySelectorAll('.c-two-col--freeform p'); twoColumnPs.forEach(function(twoColP) { if(twoColP.innerText.trim() === "") { twoColP.remove(); } }); window.setTimeout(function() { const sliderGalleries = document.querySelectorAll('.slick-track'); sliderGalleries.forEach(function(sliderGallery) { const gallerySlides = sliderGallery.querySelectorAll('.slick-slide'); if(gallerySlides.length === 1) { addClass(sliderGallery.parentNode, 'parallax'); } }); }, 500); }, false);
+	</script>
+<!--[if lt IE 9]>
+	    <script type="text/javascript" src="https://theme-assets.getbento.com/sensei/83a3e5e.sensei/assets/assets/js/ltie9.min.js "></script>
+	<![endif] -->
+<script type="application/ld+json">{"@context": "http://schema.org", "@type": "Organization", "@id": "https://www.shybird.com/#organization", "url": "https://www.shybird.com", "name": "Shy Bird", "description": "Shy Bird is an all day neighborhood rotisserie \u0026 cafe. We are a counter service restaurant with a full service bar. We offer exceptional coffee, wine, drinks, beer and sincere hospitality. Our full menu is available for dine-in, takeout, and delivery.", "logo": "https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/6882475254SHY_ALL_DAY.png?w=600\u0026fit=max\u0026auto=compress,format\u0026h=600", "subOrganization": [{"@type": "FoodEstablishment", "@id": "https://www.shybird.com/location/shy-bird-kendall-square/#foodestablishment", "url": "https://www.shybird.com/location/shy-bird-kendall-square/", "name": "Kendall Square", "description": "", "image": "", "photo": "", "address": {"@type": "PostalAddress", "name": "Kendall Square", "streetAddress": "390 Third Street", "addressLocality": "Cambridge", "addressRegion": "MA", "postalCode": "02142"}, "location": {"@type": "PostalAddress", "name": "Kendall Square", "streetAddress": "390 Third Street", "addressLocality": "Cambridge", "addressRegion": "MA", "postalCode": "02142"}, "telephone": null, "hasMap": "https://www.shybird.com/location/shy-bird-kendall-square/", "parentOrganization": {"@type": "Organization", "@id": "https://www.shybird.com/#organization"}, "servesCuisine": "American food", "priceRange": "$$", "acceptsReservations": "https://www.shybird.com/location/shy-bird-kendall-square/", "potentialAction": {"@type": "ReserveAction", "object": {"@type": "Reservation", "name": "Table at Kendall Square"}, "result": {"@type": "Reservation", "name": "Table at Kendall Square"}, "target": "https://www.shybird.com/location/shy-bird-kendall-square/", "location": {"@id": "https://www.shybird.com/location/shy-bird-kendall-square/#foodestablishment"}}}, {"@type": "FoodEstablishment", "@id": "https://www.shybird.com/location/shy-bird-south-boston/#foodestablishment", "url": "https://www.shybird.com/location/shy-bird-south-boston/", "name": "South Boston", "description": "", "image": "", "photo": "", "address": {"@type": "PostalAddress", "name": "South Boston", "streetAddress": "12 Old Colony Avenue", "addressLocality": "Boston", "addressRegion": "MA", "postalCode": "02127"}, "location": {"@type": "PostalAddress", "name": "South Boston", "streetAddress": "12 Old Colony Avenue", "addressLocality": "Boston", "addressRegion": "MA", "postalCode": "02127"}, "telephone": null, "hasMap": "https://www.shybird.com/location/shy-bird-south-boston/", "parentOrganization": {"@type": "Organization", "@id": "https://www.shybird.com/#organization"}, "servesCuisine": "American food", "priceRange": "$$", "acceptsReservations": "https://www.shybird.com/location/shy-bird-south-boston/", "potentialAction": {"@type": "ReserveAction", "object": {"@type": "Reservation", "name": "Table at South Boston"}, "result": {"@type": "Reservation", "name": "Table at South Boston"}, "target": "https://www.shybird.com/location/shy-bird-south-boston/", "location": {"@id": "https://www.shybird.com/location/shy-bird-south-boston/#foodestablishment"}}}], "sameAs": ["https://www.facebook.com/people/Shy-Bird/100026420868369/", "https://www.instagram.com/heyshybird/"], "potentialAction": [{"@type": "ReserveAction", "object": {"@type": "Reservation", "name": "Table", "url": "https://www.shybird.com/#action-reservations"}, "result": {"@type": "Reservation", "name": "Table"}, "target": "https://www.shybird.com"}, {"@type": "SubscribeAction", "object": {"@type": "Product", "name": "Mailing List"}, "target": "https://www.shybird.com"}, {"@type": "BuyAction", "object": {"@type": "Product", "name": "Product"}, "target": "https://www.shybird.com/store/"}, {"@type": "BuyAction", "object": {"@type": "Product", "name": "Catering Product"}, "target": "https://www.shybird.com/store/catering/"}]}</script>
+<script type="application/ld+json">{"@context": "http://schema.org", "@type": "WebSite", "@id": "https://www.shybird.com/#website", "url": "https://www.shybird.com", "name": "Shy Bird"}</script>
+<script type="application/ld+json">{"@context": "http://schema.org", "@type": "WebPage", "@id": "https://www.shybird.com/#webpage", "url": "https://www.shybird.com", "name": "Shy Bird"}</script>
+</link></head>
+<body class="has-hero-intent has-mobi-footer index-template">
+<div class="site-notifications">
+</div>
+<header class="site-header">
+<a class="skip" href="#main-content">Skip to main content</a>
+<div class="site-header-desktop">
+<div class="site-header-desktop-primary site-header-desktop-primary--floatable" data-header-sticky="">
+<div class="container">
+<div class="site-logo">
+<a class="site-logo__btn" href="/">
+<img alt="Shy Bird Home" class="site-logo__expanded" src="https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/6882475254SHY_ALL_DAY.png"/>
+<img alt="a drawing of a face" class="site-logo__collapsed" src="https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/58223SB_Logotype_RGB-Sunshine_copy.png"/>
+</a>
+</div>
+<nav class="site-nav">
+<ul class="site-nav-menu" data-menu-type="desktop">
+<li class="site-nav-submenu">
+<button aria-controls="SubMenu-1" aria-expanded="false" class="site-nav-link site-nav-submenu-toggle" type="button">
+					Locations
+				</button>
+<div class="sub-menu" id="SubMenu-1">
+<ul>
+<li>
+<a href="/location/shy-bird-kendall-square/">Kendall Square</a>
+</li>
+<li>
+<a href="/location/shy-bird-south-boston/">South Boston</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="site-nav-submenu">
+<button aria-controls="SubMenu-2" aria-expanded="false" class="site-nav-link site-nav-submenu-toggle" type="button">
+					Menus
+				</button>
+<div class="sub-menu" id="SubMenu-2">
+<ul>
+<li>
+<a href="/kendall-square-menus/">Kendall Square</a>
+</li>
+<li>
+<a href="/south-boston-menus/">South Boston</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="site-nav-submenu">
+<button aria-controls="SubMenu-3" aria-expanded="false" class="site-nav-link site-nav-submenu-toggle" type="button">
+					Catering
+				</button>
+<div class="sub-menu" id="SubMenu-3">
+<ul>
+<li>
+<a href="https://www.ezcater.com/catering/pvt/shy-bird-3" rel="noopener" target="_blank">Kendall Square</a>
+</li>
+<li>
+<a href="https://www.ezcater.com/catering/shy-bird-boston" rel="noopener" target="_blank">South Boston</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a class="site-nav-link" href="https://www.toasttab.com/shy-bird/giftcards" rel="noopener" target="_blank">Gift Cards</a>
+</li>
+<li>
+<a class="site-nav-link" href="/store/">Merch</a>
+</li>
+<li>
+<a class="site-nav-link" href="/events/">Events</a>
+</li>
+<li>
+<a "="" btn="" btn-brand"="" class="site-nav-link" data-popup="inline" data-popup-src="#popup-reservations-form" href="/button class=" type="button">Reservations</a>
+</li>
+<li><a class="btn btn-brand-alt" href="/order-online/" target="_parent">Order Online</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div aria-label="Navigation Menu Modal" class="site-header-mobi">
+<div class="site-logo">
+<a class="site-logo__btn" href="/">
+<img alt="Shy Bird Home" src="https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/6882475254SHY_ALL_DAY.png"/>
+<img alt="a drawing of a face" src="https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/58223SB_Logotype_RGB-Sunshine_copy.png"/>
+</a>
+</div>
+<button aria-controls="SiteHeaderMobilePanel" aria-expanded="false" class="nav-toggle-btn" type="button">
+<span class="sr-only">Toggle Navigation</span>
+<span class="nav-toggle-btn__line"></span>
+<span class="nav-toggle-btn__line"></span>
+<span class="nav-toggle-btn__line"></span>
+</button>
+<div class="site-header-mobi-panel" id="SiteHeaderMobilePanel">
+<div class="site-header-mobi-panel__inner">
+<nav aria-label="Navigation Menu" class="site-nav">
+<ul class="site-nav-menu" data-menu-type="mobile">
+<li class="site-nav-submenu">
+<button aria-controls="MobileSubMenu-1" aria-expanded="false" class="site-nav-link site-nav-submenu-toggle" type="button">
+					Locations
+				</button>
+<div class="sub-menu" id="MobileSubMenu-1">
+<ul>
+<li>
+<a href="/location/shy-bird-kendall-square/">Kendall Square</a>
+</li>
+<li>
+<a href="/location/shy-bird-south-boston/">South Boston</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="site-nav-submenu">
+<button aria-controls="MobileSubMenu-2" aria-expanded="false" class="site-nav-link site-nav-submenu-toggle" type="button">
+					Menus
+				</button>
+<div class="sub-menu" id="MobileSubMenu-2">
+<ul>
+<li>
+<a href="/kendall-square-menus/">Kendall Square</a>
+</li>
+<li>
+<a href="/south-boston-menus/">South Boston</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="site-nav-submenu">
+<button aria-controls="MobileSubMenu-3" aria-expanded="false" class="site-nav-link site-nav-submenu-toggle" type="button">
+					Catering
+				</button>
+<div class="sub-menu" id="MobileSubMenu-3">
+<ul>
+<li>
+<a href="https://www.ezcater.com/catering/pvt/shy-bird-3" rel="noopener" target="_blank">Kendall Square</a>
+</li>
+<li>
+<a href="https://www.ezcater.com/catering/shy-bird-boston" rel="noopener" target="_blank">South Boston</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a class="site-nav-link" href="https://www.toasttab.com/shy-bird/giftcards" rel="noopener" target="_blank">Gift Cards</a>
+</li>
+<li>
+<a class="site-nav-link" href="/store/">Merch</a>
+</li>
+<li>
+<a class="site-nav-link" href="/events/">Events</a>
+</li>
+<li>
+<a "="" btn="" btn-brand"="" class="site-nav-link" data-popup="inline" data-popup-src="#popup-reservations-form" href="/button class=" type="button">Reservations</a>
+</li>
+<li>
+<a class="site-nav-link" href="https://www.toasttab.com/shy-bird/giftcards" rel="noopener" target="_blank">Gift Cards</a>
+</li>
+<li>
+<a class="site-nav-link" href="/store/">Merch</a>
+</li>
+<li>
+<a class="site-nav-link" href="/about/">About</a>
+</li>
+<li>
+<a class="site-nav-link" href="/work-from-shy-bird/">Work from Shy Bird</a>
+</li>
+<li>
+<a class="site-nav-link" href="/press/">Press</a>
+</li>
+<li>
+<a class="site-nav-link" href="/terms-and-conditions/">Terms &amp; Conditions</a>
+</li>
+<li>
+<a class="site-nav-link" href="/accessibility/">Accessibility</a>
+</li>
+<li><a class="" href="/order-online/" target="_parent">Order Online</a></li>
+</ul>
+</nav>
+<div class="site-social site-social--bordered">
+<ul class="social-accounts">
+<li><a data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Social Icons" data-bb-track-label="Facebook, Header" data-bb-track-on="click" href="https://www.facebook.com/people/Shy-Bird/100026420868369/" rel="noopener" target="_blank"><span aria-hidden="true" class="fa fa-facebook"></span><span class="sr-only">Facebook</span></a></li>
+<li><a data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Social Icons" data-bb-track-label="Instagram, Header" data-bb-track-on="click" href="https://www.instagram.com/heyshybird/" rel="noopener" target="_blank"><span aria-hidden="true" class="fa fa-instagram"></span><span class="sr-only">Instagram</span></a></li>
+</ul>
+</div>
+</div>
+<div class="site-powered-by">
+<a href="https://getbento.com/?utm_source=header&amp;utm_campaign=shybird.com" rel="noopener" target="_blank">powered by BentoBox</a>
+</div>
+</div>
+</div>
+</header>
+<div class="site-content">
+<main class="site-content__main page-id--560256">
+<h1 class="sr-only">Home</h1>
+<span class="sr-only" id="main-content">Main content starts here, tab to start navigating</span>
+<section aria-label="hero-section" class="hero hero--fullheight revealable" id="hero">
+<div class="hero__content container">
+<p><img alt="logo" class="fr-fic fr-dib" data-alt_text="logo" src="https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/SB_Logotype_RGB-Sunshine_copy.png"/></p>
+</div>
+<div class="hero__video hero__video--dimmed" data-video-autoplay="1" data-video-id="766100787" data-video-title="" data-video-type="vimeo">
+<div class="hero__video-inner"></div>
+</div>
+<div id="motion-elements-control-section">
+<button class="btn fa fa-play play-motion ada-motion-toggle-btns hide-motion" data-action="play">
+<span class="sr-only">hero video paused, press to play video</span>
+</button>
+<button class="btn fa fa-pause pause-motion ada-motion-toggle-btns" data-action="pause">
+<span class="sr-only">Playing hero video, press to pause video</span>
+</button>
+</div>
+</section>
+<section class="c-one-col--text content container revealable">
+<h1>Our Locations</h1>
+</section>
+<section class="c-two-col--freeform content container c-two-col-thumbs revealable">
+<div class="row">
+<div class="col-md-6">
+<div class="image-thumbnail" style="background-image: url('https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/8836270330SB_Illustration_Kendall_Square.png?w=1200&amp;fit=crop&amp;auto=compress,format&amp;crop=focalpoint&amp;fp-x=0.5&amp;fp-y=0.5');background-position: 
+  
+  
+    
+  
+
+  50.0% 50.0%
+;">
+<img alt="diagram, schematic" class="sr-only"/>
+</div>
+<h2>Kendall Square </h2>
+<p>390 Third Street, Cambridge, MA</p><p><a class="btn btn-brand" href="https://www.opentable.com/restref/client/?restref=1069801&amp;lang=en-US&amp;ot_source=Restaurant%20website&amp;corrid=f1c90535-d35c-4674-8841-da77baad7cbb" rel="noopener noreferrer" target="_blank">Reservation</a>  <a class="btn btn-brand" href="https://www.toasttab.com/shy-bird/v3/?mode=fulfillment" rel="noopener noreferrer" target="_blank">Order Online</a>  <a class="btn btn-brand" href="/kendall-square-menus/">Menus &amp; More</a></p>
+</div>
+<div class="col-md-6">
+<div class="image-thumbnail" style="background-image: url('https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/3834284859house.png?w=1200&amp;fit=crop&amp;auto=compress,format&amp;crop=focalpoint&amp;fp-x=0.5&amp;fp-y=0.5');background-position: 
+  
+  
+    
+  
+
+  50.0% 50.0%
+">
+<img alt="logo" class="sr-only"/>
+</div>
+<h2>South Boston</h2>
+<p>12 Old Colony Avenue, Boston, MA</p><p><a class="btn btn-brand" href="https://www.opentable.com/restref/client/?restref=1257814&amp;lang=en-US&amp;ot_source=Restaurant%20website&amp;corrid=2d476197-e831-492a-a19e-2fc7230660eb" rel="noopener noreferrer" target="_blank">Reservation</a>  <a class="btn btn-brand" href="https://www.toasttab.com/shy-bird-southie-12-old-colony-avenue/v3" rel="noopener noreferrer" target="_blank">Order Online</a>  <a class="btn btn-brand" href="/south-boston-menus/">Menus &amp; More</a></p>
+</div>
+</div>
+</section>
+<section class="c-two-col--text content container revealable">
+<div class="row">
+<div class="col-md-6">
+<h1>Order Online</h1>
+</div>
+<div class="col-md-6">
+<p><a class="btn btn-brand" href="https://www.toasttab.com/shy-bird/v3/?mode=fulfillment" rel="noopener noreferrer" target="_blank">Kendall Square</a>  <a class="btn btn-brand" href="https://www.toasttab.com/shy-bird-southie-12-old-colony-avenue/v3" rel="noopener noreferrer" target="_blank">South Boston</a></p>
+</div>
+</div>
+</section>
+<section class="c-split c-split--vcenter c-split--alternate revealable">
+<div class="c-split__col">
+<div class="c-split__col-inner">
+<div class="c-split__content content">
+<p><img alt="a person holding a plate of food" class="fr-fic fr-dib" data-alt_text="a plate of food on a table" src="https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/11487Chicken__Waffles-4_1.jpg?w=1000&amp;fit=max&amp;auto=compress,format&amp;h=1000" style="width: 421px;"/></p>
+</div>
+</div>
+</div>
+<div class="c-split__col">
+<div class="c-split__col-inner">
+<div class="c-split__content content">
+<p><img alt="a group of people standing around a table in a restaurant" class="fr-fic fr-dib" data-alt_text="a group of people sitting at a table eating food" src="https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/9230SB_JUNE_2_2022-29_1.jpg?w=1000&amp;fit=max&amp;auto=compress,format&amp;h=1000" style="width: 715px;"/></p>
+</div>
+</div>
+</div>
+</section>
+<section class="c-tout-overlay revealable" style="background-image: url('https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/54881steaknew.jpeg?w=1200&amp;fit=crop&amp;auto=compress,format&amp;crop=focalpoint&amp;fp-x=0.5&amp;fp-y=0.5');background-position: 
+  
+  
+    
+  
+
+  50.0% 50.0%
+">
+</section>
+<section class="c-split c-split--vcenter revealable">
+<div class="c-split__col">
+<div class="c-split__col-inner">
+<div class="c-split__content content">
+<p><img alt="a person holding a plate of food" class="fr-fic fr-dib" data-alt_text="a person holding a plate of food" src="https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/Dunks-4_1.jpg?w=1000&amp;fit=max&amp;auto=compress,format&amp;h=1000" style="width: 486px;"/></p>
+</div>
+</div>
+</div>
+<div class="c-split__col">
+<div class="c-split__col-inner">
+<div class="c-split__content content">
+<p><img alt="a close up of food on a grill" class="fr-fic fr-dib" data-alt_text="a plate of food sitting on top of a wooden table" src="https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/7534Rotisserie_Chicken_1.jpg?w=1000&amp;fit=max&amp;auto=compress,format&amp;h=1000" style="width: 826px;"/></p>
+</div>
+</div>
+</div>
+</section>
+<section class="c-one-col--text content container revealable">
+<h2>Merch &amp; Gifts</h2>
+</section>
+<section class="c-two-col--freeform content container c-two-col-thumbs revealable">
+<div class="row">
+<div class="col-md-6">
+<div class="image-thumbnail" style="background-image: url('https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/49198giftcard.npg.png?w=1200&amp;fit=crop&amp;auto=compress,format&amp;crop=focalpoint&amp;fp-x=0.5&amp;fp-y=0.5');background-position: 
+  
+  
+    
+  
+
+  50.0% 50.0%
+;">
+<img alt="text" class="sr-only"/>
+</div>
+<h2>Gift Cards</h2>
+<p> </p>
+<a class="btn btn-brand" href="https://www.toasttab.com/shy-bird/giftcards" rel="noopener" target="_blank">Shop Gift Cards</a>
+</div>
+<div class="col-md-6">
+<div class="image-thumbnail" style="background-image: url('https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/74517bag.png?w=1200&amp;fit=crop&amp;auto=compress,format&amp;crop=focalpoint&amp;fp-x=0.5&amp;fp-y=0.5');background-position: 
+  
+  
+    
+  
+
+  50.0% 50.0%
+">
+<img alt="a close up of a logo" class="sr-only"/>
+</div>
+<h2>Merch</h2>
+<p> </p>
+<a class="btn btn-brand" href="/store" target="_parent">Shop Merch</a>
+</div>
+</div>
+</section>
+<section class="c-tout-overlay revealable" style="background-image: url('https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/28017Rotisserie-12.jpg?w=1200&amp;fit=crop&amp;auto=compress,format&amp;crop=focalpoint&amp;fp-x=0.5&amp;fp-y=0.5');background-position: 
+  
+  
+    
+  
+
+  50.0% 50.0%
+">
+</section>
+<section class="c-one-col--text content container revealable">
+<h1>About</h1><p>Shy Bird is an all day rotisserie, bar, cafe &amp; takeaway. We strive to be affordable, approachable and accessible while offering crave-able food, warmth, and hospitality. We offer a serious beverage program that doesn’t take itself too seriously.</p><p><a class="btn btn-brand" href="https://shybird.applytojob.com/apply" rel="noopener noreferrer" target="_blank">Join The Team</a></p>
+</section>
+<section class="c-split c-split--vcenter revealable">
+<div class="c-split__col">
+<div class="c-split__col-inner">
+<div class="c-split__content content">
+<p><img alt="a person holding a cup" class="fr-fic fr-dib" data-alt_text="a glass of wine" src="https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/97642Espresso_Martini_11--22-21_Edited_Selects-31_1.jpg?w=1000&amp;fit=max&amp;auto=compress,format&amp;h=1000" style="width: 422px;"/></p>
+</div>
+</div>
+</div>
+<div class="c-split__col">
+<div class="c-split__col-inner">
+<div class="c-split__content content">
+<p><img alt="a plate of food on a table" class="fr-fic fr-dib" data-alt_text="a plate of food on a table" src="https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/8y476yl0.jpeg?w=1000&amp;fit=max&amp;auto=compress,format&amp;h=1000"/></p>
+</div>
+</div>
+</div>
+</section>
+<section class="c-one-col--text content container revealable">
+<table style="width: 100%;"><tbody><tr><td style="width: 33.33%; vertical-align: top;"><h2>Kendall Square</h2><p><a href="https://www.google.com/maps/place/Shy+Bird/@42.362297,-71.0825227,16z/data=!4m5!3m4!1s0x0:0x1418a373bde5f111!8m2!3d42.3626934!4d-71.0838102" rel="noopener noreferrer" target="_blank">390 Third Street, Cambridge, MA</a><br/><a href="tel:6177144200">617-714-4200</a></p><p><strong>Breakfast:</strong> Mon-Fri from 8am-11am<br/><strong>Lunch:</strong> Mon-Fri from 11am-4pm<br/><strong>Dinner:</strong> Mon-Sun from 4pm-10pm<br/><strong>Brunch:</strong> Sat-Sun from 8am-3pm</p><p><a href="/kendall-square-menus/">Menus</a> <br/><a href="https://www.toasttab.com/shy-bird/v3/?mode=fulfillment" rel="noopener noreferrer" target="_blank">Order Online</a> <br/><a href="https://www.opentable.com/restref/client/?restref=1069801&amp;lang=en-US&amp;ot_source=Restaurant%20website&amp;corrid=f1c90535-d35c-4674-8841-da77baad7cbb" rel="noopener noreferrer" target="_blank">Reservations</a> <br/><a href="https://www.ezcater.com/catering/pvt/shy-bird-3" rel="noopener noreferrer" target="_blank">Catering</a></p></td><td style="width: 33.33%; vertical-align: top;"><h2>South Boston</h2><p><a href="https://www.google.com/maps/place/12+Old+Colony+Ave,+Boston,+MA+02127/@42.3377684,-71.0568721,19.86z/data=!4m5!3m4!1s0x89e37a66a5cacba5:0x6d3f5411c45925df!8m2!3d42.3377221!4d-71.0564839" rel="noopener noreferrer" target="_blank">12 Old Colony Avenue, Boston, MA</a><br/><a href="tel:6177668309">617-766-8309</a></p><p><strong>Breakfast:</strong> Mon-Fri from 8am-11am<br/><strong>Lunch:</strong> Mon-Fri from 11am-4pm<br/><strong>Dinner:</strong> Mon-Sun from 4pm-10pm<br/><strong>Brunch:</strong> Sat-Sun from 8am-3pm</p><p><a href="/south-boston-menus/">Menus</a> <br/><a href="https://www.toasttab.com/shy-bird-southie-12-old-colony-avenue/v3" rel="noopener noreferrer" target="_blank">Order Online</a> <br/><a href="https://www.opentable.com/restref/client/?restref=1257814&amp;lang=en-US&amp;ot_source=Restaurant%20website&amp;corrid=2d476197-e831-492a-a19e-2fc7230660eb" rel="noopener noreferrer" target="_blank">Reservations</a> <br/><a href="https://www.ezcater.com/catering/shy-bird-boston" rel="noopener noreferrer" target="_blank">Catering</a></p></td><td style="width: 33.33%; vertical-align: top;"><h2>Connect</h2><p>Receive updates on events, specials, and information about Shy Bird.</p><p><button class="btn btn-brand" data-popup="inline" data-popup-src="#popup-newsletter-form" type="button">Email Signup</button> <a class="btn btn-brand" href="https://shybird.applytojob.com/apply" rel="noopener noreferrer" target="_blank">Join The Team</a></p><div class="footer-social"><p><a data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Social Icons" data-bb-track-label="Instagram, Footer" data-bb-track-on="click" href="https://www.instagram.com/heyshybird/" rel="noopener noreferrer" target="_blank"><span class="fa fa-instagram"></span><span class="sr-only">Instagram</span></a>   <a data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Social Icons" data-bb-track-label="Facebook, Footer" data-bb-track-on="click" href="https://urldefense.com/v3/__https://www.facebook.com/profile.php?id=100026420868369__;!!P9vvK-4S!lBiPL7HbqDNVZcDR54YV09WFjw1jLxuigBtGZpzdVNLZNMCExBWJzWS6G67W3_fPQ-D7-3oATsIpIrw$" rel="noopener noreferrer" target="_blank"><span class="fa fa-facebook"></span><span class="sr-only">Facebook</span></a></p></div><div class="shylady"><p><a href="/shy-lady/"><img alt="a close up of a clock" class="fr-fic fr-dib" data-alt_text="a close up of a clock" src="https://images.getbento.com/accounts/f27f750a2ca06a82a2d1d3bf42867187/media/images/shy-lady.png?w=1000&amp;fit=max&amp;auto=compress,format&amp;h=1000"/></a></p></div></td></tr></tbody></table>
+</section>
+</main>
+<aside class="mobi-footer mobi-footer--sticky">
+<ul class="mobi-footer__list">
+<li class="mobi-footer__item">
+<a class="btn btn-brand-alt btn-block" href="/order-online/" target="_parent">Order Online</a>
+</li>
+</ul>
+</aside>
+</div>
+<footer>
+<div class="site-footer-desktop">
+<div class="site-footer-desktop-primary">
+<div class="site-footer-desktop-primary__container container">
+<nav class="site-nav">
+<ul class="site-nav-menu">
+<li>
+<a class="site-nav-link" href="https://www.toasttab.com/shy-bird/giftcards" rel="noopener" target="_blank">Gift Cards</a>
+</li>
+<li>
+<a class="site-nav-link" href="/store/">Merch</a>
+</li>
+<li>
+<a class="site-nav-link" href="/about/">About</a>
+</li>
+<li>
+<a class="site-nav-link" href="/work-from-shy-bird/">Work from Shy Bird</a>
+</li>
+<li>
+<a class="site-nav-link" href="/press/">Press</a>
+</li>
+<li>
+<a class="site-nav-link" href="/terms-and-conditions/">Terms &amp; Conditions</a>
+</li>
+<li>
+<a class="site-nav-link" href="/accessibility/">Accessibility</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="site-footer-desktop-secondary">
+<div class="site-powered-by">
+<a href="https://getbento.com/?utm_source=footer&amp;utm_campaign=shybird.com" rel="noopener" target="_blank">powered by BentoBox</a>
+</div>
+</div>
+</div>
+</footer>
+<div class="popup popup--form mfp-hide" id="popup-newsletter-form">
+<form class="js-form-ajax form-alt container-sm" data-form-endpoint="/forms/submit/newsletter/" enctype="multipart/form-data" method="post">
+<div style="display: none;">
+<label>leave this field blank
+            <input name="comment_body" type="text" value=""/>
+</label>
+</div>
+<input name="form" type="hidden" value="newsletter"/>
+<div aria-hidden="true" data-bb-track="form" data-bb-track-action="Submit" data-bb-track-category="Forms" data-bb-track-label="Email Sign Up" data-bb-track-on="submit"></div>
+<div class="form-header">
+<h2 class="h1 form-heading">Email Signup</h2>
+</div>
+<div class="form-ui">
+<label for="254214">
+<i class="error-label"></i>
+<span class="input-label">First Name
+         <span class="input-label-required">- Required</span>
+</span>
+<input autocomplete="given-name" class="form-control" id="254214" name="254214" placeholder="First Name" required="" type="text"/>
+</label>
+<label for="254215">
+<i class="error-label"></i>
+<span class="input-label">Last Name
+         <span class="input-label-required">- Required</span>
+</span>
+<input autocomplete="family-name" class="form-control" id="254215" name="254215" placeholder="Last Name" required="" type="text"/>
+</label>
+<label for="254216">
+<i class="error-label"></i>
+<span class="input-label">Email
+         <span class="input-label-required">- Required</span>
+</span>
+<input autocomplete="email" class="form-control" id="254216" name="254216" placeholder="Email" required="" type="email"/>
+</label>
+</div>
+<div class="form-actions">
+<button class="btn btn-brand-alt" type="submit">Submit</button>
+<span class="form-error-msg">Please check errors in the form above</span>
+</div>
+<div class="form-success-msg">
+<span role="alert">Thank you for signing up for email updates!</span>
+<button class="btn btn-brand-alt js-popup-closebtn" type="button">Close</button>
+</div>
+</form>
+</div>
+<div class="popup popup--form mfp-hide" id="popup-reservations-form">
+<form class="reservations-form form-alt container-sm">
+<div aria-hidden="true" data-bb-track="form" data-bb-track-action="Submit" data-bb-track-category="Forms" data-bb-track-label="Reservations" data-bb-track-on="submit"></div>
+<div class="form-header"><h2 class="h1 form-heading">Reservations</h2>
+</div>
+<div class="form-ui">
+<label for="location">
+<i class="error-label"></i>
+<span class="input-label">Location
+								<span class="input-label-required">- Required</span>
+</span>
+<div class="form-control-group has-icon-right">
+<select aria-describedby="location" class="form-control unselected" id="location" name="location" required="">
+<option disabled="" selected="" value="">Location</option>
+<option data-reservation-api-key="" data-reservation-id="1069801" data-reservation-service="opentable" value="shy-bird-kendall-square">Kendall Square
+										</option>
+<option data-reservation-api-key="" data-reservation-id="1257814" data-reservation-service="opentable" value="shy-bird-south-boston">South Boston
+										</option>
+</select>
+<span aria-hidden="true" class="form-control-group--icon is-positioned-right">
+<i class="fa fa-chevron-down"></i>
+</span>
+</div>
+</label>
+<label for="seats">
+<span aria-hidden="true" class="input-label">Number of People
+								<span class="input-label-optional">- Optional</span>
+</span>
+<div class="form-control-group has-icon-right">
+<select class="form-control unselected" id="seats" name="seats">
+<option disabled="" selected="" value="">Number of People</option>
+<option value="1">1 Person</option>
+<option value="2">2 People</option>
+<option value="3">3 People</option>
+<option value="4">4 People</option>
+<option value="5">5 People</option>
+<option value="6">6 People</option>
+<option value="7">7 People</option>
+<option value="8">8+ People</option>
+</select>
+<span aria-hidden="true" class="form-control-group--icon is-positioned-right">
+<i class="fa fa-chevron-down"></i>
+</span>
+</div>
+</label>
+<label for="date">
+<i class="error-label"></i>
+<span class="input-label">Date
+								<span class="input-label-required">- Required</span>
+</span>
+<div data-react-component="accessible-date-picker"></div>
+</label>
+<label for="time">
+<span aria-hidden="true" class="input-label">Time
+								<span class="input-label-optional">- Optional</span>
+</span>
+<div class="form-control-group has-icon-left has-icon-right">
+<span aria-hidden="true" class="form-control-group--icon is-positioned-left">
+<i class="fa fa-clock-o"></i>
+</span>
+<select class="form-control unselected" id="time" name="time">
+<option disabled="" selected="" value="">Time</option>
+<option value="2300">11:00 PM</option>
+<option value="2230">10:30 PM</option>
+<option value="2200">10:00 PM</option>
+<option value="2130">9:30 PM</option>
+<option value="2100">9:00 PM</option>
+<option value="2030">8:30 PM</option>
+<option value="2000">8:00 PM</option>
+<option value="1930">7:30 PM</option>
+<option value="1900">7:00 PM</option>
+<option value="1830">6:30 PM</option>
+<option value="1800">6:00 PM</option>
+<option value="1730">5:30 PM</option>
+<option value="1700">5:00 PM</option>
+<option value="1630">4:30 PM</option>
+<option value="1600">4:00 PM</option>
+<option value="1530">3:30 PM</option>
+<option value="1500">3:00 PM</option>
+<option value="1430">2:30 PM</option>
+<option value="1400">2:00 PM</option>
+<option value="1330">1:30 PM</option>
+<option value="1300">1:00 PM</option>
+<option value="1230">12:30 PM</option>
+<option value="1200">12:00 PM</option>
+<option value="1130">11:30 AM</option>
+<option value="1100">11:00 AM</option>
+<option value="1030">10:30 AM</option>
+<option value="1000">10:00 AM</option>
+<option value="0930">9:30 AM</option>
+<option value="0900">9:00 AM</option>
+<option value="0830">8:30 AM</option>
+<option value="0800">8:00 AM</option>
+<option value="0730">7:30 AM</option>
+<option value="0700">7:00 AM</option>
+</select>
+<span aria-hidden="true" class="form-control-group--icon is-positioned-right">
+<i class="fa fa-chevron-down"></i>
+</span>
+</div>
+</label>
+</div>
+<div class="form-actions">
+<button class="btn btn-brand-alt" type="submit">Find A Table</button>
+<span class="form-error-msg">Please check errors in the form above</span>
+</div>
+<div class="form-success-msg">
+<span>Thanks!</span>
+</div>
+</form>
+</div>
+<script src="https://theme-assets.getbento.com/sensei/83a3e5e.sensei/assets/js/foot.libs.min.js" type="text/javascript"></script>
+<script src="https://theme-assets.getbento.com/sensei/83a3e5e.sensei/assets/js/bentobox.min.js" type="text/javascript"></script>
+<script id="alerts-component-script" src="https://app-assets.getbento.com/alerts-component/5c6af41/main.js" type="text/javascript"></script>
+<script src="https://app-assets.getbento.com/alerts-component/5c6af41/main.js.map" type="text/javascript"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function(){
+		const has_diner_signup_ff = "false" === 'true'
+
+      	window.bentobox.overlayAlertComponent.init(
+			'div',  { has_diner_signup_ff }
+	  	);
+      	window.bentobox.bannerAlertComponent.init();
+    });
+  </script>
+<script data-bentoanalytics='{"account": "shybird", "theme": "sensei", "template": "index.html", "preset": "dashi-preset", "cartType": "", "indicativeApiKey": "62e150f7-1993-460b-90ab-1bb1bd494ad7", "snowplowAppId": "customer-websites", "devMode": false, "templateNameFromMapping": "Landing Page"}' src="https://app-assets.getbento.com/analytics/e87720c/bento-analytics.min.js" type="text/javascript"></script></body></html>

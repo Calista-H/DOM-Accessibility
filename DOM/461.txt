@@ -1,0 +1,1114 @@
+
+<!DOCTYPE HTML>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Flip is a video discussion and sharing app, free from Microsoft.</title>
+<meta content="Flip (formerly Flipgrid) is a video discussion and video sharing app, free from Microsoft, built for classrooms and beyond. Learn more." name="description"/>
+<meta content="flipgrid-homepage-template" name="template"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="https://info.flip.com/content/dam/flipgrid/flip-thumbnail.jpg" property="og:image"/>
+<meta content="3c8B4XeFl0tXDDtwozlZxE-MCtarW_1tcbhD-IhEYN0" name="google-site-verification"/>
+<link href="https://info.flip.com/en-us.html" rel="canonical"/>
+<link href="/etc.clientlibs/flipgrid/clientlibs/clientlib-site/resources/images/flavicon.png" rel="icon" type="image/png"/>
+<script src="https://az416426.vo.msecnd.net/scripts/c/ms.analytics-web-2.min.js" type="text/javascript"></script>
+<script>
+var analytics = new oneDS.ApplicationInsights();
+var config = {
+	instrumentationKey: "f92a0539e1444d74a962213a5eaab8bf-c3a2bf19-226d-466d-b0a4-75f306614062-7501",
+	// Post channel configuration
+	channelConfiguration:{
+    	eventsLimitInMem: 50
+	},
+
+	// Properties Plugin configuration
+    propertyConfiguration: {
+    	userAgent: "Custom User Agent"
+	},
+
+	// Web Analytics Plugin configuration
+	webAnalyticsConfiguration:{
+		autoCapture: {
+			scroll: true,
+			pageView: true,
+			onLoad: true,
+			onUnload: true,
+			click: true,
+			resize: true,
+			jsError: true
+		},
+		useShortNameForContentBlob: true,
+		urlCollectQuery: true
+	}
+
+};
+//Initialize SDK
+analytics.initialize(config, []);
+
+</script>
+<link href="/etc.clientlibs/flipgrid/clientlibs/clientlib-base.lc-9906384322a28badfa6ff023d1cbebcf-lc.min.css" rel="stylesheet" type="text/css"/>
+<script src="/etc.clientlibs/flipgrid/clientlibs/clientlib-dependencies.lc-d41d8cd98f00b204e9800998ecf8427e-lc.min.js"></script>
+<link href="/etc.clientlibs/flipgrid/clientlibs/clientlib-dependencies.lc-d41d8cd98f00b204e9800998ecf8427e-lc.min.css" rel="stylesheet" type="text/css"/>
+<link href="/etc.clientlibs/flipgrid/clientlibs/clientlib-site.lc-a84d6ae7381e9003218b111354930fe2-lc.min.css" rel="stylesheet" type="text/css"/>
+</head>
+<body class="page basicpage" data-cmp-data-layer-enabled="" id="page-51a7cddd23">
+<script>
+          window.adobeDataLayer = window.adobeDataLayer || [];
+          adobeDataLayer.push({
+              page: JSON.parse("{\x22page\u002D51a7cddd23\x22:{\x22@type\x22:\x22flipgrid\/components\/page\x22,\x22repo:modifyDate\x22:\x222021\u002D08\u002D03T00:43:33Z\x22,\x22dc:title\x22:\x22Flip is a video discussion and sharing app, free from Microsoft.\x22,\x22dc:description\x22:\x22Flip (formerly Flipgrid) is a video discussion and video sharing app, free from Microsoft, built for classrooms and beyond. Learn more.\x22,\x22xdm:template\x22:\x22\/conf\/flipgrid\/settings\/wcm\/templates\/flipgrid\u002Dhomepage\u002Dtemplate\x22,\x22xdm:language\x22:\x22en\x22,\x22xdm:tags\x22:[],\x22repo:path\x22:\x22\/content\/flipgrid\/us\/en.html\x22}}"),
+              event:'cmp:show',
+              eventInfo: {
+                  path: 'page.page\u002D51a7cddd23'
+              }
+          });
+        </script>
+<div class="root container responsivegrid">
+<div class="cmp-container" id="container-ebe0cd9ec5">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<header class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-experiencefragment cmp-experiencefragment--header" id="experiencefragment-e84f00a264">
+<div class="cmp-container" id="container-2813ba3b27">
+<div class="container responsivegrid container-fluid">
+<div class="cmp-container" id="header-alert-banner">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-container" data-m='{"id":"homepage-header-readmore", "aN":"Home Page Header Read More", "cN":"HP Header Read More"}' id="container-8d78dac677">
+<div class="text"><div class="cmp-text" data-cmp-data-layer='{"text-6e46b936a8":{"@type":"flipgrid/components/text","repo:modifyDate":"2023-06-30T20:32:21Z","xdm:text":"&lt;p&gt;&lt;a href=\"https://info.flip.com/events/professional-development.html?ocid=infosite_banner_pd_b2s2023\" target=\"_self\"&gt;Register&lt;/a&gt; for free PD and training from Team Flip today!&lt;/p&gt;\r\n"}}' id="text-6e46b936a8">
+<p><a href="https://info.flip.com/events/professional-development.html?ocid=infosite_banner_pd_b2s2023" target="_self">Register</a> for free PD and training from Team Flip today!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid standard-width">
+<div class="cmp-container" id="header-main-content">
+<div class="button button-primary">
+<a class="cmp-button" href="#main-content" id="site-skip-content" target="_self">
+<span class="cmp-button__text">Skip to Main Content</span>
+</a>
+</div>
+<div class="image">
+<div class="cmp-image" data-asset="/content/dam/flipgrid/logos/flip-logo-light.png" data-asset-id="a3a0c997-3ed6-406e-a73b-60c364700ec2" data-cmp-data-layer='{"site-logo":{"@type":"flipgrid/components/image","repo:modifyDate":"2023-06-30T20:32:21Z","xdm:linkURL":"/en-us.html","image":{"repo:id":"a3a0c997-3ed6-406e-a73b-60c364700ec2","repo:modifyDate":"2022-06-28T12:22:44Z","@type":"image/png","repo:path":"/content/dam/flipgrid/logos/flip-logo-light.png"}}}' data-cmp-is="image" data-cmp-lazythreshold="0" data-cmp-src="/content/experience-fragments/flipgrid/us/en/site/header/master21/_jcr_content/root/container_copy/image.coreimg{.width}.png/1688157141267/flip-logo-light.png" data-title="Flip logo" id="site-logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<a class="cmp-image__link" data-cmp-clickable="" data-cmp-hook-image="link" href="/en-us.html">
+<img alt="Flip logo" class="cmp-image__image" data-cmp-hook-image="image" itemprop="contentUrl" src="/content/experience-fragments/flipgrid/us/en/site/header/master21/_jcr_content/root/container_copy/image.coreimg.png/1688157141267/flip-logo-light.png"/>
+</a>
+</div>
+</div>
+<div class="navigation">
+<nav class="cmp-navigation" id="site-navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+<ul class="cmp-navigation__group">
+<li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer='{"site-navigation-item-7563293619":{"@type":"flipgrid/components/navigation/item","repo:modifyDate":"2021-11-18T21:27:17Z","dc:title":"Getting Started","xdm:linkURL":"/en-us/getting-started.html"}}'>
+<div>
+<a class="cmp-navigation__item-link" data-cmp-clickable="" data-m='{"id":"Getting Started header nav", "cN":"Getting Started header nav"}' href="/en-us/getting-started.html" target="_self" title="Getting Started">Getting Started</a>
+</div>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer='{"site-navigation-item-389a24888d":{"@type":"flipgrid/components/navigation/item","repo:modifyDate":"2021-11-18T21:28:01Z","dc:title":"Blog","xdm:linkURL":"/en-us/blog.html"}}'>
+<div>
+<a class="cmp-navigation__item-link" data-cmp-clickable="" data-m='{"id":"Blog header nav", "cN":"Blog header nav"}' href="/en-us/blog.html" target="_self" title="Blog">Blog</a>
+</div>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer='{"site-navigation-item-8caafd0684":{"@type":"flipgrid/components/navigation/item","repo:modifyDate":"2022-04-16T00:06:36Z","dc:title":"Events","xdm:linkURL":"/en-us/events.html"}}'>
+<div>
+<a class="cmp-navigation__item-link" data-cmp-clickable="" data-m='{"id":"Events header nav", "cN":"Events header nav"}' href="/en-us/events.html" target="_self" title="Events">Events</a>
+</div>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer='{"site-navigation-item-2dfc46d9cf":{"@type":"flipgrid/components/navigation/item","repo:modifyDate":"2021-08-03T00:43:33Z","dc:title":"Help Center","xdm:linkURL":"https://help.flip.com/hc/en-us"}}'>
+<div>
+<a class="cmp-navigation__item-link" data-cmp-clickable="" data-m='{"id":"Help Center header nav", "cN":"Help Center header nav"}' href="https://help.flip.com/hc/en-us" target="_self" title="Help Center">Help Center</a>
+</div>
+</li>
+<li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer='{"site-navigation-item-97e6eb0e7a":{"@type":"flipgrid/components/navigation/item","repo:modifyDate":"2022-10-10T04:08:04Z","dc:title":"Download the Flip App","xdm:linkURL":"/en-us/download-the-flip-app.html"}}'>
+<div>
+<a class="cmp-navigation__item-link" data-cmp-clickable="" data-m='{"id":"Download the Flip App header nav", "cN":"Download the Flip App header nav"}' href="/en-us/download-the-flip-app.html" target="_self" title="Download the Flip App">Download the Flip App</a>
+</div>
+</li>
+</ul>
+</nav>
+</div>
+<div class="button button-default">
+<a class="cmp-button" data-m='{"id":"header-login-1", "aN":"Header Log In", "cN":"Header Log In"}' href="https://admin.flip.com/signin" id="site-login-button" target="_self">
+<span class="cmp-button__text">Log In</span>
+</a>
+</div>
+<div class="button button-primary">
+<a class="cmp-button" data-m='{"id":"header-signup-1", "aN":"Header Sign Up", "cN":"Header Sign Up"}' href="https://admin.flip.com/signup" id="site-signup-button" target="_self">
+<span class="cmp-button__text">Sign Up</span>
+</a>
+</div>
+<div class="button button-primary">
+<button class="cmp-button cmp-button--has-icon" id="site-menu-toggle" type="button">
+<span aria-hidden="true" class="cmp-button__icon cmp-button__icon--hamburger"></span>
+<span class="cmp-button__text">Menu</span>
+</button>
+</div>
+<div class="languagenavigation">
+<div class="cmp-languagenavigation--langnavtoggle" id="site-languagenavigationtoggle">
+<a aria-label="Toggle Language" href="#langNavToggle" id="langNavToggleHeader" role="button"> </a>
+</div>
+<nav class="cmp-languagenavigation" data-cmp-data-layer='{"site-languagenavigation":{"@type":"flipgrid/components/languagenavigation","repo:modifyDate":"2023-06-30T20:32:21Z"}}' id="site-languagenavigation">
+<ul class="cmp-languagenavigation__group">
+<li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-en cmp-languagenavigation__item--level-0 cmp-languagenavigation__item--active" data-cmp-data-layer='{"site-languagenavigation-item-51a7cddd23":{"@type":"flipgrid/components/languagenavigation/item","repo:modifyDate":"2021-08-03T00:43:33Z","dc:title":"English (US)","xdm:linkURL":"/en-us.html","xdm:language":"en"}}'>
+<a aria-current="page" class="cmp-languagenavigation__item-link" data-cmp-clickable="" href="/en-us.html" hreflang="en" lang="en" rel="alternate">English (US)</a>
+</li>
+<li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-es cmp-languagenavigation__item--level-0" data-cmp-data-layer='{"site-languagenavigation-item-6c5a7f8bc7":{"@type":"flipgrid/components/languagenavigation/item","repo:modifyDate":"2023-04-25T15:37:26Z","dc:title":"Español","xdm:linkURL":"/es-us.html","xdm:language":"es"}}'>
+<a class="cmp-languagenavigation__item-link" data-cmp-clickable="" href="/es-us.html" hreflang="es" lang="es" rel="alternate">Español</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<main class="container responsivegrid is-pulled-up aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-container" id="container-74803e5314">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12">
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-container" id="main-content">
+<div class="container responsivegrid">
+<div class="cmp-container" id="section-hero" style="background-color:#000000;">
+<div class="container responsivegrid standard-width">
+<div class="cmp-container" id="section-hero-inner">
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-bc3474be94">
+<div class="embedoriginal embed"><div class="cmp-embed" data-cmp-data-layer='{"embedoriginal-da17c74c85":{"@type":"flipgrid/components/embedoriginal","repo:modifyDate":"2023-07-17T20:51:02Z"}}' id="embedoriginal-da17c74c85">
+<div>
+<div class="title">
+<div class="cmp-title">
+<h1 class="cmp-title__text">
+<span class="line line1">A <span class="text-gradient-blue-green animated">safe</span> space for student</span>
+<span class="line line2"><span class="text-gradient-blue-green animated">expression</span> and <span class="text-gradient-blue-green animated">creativity</span></span>
+</h1>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="text"><div class="cmp-text" data-cmp-data-layer='{"text-3615089492":{"@type":"flipgrid/components/text","repo:modifyDate":"2023-07-17T20:51:02Z","xdm:text":"&lt;p&gt;Flip is a free app from Microsoft where educators create safe, online groups for students to express their ideas asynchronously in short video, text, and audio messages.&lt;/p&gt;\r\n"}}' id="text-3615089492">
+<p>Flip is a free app from Microsoft where educators create safe, online groups for students to express their ideas asynchronously in short video, text, and audio messages.</p>
+</div>
+</div>
+<div class="container responsivegrid">
+<div class="cmp-container" id="hero-button-wrapper">
+<div class="button button-primary adjust-to-width">
+<a class="cmp-button" data-m='{"id":"homepage-signup-1", "aN":"Home Page Sign Up 1", "cN":"Home Page Sign Up 1"}' href="https://admin.flip.com/signup" id="hero-signup-button" target="_self">
+<span class="cmp-button__text">Sign Up For Free</span>
+</a>
+</div>
+<div class="joincode"><div class="cmp-joincode">
+<div class="cmp-joincode__input input-group animate__animated">
+<input class="codeJoinControl form-control" placeholder="Enter a join code" type="text"/>
+<div class="input-group-append">
+<div class="qrJoinElement" data-m='{"id":"hpbanner1-joincode-qr-scan", "aN":"Home Page Banner  1 Join Code QR Scan", "cN":"Home Page Banner 1 Join Code QR Scan"}'></div>
+<div class="joinBtnElement">
+<div class="joincode-button">
+<button aria-label="Submit your join code" class="joincode-button__button cmp-joincode__submit" data-m='{"id":"hpbanner1-joincode-qr", "aN":"Home Page Banner  1 Join Code QR", "cN":"Home Page Banner 1 Join Code QR"}' type="button">
+<span class="joincode-button__icon-arrow"></span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-333523f132">
+<div class="video">
+<div class="cmp-video">
+<video autoplay="" class="cmp-video__media cmp-video--is-autoplay" data-autoplay="" loop="" muted="" playsinline="">
+<source src="/content/dam/flipgrid/media/flip-homepage-hero3-2x.webm" type="video/webm"/>
+<source src="/content/dam/flipgrid/media/flip-homepage-hero3-2x.mp4" type="video/mp4"/>
+</video>
+<div class="cmp-container" id="container-427b7cc8dd">
+</div>
+<div aria-live="polite" class="button button-primary button-interactive">
+<button aria-label="Pause Video" class="cmp-video__control cmp-button cmp-button--has-icon" tabindex="0" type="button">
+<span class="cmp-button__text">Pause</span>
+<span class="cmp-button__icon cmp-button__icon--icon-pause-dark"></span>
+</button>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid">
+<div class="cmp-container" id="section-testimonials">
+<div class="container responsivegrid standard-width">
+<div class="cmp-container" id="container-d7a5d0277a">
+<div class="title text-center"><div class="cmp-title" data-cmp-data-layer='{"title-b20d561b48":{"@type":"flipgrid/components/title","repo:modifyDate":"2023-07-17T20:51:02Z","dc:title":"Get started in minutes!"}}' id="title-b20d561b48">
+<h2 class="cmp-title__text">
+        Get started in minutes!
+    </h2>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid standard-width">
+<div class="cmp-container" id="section-get-started">
+<div class="container responsivegrid">
+<div class="cmp-container" id="section-get-started-steps">
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-978993e00e">
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-eca306bef9">
+<div class="video">
+<div class="cmp-video">
+<video autoplay="" class="cmp-video__media cmp-video--is-autoplay" data-autoplay="" loop="" muted="" playsinline="">
+<source src="/content/dam/flipgrid/media/flip-getting-started-1.webm" type="video/webm"/>
+<source src="/content/dam/flipgrid/media/flip-getting-started-1.mp4" type="video/mp4"/>
+</video>
+<div class="cmp-container" id="container-0d108224e4">
+</div>
+<div aria-live="polite" class="button button-primary button-interactive">
+<button aria-label="Pause Video" class="cmp-video__control cmp-button cmp-button--has-icon" tabindex="0" type="button">
+<span class="cmp-button__text">Pause</span>
+<span class="cmp-button__icon cmp-button__icon--icon-pause-dark"></span>
+</button>
+</div>
+</div></div>
+</div>
+</div>
+<div class="title"><div class="cmp-title" data-cmp-data-layer='{"title-780305405c":{"@type":"flipgrid/components/title","repo:modifyDate":"2023-07-17T20:51:02Z","dc:title":"Create a group and invite students"}}' id="title-780305405c">
+<h3 class="cmp-title__text">
+        Create a group and invite students
+    </h3>
+</div>
+</div>
+<div class="text"><div class="cmp-text" data-cmp-data-layer='{"text-2fd7864290":{"@type":"flipgrid/components/text","repo:modifyDate":"2023-07-17T20:51:02Z","xdm:text":"&lt;p&gt;You control who is invited to become students of your group and what they can see.&lt;/p&gt;\n"}}' id="text-2fd7864290">
+<p>You control who is invited to become students of your group and what they can see.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid">
+<div class="cmp-container" id="section-get-started-steps">
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-729c03bd73">
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-1bf809c1a4">
+<div class="video">
+<div class="cmp-video">
+<video autoplay="" class="cmp-video__media cmp-video--is-autoplay" data-autoplay="" loop="" muted="" playsinline="">
+<source src="/content/dam/flipgrid/media/flip-getting-started-2b.webm" type="video/webm"/>
+<source src="/content/dam/flipgrid/media/flip-getting-started-2b.mp4" type="video/mp4"/>
+</video>
+<div class="cmp-container" id="container-59d994eb1f">
+</div>
+<div aria-live="polite" class="button button-primary button-interactive">
+<button aria-label="Pause Video" class="cmp-video__control cmp-button cmp-button--has-icon" tabindex="0" type="button">
+<span class="cmp-button__text">Pause</span>
+<span class="cmp-button__icon cmp-button__icon--icon-pause-dark"></span>
+</button>
+</div>
+</div></div>
+</div>
+</div>
+<div class="title"><div class="cmp-title" data-cmp-data-layer='{"title-da2e04a2e9":{"@type":"flipgrid/components/title","repo:modifyDate":"2023-07-17T20:51:02Z","dc:title":"Post a topic"}}' id="title-da2e04a2e9">
+<h3 class="cmp-title__text">
+        Post a topic
+    </h3>
+</div>
+</div>
+<div class="text"><div class="cmp-text" data-cmp-data-layer='{"text-0e379445f5":{"@type":"flipgrid/components/text","repo:modifyDate":"2023-07-17T20:51:02Z","xdm:text":"&lt;p&gt;Topics are text or video instructions to prompt your students to respond.&lt;/p&gt;\r\n"}}' id="text-0e379445f5">
+<p>Topics are text or video instructions to prompt your students to respond.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid">
+<div class="cmp-container" id="section-get-started-steps">
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-4089148f5b">
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-c0f2942c57">
+<div class="video">
+<div class="cmp-video">
+<video autoplay="" class="cmp-video__media cmp-video--is-autoplay" data-autoplay="" loop="" muted="" playsinline="">
+<source src="/content/dam/flipgrid/media/flip-getting-started-3b.webm" type="video/webm"/>
+<source src="/content/dam/flipgrid/media/flip-getting-started-3b.mp4" type="video/mp4"/>
+</video>
+<div class="cmp-container" id="container-aa1fca46d7">
+</div>
+<div aria-live="polite" class="button button-primary button-interactive">
+<button aria-label="Pause Video" class="cmp-video__control cmp-button cmp-button--has-icon" tabindex="0" type="button">
+<span class="cmp-button__text">Pause</span>
+<span class="cmp-button__icon cmp-button__icon--icon-pause-dark"></span>
+</button>
+</div>
+</div></div>
+</div>
+</div>
+<div class="title"><div class="cmp-title" data-cmp-data-layer='{"title-de9427ae8c":{"@type":"flipgrid/components/title","repo:modifyDate":"2023-07-17T20:51:02Z","dc:title":"Watch the magic"}}' id="title-de9427ae8c">
+<h3 class="cmp-title__text">
+        Watch the magic
+    </h3>
+</div>
+</div>
+<div class="text"><div class="cmp-text" data-cmp-data-layer='{"text-bcab75e7cc":{"@type":"flipgrid/components/text","repo:modifyDate":"2023-07-17T20:51:02Z","xdm:text":"&lt;p&gt;Comment on students’ video, text or audio messages or invite peers to build on their ideas.&lt;/p&gt;\r\n"}}' id="text-bcab75e7cc">
+<p>Comment on students’ video, text or audio messages or invite peers to build on their ideas.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid">
+<div class="cmp-container" id="section-whats-new">
+<div class="container responsivegrid">
+<div class="cmp-container" id="section-whats-new-inner">
+<div class="title text-center"><div class="cmp-title" data-cmp-data-layer="{&quot;title-8acd7beabb&quot;:{&quot;@type&quot;:&quot;flipgrid/components/title&quot;,&quot;repo:modifyDate&quot;:&quot;2023-07-17T20:51:02Z&quot;,&quot;dc:title&quot;:&quot;What's new on Flip&quot;}}" id="title-8acd7beabb">
+<h2 class="cmp-title__text">
+        What's new on Flip
+    </h2>
+</div>
+</div>
+<div class="container responsivegrid standard-width">
+<div class="cmp-container" id="section-whats-new-teaser-wrapper">
+<div class="teaser homepage-card"><div class="cmp-teaser">
+<div class="cmp-teaser__image">
+<div class="cmp-image" data-asset="/content/dam/flipgrid/events/professional-development/professional-development-alt1.jpg" data-cmp-data-layer='{"image-98dd50b805":{"@type":"flipgrid/components/image","repo:modifyDate":"2023-07-17T20:51:02Z","image":{"repo:id":"c6876201-7d8a-486d-b140-d85d9f752c86","repo:modifyDate":"2022-08-16T15:02:16Z","@type":"image/jpeg","repo:path":"/content/dam/flipgrid/events/professional-development/professional-development-alt1.jpg"}}}' data-cmp-is="image" data-cmp-lazy="" data-cmp-lazythreshold="300" data-cmp-src="/en-us/_jcr_content/root/container/container/container_682473961/container_1228992040/container_191371880/container/teaser_copy_213154292.coreimg.85{.width}.jpeg/1689627062340/professional-development-alt1.jpeg" data-cmp-widths="320,480,600,800,1024,1200,1600" data-title="Photos of Flip trainers inside smubble illustrations" id="image-98dd50b805" itemscope="" itemtype="http://schema.org/ImageObject">
+<noscript data-cmp-hook-image="noscript">
+<img alt="Photos of Flip trainers inside smubble illustrations" class="cmp-image__image" data-cmp-hook-image="image" itemprop="contentUrl" src="/en-us/_jcr_content/root/container/container/container_682473961/container_1228992040/container_191371880/container/teaser_copy_213154292.coreimg.jpeg/1689627062340/professional-development-alt1.jpeg"/>
+</noscript>
+</div>
+</div>
+<div class="cmp-teaser__content">
+<h2 class="cmp-teaser__title">
+        New PD events to help you get started!
+    </h2>
+<div class="cmp-teaser__description"><p>Visit our events page to register.</p>
+</div>
+<div class="cmp-teaser__content-footer">
+<div class="cmp-teaser__action-container">
+<a class="cmp-teaser__action-link" data-m='{"aN":"Home Page","cN":"Whats New PD Events"}' href="/en-us/events/professional-development.html" id="teaser-98dd50b805-cta-946b6a675f">Learn more &gt;</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="teaser homepage-card"><div class="cmp-teaser">
+<div class="cmp-teaser__image">
+<div class="cmp-image" data-asset="/content/dam/flipgrid/blog/updates/2023-Back-to-School/back-to-school.jpg" data-cmp-data-layer='{"image-f7d87eaee1":{"@type":"flipgrid/components/image","repo:modifyDate":"2023-07-17T20:51:02Z","image":{"repo:id":"18e52e07-629e-4824-8a13-6bcc13c6a1ab","repo:modifyDate":"2023-07-05T15:33:10Z","@type":"image/jpeg","repo:path":"/content/dam/flipgrid/blog/updates/2023-Back-to-School/back-to-school.jpg"}}}' data-cmp-is="image" data-cmp-lazy="" data-cmp-lazythreshold="300" data-cmp-src="/en-us/_jcr_content/root/container/container/container_682473961/container_1228992040/container_191371880/container/teaser_copy.coreimg.85{.width}.jpeg/1689627062356/back-to-school.jpeg" data-cmp-widths="320,480,600,800,1024,1200,1600" data-title="Stylized photo of a teacher helping a young student while she uses her computer" id="image-f7d87eaee1" itemscope="" itemtype="http://schema.org/ImageObject">
+<noscript data-cmp-hook-image="noscript">
+<img alt="Stylized photo of a teacher helping a young student while she uses her computer" class="cmp-image__image" data-cmp-hook-image="image" itemprop="contentUrl" src="/en-us/_jcr_content/root/container/container/container_682473961/container_1228992040/container_191371880/container/teaser_copy.coreimg.jpeg/1689627062356/back-to-school.jpeg"/>
+</noscript>
+</div>
+</div>
+<div class="cmp-teaser__content">
+<h2 class="cmp-teaser__title">
+        Introducing new Flip features to save you time and help your students thrive!
+    </h2>
+<div class="cmp-teaser__content-footer">
+<div class="cmp-teaser__action-container">
+<a class="cmp-teaser__action-link" data-m='{"aN":"Home Page","cN":"Whats New Blog Post"}' href="/en-us/blog/get-inspired/3-ways-to-transform-your-classroom.html" id="teaser-f7d87eaee1-cta-7435648a77">Read more &gt;</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="teaser homepage-card"><div class="cmp-teaser">
+<div class="cmp-teaser__image">
+<div class="cmp-image" data-asset="/content/dam/flipgrid/about/trust-and-safety/whats-new-trust-safety2.png" data-cmp-data-layer='{"image-5d690c5b13":{"@type":"flipgrid/components/image","repo:modifyDate":"2023-07-17T20:51:02Z","image":{"repo:id":"5102b396-93b7-4208-8eb7-9b8ea5bb6cfe","repo:modifyDate":"2023-06-21T22:59:43Z","@type":"image/png","repo:path":"/content/dam/flipgrid/about/trust-and-safety/whats-new-trust-safety2.png"}}}' data-cmp-is="image" data-cmp-lazy="" data-cmp-lazythreshold="300" data-cmp-src="/en-us/_jcr_content/root/container/container/container_682473961/container_1228992040/container_191371880/container/teaser.coreimg.85{.width}.png/1689627062373/whats-new-trust-safety2.png" data-cmp-widths="320,480,600,800,1024,1200,1600" data-title="Stylized shield icon" id="image-5d690c5b13" itemscope="" itemtype="http://schema.org/ImageObject">
+<noscript data-cmp-hook-image="noscript">
+<img alt="Stylized shield icon" class="cmp-image__image" data-cmp-hook-image="image" itemprop="contentUrl" src="/en-us/_jcr_content/root/container/container/container_682473961/container_1228992040/container_191371880/container/teaser.coreimg.png/1689627062373/whats-new-trust-safety2.png"/>
+</noscript>
+</div>
+</div>
+<div class="cmp-teaser__content">
+<h2 class="cmp-teaser__title">
+        Trust and Safety Center
+    </h2>
+<div class="cmp-teaser__description"><p>We work hard to keep you and your personal data safe on Flip.</p>
+</div>
+<div class="cmp-teaser__content-footer">
+<div class="cmp-teaser__action-container">
+<a class="cmp-teaser__action-link" data-m='{"aN":"Home Page","cN":"Whats New Trust and Safety"}' href="/en-us/about/trust-and-safety.html" id="teaser-5d690c5b13-cta-10ffa62f11">Learn more &gt;</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid standard-width">
+<div class="cmp-container" id="container-7a6b456d82">
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-3ee1e202a3">
+<div class="carousel panelcontainer carousel-hp-testimonials"><div aria-live="polite" aria-roledescription="carousel" class="cmp-carousel" data-cmp-data-layer='{"carousel-094d011af5":{"shownItems":["carousel-094d011af5-item-40768e9acb"],"@type":"flipgrid/components/carousel","repo:modifyDate":"2023-07-17T20:51:02Z"}}' data-cmp-delay="5000" data-cmp-is="carousel" data-placeholder-text="false" id="carousel-094d011af5" role="group">
+<div class="cmp-carousel__actions button-primary">
+<button aria-label="Previous" class="cmp-carousel__action cmp-carousel__action--previous cmp-button cmp-button--has-icon" type="button">
+<span class="cmp-carousel__action-icon cmp-button__icon--icon-left-arrow"></span>
+<span class="cmp-carousel__action-text visually-hidden">Previous</span>
+</button>
+<button aria-label="Next" class="cmp-carousel__action cmp-carousel__action--next cmp-button cmp-button--has-icon" type="button">
+<span class="cmp-carousel__action-icon cmp-button__icon--icon-right-arrow"></span>
+<span class="cmp-carousel__action-text visually-hidden">Next</span>
+</button>
+</div>
+<div class="cmp-carousel__container swiper-container">
+<div aria-atomic="false" class="swiper-wrapper">
+<div aria-label="Slide 1 of 4" aria-roledescription="slide" class="cmp-carousel__slide swiper-slide" data-cmp-data-layer='{"carousel-094d011af5-item-40768e9acb":{"@type":"flipgrid/components/carousel/item","repo:modifyDate":"2023-07-17T20:51:02Z","dc:title":"\"Flip literally changed everything for me and changed me as an educator for the better. I found what I was missing. My outlook has changed, and so has my confidence level. The spark is there again\""}}' id="carousel-094d011af5-item-40768e9acb-tabpanel" role="tabpanel"><div class="teaser"><div class="cmp-teaser">
+<div class="cmp-teaser__image">
+<div class="cmp-image" data-asset="/content/dam/flipgrid/testimonials/stacey-r.png" data-cmp-data-layer='{"image-40768e9acb":{"@type":"flipgrid/components/image","repo:modifyDate":"2023-07-17T20:51:02Z","image":{"repo:id":"582f7c8c-e848-459f-a423-3f663d1b0eee","repo:modifyDate":"2023-03-01T18:59:51Z","@type":"image/png","repo:path":"/content/dam/flipgrid/testimonials/stacey-r.png"}}}' data-cmp-is="image" data-cmp-lazy="" data-cmp-lazythreshold="300" data-cmp-src="/en-us/_jcr_content/root/container/container/container_682473961/container/container_copy/carousel/teaser_copy_1664491276.coreimg.85{.width}.png/1689627062418/stacey-r.png" data-cmp-widths="320,480,600,800,1024,1200,1600" data-title="Photo of Stacey Roshan" id="image-40768e9acb" itemscope="" itemtype="http://schema.org/ImageObject">
+<noscript data-cmp-hook-image="noscript">
+<img alt="Photo of Stacey Roshan" class="cmp-image__image" data-cmp-hook-image="image" itemprop="contentUrl" src="/en-us/_jcr_content/root/container/container/container_682473961/container/container_copy/carousel/teaser_copy_1664491276.coreimg.png/1689627062418/stacey-r.png"/>
+</noscript>
+</div>
+</div>
+<div class="cmp-teaser__content">
+<h2 class="cmp-teaser__title">
+        "It's been incredible to see some of my quietest students find their voice on video with Flip. In my math classes, Flip has helped students verbalize their thought process on video, opening up awesome pathways for peer-to-peer learning."
+    </h2>
+<div class="cmp-teaser__description"><p><b>Stacey Roshan</b><br/>
+Director of Innovation &amp; Educational Technology, Maryland, USA</p>
+</div>
+<div class="cmp-teaser__content-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-label="Slide 2 of 4" aria-roledescription="slide" class="cmp-carousel__slide swiper-slide" data-cmp-data-layer='{"carousel-094d011af5-item-786f40bcd4":{"@type":"flipgrid/components/carousel/item","repo:modifyDate":"2023-07-17T20:51:02Z","dc:title":"\"Flip literally changed everything for me and changed me as an educator for the better. I found what I was missing. My outlook has changed, and so has my confidence level. The spark is there again\""}}' id="carousel-094d011af5-item-786f40bcd4-tabpanel" role="tabpanel"><div class="teaser"><div class="cmp-teaser">
+<div class="cmp-teaser__image">
+<div class="cmp-image" data-asset="/content/dam/flipgrid/testimonials/renee-d-v2.png" data-cmp-data-layer='{"image-786f40bcd4":{"@type":"flipgrid/components/image","repo:modifyDate":"2023-07-17T20:51:02Z","image":{"repo:id":"4b7f4488-408f-4487-973a-f79df1110ee3","repo:modifyDate":"2023-03-03T21:30:07Z","@type":"image/png","repo:path":"/content/dam/flipgrid/testimonials/renee-d-v2.png"}}}' data-cmp-is="image" data-cmp-lazy="" data-cmp-lazythreshold="300" data-cmp-src="/en-us/_jcr_content/root/container/container/container_682473961/container/container_copy/carousel/teaser_copy.coreimg.85{.width}.png/1689627062424/renee-d-v2.png" data-cmp-widths="320,480,600,800,1024,1200,1600" data-title="Photo of Renee Dawson" id="image-786f40bcd4" itemscope="" itemtype="http://schema.org/ImageObject">
+<noscript data-cmp-hook-image="noscript">
+<img alt="Photo of Renee Dawson" class="cmp-image__image" data-cmp-hook-image="image" itemprop="contentUrl" src="/en-us/_jcr_content/root/container/container/container_682473961/container/container_copy/carousel/teaser_copy.coreimg.png/1689627062424/renee-d-v2.png"/>
+</noscript>
+</div>
+</div>
+<div class="cmp-teaser__content">
+<h2 class="cmp-teaser__title">
+        "Using Flip with the new Reading Coach feature, my students have improved their fluency and gone from not being able to write a complete sentence to being able to write a paragraph using the 'flipped' writing method."
+    </h2>
+<div class="cmp-teaser__description"><p><b>Renee Dawson</b><br/>
+Educational Technology Coach, Atlanta, GA</p>
+</div>
+<div class="cmp-teaser__content-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-label="Slide 3 of 4" aria-roledescription="slide" class="cmp-carousel__slide swiper-slide" data-cmp-data-layer='{"carousel-094d011af5-item-c3ec82f71f":{"@type":"flipgrid/components/carousel/item","repo:modifyDate":"2023-07-17T20:51:02Z","dc:title":"\"Flip literally changed everything for me and changed me as an educator for the better. I found what I was missing. My outlook has changed, and so has my confidence level. The spark is there again\""}}' id="carousel-094d011af5-item-c3ec82f71f-tabpanel" role="tabpanel"><div class="teaser"><div class="cmp-teaser">
+<div class="cmp-teaser__image">
+<div class="cmp-image" data-asset="/content/dam/flipgrid/testimonials/may-v.png" data-cmp-data-layer='{"image-c3ec82f71f":{"@type":"flipgrid/components/image","repo:modifyDate":"2023-07-17T20:51:02Z","image":{"repo:id":"12ae7a6d-59e3-4bfa-9950-a0ed33a21e76","repo:modifyDate":"2023-03-01T18:59:51Z","@type":"image/png","repo:path":"/content/dam/flipgrid/testimonials/may-v.png"}}}' data-cmp-is="image" data-cmp-lazy="" data-cmp-lazythreshold="300" data-cmp-src="/en-us/_jcr_content/root/container/container/container_682473961/container/container_copy/carousel/teaser.coreimg.85{.width}.png/1689627062430/may-v.png" data-cmp-widths="320,480,600,800,1024,1200,1600" data-title="Photo of May Versoza" id="image-c3ec82f71f" itemscope="" itemtype="http://schema.org/ImageObject">
+<noscript data-cmp-hook-image="noscript">
+<img alt="Photo of May Versoza" class="cmp-image__image" data-cmp-hook-image="image" itemprop="contentUrl" src="/en-us/_jcr_content/root/container/container/container_682473961/container/container_copy/carousel/teaser.coreimg.png/1689627062430/may-v.png"/>
+</noscript>
+</div>
+</div>
+<div class="cmp-teaser__content">
+<h2 class="cmp-teaser__title">
+        "Flip has empowered my students and helped build their confidence to speak Filipino, which is not their first language. They now use Flip with confidence to present their ideas in a way that’s less stressful and more fun and engaging."
+    </h2>
+<div class="cmp-teaser__description"><p><b>May Versoza</b><br/>
+High School Filipino Language Teacher, Philippines</p>
+</div>
+<div class="cmp-teaser__content-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div aria-label="Slide 4 of 4" aria-roledescription="slide" class="cmp-carousel__slide swiper-slide" data-cmp-data-layer='{"carousel-094d011af5-item-db6971a040":{"@type":"flipgrid/components/carousel/item","repo:modifyDate":"2023-07-17T20:51:02Z","dc:title":"“The importance of Flip is very much bringing communities together: having meaningful conversations with other people from refugee backgrounds in the state or wherever else is so so important because you’re building those relationships. You’re building that confidence and you’re recognizing that you’re not alone.”"}}' id="carousel-094d011af5-item-db6971a040-tabpanel" role="tabpanel"><div class="teaser"><div class="cmp-teaser">
+<div class="cmp-teaser__image">
+<div class="cmp-image" data-asset="/content/dam/flipgrid/testimonials/krupali-s.png" data-cmp-data-layer='{"image-db6971a040":{"@type":"flipgrid/components/image","repo:modifyDate":"2023-07-17T20:51:02Z","image":{"repo:id":"747e0ce5-63f4-49cd-95f8-c828446bf80d","repo:modifyDate":"2023-03-01T18:59:51Z","@type":"image/png","repo:path":"/content/dam/flipgrid/testimonials/krupali-s.png"}}}' data-cmp-is="image" data-cmp-lazy="" data-cmp-lazythreshold="300" data-cmp-src="/en-us/_jcr_content/root/container/container/container_682473961/container/container_copy/carousel/teaser_copy_1177913029.coreimg.85{.width}.png/1689627062436/krupali-s.png" data-cmp-widths="320,480,600,800,1024,1200,1600" data-title="Photo of Krupali Sanghvi" id="image-db6971a040" itemscope="" itemtype="http://schema.org/ImageObject">
+<noscript data-cmp-hook-image="noscript">
+<img alt="Photo of Krupali Sanghvi" class="cmp-image__image" data-cmp-hook-image="image" itemprop="contentUrl" src="/en-us/_jcr_content/root/container/container/container_682473961/container/container_copy/carousel/teaser_copy_1177913029.coreimg.png/1689627062436/krupali-s.png"/>
+</noscript>
+</div>
+</div>
+<div class="cmp-teaser__content">
+<h2 class="cmp-teaser__title">
+        "Flip has flipped my pedagogies and helped me to make my classroom more interesting and interactive.  I use Flip for Integrated Interdisciplinary Activities and find it to be an easy and inclusive way to instill 21st Century Learning Skills."
+    </h2>
+<div class="cmp-teaser__description"><p><b>Krupali Sanghvi</b><br/>
+Computer Science Teacher, India</p>
+</div>
+<div class="cmp-teaser__content-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ol aria-label="Choose a slide to display" class="cmp-carousel__indicators" role="tablist">
+<li aria-label="Previous slide" aria-selected="false" class="cmp-carousel__navigation-arrows cmp-carousel__navigation-prev" id="carousel-094d011af5-prev" role="tab" title="Previous slide"></li>
+<li aria-controls="carousel-094d011af5-item-40768e9acb-tabpanel" aria-label="Slide 1" aria-selected="false" class="cmp-carousel__indicator cmp-carousel__indicator--active" data-index="0" id="carousel-094d011af5-item-40768e9acb-tab" role="tab">
+                "Flip literally changed everything for me and changed me as an educator for the better. I found what I was missing. My outlook has changed, and so has my confidence level. The spark is there again"
+            </li>
+<li aria-controls="carousel-094d011af5-item-786f40bcd4-tabpanel" aria-label="Slide 2" aria-selected="false" class="cmp-carousel__indicator" data-index="1" id="carousel-094d011af5-item-786f40bcd4-tab" role="tab">
+                "Flip literally changed everything for me and changed me as an educator for the better. I found what I was missing. My outlook has changed, and so has my confidence level. The spark is there again"
+            </li>
+<li aria-controls="carousel-094d011af5-item-c3ec82f71f-tabpanel" aria-label="Slide 3" aria-selected="false" class="cmp-carousel__indicator" data-index="2" id="carousel-094d011af5-item-c3ec82f71f-tab" role="tab">
+                "Flip literally changed everything for me and changed me as an educator for the better. I found what I was missing. My outlook has changed, and so has my confidence level. The spark is there again"
+            </li>
+<li aria-controls="carousel-094d011af5-item-db6971a040-tabpanel" aria-label="Slide 4" aria-selected="false" class="cmp-carousel__indicator" data-index="3" id="carousel-094d011af5-item-db6971a040-tab" role="tab">
+                “The importance of Flip is very much bringing communities together: having meaningful conversations with other people from refugee backgrounds in the state or wherever else is so so important because you’re building those relationships. You’re building that confidence and you’re recognizing that you’re not alone.”
+            </li>
+<li aria-label="Next slide" aria-selected="false" class="cmp-carousel__navigation-arrows cmp-carousel__navigation-next" id="carousel-094d011af5-next" role="tab" title="Next slide"></li>
+</ol>
+</div>
+</div>
+<div class="cmp-carousel__modal">
+<div aria-hidden="true" class="modal micromodal-slide" id="twitter-modal">
+<div class="modal__overlay" data-micromodal-close="" tabindex="-1">
+<div aria-label="Full Tweet" aria-modal="true" class="modal__container" role="dialog">
+<div class="modal__header button-primary">
+<button aria-label="Close modal" class="modal__close cmp-button cmp-button--has-icon" data-micromodal-close=""></button>
+</div>
+<div class="cmp-twittercard modal__content" id="twitter-modal-content"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid">
+<div class="cmp-container" id="section-videos-shared" style="background-color:#3F2ED3;">
+<div class="container responsivegrid standard-width align-center">
+<div class="cmp-container" id="container-7b0289eeee">
+<div class="embedoriginal embed"><div class="cmp-embed" data-cmp-data-layer='{"embedoriginal-259bf29f92":{"@type":"flipgrid/components/embedoriginal","repo:modifyDate":"2023-07-17T20:51:02Z"}}' id="embedoriginal-259bf29f92">
+<div>
+<div class="title">
+<div class="cmp-title">
+<h2 class="cmp-title__text">
+<span class="text-gradient-blue-green">84% of Flip educators</span> say their students were more engaged after using the app.
+    </h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid">
+<div class="cmp-container" id="section-main-body">
+<div class="container responsivegrid standard-width">
+<div class="cmp-container" id="container-1ce2ea9ebf">
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-ab7cc57994">
+<div class="carousel panelcontainer carousel-hp-news"><div aria-live="polite" aria-roledescription="carousel" class="cmp-carousel" data-cmp-data-layer='{"carousel-77b1756d08":{"shownItems":["carousel-77b1756d08-item-7ff0a5250c"],"@type":"flipgrid/components/carousel","repo:modifyDate":"2023-07-17T20:51:02Z"}}' data-cmp-delay="5000" data-cmp-is="carousel" data-placeholder-text="false" id="carousel-77b1756d08" role="group">
+<div class="cmp-carousel__actions button-primary">
+<button aria-label="Previous" class="cmp-carousel__action cmp-carousel__action--previous cmp-button cmp-button--has-icon" type="button">
+<span class="cmp-carousel__action-icon cmp-button__icon--icon-left-arrow"></span>
+<span class="cmp-carousel__action-text visually-hidden">Previous</span>
+</button>
+<button aria-label="Next" class="cmp-carousel__action cmp-carousel__action--next cmp-button cmp-button--has-icon" type="button">
+<span class="cmp-carousel__action-icon cmp-button__icon--icon-right-arrow"></span>
+<span class="cmp-carousel__action-text visually-hidden">Next</span>
+</button>
+</div>
+<div class="cmp-carousel__container swiper-container">
+<div aria-atomic="false" class="swiper-wrapper">
+<div aria-label="Slide 1 of 1" aria-roledescription="slide" class="cmp-carousel__slide swiper-slide" data-cmp-data-layer="{&quot;carousel-77b1756d08-item-7ff0a5250c&quot;:{&quot;@type&quot;:&quot;flipgrid/components/carousel/item&quot;,&quot;repo:modifyDate&quot;:&quot;2023-07-17T20:51:02Z&quot;,&quot;dc:title&quot;:&quot;What's New at Flip Teaser&quot;}}" id="carousel-77b1756d08-item-7ff0a5250c-tabpanel" role="tabpanel"><div class="teaser"><div class="cmp-teaser">
+<div class="cmp-teaser__image">
+<div class="cmp-image" data-asset="/content/dam/flipgrid/flip/you-can-flip-it.png" data-cmp-data-layer='{"image-7ff0a5250c":{"@type":"flipgrid/components/image","repo:modifyDate":"2023-07-17T20:51:02Z","image":{"repo:id":"537c78ee-d7f3-4350-9e81-f20346ab56bc","repo:modifyDate":"2023-03-01T22:17:11Z","@type":"image/png","repo:path":"/content/dam/flipgrid/flip/you-can-flip-it.png"}}}' data-cmp-is="image" data-cmp-lazy="" data-cmp-lazythreshold="300" data-cmp-src="/en-us/_jcr_content/root/container/container/container_728803220/container/container/carousel_copy/item_1654284868856_c.coreimg.85{.width}.png/1689627062511/you-can-flip-it.png" data-cmp-widths="320,480,600,800,1024,1200,1600" id="image-7ff0a5250c" itemscope="" itemtype="http://schema.org/ImageObject">
+<noscript data-cmp-hook-image="noscript">
+<img alt="" class="cmp-image__image" data-cmp-hook-image="image" itemprop="contentUrl" src="/en-us/_jcr_content/root/container/container/container_728803220/container/container/carousel_copy/item_1654284868856_c.coreimg.png/1689627062511/you-can-flip-it.png"/>
+</noscript>
+</div>
+</div>
+<div class="cmp-teaser__content">
+<h2 class="cmp-teaser__title">
+        If you can think it, you can Flip it!
+    </h2>
+<div class="cmp-teaser__description"><p>Meet other Flip educators from around the world, and see the inspiring ways they use Flip in their classrooms.​</p>
+</div>
+<div class="cmp-teaser__content-footer">
+<div class="cmp-teaser__action-container">
+<a class="cmp-teaser__action-link" data-m='{"aN":"Home Page","cN":"Think it Flip it Join on Facebook"}' href="https://www.facebook.com/Microsoftflip" id="teaser-7ff0a5250c-cta-f3a67f5574">Join us on Facebook</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<ol aria-label="Choose a slide to display" class="cmp-carousel__indicators" role="tablist">
+<li aria-label="Previous slide" aria-selected="false" class="cmp-carousel__navigation-arrows cmp-carousel__navigation-prev" id="carousel-77b1756d08-prev" role="tab" title="Previous slide"></li>
+<li aria-controls="carousel-77b1756d08-item-7ff0a5250c-tabpanel" aria-label="Slide 1" aria-selected="false" class="cmp-carousel__indicator cmp-carousel__indicator--active" data-index="0" id="carousel-77b1756d08-item-7ff0a5250c-tab" role="tab">
+                What's New at Flip Teaser
+            </li>
+<li aria-label="Next slide" aria-selected="false" class="cmp-carousel__navigation-arrows cmp-carousel__navigation-next" id="carousel-77b1756d08-next" role="tab" title="Next slide"></li>
+</ol>
+</div>
+</div>
+<div class="cmp-carousel__modal">
+<div aria-hidden="true" class="modal micromodal-slide" id="twitter-modal">
+<div class="modal__overlay" data-micromodal-close="" tabindex="-1">
+<div aria-label="Full Tweet" aria-modal="true" class="modal__container" role="dialog">
+<div class="modal__header button-primary">
+<button aria-label="Close modal" class="modal__close cmp-button cmp-button--has-icon" data-micromodal-close=""></button>
+</div>
+<div class="cmp-twittercard modal__content" id="twitter-modal-content"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid">
+<div class="cmp-container" id="section-social-learning">
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-6e49ee61ac">
+<div class="title"><div class="cmp-title" data-cmp-data-layer='{"title-218bcc7cd3":{"@type":"flipgrid/components/title","repo:modifyDate":"2023-07-17T20:51:02Z","dc:title":"Express yourself on Flip!"}}' id="title-218bcc7cd3">
+<h2 class="cmp-title__text">
+        Express yourself on Flip!
+    </h2>
+</div>
+</div>
+<div class="text"><div class="cmp-text" data-cmp-data-layer='{"text-aacb6d956e":{"@type":"flipgrid/components/text","repo:modifyDate":"2023-07-17T20:51:02Z","xdm:text":"&lt;p&gt;We express ourselves in different ways. On Flip, you can use our simple and fun built-in camera to record your thoughts, add effects and share within your Flip group as video, audio only or text in your web browser or mobile app.&lt;/p&gt;\r\n"}}' id="text-aacb6d956e">
+<p>We express ourselves in different ways. On Flip, you can use our simple and fun built-in camera to record your thoughts, add effects and share within your Flip group as video, audio only or text in your web browser or mobile app.</p>
+</div>
+</div>
+<div class="text text--text-link"><div class="cmp-text" data-cmp-data-layer='{"text-2953921e12":{"@type":"flipgrid/components/text","repo:modifyDate":"2023-07-17T20:51:02Z","xdm:text":"&lt;p&gt;&lt;a data-m=\"{&amp;quot;aN&amp;quot;:&amp;quot;Home Page&amp;quot;,&amp;quot;cN&amp;quot;:&amp;quot;Express Yourself Get Started&amp;quot;}\" href=\"/content/flipgrid/us/en/getting-started.html\" target=\"_self\"&gt;Get Started&lt;/a&gt;&lt;/p&gt;\r\n"}}' id="text-2953921e12">
+<p><a data-m='{"aN":"Home Page","cN":"Express Yourself Get Started"}' href="/en-us/getting-started.html" target="_self">Get Started</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-7bc19f9482">
+<div class="video">
+<div class="cmp-video">
+<video autoplay="" class="cmp-video__media cmp-video--is-autoplay" data-autoplay="" loop="" muted="" playsinline="">
+<source src="/content/dam/flipgrid/media/flip-homepage-express-yourself2.webm" type="video/webm"/>
+<source src="/content/dam/flipgrid/media/flip-homepage-express-yourself2.mp4" type="video/mp4"/>
+</video>
+<div class="cmp-container" id="container-295d71b4d1">
+</div>
+<div aria-live="polite" class="button button-primary button-interactive">
+<button aria-label="Pause Video" class="cmp-video__control cmp-button cmp-button--has-icon" tabindex="0" type="button">
+<span class="cmp-button__text">Pause</span>
+<span class="cmp-button__icon cmp-button__icon--icon-pause-dark"></span>
+</button>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid">
+<div class="cmp-container" id="section-for-everyone" style="background-color:#000000;">
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-acfbd5b5f9">
+<div class="title text-center"><div class="cmp-title" data-cmp-data-layer='{"title-b8c2713486":{"@type":"flipgrid/components/title","repo:modifyDate":"2023-07-17T20:51:02Z","dc:title":"We’re for Everyone"}}' id="title-b8c2713486">
+<h2 class="cmp-title__text">
+        We’re for Everyone
+    </h2>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid standard-width">
+<div class="cmp-container" id="section-for-everyone-wrapper">
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-bbb6a719f5">
+<div class="image auto-width">
+<div class="cmp-image" data-asset="/content/dam/flipgrid/flip/educators-resize.png" data-cmp-data-layer='{"image-417d01fcf3":{"@type":"flipgrid/components/image","repo:modifyDate":"2023-07-17T20:51:02Z","image":{"repo:id":"763ad3ff-bd97-4928-9394-ffed0ddf26d6","repo:modifyDate":"2022-06-28T12:22:48Z","@type":"image/png","repo:path":"/content/dam/flipgrid/flip/educators-resize.png"}}}' data-cmp-is="image" data-cmp-lazy="" data-cmp-lazythreshold="300" data-cmp-src="/en-us/_jcr_content/root/container/container/container_175085329/container/container_copy/image.coreimg.85{.width}.png/1689627062672/educators-resize.png" data-cmp-widths="320,480,600,800,1024,1200,1600" id="image-417d01fcf3" itemscope="" itemtype="http://schema.org/ImageObject">
+<noscript data-cmp-hook-image="noscript">
+<img alt="" class="cmp-image__image" data-cmp-hook-image="image" itemprop="contentUrl" src="/en-us/_jcr_content/root/container/container/container_175085329/container/container_copy/image.coreimg.png/1689627062672/educators-resize.png"/>
+</noscript>
+</div>
+</div>
+<div class="title"><div class="cmp-title" data-cmp-data-layer='{"title-4999b4526b":{"@type":"flipgrid/components/title","repo:modifyDate":"2023-07-17T20:51:02Z","dc:title":"Educators"}}' id="title-4999b4526b">
+<h3 class="cmp-title__text">
+        Educators
+    </h3>
+</div>
+</div>
+<div class="text"><div class="cmp-text" data-cmp-data-layer='{"text-abcc6424a6":{"@type":"flipgrid/components/text","repo:modifyDate":"2023-07-17T20:51:02Z","xdm:text":"&lt;p&gt;Give students a platform to share their voice and creativity with confidence while connecting with their peers.&lt;/p&gt;\r\n"}}' id="text-abcc6424a6">
+<p>Give students a platform to share their voice and creativity with confidence while connecting with their peers.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-7015a981e0">
+<div class="image auto-width">
+<div class="cmp-image" data-asset="/content/dam/flipgrid/flip/organizations-resize.png" data-cmp-data-layer='{"image-1aa2d41f86":{"@type":"flipgrid/components/image","repo:modifyDate":"2023-07-17T20:51:02Z","image":{"repo:id":"83d28f93-cc84-4ce3-9b2f-768ddb8ee06e","repo:modifyDate":"2022-06-28T12:22:48Z","@type":"image/png","repo:path":"/content/dam/flipgrid/flip/organizations-resize.png"}}}' data-cmp-is="image" data-cmp-lazy="" data-cmp-lazythreshold="300" data-cmp-src="/en-us/_jcr_content/root/container/container/container_175085329/container/container_copy_648828513/image.coreimg.85{.width}.png/1689627062727/organizations-resize.png" data-cmp-widths="320,480,600,800,1024,1200,1600" id="image-1aa2d41f86" itemscope="" itemtype="http://schema.org/ImageObject">
+<noscript data-cmp-hook-image="noscript">
+<img alt="" class="cmp-image__image" data-cmp-hook-image="image" itemprop="contentUrl" src="/en-us/_jcr_content/root/container/container/container_175085329/container/container_copy_648828513/image.coreimg.png/1689627062727/organizations-resize.png"/>
+</noscript>
+</div>
+</div>
+<div class="title"><div class="cmp-title" data-cmp-data-layer='{"title-f3a2235089":{"@type":"flipgrid/components/title","repo:modifyDate":"2023-07-17T20:51:02Z","dc:title":"Organizations"}}' id="title-f3a2235089">
+<h3 class="cmp-title__text">
+        Organizations
+    </h3>
+</div>
+</div>
+<div class="text"><div class="cmp-text" data-cmp-data-layer='{"text-440ed91fad":{"@type":"flipgrid/components/text","repo:modifyDate":"2023-07-17T20:51:02Z","xdm:text":"&lt;p&gt;Build a secure online community for your club or organization to strengthen communication, plan events, share milestones, engage donors, and so much more.&lt;/p&gt;\r\n"}}' id="text-440ed91fad">
+<p>Build a secure online community for your club or organization to strengthen communication, plan events, share milestones, engage donors, and so much more.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-0f1290572f">
+<div class="image auto-width">
+<div class="cmp-image" data-asset="/content/dam/flipgrid/flip/community-builders-resize.png" data-cmp-data-layer='{"image-4cc9f7df34":{"@type":"flipgrid/components/image","repo:modifyDate":"2023-07-17T20:51:02Z","image":{"repo:id":"b0d2bffc-2cb9-4bad-bc45-9c7318c865c1","repo:modifyDate":"2022-06-28T12:29:41Z","@type":"image/png","repo:path":"/content/dam/flipgrid/flip/community-builders-resize.png"}}}' data-cmp-is="image" data-cmp-lazy="" data-cmp-lazythreshold="300" data-cmp-src="/en-us/_jcr_content/root/container/container/container_175085329/container/container/image.coreimg.85{.width}.png/1689627062773/community-builders-resize.png" data-cmp-widths="320,480,600,800,1024,1200,1600" id="image-4cc9f7df34" itemscope="" itemtype="http://schema.org/ImageObject">
+<noscript data-cmp-hook-image="noscript">
+<img alt="" class="cmp-image__image" data-cmp-hook-image="image" itemprop="contentUrl" src="/en-us/_jcr_content/root/container/container/container_175085329/container/container/image.coreimg.png/1689627062773/community-builders-resize.png"/>
+</noscript>
+</div>
+</div>
+<div class="title"><div class="cmp-title" data-cmp-data-layer='{"title-1c651df9cc":{"@type":"flipgrid/components/title","repo:modifyDate":"2023-07-17T20:51:02Z","dc:title":"Community Builders"}}' id="title-1c651df9cc">
+<h3 class="cmp-title__text">
+        Community Builders
+    </h3>
+</div>
+</div>
+<div class="text"><div class="cmp-text" data-cmp-data-layer='{"text-d5bbd19401":{"@type":"flipgrid/components/text","repo:modifyDate":"2023-07-17T20:51:02Z","xdm:text":"&lt;p&gt;Whether you’re a family, a small business owner, or looking to connect through hobbies and interests, Flip can help you share your greatest moments and your story with the people you know.&lt;/p&gt;\r\n"}}' id="text-d5bbd19401">
+<p>Whether you’re a family, a small business owner, or looking to connect through hobbies and interests, Flip can help you share your greatest moments and your story with the people you know.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid align-center">
+<div class="cmp-container" id="container-2e463606b4">
+<div class="button button-default adjust-to-width">
+<a class="cmp-button" href="/en-us/getting-started.html" id="button-2962f661f8" target="_self">
+<span class="cmp-button__text">Get Started</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid">
+<div class="cmp-container" id="container-b9c67b64c0">
+</div>
+</div>
+<div class="container responsivegrid">
+<div class="cmp-container" id="section-ready-to-flip" style="background-color:#000;">
+<div class="container responsivegrid standard-width">
+<div class="cmp-container" id="section-ready-to-flip-inner">
+<div class="title text-center"><div class="cmp-title" data-cmp-data-layer='{"title-a18016d766":{"@type":"flipgrid/components/title","repo:modifyDate":"2023-07-17T20:51:02Z","dc:title":"Ready to Flip?"}}' id="title-a18016d766">
+<h2 class="cmp-title__text">
+        Ready to Flip?
+    </h2>
+</div>
+</div>
+<div class="container responsivegrid">
+<div class="cmp-container" id="footer-button-wrapper">
+<div class="button button-primary">
+<a class="cmp-button" href="https://admin.flip.com/signup" id="footer-signup-button" target="_self">
+<span class="cmp-button__text">Sign Up</span>
+</a>
+</div>
+<div class="button button-default">
+<a class="cmp-button" href="https://admin.flip.com/signin" id="footer-login-button" target="_self">
+<span class="cmp-button__text">Log In</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div class="cmp-experiencefragment cmp-experiencefragment--footer" id="experiencefragment-9c4781a627">
+<div aria-label="Footer Content Info" class="cmp-container" id="container-558d691e93" role="navigation">
+<div class="container responsivegrid container-fixed">
+<div class="cmp-container" id="container--footer-top">
+<div class="aem-Grid aem-Grid--12 aem-Grid--small--12 aem-Grid--default--12 aem-Grid--xsmall--12">
+<div class="container responsivegrid aem-GridColumn--small--none aem-GridColumn--offset--xsmall--0 aem-GridColumn--default--none aem-GridColumn--xsmall--none aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--offset--small--0 aem-GridColumn--default--6 aem-GridColumn--offset--default--0 aem-GridColumn--small--6">
+<div class="cmp-container" id="container-51232fe788">
+<div class="aem-Grid aem-Grid--6 aem-Grid--small--6 aem-Grid--xsmall--6 aem-Grid--default--6">
+<div class="container responsivegrid aem-GridColumn--small--none aem-GridColumn--offset--xsmall--0 aem-GridColumn--default--none aem-GridColumn--xsmall--none aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--offset--small--0 aem-GridColumn--offset--default--0 aem-GridColumn--small--6 aem-GridColumn--default--2">
+<div class="cmp-container" id="container-9bc6cc4bdd">
+<div class="aem-Grid aem-Grid--2 aem-Grid--small--6 aem-Grid--default--2 aem-Grid--xsmall--6">
+<div class="title aem-GridColumn--small--none aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--offset--small--0 aem-GridColumn--small--6 aem-GridColumn--default--2"><div class="cmp-title" data-cmp-data-layer='{"title-6fd248a547":{"@type":"flipgrid/components/title","repo:modifyDate":"2023-04-24T04:01:10Z","dc:title":"About","xdm:linkURL":"/en-us/about.html"}}' id="title-6fd248a547">
+<h4 class="cmp-title__text">
+<a class="cmp-title__link" data-cmp-clickable="" href="/en-us/about.html">About</a>
+</h4>
+</div>
+</div>
+<div class="list aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--small--6 aem-GridColumn--default--2">
+<ul class="cmp-list" id="list-82a2fb8b11">
+<li class="cmp-list__item" data-cmp-data-layer='{"list-82a2fb8b11-item-7563293619":{"@type":"flipgrid/components/list/item","repo:modifyDate":"2021-11-18T21:27:17Z","dc:title":"Getting Started","xdm:linkURL":"/en-us/getting-started.html"}}'>
+<article>
+<a class="cmp-list__item-link" data-cmp-clickable="" data-m='{"id":"Getting Started footer nav", "cN":"Getting Started footer nav"}' href="/en-us/getting-started.html" target="_self">
+<span class="cmp-list__item-title">Getting Started</span>
+</a>
+</article>
+</li>
+<li class="cmp-list__item" data-cmp-data-layer='{"list-82a2fb8b11-item-adf65e7e63":{"@type":"flipgrid/components/list/item","repo:modifyDate":"2021-11-18T21:29:05Z","dc:title":"Educator Toolkit","xdm:linkURL":"/en-us/about/educator-toolkit.html"}}'>
+<article>
+<a class="cmp-list__item-link" data-cmp-clickable="" data-m='{"id":"Educator Toolkit footer nav", "cN":"Educator Toolkit footer nav"}' href="/en-us/about/educator-toolkit.html" target="_self">
+<span class="cmp-list__item-title">Educator Toolkit</span>
+</a>
+</article>
+</li>
+<li class="cmp-list__item" data-cmp-data-layer='{"list-82a2fb8b11-item-6bdda7cc00":{"@type":"flipgrid/components/list/item","repo:modifyDate":"2021-08-03T00:43:33Z","dc:title":"Careers","xdm:linkURL":"https://careers.microsoft.com/us/en/search-results?rt=professional&amp;keywords=flip"}}'>
+<article>
+<a class="cmp-list__item-link" data-cmp-clickable="" data-m='{"id":"Careers footer nav", "cN":"Careers footer nav"}' href="https://careers.microsoft.com/us/en/search-results?rt=professional&amp;keywords=flip" target="_self">
+<span class="cmp-list__item-title">Careers</span>
+</a>
+</article>
+</li>
+<li class="cmp-list__item" data-cmp-data-layer='{"list-82a2fb8b11-item-2a688078ba":{"@type":"flipgrid/components/list/item","repo:modifyDate":"2022-11-11T19:49:45Z","dc:title":"TakeLessons","xdm:linkURL":"https://takelessons.com/"}}'>
+<article>
+<a class="cmp-list__item-link" data-cmp-clickable="" data-m='{"id":"TakeLessons footer nav", "cN":"TakeLessons footer nav"}' href="https://takelessons.com/" target="_self">
+<span class="cmp-list__item-title">TakeLessons</span>
+</a>
+</article>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid aem-GridColumn--small--none aem-GridColumn--offset--xsmall--0 aem-GridColumn--default--none aem-GridColumn--xsmall--none aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--offset--small--0 aem-GridColumn--offset--default--0 aem-GridColumn--small--6 aem-GridColumn--default--2">
+<div class="cmp-container" id="container-c623845f79">
+<div class="aem-Grid aem-Grid--2 aem-Grid--small--6 aem-Grid--default--2 aem-Grid--xsmall--6">
+<div class="title aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--small--6 aem-GridColumn--default--2"><div class="cmp-title" data-cmp-data-layer='{"title-633a90c13e":{"@type":"flipgrid/components/title","repo:modifyDate":"2023-04-24T04:01:10Z","dc:title":"Blog","xdm:linkURL":"/en-us/blog.html"}}' id="title-633a90c13e">
+<h4 class="cmp-title__text">
+<a class="cmp-title__link" data-cmp-clickable="" href="/en-us/blog.html">Blog</a>
+</h4>
+</div>
+</div>
+<div class="list aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--small--6 aem-GridColumn--default--2">
+<ul class="cmp-list" id="list-b52fa6f90a">
+<li class="cmp-list__item" data-cmp-data-layer='{"list-b52fa6f90a-item-1566df0989":{"@type":"flipgrid/components/list/item","repo:modifyDate":"2021-11-18T21:28:01Z","dc:title":"Tips, Tricks, and Tutorials","xdm:linkURL":"/en-us/blog/tips.html"}}'>
+<article>
+<a class="cmp-list__item-link" data-cmp-clickable="" data-m='{"id":"Tips, Tricks, and Tutorials footer nav", "cN":"Tips, Tricks, and Tutorials footer nav"}' href="/en-us/blog/tips.html" target="_self">
+<span class="cmp-list__item-title">Tips, Tricks, and Tutorials</span>
+</a>
+</article>
+</li>
+<li class="cmp-list__item" data-cmp-data-layer='{"list-b52fa6f90a-item-d95df31637":{"@type":"flipgrid/components/list/item","repo:modifyDate":"2021-11-18T21:28:24Z","dc:title":"Get Inspired","xdm:linkURL":"/en-us/blog/get-inspired.html"}}'>
+<article>
+<a class="cmp-list__item-link" data-cmp-clickable="" data-m='{"id":"Get Inspired footer nav", "cN":"Get Inspired footer nav"}' href="/en-us/blog/get-inspired.html" target="_self">
+<span class="cmp-list__item-title">Get Inspired</span>
+</a>
+</article>
+</li>
+<li class="cmp-list__item" data-cmp-data-layer='{"list-b52fa6f90a-item-f53f9171f5":{"@type":"flipgrid/components/list/item","repo:modifyDate":"2021-11-18T21:28:47Z","dc:title":"Product Updates","xdm:linkURL":"/en-us/blog/product-updates.html"}}'>
+<article>
+<a class="cmp-list__item-link" data-cmp-clickable="" data-m='{"id":"Product Updates footer nav", "cN":"Product Updates footer nav"}' href="/en-us/blog/product-updates.html" target="_self">
+<span class="cmp-list__item-title">Product Updates</span>
+</a>
+</article>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid aem-GridColumn--small--none aem-GridColumn--offset--xsmall--0 aem-GridColumn--default--none aem-GridColumn--xsmall--none aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--offset--small--0 aem-GridColumn--offset--default--0 aem-GridColumn--small--6 aem-GridColumn--default--2">
+<div class="cmp-container" id="container-15e62c787d">
+<div class="aem-Grid aem-Grid--2 aem-Grid--small--6 aem-Grid--default--2 aem-Grid--xsmall--6">
+<div class="title aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--small--6 aem-GridColumn--default--2"><div class="cmp-title" data-cmp-data-layer='{"title-9c0200b772":{"@type":"flipgrid/components/title","repo:modifyDate":"2023-04-24T04:01:10Z","dc:title":"Events","xdm:linkURL":"/en-us/events.html"}}' id="title-9c0200b772">
+<h4 class="cmp-title__text">
+<a class="cmp-title__link" data-cmp-clickable="" href="/en-us/events.html">Events</a>
+</h4>
+</div>
+</div>
+<div class="list aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--small--6 aem-GridColumn--default--2">
+<ul class="cmp-list" id="list-59a6108346">
+<li class="cmp-list__item" data-cmp-data-layer='{"list-59a6108346-item-226315c5d8":{"@type":"flipgrid/components/list/item","repo:modifyDate":"2022-08-12T21:54:20Z","dc:title":"Live Streamed Events","xdm:linkURL":"/en-us/events/flip-events.html"}}'>
+<article>
+<a class="cmp-list__item-link" data-cmp-clickable="" data-m='{"id":"Live Streamed Events footer nav", "cN":"Live Streamed Events footer nav"}' href="/en-us/events/flip-events.html" target="_self">
+<span class="cmp-list__item-title">Live Streamed Events</span>
+</a>
+</article>
+</li>
+<li class="cmp-list__item" data-cmp-data-layer='{"list-59a6108346-item-4409ede33c":{"@type":"flipgrid/components/list/item","repo:modifyDate":"2022-08-05T21:18:49Z","dc:title":"Professional Development","xdm:linkURL":"/en-us/events/professional-development.html"}}'>
+<article>
+<a class="cmp-list__item-link" data-cmp-clickable="" data-m='{"id":"Professional Development footer nav", "cN":"Professional Development footer nav"}' href="/en-us/events/professional-development.html" target="_self">
+<span class="cmp-list__item-title">Professional Development</span>
+</a>
+</article>
+</li>
+<li class="cmp-list__item" data-cmp-data-layer='{"list-59a6108346-item-387a10601f":{"@type":"flipgrid/components/list/item","repo:modifyDate":"2022-04-16T00:06:39Z","dc:title":"Community Moments","xdm:linkURL":"/en-us/events/community-moments.html"}}'>
+<article>
+<a class="cmp-list__item-link" data-cmp-clickable="" data-m='{"id":"Community Moments footer nav", "cN":"Community Moments footer nav"}' href="/en-us/events/community-moments.html" target="_self">
+<span class="cmp-list__item-title">Community Moments</span>
+</a>
+</article>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid aem-GridColumn--small--none aem-GridColumn--offset--xsmall--0 aem-GridColumn--default--none aem-GridColumn--xsmall--none aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--offset--small--0 aem-GridColumn--default--6 aem-GridColumn--offset--default--0 aem-GridColumn--small--6">
+<div class="cmp-container" id="container-c4953afa95">
+<div class="aem-Grid aem-Grid--6 aem-Grid--small--6 aem-Grid--xsmall--6 aem-Grid--default--6">
+<div class="container responsivegrid aem-GridColumn--small--none aem-GridColumn--offset--xsmall--0 aem-GridColumn--default--none aem-GridColumn--xsmall--none aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--offset--small--0 aem-GridColumn--offset--default--0 aem-GridColumn--small--6 aem-GridColumn--default--2">
+<div class="cmp-container" id="container-23f85a75ff">
+<div class="aem-Grid aem-Grid--2 aem-Grid--small--6 aem-Grid--default--2 aem-Grid--xsmall--6">
+<div class="title aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--small--6 aem-GridColumn--default--2"><div class="cmp-title" data-cmp-data-layer='{"title-8b79bd4804":{"@type":"flipgrid/components/title","repo:modifyDate":"2023-04-24T04:01:10Z","dc:title":"Help Center                ","xdm:linkURL":"https://help.flip.com/hc/en-us"}}' id="title-8b79bd4804">
+<h4 class="cmp-title__text">
+<a class="cmp-title__link" data-cmp-clickable="" href="https://help.flip.com/hc/en-us">Help Center                </a>
+</h4>
+</div>
+</div>
+<div class="list aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--small--6 aem-GridColumn--default--2">
+<ul class="cmp-list" id="list-84c1b58803">
+<li class="cmp-list__item" data-cmp-data-layer='{"list-84c1b58803-item-b5b659d11a":{"@type":"flipgrid/components/list/item","repo:modifyDate":"2021-11-18T21:28:27Z","dc:title":"Remote Learning","xdm:linkURL":"https://help.flip.com/hc/en-us/articles/360053569714-Remote-Learning-with-Flipgrid"}}'>
+<article>
+<a class="cmp-list__item-link" data-cmp-clickable="" data-m='{"id":"Remote Learning footer nav", "cN":"Remote Learning footer nav"}' href="https://help.flip.com/hc/en-us/articles/360053569714-Remote-Learning-with-Flipgrid" target="_self">
+<span class="cmp-list__item-title">Remote Learning</span>
+</a>
+</article>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid aem-GridColumn--small--none aem-GridColumn--offset--xsmall--0 aem-GridColumn--default--none aem-GridColumn--xsmall--none aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--offset--small--0 aem-GridColumn--offset--default--0 aem-GridColumn--small--6 aem-GridColumn--default--2">
+<div class="cmp-container" id="container-aa68e330a7">
+<div class="aem-Grid aem-Grid--2 aem-Grid--small--6 aem-Grid--default--2 aem-Grid--xsmall--6">
+<div class="title aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--small--6 aem-GridColumn--default--2"><div class="cmp-title" data-cmp-data-layer='{"title-2399c16b8c":{"@type":"flipgrid/components/title","repo:modifyDate":"2023-04-24T04:01:10Z","dc:title":" Trust and Safety","xdm:linkURL":"/en-us/about/trust-and-safety.html"}}' id="title-2399c16b8c">
+<h4 class="cmp-title__text">
+<a class="cmp-title__link" data-cmp-clickable="" href="/en-us/about/trust-and-safety.html"> Trust and Safety</a>
+</h4>
+</div>
+</div>
+<div class="list aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--small--6 aem-GridColumn--default--2">
+<ul class="cmp-list" id="list-52a5cf3e03">
+<li class="cmp-list__item" data-cmp-data-layer='{"list-52a5cf3e03-item-9f1e23dbac":{"@type":"flipgrid/components/list/item","repo:modifyDate":"2021-11-18T21:29:04Z","dc:title":"Privacy Policy","xdm:linkURL":"/en-us/about/trust-and-safety/privacy-policy.html"}}'>
+<article>
+<a class="cmp-list__item-link" data-cmp-clickable="" data-m='{"id":"Privacy Policy footer nav", "cN":"Privacy Policy footer nav"}' href="/en-us/about/trust-and-safety/privacy-policy.html" target="_self">
+<span class="cmp-list__item-title">Privacy Policy</span>
+</a>
+</article>
+</li>
+<li class="cmp-list__item" data-cmp-data-layer='{"list-52a5cf3e03-item-126635fc52":{"@type":"flipgrid/components/list/item","repo:modifyDate":"2021-11-18T21:29:05Z","dc:title":"Terms of Use","xdm:linkURL":"/en-us/about/trust-and-safety/terms-of-use.html"}}'>
+<article>
+<a class="cmp-list__item-link" data-cmp-clickable="" data-m='{"id":"Terms of Use footer nav", "cN":"Terms of Use footer nav"}' href="/en-us/about/trust-and-safety/terms-of-use.html" target="_self">
+<span class="cmp-list__item-title">Terms of Use</span>
+</a>
+</article>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid py-0 aem-GridColumn--small--none aem-GridColumn--offset--xsmall--0 aem-GridColumn--default--none aem-GridColumn--xsmall--none aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--offset--small--0 aem-GridColumn--offset--default--0 aem-GridColumn--small--6 aem-GridColumn--default--2">
+<div class="cmp-container" id="container-b6261d981b">
+<div class="aem-Grid aem-Grid--2 aem-Grid--small--6 aem-Grid--default--2 aem-Grid--xsmall--6">
+<div class="title aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--small--6 aem-GridColumn--default--2"><div class="cmp-title" data-cmp-data-layer='{"title-13cb85e7ed":{"@type":"flipgrid/components/title","repo:modifyDate":"2023-04-24T04:01:10Z","dc:title":"App Download                ","xdm:linkURL":"/en-us/getting-started/app-download.html"}}' id="title-13cb85e7ed">
+<h4 class="cmp-title__text">
+<a class="cmp-title__link" data-cmp-clickable="" href="/en-us/getting-started/app-download.html">App Download                </a>
+</h4>
+</div>
+</div>
+<div class="list aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--small--6 aem-GridColumn--default--2">
+<ul class="cmp-list" id="list-494f887b8e">
+<li class="cmp-list__item" data-cmp-data-layer='{"list-494f887b8e-item-c1939fc203":{"@type":"flipgrid/components/list/item","repo:modifyDate":"2021-11-18T21:27:17Z","dc:title":"Android","xdm:linkURL":"https://play.google.com/store/apps/details?id=com.vidku.app.flipgrid"}}'>
+<article>
+<a class="cmp-list__item-link" data-cmp-clickable="" data-m='{"id":"Android footer nav", "cN":"Android footer nav"}' href="https://play.google.com/store/apps/details?id=com.vidku.app.flipgrid" target="_self">
+<span class="cmp-list__item-title">Android</span>
+</a>
+</article>
+</li>
+<li class="cmp-list__item" data-cmp-data-layer='{"list-494f887b8e-item-8aa21e5d65":{"@type":"flipgrid/components/list/item","repo:modifyDate":"2021-11-18T21:27:17Z","dc:title":"iOS","xdm:linkURL":"https://apps.apple.com/us/app/flipgrid/id756972930?ign-mpt=uo%3D4"}}'>
+<article>
+<a class="cmp-list__item-link" data-cmp-clickable="" data-m='{"id":"iOS footer nav", "cN":"iOS footer nav"}' href="https://apps.apple.com/us/app/flipgrid/id756972930?ign-mpt=uo%3D4" target="_self">
+<span class="cmp-list__item-title">iOS</span>
+</a>
+</article>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container responsivegrid container-fixed">
+<div class="cmp-container" id="container--footer-bottom">
+<div class="image">
+<div class="cmp-image" data-asset="/content/dam/flipgrid/logos/msft-logo.svg" data-asset-id="a6ce3974-b1c6-41d4-9aa4-f594af0805cd" data-cmp-data-layer='{"msft-logo":{"@type":"flipgrid/components/image","repo:modifyDate":"2023-04-24T04:01:10Z","image":{"repo:id":"a6ce3974-b1c6-41d4-9aa4-f594af0805cd","repo:modifyDate":"2022-06-28T12:23:20Z","@type":"image/svg+xml","repo:path":"/content/dam/flipgrid/logos/msft-logo.svg"}}}' data-cmp-is="image" data-cmp-lazythreshold="0" data-cmp-src="/content/experience-fragments/flipgrid/us/en/site/footer/footer-2-col/_jcr_content/root/container_1768149434/image_copy.coreimg{.width}.svg/1682308870332/msft-logo.svg" data-title="Microsoft" id="msft-logo" itemscope="" itemtype="http://schema.org/ImageObject">
+<img alt="Microsoft" class="cmp-image__image" data-cmp-hook-image="image" itemprop="contentUrl" src="/content/experience-fragments/flipgrid/us/en/site/footer/footer-2-col/_jcr_content/root/container_1768149434/image_copy.coreimg.svg/1682308870332/msft-logo.svg"/>
+</div>
+</div>
+<div class="text"><div class="cmp-text" data-cmp-data-layer='{"site-copyright":{"@type":"flipgrid/components/text","repo:modifyDate":"2023-04-24T04:01:10Z","xdm:text":"&lt;p&gt;© Microsoft {YEAR}&lt;/p&gt;\r\n"}}' id="site-copyright">
+<p>© Microsoft {YEAR}</p>
+</div>
+</div>
+<div class="social">
+<div class="cmp-social">
+<a aria-label="facebook" class="cmp-social__link" data-m='{"id":"facebook Jump","cN":"facebook Jump"}' href="https://www.facebook.com/MicrosoftFlip" target="_blank" title="Visit us on facebook">
+<span class="cmp-social__link-icon icon-facebook"></span>
+</a>
+<a aria-label="twitter" class="cmp-social__link" data-m='{"id":"twitter Jump","cN":"twitter Jump"}' href="https://www.twitter.com/MicrosoftFlip" target="_blank" title="Visit us on twitter">
+<span class="cmp-social__link-icon icon-twitter"></span>
+</a>
+<a aria-label="linkedin" class="cmp-social__link" data-m='{"id":"linkedin Jump","cN":"linkedin Jump"}' href="https://www.linkedin.com/company/microsoftflip" target="_blank" title="Visit us on linkedin">
+<span class="cmp-social__link-icon icon-linkedin"></span>
+</a>
+<a aria-label="youtube" class="cmp-social__link" data-m='{"id":"youtube Jump","cN":"youtube Jump"}' href="https://www.youtube.com/c/microsoftflip" target="_blank" title="Visit us on youtube">
+<span class="cmp-social__link-icon icon-youtube"></span>
+</a>
+<a aria-label="instagram" class="cmp-social__link" data-m='{"id":"instagram Jump","cN":"instagram Jump"}' href="https://www.instagram.com/MicrosoftFlip" target="_blank" title="Visit us on instagram">
+<span class="cmp-social__link-icon icon-instagram"></span>
+</a>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="/etc.clientlibs/flipgrid/clientlibs/clientlib-site.lc-3764db82e2cee6d5aef3a6045ccccb31-lc.min.js"></script>
+<script src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.lc-0a6aff292f5cc42142779cde92054524-lc.min.js"></script>
+<script src="/etc.clientlibs/flipgrid/clientlibs/clientlib-base.lc-12b8720c5ae214f9cecd41c78fd0bbd6-lc.min.js"></script>
+</body>
+</html>

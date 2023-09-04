@@ -1,0 +1,1059 @@
+
+<!DOCTYPE html>
+
+<html class="h-100">
+<head>
+<title>Guest Reservations</title>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="As an independent booking service offering over 100,000 hotels worldwide,
+        we can get you the same deals you expect with a bigger travel agency or direct from the hotel." name="description"/>
+<link href="/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/favicons/manifest.json" rel="manifest"/>
+<link color="#202027" href="/favicons/safari-pinned-tab.svg" rel="mask-icon"/>
+<meta content="#202027" name="msapplication-TileColor"/>
+<meta content="/favicons/browserconfig.xml" name="msapplication-config"/>
+<meta content="#ffffff" name="theme-color"/> <link href="/boost/site-compressed.1689947224.css" rel="stylesheet"/>
+<script src="/boost/site-compressed.1691544416.js"></script> <meta content="_csrf" name="csrf-param"/>
+<meta content="xvU4DiWn8_2w1PzI1C2BSxnoQfe_yeKEnVRyEwyll3__v15WaJO1k8mkmJ6ndeQ9aNADgYubiMPWbDwnfOHkMA==" name="csrf-token"/>
+<script>
+            var abTests = [];
+            var Main = GR.loadPage('layouts.Main', {"isProduction":true,"isDevelopmentServer":false,"breadcrumbPhone":"","mixpanelAdultsRoomChildrenData":[],"mixpanelProjectToken":"c5491a995ed9e9ee29ba488d355afed9","customerType":"Non-Member","serverHost":"web02","device":"computer"});
+        </script>
+<!-- Google Tag Manager -->
+<script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NPMZ2WN');
+</script>
+<!-- End Google Tag Manager -->
+<!-- start Mixpanel -->
+<script type="text/javascript">
+        (function(e, b) {
+            if (!b.__SV) {
+                var a, f, i, g;
+                window.mixpanel = b;
+                b._i = [];
+                b.init = function(a, e, d) {
+                    function f(b, h) {
+                        var a = h.split(".");
+                        2 == a.length && (b = b[a[0]], h = a[1]);
+                        b[h] = function() {
+                            b.push([h].concat(Array.prototype.slice.call(arguments, 0)))
+                        }
+                    }
+                    var c = b;
+                    "undefined" !== typeof d ? c = b[d] = [] : d = "mixpanel";
+                    c.people = c.people || [];
+                    c.toString = function(b) {
+                        var a = "mixpanel";
+                        "mixpanel" !== d && (a += "." + d);
+                        b || (a += " (stub)");
+                        return a
+                    };
+                    c.people.toString = function() {
+                        return c.toString(1) + ".people (stub)"
+                    };
+                    i = "disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+                    for (g = 0; g < i.length; g++) f(c, i[g]);
+                    b._i.push([a, e, d])
+                };
+                b.__SV = 1.2;
+                a = e.createElement("script");
+                a.type = "text/javascript";
+                a.async = !0;
+                a.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL ? MIXPANEL_CUSTOM_LIB_URL : "file:" === e.location.protocol && "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//) ? "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js" : "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";
+                f = e.getElementsByTagName("script")[0];
+                f.parentNode.insertBefore(a, f)
+            }
+        })(document, window.mixpanel || []);
+
+            mixpanel.init("c5491a995ed9e9ee29ba488d355afed9", {
+                'loaded': function() {
+                    $(function() {
+                        if (typeof window.__insp !== 'undefined') {
+                            //Init Mixpanel with callback function "loaded" to get mixpanel distinct_id for Inspectlet Tag User Session
+                            __insp.push(['tagSession', {
+                                mp_distinct_id: mixpanel.get_distinct_id(),
+                                checkout_url: document.baseURI,
+                                referrer_url: document.referrer
+                            }]);
+                        }
+                    });
+                }
+            });
+            </script>
+<!-- end Mixpanel -->
+<!-- Begin Criteo Asynchronous Code -->
+<script async="true" src="//static.criteo.net/js/ld/ld.js" type="text/javascript"></script>
+<script type="text/javascript">
+        window.criteo_q = window.criteo_q || [];
+        var deviceType = /iPad/.test(navigator.userAgent) ? "t" : /Mobile|iP(hone|od)|Android|BlackBerry|IEMobile|Silk/.test(navigator.userAgent) ? "m" : "d";
+        window.criteo_q.push({
+                event: "setAccount",
+                account: 57373            }, {
+                event: "setSiteType",
+                type: deviceType
+            }
+            , {"event":"viewHome"}, {"event":"setData","ui_target":"yes"}        );
+    </script>
+<!-- End Criteo Asynchronous Code -->
+</head>
+<body class="site-index-page d-flex flex-column h-100">
+<div class="flex-shrink-0">
+<header>
+<div class="header navbar navbar-dark bg-dark">
+<div class="container container-1280 d-flex align-content-around">
+<div class="logo flex-grow-1">
+<a class="navbar-brand" href="https://www.guestreservations.com/" title="Guest Reservations">
+<img alt="Guest Reservations - Logo" src="/assets/f415e69c/images/logo/logo-bell-dark.svg" title="Guest Reservations - Logo"/><br/>
+<small>An independent travel network</small>
+</a>
+</div>
+<div class="menu for-desktop">
+<nav class="my-2 my-md-0 mr-md-3">
+<a class="js-hl-groups-link" href="https://groups.guestreservations.com/Group-Rate/" title="Groups (9+ Rooms)">Groups (9+ Rooms)</a>
+<a class="js-hl-guides" href="https://www.guestreservations.com/about/news" title="Travel Guides">Travel Guides</a>
+<a class="js-hl-my-booking" href="https://www.guestreservations.com/about/mybooking" title="My Booking">My Booking</a>
+</nav>
+</div>
+<div class="phone border-left js-mp-track-phone">
+<div class="for-desktop">
+<a class="d-flex flex-column" href="tel:6569559391"><span class="text-warning">
+<img alt="call" src="/assets/f415e69c/images/phone-yellow.svg" title="call"/>Call now</span>
+<span class="js-phone-number">+65 6955 9391</span>
+</a>
+</div>
+<div class="for-tablet">
+<a class="d-flex flex-column" href="tel:6569559391"><span class="text-warning">
+<img alt="call" src="/assets/f415e69c/images/phone-yellow.svg" title="call"/>Call now</span>
+<span class="js-phone-number">+65 6955 9391</span>
+</a>
+</div>
+<div class="for-mobile">
+<a class="d-flex flex-column" href="tel:6569559392"><span class="text-warning">
+<img alt="call" src="/assets/f415e69c/images/phone-yellow.svg" title="call"/>Call now</span>
+<span class="js-phone-number">+65 6955 9392</span>
+</a>
+</div> </div>
+</div>
+</div> </header>
+<main role="main">
+<div class="home-book-form position-relative">
+<div class="container container-1280">
+<div class="title-form-home text-center">
+<h1>Book your <span class="nowrap">perfect trip</span></h1>
+<p>A proudly independent travel network <span class="nowrap">with over 100,000 hotels worldwide</span></p>
+</div>
+<div class="body-form-home position-relative">
+<div class="destination-hotel-booking position-absolute">
+<div class="container">
+<form action="/search/page" autocomplete="off" class="js-searching" method="GET" name="searching">
+<div class="form-search-hotels js-booking-form destination-include">
+<div class="row no-gutters js-first-room js-room-block" data-room_block="1">
+<div class="destination col">
+<div class="form-group">
+<label for="js-destination">Destination</label>
+<input autocomplete="off" class="form-control jsv-validation jsv-notempty jsv-destination" id="js-destination" name="destination" placeholder="Where are you going?" type="text" value=""/>
+</div>
+</div>
+<input id="js-locality" name="locality" type="hidden" value=""/>
+<input id="js-region" name="region" type="hidden" value=""/>
+<input id="js-country" name="country" type="hidden" value=""/>
+<input id="js-latitude" name="latitude" type="hidden" value=""/>
+<input id="js-longitude" name="longitude" type="hidden" value=""/>
+<div class="row line-row no-gutters col">
+<div class="date-info col row no-gutters" data-lastdayofpenultimatemonth="08/31/2024" data-maxdate="09/30/2024" data-mindate="08/14/2023" id="date-info">
+<div class="check-in col js-check-date-block">
+<div class="form-group">
+<label for="check_in_view">Check-in </label>
+<div class="js-check_date_wrap check_date_wrap">
+<input autocomplete="off" class="form-control js-check_date check_date unvisible" ct-datepicker="true" data-startdate="08/14/2023" id="check_in" name="checkIn" placeholder="Check In:" readonly="readonly" type="text" value="08/14/2023"/>
+<input autocomplete="off" class="form-control js-check_date_view check_date_view" ct-datepicker="true" id="check_in_view" onfocus="this.blur();" placeholder="Check In:" readonly="readonly" type="text" value="Mon, Aug 14"/>
+</div>
+</div>
+</div>
+<div class="check-out col js-check-date-block">
+<div class="form-group">
+<label for="check_out_view">Check-out </label>
+<div class="js-check_date_wrap check_date_wrap">
+<input autocomplete="off" class="form-control js-check_date check_date unvisible" ct-datepicker="true" data-startdate="08/15/2023" id="check_out" name="checkOut" placeholder="Check out:" readonly="readonly" type="text" value="08/15/2023"/>
+<input autocomplete="off" class="form-control js-check_date_view check_date_view" ct-datepicker="true" id="check_out_view" onfocus="this.blur();" placeholder="Check out:" readonly="readonly" type="text" value="Tue, Aug 15"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="rooms col">
+<div class="form-group">
+<label for="rooms">Rooms</label>
+<div class="dropdown js-rooms">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuRooms" type="button"></button>
+<input id="rooms" name="rooms" type="hidden" value="1"/>
+<div aria-labelledby="dropdownMenuRooms" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-callback="goToGroupRates" data-option="9" data-process-dropdown="no" type="button">9+</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="people col row no-gutters">
+<div class="adults col">
+<div class="form-group">
+<label for="adults[1]">Adults</label>
+<div class="dropdown js-adults">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuAdults_1" type="button"></button>
+<input id="adults[1]" name="adults[1]" type="hidden" value="2"/>
+<div aria-labelledby="dropdownMenuAdults_1" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="children col">
+<div class="form-group">
+<label for="children[1]">Children</label>
+<div class="dropdown js-children">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_1" type="button"></button>
+<input id="children[1]" name="children[1]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_1" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+<div class="search-button col d-flex align-content">
+<button class="btn btn-warning" type="submit">Find Rooms</button>
+</div>
+<div class="bg-white drop-down-list js-more-rooms">
+<div class="row no-gutters children-ages js-children-ages-block hidden" data-room_block="1">
+<div class="children-ages-title col">
+                        Children ages <br/> (1-17, enter 0 for infants)
+                    </div>
+<div class="children-ages-body w-100 d-flex justify-content-end">
+<div class="child col">
+<div class="form-group">
+<div class="dropdown scroll-bar js-children-ages no-auto-init">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_11" type="button"></button>
+<input data-childrenid="1" disabled="disabled" id="ages[1][1]" name="ages[1][1]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_11" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-option="9" type="button">9</button>
+<button class="dropdown-item" data-option="10" type="button">10</button>
+<button class="dropdown-item" data-option="11" type="button">11</button>
+<button class="dropdown-item" data-option="12" type="button">12</button>
+<button class="dropdown-item" data-option="13" type="button">13</button>
+<button class="dropdown-item" data-option="14" type="button">14</button>
+<button class="dropdown-item" data-option="15" type="button">15</button>
+<button class="dropdown-item" data-option="16" type="button">16</button>
+<button class="dropdown-item" data-option="17" type="button">17</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="child col">
+<div class="form-group">
+<div class="dropdown scroll-bar js-children-ages no-auto-init">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_12" type="button"></button>
+<input data-childrenid="2" disabled="disabled" id="ages[1][2]" name="ages[1][2]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_12" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-option="9" type="button">9</button>
+<button class="dropdown-item" data-option="10" type="button">10</button>
+<button class="dropdown-item" data-option="11" type="button">11</button>
+<button class="dropdown-item" data-option="12" type="button">12</button>
+<button class="dropdown-item" data-option="13" type="button">13</button>
+<button class="dropdown-item" data-option="14" type="button">14</button>
+<button class="dropdown-item" data-option="15" type="button">15</button>
+<button class="dropdown-item" data-option="16" type="button">16</button>
+<button class="dropdown-item" data-option="17" type="button">17</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="child col">
+<div class="form-group">
+<div class="dropdown scroll-bar js-children-ages no-auto-init">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_13" type="button"></button>
+<input data-childrenid="3" disabled="disabled" id="ages[1][3]" name="ages[1][3]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_13" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-option="9" type="button">9</button>
+<button class="dropdown-item" data-option="10" type="button">10</button>
+<button class="dropdown-item" data-option="11" type="button">11</button>
+<button class="dropdown-item" data-option="12" type="button">12</button>
+<button class="dropdown-item" data-option="13" type="button">13</button>
+<button class="dropdown-item" data-option="14" type="button">14</button>
+<button class="dropdown-item" data-option="15" type="button">15</button>
+<button class="dropdown-item" data-option="16" type="button">16</button>
+<button class="dropdown-item" data-option="17" type="button">17</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="child col">
+<div class="form-group">
+<div class="dropdown scroll-bar js-children-ages no-auto-init">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_14" type="button"></button>
+<input data-childrenid="4" disabled="disabled" id="ages[1][4]" name="ages[1][4]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_14" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-option="9" type="button">9</button>
+<button class="dropdown-item" data-option="10" type="button">10</button>
+<button class="dropdown-item" data-option="11" type="button">11</button>
+<button class="dropdown-item" data-option="12" type="button">12</button>
+<button class="dropdown-item" data-option="13" type="button">13</button>
+<button class="dropdown-item" data-option="14" type="button">14</button>
+<button class="dropdown-item" data-option="15" type="button">15</button>
+<button class="dropdown-item" data-option="16" type="button">16</button>
+<button class="dropdown-item" data-option="17" type="button">17</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="child col">
+<div class="form-group">
+<div class="dropdown scroll-bar js-children-ages no-auto-init">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_15" type="button"></button>
+<input data-childrenid="5" disabled="disabled" id="ages[1][5]" name="ages[1][5]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_15" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-option="9" type="button">9</button>
+<button class="dropdown-item" data-option="10" type="button">10</button>
+<button class="dropdown-item" data-option="11" type="button">11</button>
+<button class="dropdown-item" data-option="12" type="button">12</button>
+<button class="dropdown-item" data-option="13" type="button">13</button>
+<button class="dropdown-item" data-option="14" type="button">14</button>
+<button class="dropdown-item" data-option="15" type="button">15</button>
+<button class="dropdown-item" data-option="16" type="button">16</button>
+<button class="dropdown-item" data-option="17" type="button">17</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="child col">
+<div class="form-group">
+<div class="dropdown scroll-bar js-children-ages no-auto-init">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_16" type="button"></button>
+<input data-childrenid="6" disabled="disabled" id="ages[1][6]" name="ages[1][6]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_16" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-option="9" type="button">9</button>
+<button class="dropdown-item" data-option="10" type="button">10</button>
+<button class="dropdown-item" data-option="11" type="button">11</button>
+<button class="dropdown-item" data-option="12" type="button">12</button>
+<button class="dropdown-item" data-option="13" type="button">13</button>
+<button class="dropdown-item" data-option="14" type="button">14</button>
+<button class="dropdown-item" data-option="15" type="button">15</button>
+<button class="dropdown-item" data-option="16" type="button">16</button>
+<button class="dropdown-item" data-option="17" type="button">17</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="child col">
+<div class="form-group">
+<div class="dropdown scroll-bar js-children-ages no-auto-init">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_17" type="button"></button>
+<input data-childrenid="7" disabled="disabled" id="ages[1][7]" name="ages[1][7]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_17" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-option="9" type="button">9</button>
+<button class="dropdown-item" data-option="10" type="button">10</button>
+<button class="dropdown-item" data-option="11" type="button">11</button>
+<button class="dropdown-item" data-option="12" type="button">12</button>
+<button class="dropdown-item" data-option="13" type="button">13</button>
+<button class="dropdown-item" data-option="14" type="button">14</button>
+<button class="dropdown-item" data-option="15" type="button">15</button>
+<button class="dropdown-item" data-option="16" type="button">16</button>
+<button class="dropdown-item" data-option="17" type="button">17</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="child col">
+<div class="form-group">
+<div class="dropdown scroll-bar js-children-ages no-auto-init">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_18" type="button"></button>
+<input data-childrenid="8" disabled="disabled" id="ages[1][8]" name="ages[1][8]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_18" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-option="9" type="button">9</button>
+<button class="dropdown-item" data-option="10" type="button">10</button>
+<button class="dropdown-item" data-option="11" type="button">11</button>
+<button class="dropdown-item" data-option="12" type="button">12</button>
+<button class="dropdown-item" data-option="13" type="button">13</button>
+<button class="dropdown-item" data-option="14" type="button">14</button>
+<button class="dropdown-item" data-option="15" type="button">15</button>
+<button class="dropdown-item" data-option="16" type="button">16</button>
+<button class="dropdown-item" data-option="17" type="button">17</button>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form> </div>
+</div>
+<div class="box-shadow-form">
+<div class="container">
+<div class="box-shadow-bg"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="bg-light-gray bg-bottom-form"></div>
+</div>
+<div class="block-destinations bg-light-gray">
+<div class="container">
+<div class="title-block text-center">
+<h2>Top Destinations</h2>
+<p>Still deciding where to go? Here are <span class="nowrap">some of our favorite places</span></p>
+</div>
+<div class="destinations-city slider-block">
+<div class="wrap-slick-slider">
+<div class="top-destinations-slider slick-slider">
+<div class="col">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotels-United_Kingdom/London" style="display: block" title="London">
+<figure class="figure">
+<section class="bg-overflow">
+<img alt="London" class="card-img" src="/images/pages/p-home/destinations/london.jpg" title="London"/></section>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-name">London</p>
+<p class="card-bottom">1038 hotels available</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotels-United_States_of_America/CA/Los_Angeles" style="display: block" title="Los Angeles">
+<figure class="figure">
+<section class="bg-overflow">
+<img alt="Los Angeles" class="card-img" src="/images/pages/p-home/destinations/los-angeles.jpg" title="Los Angeles"/></section>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-name">Los Angeles</p>
+<p class="card-bottom">170 hotels available</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotels-United_States_of_America/FL/Miami" style="display: block" title="Miami">
+<figure class="figure">
+<section class="bg-overflow">
+<img alt="Miami" class="card-img" src="/images/pages/p-home/destinations/miami.jpg" title="Miami"/></section>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-name">Miami</p>
+<p class="card-bottom">183 hotels available</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotels-United_States_of_America/New_York" style="display: block" title="New York">
+<figure class="figure">
+<section class="bg-overflow">
+<img alt="New York" class="card-img" src="/images/pages/p-home/destinations/new-york.jpg" title="New York"/></section>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-name">New York</p>
+<p class="card-bottom">229 hotels available</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotels-Thailand/Phuket" style="display: block" title="Phuket">
+<figure class="figure">
+<section class="bg-overflow">
+<img alt="Phuket" class="card-img" src="/images/pages/p-home/destinations/phuket.jpg" title="Phuket"/></section>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-name">Phuket</p>
+<p class="card-bottom">432 hotels available</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotels-Australia/Sydney" style="display: block" title="Sydney">
+<figure class="figure">
+<section class="bg-overflow">
+<img alt="Sydney" class="card-img" src="/images/pages/p-home/destinations/sydney.jpg" title="Sydney"/></section>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-name">Sydney</p>
+<p class="card-bottom">133 hotels available</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotels-Italy/Rome" style="display: block" title="Rome">
+<figure class="figure">
+<section class="bg-overflow">
+<img alt="Rome" class="card-img" src="/images/pages/p-home/destinations/rom.jpg" title="Rome"/></section>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-name">Rome</p>
+<p class="card-bottom">1754 hotels available</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotels-Japan/Tokyo" style="display: block" title="Tokyo">
+<figure class="figure">
+<section class="bg-overflow">
+<img alt="Tokyo" class="card-img" src="/images/pages/p-home/destinations/tokyo.jpg" title="Tokyo"/></section>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-name">Tokyo</p>
+<p class="card-bottom">503 hotels available</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="about-gr-bg-home">
+<div class="d-flex align-items-center position-absolute">
+<div class="about-gr-text text-center">
+<section class="container">
+<p class="text-big"> The <br class="for-mobile-small"/> <b class="trademark-name">Guest Reservations<sup>TM</sup></b> Difference</p>
+<p>We aggregate the best possible <br class="for-mobile"/> deals for our users by connecting
+                    <br/> with over 100,000 hotels worldwide</p>
+<p class="link">
+<a class="btn btn-warning js-learn-more" href="#" title="Learn more">Learn more</a>
+</p>
+</section>
+</div>
+</div>
+</div>
+<div class="block-hotels-city">
+<div class="container">
+<div class="title-block text-center">
+<h2>Featured Hotels</h2>
+<p>Trending properties from around <span class="nowrap">the world</span></p>
+</div>
+<div class="slider-block">
+<div class="wrap-slick-slider">
+<div class="properties-slider slick-slider">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/rancho-bernardo-inn/booking" title="Rancho Bernardo Inn">
+<figure class="figure">
+<img alt="Rancho Bernardo Inn" class="card-img" src="/images/pages/p-home/featured-hotels/4e59e3fb-e543-4c2c-acdc-53a4d78517e8.jpg" title="Rancho Bernardo Inn"/>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-city">San Diego, CA</p>
+<p class="card-name">Rancho Bernardo Inn</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/mountaineer-square/booking" title="The Lodge at Mountaineer Square">
+<figure class="figure">
+<img alt="The Lodge at Mountaineer Square" class="card-img" src="/images/pages/p-home/featured-hotels/45548bfb-0c67-4443-a625-68b838cfa293.jpg" title="The Lodge at Mountaineer Square"/>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-city">Mt. Crested Butte, CO</p>
+<p class="card-name">The Lodge at Mountaineer Square</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/reunion-resortra-salamander-golf-spa-resort/booking" title="Reunion Resort">
+<figure class="figure">
+<img alt="Reunion Resort" class="card-img" src="/images/pages/p-home/featured-hotels/2217841c-6eb8-5ab2-8857-db7c1f4ad5d1.jpg" title="Reunion Resort"/>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-city">Kissimmee, FL</p>
+<p class="card-name">Reunion Resort</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotel-praia-ipanema/booking" title="Praia Ipanema Hotel">
+<figure class="figure">
+<img alt="Praia Ipanema Hotel" class="card-img" src="/images/pages/p-home/featured-hotels/d592e189-fceb-51bd-a379-ef0c81c11455.jpg" title="Praia Ipanema Hotel"/>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-city">Rio de Janeiro, Brazil</p>
+<p class="card-name">Praia Ipanema Hotel</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotel-principe-venice/booking" title="Hotel Principe">
+<figure class="figure">
+<img alt="Hotel Principe" class="card-img" src="/images/pages/p-home/featured-hotels/52ce0231-cb14-575e-8f97-ce5586cea1ab.jpg" title="Hotel Principe"/>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-city">Venice, Italy</p>
+<p class="card-name">Hotel Principe</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/four-seasons-resort-koh-samui/booking" title="Four Seasons Resort Koh Samui">
+<figure class="figure">
+<img alt="Four Seasons Resort Koh Samui" class="card-img" src="/images/pages/p-home/featured-hotels/9a145841-8c30-5f28-b0be-c5db01841f01.jpg" title="Four Seasons Resort Koh Samui"/>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-city">Koh Samui, Thailand</p>
+<p class="card-name">Four Seasons Resort Koh Samui</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-city-top">
+<div class="container">
+<div class="d-flex title">
+<div class="bd-highlight align-self-center">
+<h3><span class="for-tablet-inline for-desktop-inline">Hotels in Other </span>Top Cities</h3></div>
+<div class="ml-auto">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America" title="See all cities">See all cities</a>
+</div>
+</div>
+<div class="link-city">
+<div class="row no-gutters">
+<div class="col-md-3">
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Victoria">Victoria Hotels</a></p>
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/NJ/Newark">Newark Hotels</a></p>
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-Spain/Madrid">Madrid Hotels</a></p>
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/DC/Washington">Washington D.C. Hotels</a></p>
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/San_Francisco">San Francisco Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Italy/Milan">Milan Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/Minneapolis">Minneapolis Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Calgary">Calgary Hotels</a></p>
+</div>
+<div class="col-md-3">
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-France/Nice">Nice Hotels</a></p>
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/Los_Angeles">Los Angeles Hotels</a></p>
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-Germany/Hamburg">Hamburg Hotels</a></p>
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-Austria/Vienna">Vienna Hotels</a></p>
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_Kingdom/Edinburgh">Edinburgh Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/Anaheim">Anaheim Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/Fort_Lauderdale">Fort Lauderdale Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/Atlantic_City">Atlantic City Hotels</a></p>
+</div>
+<div class="col-md-3">
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Mexico/Mexico_City">Mexico City Hotels</a></p>
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Denmark/Copenhagen">Copenhagen Hotels</a></p>
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-China/Shanghai">Shanghai Hotels</a></p>
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Japan/Tokyo">Tokyo Hotels</a></p>
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Banff">Banff Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Switzerland/Bern">Bern Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Mexico/Cancun">Cancun Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-China/Xi%27an">Xi'an Hotels</a></p>
+</div>
+<div class="col-md-3">
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-China/Beijing">Beijing Hotels</a></p>
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Vancouver">Vancouver Hotels</a></p>
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Toronto">Toronto Hotels</a></p>
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Quebec_City">Quebec City Hotels</a></p>
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/New_York">New York Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/NV/Las_Vegas">Las Vegas Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_Kingdom/London">London Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-France/Paris">Paris Hotels</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade modal-learn-more reasons js-modal-learn-more" role="dialog" tabindex="-1">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h2>4 REASONS TO BOOK WITH <br/> <b class="trademark-name">Guest Reservations<sup>TM</sup></b> </h2>
+<button aria-label="Close" class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span>
+</button>
+</div>
+<div class="modal-body">
+<p>As an independent travel network offering over 100,000 hotels worldwide,
+                    we can get you the same deals you expect with a bigger travel agency or direct from the hotel.
+                    We compile the best rates from several top suppliers to make it easy to book the perfect room.
+                    Combine these deals with our all-devices booking engine, strict privacy focus, and world-class
+                    support and you have the <b class="trademark-name">Guest Reservations<sup>TM</sup></b>  difference.
+                    Learn more <a href="https://www.guestreservations.com/about/page" target="_blank" title="about us"> about us</a>.</p>
+<section class="reasons-block">
+<div class="row">
+<div class="col-6">
+<div class="media">
+<img alt="Exclusive Deals" class="mr-4" src="/assets/4a44a40b/images/reasons/exclusive-deals.svg"/>
+<div class="media-body">
+<h5 class="mt-0">Exclusive Deals</h5>
+                                    Deep Discounts And Popular Exclusives.
+                                </div>
+</div>
+</div>
+<div class="col-6">
+<div class="media">
+<img alt="Massive selection" class="mr-4" src="/assets/4a44a40b/images/reasons/massive-selection.svg"/>
+<div class="media-body">
+<h5 class="mt-0">Massive selection</h5>
+                                    100,000+ Hotels From All The Top Suppliers!
+                                </div>
+</div>
+</div>
+<div class="w-100"></div>
+<div class="col-6">
+<div class="media">
+<img alt="Leading Customer Service" class="mr-4" src="/assets/4a44a40b/images/reasons/customer-service.svg"/>
+<div class="media-body">
+<h5 class="mt-0">Leading Customer Service</h5>
+                                    Our Agents Are Friendly And Available 24/7.
+                                </div>
+</div>
+</div>
+<div class="col-6">
+<div class="media">
+<img alt="Strict Privacy Focus" class="mr-4" src="/assets/4a44a40b/images/reasons/strict-privac.svg"/>
+<div class="media-body">
+<h5 class="mt-0">Strict Privacy Focus</h5>
+                                    All Bookings Are Secured And Protected.
+                                </div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+<script>
+    GR.loadPage('site.Index', {"destinationFromUrl":false});
+</script>
+</main>
+</div>
+<div class="footer mt-auto">
+<footer>
+<div class="w-100 footer-padding bg-light">
+<div class="container container-1280">
+<div class="footer-nav w-100">
+<div class="row">
+<div class="col logo-social d-flex flex-column">
+<span class="navbar-brand d-flex flex-column mb-auto">
+<img alt="Guestreservations - Logo" src="/assets/237ed65f/images/logo-dark-tm.svg" title="Guestreservations - Logo"/>
+<small> An independent travel network</small>
+</span>
+<div class="social-networks">
+<a href="https://www.facebook.com/guestreservations" target="_blank" title="GuestReservations on Facebook">
+<img alt="GuestReservations on Facebook" src="/assets/237ed65f/images/social-networks/facebook.svg" title="GuestReservations on Facebook"/>
+</a>
+<a href="https://twitter.com/guest_res" target="_blank" title="GuestReservations on Twitter">
+<img alt="GuestReservations on Twitter" src="/assets/237ed65f/images/social-networks/twitter.svg" title="GuestReservations on Twitter"/>
+</a>
+<a href="https://www.instagram.com/guestreservations/" target="_blank" title="GuestReservations on Instagram">
+<img alt="GuestReservations on Instagram" src="/assets/237ed65f/images/social-networks/instagram.svg" title="GuestReservations on Instagram"/>
+</a>
+<a href="https://www.pinterest.com/guestreservations/" target="_blank" title="GuestReservations on Pinterest">
+<img alt="GuestReservations on Pinterest" src="/assets/237ed65f/images/social-networks/pinterest.svg" title="GuestReservations on Pinterest"/>
+</a>
+<a href="https://www.youtube.com/@GuestReservations" target="_blank" title="GuestReservations on YouTube">
+<img alt="GuestReservations on YouTube" src="/assets/237ed65f/images/social-networks/you-tube.svg" title="GuestReservations on YouTube"/>
+</a>
+</div>
+</div>
+<div class="col nav-footer d-flex">
+<div class="styles">
+<h5>Learn More</h5>
+<ul class="list-unstyled">
+<li><a href="https://www.guestreservations.com/about/page" title="About Us">About Us</a></li>
+<li><a href="https://www.guestreservations.com/about/faq" title="FAQs">FAQs</a></li>
+<li><a href="https://www.guestreservations.com/about/news" title="News">News</a></li>
+<li><a href="https://www.guestreservations.com/about/reviews" title="Customer Reviews">Customer
+                                    Reviews</a></li>
+<li><a href="https://www.guestreservations.com/about/termsofuse" title="Terms of Service">Terms of
+                                    Service</a></li>
+<li><a href="https://www.guestreservations.com/about/privacy" title="Privacy Policy">Privacy Policy</a></li>
+<li><a class="no-affiliation-popup-link" href="#" title="Hotel Non-Affiliation">Hotel
+                                    Non-Affiliation</a></li>
+</ul>
+</div>
+<div class="styles">
+<h5>Get in Touch</h5>
+<ul class="list-unstyled">
+<li><a href="https://www.guestreservations.com/about/contact" title="Contact Us">Contact Us</a>
+</li>
+<li><a href="https://www.guestreservations.com/about/mybooking" title="My Booking">My Booking</a>
+</li>
+<li><a href="https://groups.guestreservations.com/Group-Rate/" title="Group Rates">Group Rates</a></li>
+<li><a href="https://groups.guestreservations.com/Group-Rate/?GroupType=150&amp;sc=GRes_Weddings" title="Weddings">Weddings</a></li>
+<li><a href="https://groups.guestreservations.com/Group-Rate/?es=1" title="Extended Stay">Extended Stay</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div aria-labelledby="myModalLabel" class="modal fade modal-admin" id="show-no-affiliation" tabindex="-1">
+<div class="modal-dialog modal-log" role="document">
+<div class="modal-content">
+<div class="modal-header text-center">
+<button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span></button>
+<h4 class="modal-title trademark-name" id="myModalLabel">Guest Reservations<sup>TM</sup><br/>
+                    Hotel Non-Affiliation – Proudly Independent Network</h4>
+</div>
+<div class="modal-body" id="modal-body">
+<div class="panel panel-default">
+                    We are an independent travel network for over 100,000 hotels worldwide. We are not owned or
+                    sponsored by any particular hotel, and the trademarks of all hotels in our network are owned
+                    by the respective hotels or licensors. We only use hotel trademarks or information to the
+                    extent necessary to assist our customers to book rooms in the travel destination of their
+                    choice.
+                </div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<b class="trademark-name">Guest Reservations<sup>TM</sup></b> Connects Travelers to Relevant
+                        Deals:
+                    </div>
+<div class="panel-body no-padding">
+<span class="row">
+<p class="icons icon-case">We are focused on connecting travelers to the most relevant deals.</p>
+</span>
+<span class="row">
+<p class="icons icon-bed">As an independent travel network and online travel agent (OTA), we can offer rooms
+                                through hotel room suppliers and through global distribution systems where hotels
+                                place their inventory for sale.</p>
+</span>
+<span class="row">
+<p class="icons icon-sale">This allows us, as an independent travel network, to get you the same deals you
+                                expect with larger travel agencies.</p>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="copyrighted-slogan w-100">
+<div class="row">
+<div class="col-md-auto copyrighted">
+<p>Copyright 2023 <b class="trademark-name">Guest Reservations<sup>TM</sup></b>.</p>
+</div>
+<div class="col slogan">
+<p> <span class="trademark-name"> <b class="trademark-name">Guest Reservations<sup>TM</sup></b> is an independent
+                           travel network <br class="for-mobile for-tablet"/> offering over 100,000 hotels worldwide.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCGyzSMOtzEO7yuVY1c_XrQqOxKdZ6NZTU&amp;libraries=places&amp;callback=initAutocomplete&amp;language=en"></script> <!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NPMZ2WN" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Bing -->
+<script>
+            (function(w, d, t, r, u) {
+                var f, n, i;
+                w[u] = w[u] || [], f = function() {
+                    var o = {
+                        ti: "5267870"
+                    };
+                    o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad")
+                }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function() {
+                    var s = this.readyState;
+                    s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null)
+                }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i)
+            })(window, document, "script", "//bat.bing.com/bat.js", "uetq");
+        </script><noscript><img height="0" src="//bat.bing.com/action/0?ti=5267870&amp;Ver=2" style="display:none; visibility: hidden;" width="0"/></noscript>
+<iframe class="search-loading" src="/site/searchloading" style="display: none"></iframe>
+<div id="mobile-indicator"></div>
+<!-- serverHost: web02 -->
+<script>(function(){var js = "window['__CF$cv$params']={r:'7f6f0cc8ee1d4088',t:'MTY5MjA3NzQ3Mi43MTMwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
+</html>

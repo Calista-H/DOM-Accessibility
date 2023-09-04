@@ -1,0 +1,686 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<title>Dextel.Agency - Web Design &amp; Development. Growth Strategies</title>
+<meta content="Looking for better online results? We create highly engaging websites, high performance ecommerce stores &amp; use smart strategies to scale your business" name="description">
+<meta content="max-image-preview:large" name="robots">
+<link href="https://www.dextel.agency/" rel="canonical">
+<meta content="All in One SEO (AIOSEO) 4.3.9" name="generator"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="Dextel.Agency - Ecommerce, Web design, Web development" property="og:site_name"/>
+<meta content="article" property="og:type"/>
+<meta content="Dextel.Agency - Ecommerce &amp; Web Design for Ambitious Brands" property="og:title"/>
+<meta content="Looking for a talented agency that can deliver the perfect website for your brand or business? We can help. We've been building successful websites &amp; performance ecommerce stores for over 15 years!" property="og:description"/>
+<meta content="https://www.dextel.agency/" property="og:url"/>
+<meta content="https://www.dextel.agency/wp-content/uploads/2021/03/work-top-banner-large.jpg" property="og:image"/>
+<meta content="https://www.dextel.agency/wp-content/uploads/2021/03/work-top-banner-large.jpg" property="og:image:secure_url"/>
+<meta content="/wp-content/uploads/2021/11/Dextel-promo-video-_-web.mp4" property="og:video"/>
+<meta content="/wp-content/uploads/2021/11/Dextel-promo-video-_-web.mp4" property="og:video:secure_url"/>
+<meta content="2020-03-13T09:30:15+00:00" property="article:published_time"/>
+<meta content="2023-06-09T13:32:21+00:00" property="article:modified_time"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Dextel.Agency - Strategy. Ecommerce. Web Design." name="twitter:title"/>
+<meta content="Looking for an agency that can help you grow and scale your business online? We can help." name="twitter:description"/>
+<meta content="https://www.dextel.agency/wp-content/uploads/2021/03/work-top-banner-large-1.jpg" name="twitter:image"/>
+<script class="aioseo-schema" type="application/ld+json">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.dextel.agency\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.dextel.agency\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/www.dextel.agency\/","name":"Home","description":"Looking for better online results? We create highly engaging websites, high performance ecommerce stores & use smart strategies to scale your business","url":"https:\/\/www.dextel.agency\/"}}]},{"@type":"Organization","@id":"https:\/\/www.dextel.agency\/#organization","name":"Dextel.Agency","url":"https:\/\/www.dextel.agency\/"},{"@type":"WebPage","@id":"https:\/\/www.dextel.agency\/#webpage","url":"https:\/\/www.dextel.agency\/","name":"Dextel.Agency - Web Design & Development. Growth Strategies","description":"Looking for better online results? We create highly engaging websites, high performance ecommerce stores & use smart strategies to scale your business","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/www.dextel.agency\/#website"},"breadcrumb":{"@id":"https:\/\/www.dextel.agency\/#breadcrumblist"},"datePublished":"2020-03-13T09:30:15+00:00","dateModified":"2023-06-09T13:32:21+00:00"},{"@type":"WebSite","@id":"https:\/\/www.dextel.agency\/#website","url":"https:\/\/www.dextel.agency\/","name":"Dextel.Agency","description":"Ecommerce, Web design, Web development","inLanguage":"en-US","publisher":{"@id":"https:\/\/www.dextel.agency\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.dextel.agency\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}]}
+		</script>
+<link href="https://www.dextel.agency/feed/" rel="alternate" title="Dextel.Agency » Feed" type="application/rss+xml"/>
+<link href="https://www.dextel.agency/comments/feed/" rel="alternate" title="Dextel.Agency » Comments Feed" type="application/rss+xml"/>
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.dextel.agency\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://www.dextel.agency/wp-includes/css/dist/block-library/style.min.css?ver=6.3" id="wp-block-library-css" media="all" rel="stylesheet"/>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link href="https://www.dextel.agency/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7" id="contact-form-7-css" media="all" rel="stylesheet"/>
+<link href="https://www.dextel.agency/wp-content/plugins/testimonial-slider-and-showcase/assets/css/wptestimonial.css?ver=2.3.3" id="tss-css" media="all" rel="stylesheet"/>
+<link href="https://www.dextel.agency/wp-content/themes/agensy/css/bundle.min.css?ver=6.3" id="agensy-bundle-css" media="all" rel="stylesheet"/>
+<link href="https://www.dextel.agency/wp-content/themes/agensy/css/bootstrap.min.css?ver=6.3" id="bootsrap-css" media="all" rel="stylesheet"/>
+<link href="https://www.dextel.agency/wp-content/themes/agensy/css/style.css?ver=6.3" id="agensy-main-style-css" media="all" rel="stylesheet"/>
+<link href="https://www.dextel.agency/wp-content/themes/agensy/style.css?ver=6.3" id="agensy-stylesheet-css" media="all" rel="stylesheet"/>
+<style id="agensy-stylesheet-inline-css">
+
+				body .navbar > .logo img{
+					height: 54px;
+				}
+			
+</style>
+<link href="https://www.dextel.agency/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.9.3" id="slb_core-css" media="all" rel="stylesheet"/>
+<link href="https://www.dextel.agency/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.13.0" id="js_composer_front-css" media="all" rel="stylesheet"/>
+<link href="//www.dextel.agency/wp-content/uploads/js_composer/custom.css?ver=6.13.0" id="js_composer_custom_css-css" media="all" rel="stylesheet"/>
+<script id="jquery-core-js" src="https://www.dextel.agency/wp-includes/js/jquery/jquery.min.js?ver=3.7.0"></script>
+<script id="jquery-migrate-js" src="https://www.dextel.agency/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="comments-js-extra">
+var comment_data = {"name":"Name is required","email":"Email is required","comment":"Comment is required"};
+</script>
+<script id="comments-js" src="https://www.dextel.agency/wp-content/themes/agensy/js/comments.js?ver=6.3"></script>
+<link href="https://www.dextel.agency/wp-json/" rel="https://api.w.org/"/><link href="https://www.dextel.agency/wp-json/wp/v2/pages/55" rel="alternate" type="application/json"/><link href="https://www.dextel.agency/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<meta content="WordPress 6.3" name="generator"/>
+<link href="https://www.dextel.agency/" rel="shortlink"/>
+<link href="https://www.dextel.agency/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dextel.agency%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://www.dextel.agency/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dextel.agency%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<style>.wpcf7 .ajax-loader{background-image: url(https://www.dextel.agency/wp-content/plugins/contact-form-7/images/ajax-loader.gif);visibility:hidden;display:inline-block;width:16px;height:16px;border:none;padding:0;margin:0 0 0 4px;vertical-align:middle}.wpcf7 .ajax-loader.is-active{visibility:visible}</style><style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." name="generator"/>
+<link href="https://www.dextel.agency/wp-content/uploads/2021/02/cropped-android-chrome-256x256-1-32x32.png" rel="icon" sizes="32x32"/>
+<link href="https://www.dextel.agency/wp-content/uploads/2021/02/cropped-android-chrome-256x256-1-192x192.png" rel="icon" sizes="192x192"/>
+<link href="https://www.dextel.agency/wp-content/uploads/2021/02/cropped-android-chrome-256x256-1-180x180.png" rel="apple-touch-icon"/>
+<meta content="https://www.dextel.agency/wp-content/uploads/2021/02/cropped-android-chrome-256x256-1-270x270.png" name="msapplication-TileImage"/>
+<style id="wp-custom-css">
+			.text-content p {
+font-size: 22px;	
+line-height: 1.5;
+}
+
+
+.text-content p small {
+line-height:0;
+}
+
+.text-content h2 {
+  font-weight: 600;
+	margin-bottom: 5%;
+  }
+
+/* Worpress Customizing Additional CSS Setting*/
+
+/*b2b page*/
+#b2bSlider .item-content-wrapper{
+height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+#b2bSlider .item-content-wrapper h3,
+#b2bSlider .item-content-wrapper p{
+	font-style:normal;
+}
+
+
+.item-content blockquote{
+	font-size:26px;
+	padding:30px 0;
+}
+
+.tss-wrapper .tss-layout3 .item-content-wrapper:before, .tss-wrapper .tss-isotope1 .item-content-wrapper:before, .tss-wrapper .tss-video1 .item-content-wrapper:before, .tss-wrapper .tss-carousel3 .item-content-wrapper:before {
+   display:none;
+}
+
+.underline {
+	text-decoration:underline;
+	text-underline-offset:4px;
+	text-decoration-color:#9E005D;
+	text-decoration-thickness: 3px;
+}
+/* pop up  */
+.hustle-cta-helper-text a{
+	text-decoration:underline;
+}
+
+/* testimonial page */
+.testimonial:after{
+	background: #34363a;
+    content: "";
+    display: block;
+    height: 1px;
+    width: 100%;
+		margin-top:70px;
+}
+/**/
+
+@media only screen and (max-width: 767px), only screen and (max-device-width: 767px) {  
+.text-content h2 {
+  font-size: 9vw;
+	margin-bottom: 5%;
+  }
+.text-content h3 {
+  font-size: 7vw;
+	margin-bottom: 5%;
+  }
+.text-content p {
+font-size: 16px;	
+line-height: 1.5;
+}
+	
+/* Worpress Customizing Additional CSS Setting*/
+.flex-reverse{
+	flex-direction: column-reverse;
+}
+.item-content blockquote{
+	font-size:18px;
+}
+/* */
+	
+	
+}
+.blog .header-image{
+    display:none;
+}
+
+@media (min-width:1200px){
+	.page-header p{
+		padding-right:20%
+	}
+}
+.blog .header-image + .content-section{
+    padding-top:0;
+}
+.single-post .content-section{
+    padding-top:50px;
+}
+@media (max-width:767px){
+	.single-post .content-section{
+		padding-top:10px
+	}
+}
+.slider .swiper-pagination .swiper-pagination-bullet svg{
+        top: -9px;
+    right: -10px;
+}		</style>
+<style data-type="vc_shortcodes-custom-css" type="text/css">.vc_custom_1676056220597{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1675879670201{border-bottom-width: 100px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-19739694-3"></script>
+<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-19739694-3');
+	</script>
+</link></meta></meta></head>
+<body class="home page-template page-template-page-builder page-template-page-builder-php page page-id-55 no-preloader body-horizontal-menu wpb-js-composer js-comp-ver-6.13.0 vc_responsive">
+<div class="navigation-menu">
+<div class="inner">
+<div class="side-menu">
+<div class="menu-main-menu-container"><ul class="menu" id="menu-main-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-55 current_page_item active menu-item-2297 nav-item" id="menu-item-2297" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a aria-current="page" class="nav-link" data-text="Home" href="https://www.dextel.agency/" title="Home">Home</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61 nav-item" id="menu-item-61" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="What We Do" href="https://www.dextel.agency/agency-what-we-do/" title="What We Do">What We Do</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422 nav-item" id="menu-item-422" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="Ecommerce" href="https://www.dextel.agency/ecommerce-magento-shopify/" title="Ecommerce">Ecommerce</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60 nav-item" id="menu-item-60" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="Work" href="https://www.dextel.agency/work/" title="Work">Work</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 nav-item" id="menu-item-59" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="Insights" href="https://www.dextel.agency/insights/" title="Insights">Insights</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2140 nav-item" id="menu-item-2140" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="Get A Quote" href="https://www.dextel.agency/get-a-quote/" title="Get A Quote">Get A Quote</a><i></i></li>
+</ul></div> </div>
+<section class="widget_text widget widget_custom_html" id="custom_html-1"><div class="textwidget custom-html-widget">
+<div class="sides"><h1><strong>Hey, Thanks for visiting!</strong></h1><h2>If you're looking to make an impact online, we can help.</h2>
+<h2>
+<strong>Do you have a project in mind?</strong>
+</h2>
+<address>Let's Talk!<br/>
+<a href="/cdn-cgi/l/email-protection#adc5c8c1c1c2edc9c8d5d9c8c183cccac8c3ced4"><span class="__cf_email__" data-cfemail="5b333e3737341b3f3e232f3e37753a3c3e353822">[email protected]</span></a>
+<a href="tel:514-343-5550">(514) 343-5550</a>
+</address>
+<address><a href="https://calendly.com/dextelagency/30minstrategy" rel="noopener" target="_blank"><strong>Book a free strategy session!</strong></a></address>
+</div>
+</div></section> </div>
+</div>
+<aside class="left-side">
+<div class="logo"> <img alt="Dextel.Agency" src="https://www.dextel.agency/wp-content/uploads/2021/01/logo_icon2.png"/> </div>
+<ul>
+<li> <a data-text="BEHANCE" href="https://www.behance.net/dextelagency" rel="noreferrer" target="_blank" title="BEHANCE">BEHANCE</a> </li>
+<li> <a data-text="DRIBBBLE" href="https://dribbble.com/dextelagency" rel="noreferrer" target="_blank" title="DRIBBBLE">DRIBBBLE</a> </li>
+<li> <a data-text="LINKEDIN" href="https://ca.linkedin.com/company/dextelagency" rel="noreferrer" target="_blank" title="LINKEDIN">LINKEDIN</a> </li>
+</ul>
+<a class="gotop" href="#top"><img alt="Image" src="https://www.dextel.agency/wp-content/themes/agensy/images/icon-gotop.svg"/></a>
+</aside>
+<nav class="navbar">
+<div class="logo"><a href="https://www.dextel.agency/"><img alt="Dextel.Agency" src="https://www.dextel.agency/wp-content/uploads/2021/01/dextel_logo_200.png"/></a></div>
+<div class="phone">
+<a data-text="(514) 343 5550" href="tel:+15143435550" title="(514) 343 5550">(514) 343 5550</a>
+</div>
+<div class="main-menu">
+<div class="menu-main-menu-container"><ul class="menu-horizontal" id="menu-main-menu-1"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-55 current_page_item active menu-item-2297 nav-item" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a aria-current="page" class="nav-link" data-text="Home" href="https://www.dextel.agency/" title="Home">Home</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61 nav-item" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="What We Do" href="https://www.dextel.agency/agency-what-we-do/" title="What We Do">What We Do</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422 nav-item" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="Ecommerce" href="https://www.dextel.agency/ecommerce-magento-shopify/" title="Ecommerce">Ecommerce</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60 nav-item" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="Work" href="https://www.dextel.agency/work/" title="Work">Work</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 nav-item" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="Insights" href="https://www.dextel.agency/insights/" title="Insights">Insights</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2140 nav-item" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="Get A Quote" href="https://www.dextel.agency/get-a-quote/" title="Get A Quote">Get A Quote</a><i></i></li>
+</ul></div> </div>
+<div class="hamburger-menu" id="hamburger-menu">
+<div class="burger">
+<svg data-name="Layer 1" id="burger-svg" viewbox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+<title>Show / Hide Navigation</title>
+<rect class="burger-svg__base" height="50" width="50"></rect>
+<g class="burger-svg__bars">
+<rect class="burger-svg__bar burger-svg__bar-1" height="2" width="22" x="14" y="18"></rect>
+<rect class="burger-svg__bar burger-svg__bar-2" height="2" width="22" x="14" y="24"></rect>
+<rect class="burger-svg__bar burger-svg__bar-3" height="2" width="22" x="14" y="30"></rect>
+</g>
+</svg>
+</div>
+</div>
+</nav>
+<header class="page-header">
+<div class="container">
+<div class="row">
+<div class="col-12">
+<h1>Web Solutions<br/>for Growing Your Brand<span class="dot"></span></h1>
+<p>We create strong <u>websites</u>, high-converting <u>landing pages</u>, <u>ecommerce stores</u> and smart, persuasive <u>online strategies</u> that drive results. The outcome? We boost your online sales, generate more leads and help you win more new business. </p>
+</div>
+</div>
+</div>
+</header>
+<main>
+<section class="wpb-content-wrapper"><section class="content-section no-spacing" data-color="light"><div class="vc_row wpb_row vc_row-fluid vc_row-no-padding" data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <header class="slider">
+<div class="swiper-container" data-autoplay-delay="4500" data-loop="disable" data-speed="600">
+<div class="swiper-wrapper">
+<div class="swiper-slide" data-background="https://www.dextel.agency/wp-content/uploads/2020/03/Modanessa.jpg">
+<div class="slide-inner">
+<figure><img alt="Image" src="https://www.dextel.agency/wp-content/uploads/2020/03/Frame-11-2.png"/></figure>
+<h2>New Shopify Ecommerce <br/> store For Modanessa</h2>
+<div class="link">
+<a href="/portfolio/modanessa/" title="VIEW DETAILS">
+VIEW DETAILS </a>
+</div>
+</div>
+</div>
+<div class="swiper-slide" data-background="https://www.dextel.agency/wp-content/uploads/2020/03/dex_slide3_nc.jpg">
+<div class="slide-inner">
+<figure><img alt="Image" src="https://www.dextel.agency/wp-content/uploads/2020/03/home_logo_noamcarver.png"/></figure>
+<h2>Custom website for Noamcarver.com,<br/>creator of unique rings for your special day!</h2>
+<div class="link">
+<a href="/portfolio/noam-carver-jewelry/" title="VIEW DETAILS">
+VIEW DETAILS </a>
+</div>
+</div>
+</div>
+<div class="swiper-slide" data-background="https://www.dextel.agency/wp-content/uploads/2020/03/Swisstime.jpg">
+<div class="slide-inner">
+<figure><img alt="Image" src="https://www.dextel.agency/wp-content/uploads/2020/03/Mask-group.png"/></figure>
+<h2>New Ecommerce Store<br/> for Swiss Time Buyers</h2>
+<div class="link">
+<a href="/portfolio/swiss-time-buyers/" title="SEE DETAILS">
+SEE DETAILS </a>
+</div>
+</div>
+</div>
+<div class="swiper-slide" data-background="https://www.dextel.agency/wp-content/uploads/2020/03/gellis-banner-2.jpg">
+<div class="slide-inner">
+<figure><img alt="Image" src="https://www.dextel.agency/wp-content/uploads/2020/03/logo_gellis.png"/></figure>
+<h2>Branding &amp; Web Design<br/>for Jewelry wholesaler<br/>S.Gellis </h2>
+<div class="link">
+<a href="/portfolio/sgellis-jewellery/" title="SEE DETAILS">
+SEE DETAILS </a>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-pagination"></div>
+<div class="swiper-button-prev"><span></span><b>PREV</b></div>
+<div class="swiper-button-next"><span></span><b>NEXT</b></div>
+</div>
+</header>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></section><section class="content-section no-spacing" data-color="light"><div class="vc_row wpb_row vc_row-fluid vc_row-no-padding" data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md vc_hidden-sm"><div class="vc_column-inner"><div class="wpb_wrapper"> <header class="slider">
+<div class="swiper-container" data-autoplay-delay="2500" data-loop="enable" data-speed="600">
+<div class="swiper-wrapper">
+<div class="swiper-slide" data-background="https://www.dextel.agency/wp-content/uploads/2022/02/Modanessa-1.jpg">
+<div class="slide-inner">
+<figure><img alt="Image" src="https://www.dextel.agency/wp-content/uploads/2020/03/Frame-11-2.png"/></figure>
+<h2>New Shopify Shoes Ecommerce <br/>For Modanessa</h2>
+<div class="link">
+<a href="/portfolio/modanessa/" title="View Case Study">
+View Case Study </a>
+</div>
+</div>
+</div>
+<div class="swiper-slide" data-background="https://www.dextel.agency/wp-content/uploads/2022/02/home-mobileslide-noamcarver.jpg">
+<div class="slide-inner">
+<figure><img alt="Image" src="https://www.dextel.agency/wp-content/uploads/2020/03/home_logo_noamcarver.png"/></figure>
+<h2>Noamcarver.com, <br/>unique rings for your special day!</h2>
+<div class="link">
+<a href="/portfolio/noam-carver-jewelry/" title="View Case Study">
+View Case Study </a>
+</div>
+</div>
+</div>
+<div class="swiper-slide" data-background="https://www.dextel.agency/wp-content/uploads/2022/02/swiss.jpg">
+<div class="slide-inner">
+<figure><img alt="Image" src="https://www.dextel.agency/wp-content/uploads/2020/03/Mask-group.png"/></figure>
+<h2>New Ecommerce Store for <br/> Swiss Time Buyers</h2>
+<div class="link">
+<a href="/portfolio/swiss-time-buyers/" title="SEE DETAILS">
+SEE DETAILS </a>
+</div>
+</div>
+</div>
+<div class="swiper-slide" data-background="https://www.dextel.agency/wp-content/uploads/2022/02/gellis.jpg">
+<div class="slide-inner">
+<figure><img alt="Image" src="https://www.dextel.agency/wp-content/uploads/2020/03/logo_gellis.png"/></figure>
+<h2>Branding &amp; Web Design<br/>for Jewelry wholesaler<br/>S.Gellis </h2>
+<div class="link">
+<a href="/portfolio/sgellis-jewellery/" title="SEE DETAILS">
+SEE DETAILS </a>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-pagination"></div>
+<div class="swiper-button-prev"><span></span><b>PREV</b></div>
+<div class="swiper-button-next"><span></span><b>NEXT</b></div>
+</div>
+</header>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></section><section class="content-section" data-color="light"><div class="container"><div class="vc_row wpb_row vc_row-fluid"><div class="home_text wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1675879670201"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<h2>We're on mission to grow your business!</h2>
+<p>We know the digital landscape, and we can help you create the perfect website, landing page, ecommerce store or online campaign to grow your business and reach your goals.</p>
+<p>We work with every client, big or small, with the same level of dedication, to create strong user experiences that lead to better conversions, higher user engagement, and greater ROI. We strive to make sure that your website is not only visually appealing but also built with your goals in mind.</p>
+<p>No gimmicks, just simple effective results!</p>
+</div>
+<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<p><strong>WHAT WE DO:</strong></p>
+</div>
+<div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid home-content"><div class="wpb_column vc_column_container vc_col-sm-4 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<h3><strong>ECOMMERCE</strong></h3>
+<p><small> </small><br>
+<small>We are passionate about <strong>ecommerce</strong>, and we know how to cost-effectively build and setup the <strong>perfect</strong> online store for your business, tailored to your specific audience, products and needs, and optimized to drive sales and increase conversions, all while keeping costs low.</small></br></p>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<h3><strong>WEB DEVELOPMENT</strong></h3>
+<p><small></small><br>
+<small>Are you looking for a <strong>website</strong> that will outshine your competitors, or a <strong>landing page</strong> designed and built to attract more clients? We specialize in creating beautifully designed, scalable, user-friendly, feature-rich websites and landing pages that are optimized to help you connect with your audience and earn their trust.</small></br></p>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<h3><strong>BRANDING &amp; DESIGN</strong></h3>
+<p><small> </small><br>
+<small>Is your branding up-to-date and making you stand out? We help you identify what resonates with your audience and create the visuals and assets you need to not only get their attention but also to effectively communicate what makes your business unique and special, and why they should buy from <strong>you</strong>!</small></br></p>
+</div>
+</div></div></div></div><div class="vc_empty_space" style="height: 65px"><span class="vc_empty_space_inner"></span></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<h3><strong>ONLINE STRATEGIES</strong></h3>
+<p><small> </small><br>
+<small>We can help you get your website right in front of the people interested in your products or services. We’ll review your goals and put together a <strong>smart, on-budget digital campaign</strong>, honing on the latest online marketing trends to generate buzz for your business.</small></br></p>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<h3><strong>B2B SOLUTIONS</strong></h3>
+<p><small> </small><br>
+<small>We understand B2B. We create custom-made B2B solutions that are designed to meet the unique requirements of your organization, providing you with the digital tools you need to optimize your operations, improve your customer experience and maximize your growth potential. Our digital solutions are carefully crafted to ensure that they are reliable, secure and highly efficient.</small></br></p>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<h3><strong>CUSTOM SOLUTIONS</strong></h3>
+<p><small> </small><br>
+<small>Need a <strong>custom solution</strong>? Our experienced developers can design, code and develop any custom feature or tool you may need. We can also build entire web apps or B2B portals that seamlessly integrate with your operations and optimize productivity.</small></br></p>
+</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<h2>What We Do</h2>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element">
+<div class="wpb_wrapper">
+<p>Our services are designed to help you grow. We can deliver creative concepts, web pages, design, strategy, effective messaging and more. Our goal is to help you connect your brand with your customers, and help you win their business.</p>
+</div>
+</div>
+<div class="wpb_text_column wpb_content_element">
+<div class="wpb_wrapper">
+<style> .whatwedo{padding:0;} li{padding-bottom:10px; font-size:20px; list-style: none;}</style>
+<ul class="whatwedo">
+<li>⟶ WEB DESIGN</li>
+<li>⟶ ECOMMERCE</li>
+<li>⟶ B2B SOLUTIONS</li>
+<li>⟶ BRANDING &amp; DESIGN</li>
+<li>⟶ DIGITAL STRATEGY</li>
+<li>⟶ LEAD GENERATION</li>
+<li>⟶ CONTENT WRITING</li>
+<li>⟶ WEBSITE MAINTENANCE</li>
+</ul>
+</div>
+</div>
+</div></div></div></div>
+<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+<div class="wpb_wrapper">
+<div class="custom-btn"><a href="/?page_id=41">LET'S TALK<span></span> <i></i></a></div>
+</div>
+</div>
+</div></div></div></div></div></section><section class="content-section" data-color="light"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+<ul class="works">
+<li>
+<div class="wow fadeInUp">
+<h2>SOME RECENT WORK</h2>
+</div>
+</li>
+<li>
+<div class="project-box">
+<figure class="project-image reveal-effect masker wow">
+<a data-text="Provoke Agency" href="https://www.dextel.agency/portfolio/provoke-agency/" title="Provoke Agency">
+<img alt="Provoke Agency" src="https://www.dextel.agency/wp-content/uploads/2023/07/Frame-8.jpg"/>
+</a>
+</figure>
+<div class="project-content">
+<h3><a data-text="Provoke Agency" href="https://www.dextel.agency/portfolio/provoke-agency/" title="Provoke Agency">
+Provoke Agency </a></h3>
+<small>Digital Strategy, Web Design, Web Development, Wordpress</small>
+</div>
+</div>
+</li>
+<li>
+<div class="project-box">
+<figure class="project-image reveal-effect masker wow">
+<a data-text="Modanessa" href="https://www.dextel.agency/portfolio/modanessa/" title="Modanessa">
+<img alt="Modanessa" src="https://www.dextel.agency/wp-content/uploads/2023/07/cover.jpg"/>
+</a>
+</figure>
+<div class="project-content">
+<h3><a data-text="Modanessa" href="https://www.dextel.agency/portfolio/modanessa/" title="Modanessa">
+Modanessa </a></h3>
+<small>eCommerce, Shopify, Web Design</small>
+</div>
+</div>
+</li>
+<li>
+<div class="project-box">
+<figure class="project-image reveal-effect masker wow">
+<a data-text="Swiss Time Buyers" href="https://www.dextel.agency/portfolio/swiss-time-buyers/" title="Swiss Time Buyers">
+<img alt="Swiss Time Buyers" src="https://www.dextel.agency/wp-content/uploads/2023/04/swiss-time-buyers.png"/>
+</a>
+</figure>
+<div class="project-content">
+<h3><a data-text="Swiss Time Buyers" href="https://www.dextel.agency/portfolio/swiss-time-buyers/" title="Swiss Time Buyers">
+Swiss Time Buyers </a></h3>
+<small>B2B, eCommerce, Magento, Web Design</small>
+</div>
+</div>
+</li>
+</ul>
+</div></div></div></div></section><section class="content-section no-spacing" data-color="light"><div class="container"><div class="vc_row wpb_row vc_row-fluid vc_custom_1676056220597"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md vc_hidden-sm"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+<div class="wpb_wrapper">
+<div class="custom-btn"><a href="/?page_id=2135">GET A QUOTE<span></span> <i></i></a></div>
+</div>
+</div>
+</div></div></div></div></div></section><section class="content-section" data-color="light"><div class="container"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element">
+<div class="wpb_wrapper">
+<style> .success {font-size: 3vw; font-weight: 800; margin-right:50px;}</style>
+<style media="(max-width: 767px)"> .success {font-size: 7vw; font-weight: 800; margin-right:0;} </style>
+<h2 class="success">Clients we have worked with all saw an <span style="color: #9e005d;">increase</span> in visibility, engagement and sales!</h2>
+</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="Crownring.com" class="vc_single_image-img attachment-full" decoding="async" height="110" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_crownring.png" title="Clients CrownRing" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="" class="vc_single_image-img attachment-full" decoding="async" height="110" src="https://www.dextel.agency/wp-content/uploads/2022/09/client_swisstime.jpg" title="client_swisstime" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="MomsBeyond.com" class="vc_single_image-img attachment-full" decoding="async" height="110" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_momsbeyond.png" title="clients momsbeyond.com" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2022/09/client_embix.jpg" title="client_embix" width="227"/></div>
+</figure>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="Lease Sniper" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_leasesniper.png" title="clients_leasesniper" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="NoamCarver.com" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_noamcarver.png" title="clients noamcarver" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="Oli and Gaby" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_oliandgaby.png" title="clients oliandgaby.com" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2022/09/client_decarie.jpg" title="client_decarie" width="227"/></div>
+</figure>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md vc_hidden-sm"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element">
+<div class="wpb_wrapper">
+<style> .success {font-size: 3vw; font-weight: 800; margin-right:50px;}</style>
+<style media="(max-width: 767px)"> .success {font-size: 7vw; font-weight: 800; margin-right:0;} </style>
+<h2 class="success">Clients we have worked with all saw an <span style="color: #9e005d;">increase</span> in traffic, in conversions and growth!</h2>
+</div>
+</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-lg vc_hidden-md vc_hidden-sm vc_col-xs-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="Crownring.com" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_crownring.png" title="Clients CrownRing" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2022/09/client_swisstime.jpg" title="client_swisstime" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="MomsBeyond.com" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_momsbeyond.png" title="clients momsbeyond.com" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2022/09/client_embix.jpg" title="client_embix" width="227"/></div>
+</figure>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-lg vc_hidden-md vc_hidden-sm vc_col-xs-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="Lease Sniper" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_leasesniper.png" title="clients_leasesniper" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="NoamCarver.com" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_noamcarver.png" title="clients noamcarver" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="Oli and Gaby" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_oliandgaby.png" title="clients oliandgaby.com" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2022/09/client_decarie.jpg" title="client_decarie" width="227"/></div>
+</figure>
+</div>
+</div></div></div></div></div></div></div></div></div></section><section class="content-section" data-color="light"><div class="container"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<p>We look forward to helping your business grow online and thrive!</p>
+</div>
+</div></div></div></div></div></section>
+</section>
+</main>
+<footer class="footer">
+<div class="container">
+<div class="row">
+<div class="col-12">
+<div class="career wow fadeInUp">
+<h6>LET’S WORK TOGETHER</h6>
+<h2>Do you have a project in mind?</h2>
+<p>We’d love to hear about it.</p>
+<div class="custom-link wow fadeInUp">
+<a class="custom-btn" href="/?page_id=2135" title="GET A QUOTE">
+GET A QUOTE </a>
+<span></span> <i></i>
+</div>
+</div>
+</div>
+<div class="col-lg-5 wow fadeInUp">
+<div class="widget_text widget footer-widget"><div class="textwidget custom-html-widget"><div class="logo">
+<img alt="Dextel Agency | Web Design, Ecommerce, Strategy" src="/wp-content/uploads/2021/01/dextel_logo_200.png" srcset="/wp-content/uploads/2021/01/dextel_logo_200.png"/>
+</div></div></div> </div>
+<div class="col-lg-4 col-md-6 wow fadeInUp">
+<div class="widget footer-widget"><h2 class="widget-title">Find out about</h2><div class="menu-dextel-footer-menu-container"><ul class="menu" id="menu-dextel-footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1046" id="menu-item-1046"><a href="https://www.dextel.agency/agency-what-we-do/">What We Do</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1044" id="menu-item-1044"><a href="https://www.dextel.agency/ecommerce-magento-shopify/">Ecommerce</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1045" id="menu-item-1045"><a href="https://www.dextel.agency/work/">Work</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1047" id="menu-item-1047"><a href="https://www.dextel.agency/insights/">Insights</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3404" id="menu-item-3404"><a href="https://www.dextel.agency/testimonials/">Testimonials</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2141" id="menu-item-2141"><a href="https://www.dextel.agency/get-a-quote/">Get A Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1050" id="menu-item-1050"><a href="https://www.dextel.agency/contact/">Contact Us</a></li>
+</ul></div></div> </div>
+<div class="col-lg-3 col-md-6 wow fadeInUp">
+<div class="widget_text widget footer-widget"><h2 class="widget-title">Say Hello!</h2><div class="textwidget custom-html-widget"><address>
+<a class="__cf_email__" data-cfemail="69010c050506290d0c111d0c0547080e0c070a10" href="/cdn-cgi/l/email-protection">[email protected]</a><br/>
+(514) 343.5550
+</address></div></div> </div>
+<div class="col-12 wow fadeInUp">
+<div class="sub-footer">
+<span>© Dextel.Agency - All rights reserved.</span>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script id="wpb-modifications" type="text/html"> window.wpbCustomElement = 1; </script><script id="swv-js" src="https://www.dextel.agency/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7"></script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"api":{"root":"https:\/\/www.dextel.agency\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+</script>
+<script id="contact-form-7-js" src="https://www.dextel.agency/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7"></script>
+<script id="qppr_frontend_scripts-js-extra">
+var qpprFrontData = {"linkData":{"\/portfolio.php":[1,0,""],"\/team.php":[1,0,""],"\/ecommerce.php":[1,0,""],"\/contact_us.php":[1,0,""],"\/web-development.php":[1,0,""],"\/index.php":[1,0,""],"\/marketing.php":[1,0,""]},"siteURL":"https:\/\/www.dextel.agency","siteURLq":"https:\/\/www.dextel.agency"};
+</script>
+<script id="qppr_frontend_scripts-js" src="https://www.dextel.agency/wp-content/plugins/quick-pagepost-redirect-plugin/js/qppr_frontend_script.min.js?ver=5.2.3"></script>
+<script id="bootstrap-js" src="https://www.dextel.agency/wp-content/themes/agensy/js/bootstrap.min.js?ver=6.3"></script>
+<script id="agensy-bundle-js" src="https://www.dextel.agency/wp-content/themes/agensy/js/bundle.js?ver=6.3"></script>
+<script id="agensy-scripts-js-extra">
+var data = {"pre_loader_typewriter":[],"audio_source":"","enable_sound_bar":""};
+</script>
+<script id="agensy-scripts-js" src="https://www.dextel.agency/wp-content/themes/agensy/js/scripts.js?ver=6.3"></script>
+<script id="google-recaptcha-js" src="https://www.google.com/recaptcha/api.js?render=6LeSzCIgAAAAAFeqiIXNlhtNLt-n1guhAwi94BfB&amp;ver=3.0"></script>
+<script id="wp-polyfill-inert-js" src="https://www.dextel.agency/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2"></script>
+<script id="regenerator-runtime-js" src="https://www.dextel.agency/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11"></script>
+<script id="wp-polyfill-js" src="https://www.dextel.agency/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0"></script>
+<script id="wpcf7-recaptcha-js-extra">
+var wpcf7_recaptcha = {"sitekey":"6LeSzCIgAAAAAFeqiIXNlhtNLt-n1guhAwi94BfB","actions":{"homepage":"homepage","contactform":"contactform"}};
+</script>
+<script id="wpcf7-recaptcha-js" src="https://www.dextel.agency/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.7.7"></script>
+<script id="wpb_composer_front_js-js" src="https://www.dextel.agency/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.13.0"></script>
+<script id="slb_context" type="text/javascript">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+</body></html>

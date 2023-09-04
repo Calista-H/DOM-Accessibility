@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="nl"><head><style nonce="DR38HKDLDcs4_qyeEWEPeg">
+a, a:link, a:visited, a:active, a:hover {
+  color: #1a73e8;
+  text-decoration: none;
+}
+body {
+  font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  text-align: center;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+.box {
+  border: 1px solid #dadce0;
+  box-sizing: border-box;
+  border-radius: 8px;
+  margin: 24px auto 5px auto;
+  max-width: 800px;
+  padding: 24px;
+}
+h1 {
+  color: #2c2c2c;
+  font-size: 24px;
+  hyphens: auto;
+  margin: 24px 0;
+}
+.icaCallout {
+  background-color: #f8f9fa;
+  padding: 12px 16px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+p, .sub, .contentText, .icaCallout {
+  color: #5f6368;;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  text-align: left;
+}
+.signin {
+  text-align: right;
+}
+.signinUIModernization {
+  height: 36px;
+  text-align: right;
+}
+.signinButonDisplayUIModernization {
+  display: inline-block;
+  box-sizing: border-box;
+}
+.signinUIModernization a,
+.signinUIModernization a:link,
+.signinUIModernization a:visited,
+.signinUIModernization a:active,
+.signinUIModernization a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+.signinUIModernization a:focus {
+  color: #0f0f0f;
+  text-decoration: none;
+}
+.saveButtonContainer,
+.saveButtonContainerNarrowScreen {
+  width: 100%;
+  margin-top: 12px;
+}
+.customButtonContainer {
+  height: 20px;
+  padding: 8px 0;
+  margin-top: 8px;
+}
+.navigationCtasYoutube {
+  text-align: right;
+}
+a.button {
+  color: #fff;
+}
+a.hairlinebutton,
+a.nolinebutton{
+  color: #1a73e8;
+}
+.navigationCtasYoutube a.hairlinebutton {
+  border-color: #1a73e8;
+}
+button, .button {
+  background-color: #1a73e8;
+  border: none;
+  color: #fff;
+}
+input.button {
+  -webkit-appearance: none;
+}
+.basebutton {
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 36px;
+  margin: 12px 4px 0;
+  padding: 8px 24px;
+}
+.hairlinebutton {
+  background-color: #fff;
+  border-width: 1px;
+  border-color: #dadce0;
+  border-style: solid;
+  max-height: 15px;
+}
+.basebuttonUIModernization {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 18px;
+  border-radius: 18px;
+  cursor: pointer;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  min-width: 75px;
+  height: 36px;
+  padding: 7px 12px;
+}
+.hairlinebuttonUIModernization {
+  background-color: #0f0f0f;
+  border-width: 2px;
+  border-color: transparent;
+  border-style: solid;
+  color: #fff;
+  }
+.hairlinebuttonUIModernization:focus {
+  background-color: #fff;
+  border-width: 1px;
+  border-color: #0f0f0f;
+  border-style: solid;
+  color: #0f0f0f;
+  padding: 8px 12px;
+}
+.customizeButtonUIModernization {
+  min-width: 120px;
+  background-color: #f2f2f2;
+  text-align: center;
+}
+.customizeButtonUIModernization:focus {
+  background-color: #fff;
+  border-width: 1px;
+  border-color: #0f0f0f;
+  border-style: solid;
+  padding: 8px 12px;
+}
+a.basebuttonUIModernization.customizeButtonUIModernization,
+a.basebuttonUIModernization.customizeButtonUIModernization:link,
+a.basebuttonUIModernization.customizeButtonUIModernization:visited,
+a.basebuttonUIModernization.customizeButtonUIModernization:active,
+a.basebuttonUIModernization.customizeButtonUIModernization:hover {
+  color: #0f0f0f;
+  text-decoration: none;
+}
+a.basebuttonUIModernization.customizeButtonUIModernization:focus {
+  color: #0f0f0f;
+  text-decoration: none;
+}
+.saveButtonUIModernization {
+  min-width: 120px;
+  text-align: center;
+}
+.detailsButtonUIModernization {
+  min-width: 220px;
+  text-align: center;
+  background-color: #0f0f0f;
+  border-width: 1px;
+  border-color: transparent;
+  border-style: solid;
+  color: #fff;
+}
+.detailsButtonUIModernization:focus {
+  background-color: #fff;
+  border-width: 1px;
+  border-color: #0f0f0f;
+  border-style: solid;
+  color: #0f0f0f;
+}
+.error {
+  border: 2px solid #d93025;
+  border-radius: 5px;
+  color: #d93025;
+  margin: auto;
+  padding: 5px;
+}
+.box a:hover, .detailspage a:hover {
+  text-decoration: underline;
+}
+.footer {
+  margin-top: 16px;
+}
+.footer a {
+  margin-left: 24px;
+  white-space: nowrap;
+}
+.footer a, .footer select, .footer input {
+  color: #757575;
+  font-size: 12px;
+}
+.languagepicker {
+  display: inline-flex;
+  margin: 2px 0;
+}
+#languageform,
+#languageselect {
+  margin: 0 2px;
+}
+#languageselect {
+  color: #757575;
+}
+.detailspage {
+  margin: 24px auto 0 auto;
+  max-width: 700px;
+}
+.detailspage h1, .detailspage h2 {
+  font-size: 22px
+}
+.setting {
+  border: 1px solid #dadce0;
+  box-sizing: border-box;
+  border-radius: 8px;
+  margin-bottom: 11px;
+  padding: 24px 24px 20px 24px;
+  text-align: right;
+}
+.sub {
+  padding: 24px 24px 20px 24px;
+}
+hr {
+  margin: 12px -24px 12px;
+  border: 0;
+  border-top: 1px solid #dadce0;
+}
+fieldset {
+  border: none;
+  padding: 0;
+}
+label {
+  margin: 24px;
+}
+td {
+  vertical-align: top;
+}
+.setting h2, .setting h3, h4 {
+  color: #3c4043;
+  margin: 0;
+  text-align: left;
+}
+.yt-text {
+  color: #5f6368;
+  font-size: 14px;
+  font-weight: 300;
+}
+.ytTextUIModernization {
+  color: #5f6368;
+  font-size: 14px;
+  font-weight: 300;
+  display: inline-block;
+}
+.productLogoContainer {
+  margin: auto;
+  max-width: 360px;
+}
+
+/** Narrow screen (for example a mobile device). */
+@media only screen and (max-width: 480px) {
+  body {
+    margin: 18px 14px;
+  }
+  .footer form {
+    margin-bottom: 3px;
+  }
+  .imgContainer {
+    min-width: 96px;
+  }
+  button, .button {
+    width:100%;
+  }
+  .basebutton {
+    margin: 12px 0 0;
+  }
+  .hideOnSmallWidth {
+    display: none;
+  }
+  .saveButtonContainerNarrowScreen {
+    display: inline-block;
+  }
+  .saveButtonContainer {
+    display: none;
+  }
+  .navigationCtasYoutube a.hairlinebutton {
+    display: block;
+    text-align: center;
+  }
+  .detailsButtonUIModernization,
+  .customizeButtonUIModernization,
+  .saveButtonUIModernization {
+    display: block;
+    box-sizing: border-box;
+    width:100%;
+    margin-top: 12px;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  .imgContainer {
+    min-width: 72px;
+  }
+}
+
+/** Normal/non-narrow screen. */
+@media not screen and (max-width: 480px) {
+  body {
+    margin: 18px 25px;
+  }
+  .footer form {
+    display: inline;
+  }
+  .imgContainer {
+    width: 51%;
+  }
+  button, .button {
+    width: auto;
+  }
+  .searchButton {
+    min-width: 182px;
+  }
+  .detailsButton {
+    min-width: 220px;
+  }
+  .hideOnNormalWidth {
+    display: none;
+  }
+  .saveButtonContainer {
+    display: inline-block;
+  }
+  .saveButtonContainerNarrowScreen {
+    display: none;
+  }
+  .saveButtonUIModernization {
+    margin-left: 8px;
+  }
+  .detailsButtonUIModernization {
+    margin-top: 12px;
+  }
+}
+</style><title>Voordat je verdergaat naar Google Maps</title><meta content="initial-scale=1, maximum-scale=5, width=device-width" name="viewport"/><link href="//www.google.com/favicon.ico" rel="shortcut icon"/></head><body><div class="signin"><a class="basebutton hairlinebutton" href="https://accounts.google.com/ServiceLogin?hl=nl&amp;continue=https://www.google.com/maps&amp;gae=cb-eomtm">Inloggen</a></div><div class="box"><img alt="Google" height="28" src="//www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png" srcset="//www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_68x28dp.png 2x" width="68"/><h1>Voordat je verdergaat naar Google</h1><div class="contentText">We gebruiken <a href="https://policies.google.com/technologies/cookies?hl=nl&amp;utm_source=ucb" target="_blank">cookies</a> en gegevens voor het volgende:<ul><li>Google-services leveren en onderhouden</li><li>Uitval bijhouden en bescherming bieden tegen spam, fraude en misbruik</li><li>Doelgroepbetrokkenheid en sitestatistieken meten om inzicht te krijgen in hoe onze services worden gebruikt en de kwaliteit van die services te verbeteren</li></ul>Als je Alles accepteren kiest, gebruiken we cookies en gegevens ook voor het volgende:<ul><li>Nieuwe services ontwikkelen en verbeteren</li><li>Advertenties laten zien en de effectiviteit ervan meten</li><li>Gepersonaliseerde content laten zien (afhankelijk van je instellingen)</li><li>Gepersonaliseerde advertenties laten zien (afhankelijk van je instellingen)</li></ul><div>Als je Alles afwijzen kiest, gebruiken we cookies niet voor deze aanvullende doeleinden.</div><br/><div>Niet-gepersonaliseerde content wordt beïnvloed door factoren zoals de content die je op dat moment bekijkt, activiteit in je actieve zoeksessie en je locatie. Niet-gepersonaliseerde advertenties worden beïnvloed door de content die je op dat moment bekijkt en je algemene locatie. Gepersonaliseerde content en advertenties kunnen ook relevantere resultaten, aanbevelingen en op jou toegespitste advertenties omvatten die zijn gebaseerd op eerdere activiteit van deze browser, zoals uitgevoerde Google-zoekopdrachten. We gebruiken cookies en gegevens ook om te zorgen dat de functionaliteit geschikt is voor je leeftijd, als dit relevant is.</div><br/>Selecteer Meer opties om meer informatie te bekijken, waaronder informatie over hoe je je privacyinstellingen beheert. Je kunt ook altijd naar g.co/privacytools gaan.</div><div class="saveButtonContainer"><form action="https://consent.google.com/save" method="POST" style="display:inline;"><input name="bl" type="hidden" value="boq_identityfrontenduiserver_20230808.05_p0"/><input name="x" type="hidden" value="8"/><input name="gl" type="hidden" value="NL"/><input name="m" type="hidden" value="0"/><input name="app" type="hidden" value="0"/><input name="pc" type="hidden" value="m"/><input name="continue" type="hidden" value="https://www.google.com/maps"/><input name="hl" type="hidden" value="nl"/><input name="uxe" type="hidden" value="eomtm"/><input name="cm" type="hidden" value="2"/><input name="set_eom" type="hidden" value="true"/><input aria-label="Alles afwijzen" class="basebutton button searchButton" type="submit" value="Alles afwijzen"/></form><form action="https://consent.google.com/save" method="POST" style="display:inline;"><input name="bl" type="hidden" value="boq_identityfrontenduiserver_20230808.05_p0"/><input name="x" type="hidden" value="8"/><input name="gl" type="hidden" value="NL"/><input name="m" type="hidden" value="0"/><input name="app" type="hidden" value="0"/><input name="pc" type="hidden" value="m"/><input name="continue" type="hidden" value="https://www.google.com/maps"/><input name="hl" type="hidden" value="nl"/><input name="uxe" type="hidden" value="eomtm"/><input name="cm" type="hidden" value="2"/><input name="set_eom" type="hidden" value="false"/><input name="set_sc" type="hidden" value="true"/><input name="set_aps" type="hidden" value="true"/><input aria-label="Alles accepteren" class="basebutton button searchButton" type="submit" value="Alles accepteren"/></form></div><div class="saveButtonContainerNarrowScreen"><form action="https://consent.google.com/save" method="POST" style="display:block;"><input name="bl" type="hidden" value="boq_identityfrontenduiserver_20230808.05_p0"/><input name="x" type="hidden" value="8"/><input name="gl" type="hidden" value="NL"/><input name="m" type="hidden" value="0"/><input name="app" type="hidden" value="0"/><input name="pc" type="hidden" value="m"/><input name="continue" type="hidden" value="https://www.google.com/maps"/><input name="hl" type="hidden" value="nl"/><input name="uxe" type="hidden" value="eomtm"/><input name="cm" type="hidden" value="2"/><input name="set_eom" type="hidden" value="false"/><input name="set_sc" type="hidden" value="true"/><input name="set_aps" type="hidden" value="true"/><input aria-label="Alles accepteren" class="basebutton button searchButton" type="submit" value="Alles accepteren"/></form><form action="https://consent.google.com/save" method="POST" style="display:block;"><input name="bl" type="hidden" value="boq_identityfrontenduiserver_20230808.05_p0"/><input name="x" type="hidden" value="8"/><input name="gl" type="hidden" value="NL"/><input name="m" type="hidden" value="0"/><input name="app" type="hidden" value="0"/><input name="pc" type="hidden" value="m"/><input name="continue" type="hidden" value="https://www.google.com/maps"/><input name="hl" type="hidden" value="nl"/><input name="uxe" type="hidden" value="eomtm"/><input name="cm" type="hidden" value="2"/><input name="set_eom" type="hidden" value="true"/><input aria-label="Alles afwijzen" class="basebutton button searchButton" type="submit" value="Alles afwijzen"/></form></div><div class="customButtonContainer"><a class="basebutton nolinebutton" href="https://consent.google.com/dl?continue=https://www.google.com/maps&amp;gl=NL&amp;hl=nl&amp;cm=2&amp;pc=m&amp;uxe=eomtm&amp;src=1">Meer opties</a></div></div><div class="footer"><form action="https://consent.google.com/ml" method="get"><select id="languageselect" name="hl"><option value="af">Afrikaans</option><option value="az">azərbaycan</option><option value="bs">bosanski</option><option value="ca">català</option><option value="cs">Čeština</option><option value="cy">Cymraeg</option><option value="da">Dansk</option><option value="de">Deutsch</option><option value="et">eesti</option><option value="en-GB">English (United Kingdom)</option><option value="en">English (United States)</option><option value="es">Español (España)</option><option value="es-419">Español (Latinoamérica)</option><option value="eu">euskara</option><option value="fil">Filipino</option><option value="fr-CA">Français (Canada)</option><option value="fr">Français (France)</option><option value="ga">Gaeilge</option><option value="gl">galego</option><option value="hr">Hrvatski</option><option value="id">Indonesia</option><option value="zu">isiZulu</option><option value="is">íslenska</option><option value="it">Italiano</option><option value="sw">Kiswahili</option><option value="lv">latviešu</option><option value="lt">lietuvių</option><option value="hu">magyar</option><option value="ms">Melayu</option><option selected="" value="nl">Nederlands</option><option value="no">norsk</option><option value="uz">o‘zbek</option><option value="pl">polski</option><option value="pt-BR">Português (Brasil)</option><option value="pt-PT">Português (Portugal)</option><option value="ro">română</option><option value="sq">shqip</option><option value="sk">Slovenčina</option><option value="sl">slovenščina</option><option value="sr-Latn">srpski (latinica)</option><option value="fi">Suomi</option><option value="sv">Svenska</option><option value="vi">Tiếng Việt</option><option value="tr">Türkçe</option><option value="el">Ελληνικά</option><option value="be">беларуская</option><option value="bg">български</option><option value="ky">кыргызча</option><option value="kk">қазақ тілі</option><option value="mk">македонски</option><option value="mn">монгол</option><option value="ru">Русский</option><option value="sr">српски</option><option value="uk">Українська</option><option value="ka">ქართული</option><option value="hy">հայերեն</option><option value="iw">עברית</option><option value="ur">اردو</option><option value="ar">العربية</option><option value="fa">فارسی</option><option value="am">አማርኛ</option><option value="ne">नेपाली</option><option value="mr">मराठी</option><option value="hi">हिन्दी</option><option value="as">অসমীয়া</option><option value="bn">বাংলা</option><option value="pa">ਪੰਜਾਬੀ</option><option value="gu">ગુજરાતી</option><option value="or">ଓଡ଼ିଆ</option><option value="ta">தமிழ்</option><option value="te">తెలుగు</option><option value="kn">ಕನ್ನಡ</option><option value="ml">മലയാളം</option><option value="si">සිංහල</option><option value="th">ไทย</option><option value="lo">ລາວ</option><option value="my">မြန်မာ</option><option value="km">ខ្មែរ</option><option value="ko">한국어</option><option value="ja">日本語</option><option value="zh-CN">简体中文</option><option value="zh-TW">繁體中文</option><option value="zh-HK">繁體中文 (香港)</option></select><input name="oldhl" type="hidden" value="nl"/><input name="gl" type="hidden" value="NL"/><input name="m" type="hidden" value="0"/><input name="app" type="hidden" value="0"/><input name="pc" type="hidden" value="m"/><input name="continue" type="hidden" value="https://www.google.com/maps"/><input name="src" type="hidden" value="1"/><input name="cm" type="hidden" value="2"/><input type="submit" value="Taal wijzigen"/></form><a href="https://policies.google.com/privacy?hl=nl&amp;utm_source=ucb">Privacybeleid</a> <a href="https://policies.google.com/terms?hl=nl&amp;utm_source=ucb">Servicevoorwaarden</a></div></body></html>

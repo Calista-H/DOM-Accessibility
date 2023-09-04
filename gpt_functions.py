@@ -1,7 +1,8 @@
+"""DO NOT RUN"""
+
 import openai
 import tiktoken
 import pandas as pd
-import os
 import re
 
 class GPTFunctions:
@@ -21,10 +22,10 @@ class GPTFunctions:
         #print("system tokens: ", self.count_tokens(system))
         #print("user tokens: ", self.count_tokens(user))
         response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo-16k",
+            model='gpt-3.5-turbo-16k',
             messages=[
-                {"role": "system", "content": system},
-                {"role": "user", "content": user}
+                {'role': 'system', 'content': system},
+                {'role': 'user', 'content': user}
             ]
         )
         return response.choices[0].message.content
@@ -48,16 +49,6 @@ class GPTFunctions:
         Incorrect: {self.df['html'][row_index]}"""
         return system_msg, user_msg
 
-    # example system message
-    #system_message = generate_prompt(0)[0]
-    #print(system_message)
-
-    # example user message
-    #user_message = generate_prompt(0)[1]
-    #print(user_message)
-
-    #GPT_response(system_message, user_message)
-
     """Function for getting GPT corrections"""
 
     # function returns the corrected part of GPT response
@@ -74,3 +65,5 @@ class GPTFunctions:
         # means no corrections needed
         else:
             return self.df['html'][row_index]
+
+gpt_functions = GPTFunctions()

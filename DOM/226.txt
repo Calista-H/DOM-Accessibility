@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<title>Smyth and The Loyalist</title>
+<!-- Powered by BentoBox http://getbento.com -->
+<!--
+	___ ___ _  _ _____ ___  ___  _____  __
+	| _ ) __| \| |_   _/ _ \| _ )/ _ \ \/ /
+	| _ \ _|| .` | | || (_) | _ \ (_) >  <
+	|___/___|_|\_| |_| \___/|___/\___/_/\_\
+
+	-->
+<meta content="smyth, the loyalist, chicago, tasting menu, bar, private events, west loop, Michelin restaurants, fine dining" name="keywords"/>
+<meta content="Located in Chicago’s West Loop neighborhood, John Shields &amp; Karen Urie Shields present two distinct, exciting restaurants, Smyth and The Loyalist." name="description"/>
+<link href="https://media-cdn.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/accounts/media/ukm9cqaER4myUb27wlGU_favicon.png" rel="icon"/>
+<link href="https://www.smythandtheloyalist.com/" rel="canonical"/>
+<meta content="5 Days" name="Revisit-After"/>
+<meta content="Global" name="Distribution"/>
+<meta content="General" name="Rating"/>
+<meta content="Smyth and The Loyalist" property="og:site_name"/>
+<meta content="Smyth and The Loyalist" property="og:title"/>
+<meta content="website" property="og:type"/>
+<meta content="https://www.smythandtheloyalist.com/" property="og:url"/>
+<meta content="Located in Chicago’s West Loop neighborhood, John Shields &amp; Karen Urie Shields present two distinct, exciting restaurants, Smyth and The Loyalist." property="og:description"/>
+<meta content="https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/accounts/media/DXy1EcODQC4VbLUhH2Yw_logo-version-bg.png?w=1200&amp;fit=fill&amp;auto=compress,format&amp;h=600&amp;bg=EDEDF1&amp;pad=100" property="og:image"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="Smyth and The Loyalist" name="twitter:title"/>
+<meta content="Located in Chicago’s West Loop neighborhood, John Shields &amp; Karen Urie Shields present two distinct, exciting restaurants, Smyth and The Loyalist." name="twitter:description"/>
+<meta content="https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/accounts/media/DXy1EcODQC4VbLUhH2Yw_logo-version-bg.png?w=1200&amp;fit=fill&amp;auto=compress,format&amp;h=600&amp;bg=EDEDF1&amp;pad=100" name="twitter:image"/>
+<script src="https://theme-assets.getbento.com/sensei/83a3e5e.sensei/assets/js/head.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+			WebFont.load({custom: { families: ["Surveyor Light", "bill corp nar semi-bold"] }, google: { families: ["Cormorant+Garamond:300,400,500,700", "Playfair+Display:400,400i,700,700i"] }});
+		</script>
+<noscript>
+<style type="text/css">
+			    	<link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,400,500,700|Playfair+Display:400,400i,700,700i" rel="stylesheet" type="text/css">
+			    </style>
+</noscript>
+<link href="//assets-cdn-refresh.getbento.com/stylesheet/smythandtheloyalist/1/scss/main.67aa20d2299d4a1eaa2095e6a329d6bf.scss" rel="stylesheet">
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-3VC5M17XRC&amp;l=newGADatalayer"></script>
+<script>
+			window.newGADatalayer = window.newGADatalayer || [];
+			function gtag4(){newGADatalayer.push(arguments);}
+			gtag4('js', new Date());
+			gtag4('config', 'G-3VC5M17XRC');
+		</script>
+<script type="text/javascript">
+	    Modernizr.addTest("maybemobile", function(){ return (Modernizr.touchevents && Modernizr.mq("only screen and (max-width: 768px)")) ? true : false; });
+	</script>
+<script type="text/javascript">
+			window.Sensei = { settings: { store: { enabled: false, cart_quantity: null }, gmaps: { apikey: "AIzaSyCxtTPdJqQMOwjsbKBO3adqPGzBR1MgC5g", styles: [{"featureType":"landscape","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"transit","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"water","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"road","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"stylers":[{"hue":"#00aaff"},{"saturation":-100},{"gamma":2.15},{"lightness":12}]},{"featureType":"road","elementType":"labels.text.fill","stylers":[{"visibility":"on"},{"lightness":24}]},{"featureType":"road","elementType":"geometry","stylers":[{"lightness":57}]}], icon: "https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/59862map-pin.png", mobile_icon: "https%3A//images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/59862map-pin.png%3Fw%3D50%26fit%3Dmax%26auto%3Dcompress%2Cformat" }, galleries: { autoplay: false, fade: true }, heros: { autoplay_galleries: true }, srcset_enabled: false }, modernizr: window.Modernizr }; </script> <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/33c8493530676f97b65daefe9/a3641c7cd3429399827bd006c.js");</script>
+
+<!--[if lt IE 9]>
+	    <script type="text/javascript" src="https://theme-assets.getbento.com/sensei/83a3e5e.sensei/assets/assets/js/ltie9.min.js "></script>
+	<![endif] -->
+<script type="application/ld+json">{"@context": "http://schema.org", "@type": "Organization", "@id": "https://www.smythandtheloyalist.com/#organization", "url": "https://www.smythandtheloyalist.com", "name": "Smyth and The Loyalist", "description": "Located in Chicago\u2019s West Loop neighborhood, John Shields \u0026 Karen Urie Shields present two distinct, exciting restaurants, Smyth and The Loyalist.", "logo": "https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/accounts/media/DXy1EcODQC4VbLUhH2Yw_logo-version-bg.png?w=600\u0026fit=max\u0026auto=compress,format\u0026h=600", "subOrganization": [{"@type": "FoodEstablishment", "@id": "https://www.smythandtheloyalist.com/location/sl/#foodestablishment", "url": "https://www.smythandtheloyalist.com/location/sl/", "name": "S+L", "description": "", "image": "", "photo": "", "address": {"@type": "PostalAddress", "name": "S+L", "streetAddress": "", "addressLocality": "", "addressRegion": "", "postalCode": ""}, "location": {"@type": "PostalAddress", "name": "S+L", "streetAddress": "", "addressLocality": "", "addressRegion": "", "postalCode": ""}, "telephone": null, "hasMap": "false", "parentOrganization": {"@type": "Organization", "@id": "https://www.smythandtheloyalist.com/#organization"}, "servesCuisine": "American, Tasting Menu", "priceRange": "$$"}, {"@type": "FoodEstablishment", "@id": "https://www.smythandtheloyalist.com/location/smyth-the-loyalist/#foodestablishment", "url": "https://www.smythandtheloyalist.com/location/smyth-the-loyalist/", "name": "Smyth + The Loyalist", "description": "", "image": "", "photo": "", "address": {"@type": "PostalAddress", "name": "Smyth + The Loyalist", "streetAddress": "177 North Ada Street", "addressLocality": "Chicago", "addressRegion": "IL", "postalCode": "60607"}, "location": {"@type": "PostalAddress", "name": "Smyth + The Loyalist", "streetAddress": "177 North Ada Street", "addressLocality": "Chicago", "addressRegion": "IL", "postalCode": "60607"}, "telephone": "(773) 913-3773", "hasMap": "https://www.smythandtheloyalist.com/location/smyth-the-loyalist/", "parentOrganization": {"@type": "Organization", "@id": "https://www.smythandtheloyalist.com/#organization"}, "servesCuisine": "American, Tasting Menu", "priceRange": "$$"}, {"@type": "FoodEstablishment", "@id": "https://www.smythandtheloyalist.com/location/the-loyalist/#foodestablishment", "url": "https://www.smythandtheloyalist.com/location/the-loyalist/", "name": "The Loyalist", "description": "", "image": "", "photo": "", "address": {"@type": "PostalAddress", "name": "The Loyalist", "streetAddress": "", "addressLocality": "", "addressRegion": "", "postalCode": ""}, "location": {"@type": "PostalAddress", "name": "The Loyalist", "streetAddress": "", "addressLocality": "", "addressRegion": "", "postalCode": ""}, "telephone": null, "hasMap": "false", "parentOrganization": {"@type": "Organization", "@id": "https://www.smythandtheloyalist.com/#organization"}, "servesCuisine": "American, Tasting Menu", "priceRange": "$$"}, {"@type": "FoodEstablishment", "@id": "https://www.smythandtheloyalist.com/location/smyth/#foodestablishment", "url": "https://www.smythandtheloyalist.com/location/smyth/", "name": "Smyth", "description": "", "image": "", "photo": "", "address": {"@type": "PostalAddress", "name": "Smyth", "streetAddress": "", "addressLocality": "", "addressRegion": "", "postalCode": ""}, "location": {"@type": "PostalAddress", "name": "Smyth", "streetAddress": "", "addressLocality": "", "addressRegion": "", "postalCode": ""}, "telephone": null, "hasMap": "false", "parentOrganization": {"@type": "Organization", "@id": "https://www.smythandtheloyalist.com/#organization"}, "servesCuisine": "American, Tasting Menu", "priceRange": "$$"}], "potentialAction": [{"@type": "ReserveAction", "object": {"@type": "Reservation", "name": "Table", "url": "https://www.smythandtheloyalist.com/#action-reservations"}, "result": {"@type": "Reservation", "name": "Table"}, "target": "https://www.smythandtheloyalist.com"}, {"@type": "SubscribeAction", "object": {"@type": "Product", "name": "Mailing List"}, "target": "https://www.smythandtheloyalist.com"}]}</script>
+<script type="application/ld+json">{"@context": "http://schema.org", "@type": "WebSite", "@id": "https://www.smythandtheloyalist.com/#website", "url": "https://www.smythandtheloyalist.com", "name": "Smyth and The Loyalist"}</script>
+<script type="application/ld+json">{"@context": "http://schema.org", "@type": "WebPage", "@id": "https://www.smythandtheloyalist.com/#webpage", "url": "https://www.smythandtheloyalist.com", "name": "Smyth and The Loyalist"}</script>
+</link></head>
+<body class="has-hero-intent has-mobi-footer index-template">
+<div class="site-notifications">
+</div>
+<header class="site-header">
+<a class="skip" href="#main-content">Skip to main content</a>
+<div class="site-header-desktop">
+<div class="site-header-desktop-primary" data-header-sticky="">
+<div class="container">
+<div class="site-logo">
+<a class="site-logo__btn" href="/">
+<img alt="Smyth and The Loyalist Home" class="site-logo__expanded" src="https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/accounts/media/DXy1EcODQC4VbLUhH2Yw_logo-version-bg.png"/>
+</a>
+</div>
+<nav class="site-nav">
+<ul class="site-nav-menu" data-menu-type="desktop">
+<li class="site-nav-submenu">
+<button aria-controls="SubMenu-1" aria-expanded="false" class="site-nav-link site-nav-submenu-toggle" type="button">
+					Dine
+				</button>
+<div class="sub-menu" id="SubMenu-1">
+<ul>
+<li>
+<a href="/smyth/">Smyth</a>
+</li>
+<li>
+<a href="/the-loyalist/">The Loyalist</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="site-nav-submenu">
+<button aria-controls="SubMenu-2" aria-expanded="false" class="site-nav-link site-nav-submenu-toggle" type="button">
+					About
+				</button>
+<div class="sub-menu" id="SubMenu-2">
+<ul>
+<li>
+<a href="/our-team/">Team</a>
+</li>
+<li>
+<a href="/press/">Press</a>
+</li>
+<li>
+<a href="/contact/">Contact</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a class="site-nav-link" href="/private-events/">Private Events</a>
+</li>
+<li>
+<a class="site-nav-link" href="/store/gift-cards/">Digital Gift Cards</a>
+</li>
+<li>
+<a class="site-nav-link" href="/location/smyth-the-loyalist/">Location</a>
+</li>
+<li>
+<a class="site-nav-link" href="/orderonline/">Order Online</a>
+</li>
+<li><a class="btn btn-brand" href="/reservations-smyth-the-loyalist" target="_parent">Reservations</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div aria-label="Navigation Menu Modal" class="site-header-mobi">
+<div class="site-logo">
+<a class="site-logo__btn" href="/">
+<img alt="Smyth and The Loyalist Home" src="https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/accounts/media/DXy1EcODQC4VbLUhH2Yw_logo-version-bg.png"/>
+</a>
+</div>
+<button aria-controls="SiteHeaderMobilePanel" aria-expanded="false" class="nav-toggle-btn" type="button">
+<span class="sr-only">Toggle Navigation</span>
+<span class="nav-toggle-btn__line"></span>
+<span class="nav-toggle-btn__line"></span>
+<span class="nav-toggle-btn__line"></span>
+</button>
+<div class="site-header-mobi-panel" id="SiteHeaderMobilePanel">
+<div class="site-header-mobi-panel__inner">
+<nav aria-label="Navigation Menu" class="site-nav">
+<ul class="site-nav-menu" data-menu-type="mobile">
+<li class="site-nav-submenu">
+<button aria-controls="MobileSubMenu-1" aria-expanded="false" class="site-nav-link site-nav-submenu-toggle" type="button">
+					Dine
+				</button>
+<div class="sub-menu" id="MobileSubMenu-1">
+<ul>
+<li>
+<a href="/smyth/">Smyth</a>
+</li>
+<li>
+<a href="/the-loyalist/">The Loyalist</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="site-nav-submenu">
+<button aria-controls="MobileSubMenu-2" aria-expanded="false" class="site-nav-link site-nav-submenu-toggle" type="button">
+					About
+				</button>
+<div class="sub-menu" id="MobileSubMenu-2">
+<ul>
+<li>
+<a href="/our-team/">Team</a>
+</li>
+<li>
+<a href="/press/">Press</a>
+</li>
+<li>
+<a href="/contact/">Contact</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a class="site-nav-link" href="/private-events/">Private Events</a>
+</li>
+<li>
+<a class="site-nav-link" href="/store/gift-cards/">Digital Gift Cards</a>
+</li>
+<li>
+<a class="site-nav-link" href="/location/smyth-the-loyalist/">Location</a>
+</li>
+<li>
+<a class="site-nav-link" href="/orderonline/">Order Online</a>
+</li>
+<li>
+<a class="site-nav-link" href="#">© 2021 - JK Shields, LLC.  All Rights Reserved</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="site-powered-by">
+<a href="https://getbento.com/?utm_source=header&amp;utm_campaign=smythandtheloyalist.com" rel="noopener" target="_blank">powered by BentoBox</a>
+</div>
+</div>
+</div>
+</header>
+<div class="site-content">
+<main class="site-content__main page-id--593711">
+<h1 class="sr-only">Home</h1>
+<span class="sr-only" id="main-content">Main content starts here, tab to start navigating</span>
+<section aria-label="hero-section" class="hero hero--gallery hero--fullheight revealable" id="hero">
+<div class="gallery gallery--fit">
+<li class="gallery__item gallery__item--dimmed" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/26898Smyth_interior_by_Galdones_Photography.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+">
+<span class="sr-only">Slide 1 of 13</span>
+</li>
+<li class="gallery__item gallery__item--dimmed" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/13886Smyth_TastingMenu_Feb2021-8021.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+">
+<span class="sr-only">Slide 2 of 13</span>
+</li>
+<li class="gallery__item gallery__item--dimmed" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/90142Smyth_18AUG2016_GALDONES_PHOTOGRAPHY_024.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+">
+<div class="gallery__content container">
+<img alt="a bowl of salad on a plate" class="sr-only"/>
+<p style="text-align: right;">"Smyth is the finest seasonal tasting menu in Chicago" - Eater National</p>
+</div>
+<span class="sr-only">Slide 3 of 13</span>
+</li>
+<li class="gallery__item gallery__item--dimmed" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/82343Smyth_TastingMenu_Feb2021-7905.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+">
+<span class="sr-only">Slide 4 of 13</span>
+</li>
+<li class="gallery__item gallery__item--dimmed" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/71108Smyth_01OCT2016_GALDONES_PHOTOGRAPHY-11.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+">
+<span class="sr-only">Slide 5 of 13</span>
+</li>
+<li class="gallery__item gallery__item--dimmed" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/20020Photo_Jun_22_7_58_49_AM.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+">
+<span class="sr-only">Slide 6 of 13</span>
+</li>
+<li class="gallery__item gallery__item--dimmed" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/80428Smyth_10.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+">
+<div class="gallery__content container">
+<img alt="a group of people standing in a kitchen preparing food" class="sr-only"/>
+<p style="text-align: right;"><span style="font-size: 18px;">"Fine dining upstairs, a famous burger downstairs, and attention to detail everywhere."</span><span style="font-size: 18px;"> - <em>Bon Appétit</em></span></p>
+</div>
+<span class="sr-only">Slide 7 of 13</span>
+</li>
+<li class="gallery__item gallery__item--dimmed" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/99504GALDOPHOTO_Smyth_04Oct2019_HG098.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+">
+<span class="sr-only">Slide 8 of 13</span>
+</li>
+<li class="gallery__item gallery__item--dimmed" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/96945Photo_May_12_3_32_38_PM.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+">
+<div class="gallery__content container">
+<img alt="a close up of a flower garden" class="sr-only"/>
+<p style="text-align: right;"><span style="font-size: 18px;">"Smyth is a triumphant return to Chicago for chefs John and Karen Shields"</span><span style="font-size: 18px;"> - <em>Chicago Tribune</em></span></p>
+</div>
+<span class="sr-only">Slide 9 of 13</span>
+</li>
+<li class="gallery__item gallery__item--dimmed" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/37489Smyth_01OCT2016_GALDONES_PHOTOGRAPHY-32.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+">
+<span class="sr-only">Slide 10 of 13</span>
+</li>
+<li class="gallery__item gallery__item--dimmed" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/66156Loyalist_18AUG2016_GALDONES_PHOTOGRAPHY_013_1.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+">
+<span class="sr-only">Slide 11 of 13</span>
+</li>
+<li class="gallery__item gallery__item--dimmed" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/78308LNS_1536.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+">
+<span class="sr-only">Slide 12 of 13</span>
+</li>
+<li class="gallery__item gallery__item--dimmed" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/657GALDOPHOTO_Smyth_04Oct2019_HG035.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+">
+<span class="sr-only">Slide 13 of 13</span>
+</li>
+</div>
+</section>
+<section class="c-split c-split--vcenter revealable">
+<div class="c-split__col c-split__col--dimmed">
+<div class="c-split__col-inner">
+<div class="c-split__content content">
+<h2 class="white">Smyth</h2><p><a class="btn btn-brand" href="/smyth">Visit</a></p><p><a class="btn btn-brand" href="/reservations-smyth-the-loyalist/">Reservations </a></p>
+</div>
+<div alt="" class="c-split__image" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/12483HG3A9455.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+"></div>
+</div>
+</div>
+<div class="c-split__col c-split__col--dimmed">
+<div class="c-split__col-inner">
+<div class="c-split__content content">
+<h2 class="white">The Loyalist</h2><p><a class="btn btn-brand" href="/the-loyalist/">Visit</a></p><p><a class="btn btn-brand" href="/reservations-smyth-the-loyalist/">Reservations</a></p>
+</div>
+<div alt="" class="c-split__image" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/96237DSCF4187.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+"></div>
+</div>
+</div>
+</section>
+<section class="c-one-col--text content container revealable">
+<p><em><span style="font-size: 24px;">“We are trying to express ‘farm on a plate’ — not in such a literal sense, but more as an idea. We want to create memories. We want people walking away saying, I’m never going to forget that.”</span></em><span style="font-size: 14px;"> </span><br/><span style="font-size: 14px;">— John Shields and Karen Urie Shields</span></p><p>Between them they have 30 years of culinary experience, including at top Chicago restaurants Alinea, Tru and Charlie Trotter’s. It was at the latter that John Shields and Karen Urie Shields first met, he as a sous chef, she as head pastry chef. In 2008, the couple shifted gears, turning down an offer to open a Trotter restaurant in Las Vegas and instead headed to Smyth, a small county in Virginia. During their five years there, they honed their culinary vision using the locally grown ingredients around them as inspiration. In the process, their cooking at Town House and Riverstead Inn earned them national acclaim.</p><p>At Smyth + The Loyalist, their dual-concept restaurant features a tasting menu restaurant on the first floor and a bar/lounge just below it. Fermenting, pickling and curing extend the seasons, providing Smyth + The Loyalist another level of creativity and depth of flavors that’s inherently rooted in the Midwest but never limited by it.</p>
+</section>
+<section class="c-split c-split--vcenter revealable">
+<div class="c-split__col">
+<div class="c-split__col-inner">
+<div class="c-split__content content">
+<h2 class="h2 c-split__heading">Private Events </h2>
+<p>Here at Smyth + The Loyalist, we pride ourselves on providing a warm and thoughtful experience no matter the occasion. With ample audio/visual capabilities, our dedicated private dining space is perfect for your next business presentation.</p>
+<a class="btn btn-brand" href="/private-events" target="_parent">Learn More</a>
+</div>
+</div>
+</div>
+<div class="c-split__col c-split__col--empty c-split__col--dimmed">
+<div class="c-split__col-inner">
+<div alt="" class="c-split__image" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/19390GALDOPHOTO_Smyth_06Oct2018_HG0025.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+"></div>
+</div>
+</div>
+</section>
+<section class="c-one-col--text content container revealable">
+<h2>The Story </h2>
+<p>John and Karen moved to Chilhowie, Virginia in 2008 and were given carte blanche to re-imagine the then-unknown Town House restaurant. Now able to craft their own vision, Chefs John and Karen rebuilt the Town House concept as a modern exploration of imaginative flavor and visual compositions that utilized the wide array of seasonal, locally grown, and foraged ingredients.</p><p><a class="btn btn-brand" href="/our-team/">Learn More</a></p>
+</section>
+<section class="c-tout-overlay c-tout-overlay--dimmed revealable" style="background-image: url('https://images.getbento.com/accounts/2d8a6ac13add390358a9302117d40771/media/images/53151galdophoto_smyth_dinner_06may2018_115.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+">
+<div class="container">
+<h2 class="h1">See Us in Action</h2>
+<a class="btn btn-brand" href="/our-team/" target="_parent">See More</a>
+</div>
+</section>
+</main>
+<aside class="mobi-footer mobi-footer--sticky">
+<ul class="mobi-footer__list">
+<li class="mobi-footer__item">
+<a class="btn btn-brand btn-block" href="/reservations-smyth-the-loyalist" target="_parent">Reservations</a>
+</li>
+<li class="mobi-footer__item">
+<a class="btn btn-brand-alt btn-block" href="tel:773-913-3773" rel="noopener" target="_blank">Call </a>
+</li>
+</ul>
+</aside>
+</div>
+<footer>
+<div class="site-footer-desktop">
+<div class="site-footer-desktop-primary">
+<div class="site-footer-desktop-primary__container container">
+<nav class="site-nav">
+<ul class="site-nav-menu">
+<li>
+<a class="site-nav-link" href="#">© 2021 - JK Shields, LLC.  All Rights Reserved</a>
+</li>
+<li><a class="btn btn-brand-alt" href="tel:773-913-3773" rel="noopener" target="_blank">Call </a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="site-footer-desktop-secondary">
+<div class="site-powered-by">
+<a href="https://getbento.com/?utm_source=footer&amp;utm_campaign=smythandtheloyalist.com" rel="noopener" target="_blank">powered by BentoBox</a>
+</div>
+</div>
+</div>
+</footer>
+<div class="popup popup--form mfp-hide" id="popup-newsletter-form">
+<form class="js-form-ajax form-alt container-sm" data-form-endpoint="/forms/submit/newsletter/" enctype="multipart/form-data" method="post">
+<div style="display: none;">
+<label>leave this field blank
+            <input name="comment_body" type="text" value=""/>
+</label>
+</div>
+<input name="form" type="hidden" value="newsletter"/>
+<div aria-hidden="true" data-bb-track="form" data-bb-track-action="Submit" data-bb-track-category="Forms" data-bb-track-label="Email Sign Up" data-bb-track-on="submit"></div>
+<div class="form-header">
+<h2 class="h1 form-heading">Email Signup</h2>
+</div>
+<div class="form-ui">
+<label for="17188">
+<i class="error-label"></i>
+<span class="input-label">First Name
+         <span class="input-label-required">- Required</span>
+</span>
+<input autocomplete="given-name" class="form-control" id="17188" name="17188" placeholder="First Name" required="" type="text"/>
+</label>
+<label for="17189">
+<i class="error-label"></i>
+<span class="input-label">Last Name
+         <span class="input-label-required">- Required</span>
+</span>
+<input autocomplete="family-name" class="form-control" id="17189" name="17189" placeholder="Last Name" required="" type="text"/>
+</label>
+<label for="17190">
+<i class="error-label"></i>
+<span class="input-label">Email
+         <span class="input-label-required">- Required</span>
+</span>
+<input autocomplete="email" class="form-control" id="17190" name="17190" placeholder="Email" required="" type="email"/>
+</label>
+</div>
+<div class="form-actions">
+<button class="btn btn-brand-alt" type="submit">Submit</button>
+<span class="form-error-msg">Please check errors in the form above</span>
+</div>
+<div class="form-success-msg">
+<span role="alert">Thank you for signing up for email updates!</span>
+<button class="btn btn-brand-alt js-popup-closebtn" type="button">Close</button>
+</div>
+</form>
+</div>
+<script src="https://theme-assets.getbento.com/sensei/83a3e5e.sensei/assets/js/foot.libs.min.js" type="text/javascript"></script>
+<script src="https://theme-assets.getbento.com/sensei/83a3e5e.sensei/assets/js/bentobox.min.js" type="text/javascript"></script>
+<script id="alerts-component-script" src="https://app-assets.getbento.com/alerts-component/5c6af41/main.js" type="text/javascript"></script>
+<script src="https://app-assets.getbento.com/alerts-component/5c6af41/main.js.map" type="text/javascript"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function(){
+		const has_diner_signup_ff = "false" === 'true'
+
+      	window.bentobox.overlayAlertComponent.init(
+			'div',  { has_diner_signup_ff }
+	  	);
+      	window.bentobox.bannerAlertComponent.init();
+    });
+  </script>
+<script data-bentoanalytics='{"account": "smythandtheloyalist", "theme": "sensei", "template": "index.html", "preset": "", "cartType": "", "indicativeApiKey": "62e150f7-1993-460b-90ab-1bb1bd494ad7", "snowplowAppId": "customer-websites", "devMode": false, "templateNameFromMapping": "Landing Page"}' src="https://app-assets.getbento.com/analytics/e87720c/bento-analytics.min.js" type="text/javascript"></script></body></html>
