@@ -74,10 +74,8 @@ class CleanGPTModels:
             # if at first row of group, initialize dom to be original group DOM
             if dom == '':
               dom_file_path = os.path.join('DOM', f'{row["DOM"]}.txt')
-              if os.path.exists(dom_file_path):
-                # Read the content of the text file
-                with open(dom_file_path, 'r') as text_file:
-                  dom = text_file.read()
+              with open(dom_file_path, 'r') as text_file:
+                dom = text_file.read()
             # call get_correction function and store correction in dictionary
             # error_fix_dict[row['html']] = get_correction(index)
             error = row['html']
@@ -175,12 +173,6 @@ class CleanGPTModels:
         df.insert(0, "webURL", url)
         df.insert(1, "numViolations", length)
 
-        #extract html and failure summary from nodes column
-        self.df['html'] = [[[node_item['html'] for node_item in nodes]] for nodes in self.df['nodes']]
-        self.df['failureSummary'] = [[[node_item['failureSummary'] for node_item in nodes]] for nodes in self.df['nodes']]
-        #drop the nodes column
-        self.df.drop(['nodes'], axis = 1, inplace = True)
-
       #make a row of null values for a URL that has no violations
       else:
         df_temp = pd.DataFrame({'webURL' : [url], 'numViolations' : ['0'], 'id': ['None'], 'impact': ['None'], 'tags' : ['None'], 'description': ['None'], 'help' : ['None'], 'helpUrl' : ['None'], 'html' : ['None'], 'failureSummary' : ['None']})
@@ -197,7 +189,7 @@ class CleanGPTModels:
       if os.path.exists('num_violations.txt'):
         os.remove('num_violations.txt')
 
-      self.df = self.add_severity_score(df, 'finalScore', 3)
+      self.df = self.add_severity_score('finalScore', 3)
       return self.df
 
 
@@ -216,12 +208,14 @@ class CleanGPTModels:
 
     df_corrections.to_csv('correctionViolations.csv')
 
+    return df_corrections
+
 model = CleanGPTModels()
 model.add_severity_score('initialScore', 5)
 print(model.df['initialScore'].sum())
 print("initial mean severity score: ", model.df['initialScore'].unique().sum() / model.df['webURL'].nunique())
 
 model.create_corrected_dom_column()
-model.call_corrections2violations()
-print(model.df_corrections['finalScore'].sum())
-print("final mean severity score: ", model.df_corrections['finalScore'].unique().sum() / model.df_corrections['webURL'].nunique())
+result = model.call_corrections2violations()
+print(result['finalScore'].sum())
+print("final mean severity score: ", result['finalScore'].unique().sum() / result['webURL'].nunique())

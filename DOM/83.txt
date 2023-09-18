@@ -1,733 +1,158 @@
-
-<!-- START CAPTCHA -->
-<script async="" defer="" src="https://www.recaptcha.net/recaptcha/api.js?onload=onloadCallback&amp;render=explicit" type="text/javascript"></script>
-<script type="text/javascript">
-           var onloadCallback = function() {
-           	if ($('#captchaImage').length) { 
-               		grecaptcha.render('captchaImage', {
-               			'sitekey' : '6Ld0yEcUAAAAAHz2KIeCdmJjT01qzGKXBpexp_ke'
-               		});
-                }
-               if ($('#captchaImage').length) { 
-               		grecaptcha.render('captchaImage2', {
-               			'sitekey' : '6Ld0yEcUAAAAAHz2KIeCdmJjT01qzGKXBpexp_ke'
-               		});
-                }
-               if ($('#captchaImage').length) { 
-               		grecaptcha.render('captchaImage3', {
-               			'sitekey' : '6Ld0yEcUAAAAAHz2KIeCdmJjT01qzGKXBpexp_ke'
-               		});
-                }
-     		};
-   	</script>
-<!-- END CAPTCHA -->
 <!DOCTYPE html>
 
-<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
-<title>U.S. Passports</title>
-<head>
-<link href="/apps/tsg-rwd/components/content/tsg-rwd-top-sitewide-resource-menu/clientlib/css/tsg-rwd-top-sitewide-resource-menu.css" rel="stylesheet"/>
-<link href="/apps/tsg-rwd/components/content/resources/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
-<meta content="/content/dam/tsg-global/tsg_link_img_display.jpg" property="og:image"/>
-<meta content="Renew My Passport, Rush My Passport, New Passport" http-equiv="keywords">
-<meta content="How to apply for or renew your U.S. passport if you live in United States" property="og:description">
-<script src="/apps/tsg-rwd/components/content/tsg-rwd-top-sitewide-resource-menu/clientlib/js/tsg-rwd-top-sitewide-resource-menu.js"></script>
-<!-- START Google Charts -->
-<script src="//www.google.com/jsapi"></script>
-<!-- END Google Charts -->
-<link href="/etc/designs/tsg-rwd/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/page/Single-Page-Tab-Nav/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/page/Single-Page-CSI-repository/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/website-issues/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/voFEwizard/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/voAOSwizard/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/visawizard/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/visawaittimeslargetable/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/visawaittimescategorypage/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/visadiversityform/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/tsgsearch/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/tsglist/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/timeline/clientlibs.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/tab-navigation/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/socialmedia/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/simplebutton/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/sidebarWithVideo/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/sidebar-image/clientlibs.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/sidebar/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/siacontactMasterForm/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/siaVisaContactForm/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/siaOther/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/searchCSI/clientlibs.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/rssFeed/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/row_parsys/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/roa_form/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/recentbulletins/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/processingtimeslink/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/pptprocessingtimes/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/pptWizard/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/pptAuthContactUs/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/pptArchiveData/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/photowizard/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/pdfListLinks/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/nvc-form/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/mosaic/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/list/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/hagueornotwidget/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/hagueornotsimplewidget/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/featurebox/clientlibs.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/facetBuilder/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/expediteFeesForm/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/esriViewPort/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/enchancedbutton/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/edit_datatable/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/deathQuery/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/csiData/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/contactusSIA/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/contactVitalRecords/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/contactUsWebFormEmail/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/contactUsSurveyForm/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/contactInformation/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/cnaPDF/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/cnaCountryList/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/autocomplete/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/applicationFees/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/advisorybanner/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/adoptionStats/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/accordion/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/SlideShow/clientlibs.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/ImportantNotifications/clientlibs.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/EmergencyAlert/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/CSI-Nav-Menu-Filter/clientlib.css" rel="stylesheet" type="text/css"/>
-<link href="/apps/tsg-rwd/components/content/CNAWebFormEmail/clientlib.css" rel="stylesheet" type="text/css"/>
-<script src="/etc/designs/tsg-rwd/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/page/Single-Page-Tab-Nav/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/page/Single-Page-CSI-repository/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/website-issues/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/voFEwizard/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/voAOSwizard/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/visawizard/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/visawaittimescategorypage/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/visadiversityform/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/tsgsearch/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/tsglist/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/timeline/clientlibs.js"></script>
-<script src="/apps/tsg-rwd/components/content/tab-navigation/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/socialmedia/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/simplebutton/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/sidebarWithVideo/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/sidebar/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/siacontactMasterForm/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/siaVisaContactForm/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/siaOther/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/searchCSI/clientlibs.js"></script>
-<script src="/apps/tsg-rwd/components/content/rssFeed/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/row_parsys/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/roa_form/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/recentbulletins/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/processingtimeslink/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/pptprocessingtimes/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/pptWizard/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/pptAuthContactUs/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/pptArchiveData/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/pdfListLinks/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/nvc-form/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/mosaic/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/mapWorld/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/mapBuilder/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/list/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/hagueornotwidget/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/hagueornotsimplewidget/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/featurebox/clientlibs.js"></script>
-<script src="/apps/tsg-rwd/components/content/facetBuilder/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/expediteFeesForm/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/esriViewPort/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/enchancedbutton/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/edit_datatable/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/deathQuery/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/csiData/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/contactusSIA/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/contactVitalRecords/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/contactUsWebFormEmail/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/contactUsSurveyForm/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/cnaPDF/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/cnaCountryList/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/autocomplete/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/applicationFees/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/advisorybanner/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/adoptionStats/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/accordion/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/SlideShow/clientlibs.js"></script>
-<script src="/apps/tsg-rwd/components/content/ImportantNotifications/clientlibs.js"></script>
-<script src="/apps/tsg-rwd/components/content/EmergencyAlert/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/CSI-legal-top-content/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/CSI-adoption-top-content/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/CSI-abduction-top-content/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/CSI-Top-Country-Info/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/CSI-Quick-Facts/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/CSI-Nav-Menu-Filter/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/CSI-Contact-Info/clientlib.js"></script>
-<script src="/apps/tsg-rwd/components/content/CNAWebFormEmail/clientlib.js"></script>
-<!-- 
-    START ForeSee
-    <script src="/etc/designs/travel/TSGglobal_libs/foresee/foresee-trigger.js"></script>
-    END ForeSee 
-    -->
-<!-- START DAP -->
-<script id="_fed_an_ua_tag" language="javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOS&amp;subagency=CA&amp;dclink=true&amp;yt=true&amp;sp=search_input&amp;exts=pub"></script>
-<!-- END DAP -->
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-161656342-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-161656342-1');
-  gtag('config', 'AW-809407049');
-  var currentURL = window.location.href;
-  if(currentURL.includes("International-Travel-Country-Information-Pages.html")){
-  	 gtag('event', 'conversion', {'send_to': 'AW-809407049/UvIICOKPvpcYEMmk-oED'});
-  }
-</script>
-</meta></meta></head>
-<body>
-<div class="emergencyalert Emergency-Alerts-Banner">
-</div>
-<div class="tsg-rwd-top-sitewide-resource-menu">
-<a id="top"></a>
-<!--<div>--><a class="skip" href="#inner-content" title="Skip to main content">Skip to main content</a><!--</div> -->
-<div class="tsg-rwd-mobile-resource-top-menu-btn"> <span class="fa fa-bars"></span></div>
-<div class="tsg-rwd-mobile-resource-top-search-btn">
-<form action="/content/travel/en/search.html" id="search_form" method="get">
-<input class="searchFrameInput" id="search_input" name="search_input" placeholder="Search" type="text" value=""/>
-<input id="data-sia" name="data-sia" type="hidden" value="false"/>
-<input id="data-con" name="data-con" type="hidden" value="false"/>
-<button class="btn searchbtn" id="search_btn" name="search_btn" title="TSG Content Search" type="submit"><span class="fa fa-search"></span></button>
-</form>
-</div>
-<div class="tsg-rwd-nav-frame">
-<div class="tsg-rwd-nav-menu-frame">
-<div class="tsg-rwd-nav-menu-site-resource-menu">
-<ul>
-<li><a href="/content/travel.html">Home</a><div class="lBarSeparator">|</div></li>
-<li><a href="/content/travel/en/traveladvisories/traveladvisories.html">Travel Advisories</a> <div class="lBarSeparator">|</div></li>
-<li><a href="/content/travel/en/News/newsroom.html">Newsroom</a><div class="lBarSeparator">|</div></li>
-<li><a href="/content/travel/en/about-us.html">About Us<div class="lBarSeparator">|</div></a></li>
-<li><a href="/content/travel/en/contact-us.html">Contact Us </a><div class="lBarSeparator">|</div></li>
-<li><a href="https://careers.state.gov/ca/">Careers</a><div class="lBarSeparator">|</div></li>
-<li><a href="/content/travel/en/about-us/mytravelgov.html"><span class="fa fa-sign-in-alt icon"></span> MyTravelGov</a><div class="lBarSeparator">|</div></li>
-<li>
-<a href="http://www.usembassy.gov/"> <div class="findUSframe">
-<div class="buttonFlag"></div>
-<div class="flagCopy">Find U.S. Embassies &amp; Consulates</div>
-</div>
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="tsg-rwd-mobile-resource-mobile-menu-frame">
-<div class="tsg-rwd-footer mobile-menu-adjust">
-<div class="tsg-rwd-mobile-menu-frame"> <div class="tsg-rwd-main-mobile-menu">
-<div class="tsg-rwd-bottom-footer-biz-unit-row">
-<div class="tsg-rwd-footer-biz-unit-frame">
-<h3>Travel.State.Gov</h3>
-<ul>
-<li><h4><a href="/content/travel.html">Travel.State.Gov</a></h4></li>
-<li class="tsg-rwd-congressional"><img src="/content/dam/Congressional/Department_of_state.svg" style="display:none; width: 5%;"/><h4><a alt="Congressional Liaison" href="/content/congress-liaison-home/en/Congressional_Liaison.html">Congressional Liaison</a></h4></li>
-<li class="tsg-rwd-sia"><img src="/content/dam/sia-assets/images/Department_of_state.svg" style="display:none; width: 5%;"/><h4><a alt="Special Issuance Agency" href="/content/special-issuance-agency-home/en/spec-issuance-agency.html" title="Special Issuance Agency">Special Issuance Agency</a></h4></li>
-<li><h4><a href="/content/travel/en/passports.html">U.S. Passports</a></h4></li>
-<li><h4><a href="/content/travel/en/international-travel.html">International Travel</a></h4></li>
-<li><h4><a href="/content/travel/en/us-visas.html">U.S. Visas</a></h4></li>
-<li><h4><a href="/content/travel/en/Intercountry-Adoption.html">Intercountry Adoption</a></h4></li>
-<li><h4><a href="/content/travel/en/International-Parental-Child-Abduction.html">International Parental Child Abduction</a></h4></li>
-<li><h4><a href="/content/travel/en/records-and-authentications.html">Records and Authentications</a></h4></li>
-</ul>
-<h3>Popular Links</h3>
-<ul>
-<li><h4><a href="/content/travel.html">Home</a></h4></li>
-<li><h4><a href="/content/travel/en/traveladvisories/traveladvisories.html">Travel Advisories</a></h4></li>
-<li> <a href="/content/travel/en/News/newsroom.html"><h4>Newsroom</h4></a>
-<li> <a href="/content/travel/en/about-us.html"> <h4>About Us</h4></a></li>
-<li> <a href="/content/travel/en/contact-us.html"><h4>Contact Us</h4></a></li>
-<li> <a href="https://careers.state.gov/ca/"><h4>Careers</h4></a></li>
-<li><a href="/content/travel/en/about-us/mytravelgov.html"><span class="fa fa-sign-in-alt"></span><h4 class="footerglobe"> MyTravelGov</h4></a></li>
-<li> <a href="http://www.usembassy.gov/"><h4>Find U.S. Embassies &amp; Consulates</h4></a></li>
-</li></ul>
-</div>
-<div class="tsg-rwd-footer-social-frame">
-<h3>Stay Connected</h3>
-<div class="tsg-rwd-social-media-icons">
-<ul>
-<li><a href="http://blogs.state.gov/" title="Department of State Blog"><span class="fas fa-comments"></span></a></li>
-<li><a href="http://www.facebook.com/pages/Bureau-of-Consular-Affairs/9229303148" title="Bureau of Consular Affairs Facebook"><span class="fab fa-facebook"></span></a></li>
-<li><a href="https://www.instagram.com/travelgov/" title="Bureau of Consular Affairs Instagram"><span class="fab fa-instagram"></span></a></li>
-<li><a href="http://twitter.com/TravelGov" title="Bureau of Consular Affairs Twitter"><span class="fab fa-twitter"></span></a></li>
-<li><a href="http://www.youtube.com/user/statevideo" title="Department of State Videos"><span class="fab fa-youtube"></span></a></li>
-<li><a href="/content/travel/en/rss.html" title="Travel Advisory RSS Feed"><span class="fa fa-rss"></span></a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="tsg-rwd-footer-biz-unit-frame">
-<h3>Legal Resources</h3>
-<ul>
-<li><h4><a href="/content/travel/en/legal.html">Legal Information</a></h4></li>
-<li><h4><a href="/content/travel/en/consularnotification.html">Info for U.S. Law Enforcement</a></h4></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="tsg-rwd-body-frame-row">
-<div class="tsg-rwd-body-frame-row nameplateFrame">
-<div class="tsg-rwd-body-frame website-nameplate-mobile-adjust">
-<div class="tsg-rwd-site-website-nameplate">
-<a href="/content/travel.html" title="Travel State Gov">
-<div class="tsg-rwd-site-state-seal"></div></a>
-<div class="tsg-rwd-site-name">
-<a href="/content/travel.html" title="U.S. DEPARTMENT of STATE — BUREAU of CONSULAR AFFAIRS">
-<div class="nameplate-website-name">Travel.State.Gov </div>
-<div class="nameplate-website-tagline"> U.S. DEPARTMENT of STATE — BUREAU of CONSULAR AFFAIRS</div></a>
-</div>
-<div class="tsg-rwd-rightFrame">
-<div class="tsg-rwd-searchFrame">
-<form action="/content/travel/en/search.html" id="search_form" method="get">
-<input class="searchFrameInput" id="search_input" name="search_input" placeholder="Search" type="text" value=""/>
-<input id="data-sia" name="data-sia" type="hidden" value="false"/>
-<input id="data-con" name="data-con" type="hidden" value="false"/>
-<button class="btn searchbtn" id="search_btn" name="search_btn" title="TSG Content Search" type="submit"><span class="fa fa-search"></span></button>
-</form>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="tsg-rwd-frame-for-mobile-breadcrumb">
-<div class="tsg-rwd-mobile-resource-top-close-btn"> <i class="fa fa-chevron-circle-left"></i></div>
-<div class="mobile-breadcrumb-navigatorxxx iparsys parsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="mobile-breadcrumb-navigatorxxx iparsys parsys"><div class="breadcrumb section">
-<a href="/content/travel.html" title="Travel.State.Gov"> Travel.State.Gov </a> &gt; 
-
-<span>U.S. Passports</span></div>
-</div>
-</div>
-</div>
-<div class="mobile-socialmedia-navigatorxxx iparsys parsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="mobile-socialmedia-navigatorxxx iparsys parsys">
-</div>
-</div>
-</div>
-</div>
-<div class="tsg-rwd-body-frame-row">
-<div class="tsg-rwd-body-frame">
-<div class="tsg-rwd-nav-main-site-menu-frame">
-<div class="tsg-rwd-main-navigation listchildrenTSG-RWD-Site-Navigation_v2">
-<ul class="BusinessUnitsMenu">
-<li class="tsg-rwd-congressional"><img alt="Congressional Liaison" onerror="this.style.display='none'" onload="this.parentNode.style.display = 'block'" src="/content/dam/Congressional/Department_of_state.svg" style="display:none; width: 5%;"/>
-<a href="/content/congress-liaison-home/en/Congressional_Liaison.html" title="Congressional Liaison">
-<h4>Congressional Liaison</h4></a>
-</li>
-<li class="tsg-rwd-sia"><img alt="Department of State" onerror="this.style.display='none'" onload="this.parentNode.style.display = 'block'" src="/content/dam/sia-assets/images/Department_of_state.svg" style="display:none; width: 5%;"/>
-<a href="/content/special-issuance-agency-home/en/spec-issuance-agency.html" title="Special Issuance Agency">
-<h4>Special Issuance Agency</h4></a>
-</li>
-<li>
-<a href="/content/travel/en/legal.html" title="Legal Resources">
-<h4>Legal Resources</h4></a>
-</li>
-<li>
-<a href="/content/travel/en/passports.html" title="U.S. Passports">
-<h4>U.S. Passports</h4></a>
-</li>
-<li>
-<a href="/content/travel/en/international-travel.html" title="International Travel">
-<h4>International Travel</h4></a>
-</li>
-<li>
-<a href="/content/travel/en/us-visas.html" title="U.S. Visas">
-<h4>U.S. Visas</h4></a>
-</li>
-<li>
-<a href="/content/travel/en/Intercountry-Adoption.html" title="Intercountry Adoption">
-<h4>Intercountry Adoption</h4></a>
-</li>
-<li>
-<a href="/content/travel/en/International-Parental-Child-Abduction.html" title="International Parental Child Abduction">
-<h4>International Parental Child Abduction</h4></a>
-</li>
-<li>
-<a href="/content/travel/en/records-and-authentications.html" title="Replace or Certify Documents">
-<h4>Replace or Certify Documents</h4></a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="tsg-rwd-body-frame">
-<div class="tsg-rwd-mobile-current-page-back-btn tsg-rwd-mobile-header-segment-page">
-        U.S. Passports
-    </div>
-<div class="tsg-rwd-main-navigation-segment-page">
-<div class="tsg-rwd-single-page tsg-rwd-segment-name-frame"><div class="tsg-rwd-segement-page-NAME-iparsys iparsys parsys"><div class="title section"><h1>U.S. Passports</h1>
-</div>
-<div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="tsg-rwd-segement-page-NAME-iparsys iparsys parsys"><div class="title section"><h1>English</h1>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="tsg-rwd-segment-section-menu-frame"> <div class="tsg-rwd-segement-page-menu-iparsys iparsys parsys"><div class="segmentMenu parbase section">
-<ul class="default">
-<li>
-<p>
-<a href="/content/travel/en/passports/need-passport.html" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: '/content/travel/en/passports/need-passport' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd/components/content/segmentMenu'})" title="Need a Passport">Need a Passport</a>
-</p>
-</li>
-<li>
-<p>
-<a href="/content/travel/en/passports/have-passport.html" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: '/content/travel/en/passports/have-passport' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd/components/content/segmentMenu'})" title="Already Have a Passport">Already Have a Passport</a>
-</p>
-</li>
-<li>
-<p>
-<a href="/content/travel/en/passports/get-fast.html" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: '/content/travel/en/passports/get-fast' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd/components/content/segmentMenu'})" title="Get My Passport Fast">Get My Passport Fast</a>
-</p>
-</li>
-<li>
-<p>
-<a href="/content/travel/en/passports/how-apply.html" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: '/content/travel/en/passports/how-apply' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd/components/content/segmentMenu'})" title="How to Apply">How to Apply</a>
-</p>
-</li>
-<li>
-<p>
-<a href="/content/travel/en/passports/passport-help.html" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: '/content/travel/en/passports/passport-help' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd/components/content/segmentMenu'})" title="Passport Help">Passport Help</a>
-</p>
-</li>
-<li>
-<p>
-<a href="/content/travel/en/passports/legal-matters.html" onclick="CQ_Analytics.record({event: 'listItemClicked', values: { listItemPath: '/content/travel/en/passports/legal-matters' }, collect:  false, options: { obj: this }, componentPath: 'tsg-rwd/components/content/segmentMenu'})" title="Legal Matters">Legal Matters</a>
-</p>
-</li></ul>
-</div>
-<div class="iparys_inherited"><div class="tsg-rwd-segement-page-menu-iparsys iparsys parsys"></div>
-</div>
-</div>
-</div>
-</div>
-<div class="tsg-rwd-body-frame-row">
-<div class="tsg-rwd-segment-main-copy-frame">
-<div class="tsg-rwd-single-page-breadcrumb breadcrumb">
-<a href="/content/travel.html" title="Travel.State.Gov"> Travel.State.Gov </a> &gt; 
-
-<span>U.S. Passports</span></div>
-<div class="tsg-rwd-single-page-socialmedia socialmedia">
-<!--  <div class="addthis_inline_share_toolbox_0smi" addthis:tabindex="0" url="THE URL" addthis:title="THE TITLE" addthis:media="Department_of_state.png"></div>  -->
-<!-- Go to www.addthis.com/dashboard to customize your tools 
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b436282d36ecf03"></script>
-<script type="text/javascript"> var addthis_config = { ui_tabindex: 0 } </script>-->
-</div>
-<div class="tsg-rwd-main-copy-body-frame">
-<a href="javascript:void(0);" id="inner-content" name="inner-content" title="start of main content"></a>
-<div class="tsg-rwd-page-header">
-<h1>U.S. Passports</h1>
-</div>
-<div class="tsg-rwd-content-page-parsys parsys"><div class="featurebox parbase section">
-<div class="tsg-rwd-featurebox tsg_rwd_feature_box_double">
-<h3>I need a passport</h3>
-<div class="tsg-rwd-featurebox-caption">
-<table style="width: 100%; height: 250px;">
-<tbody><tr><td style="width: 48%;"><p><img align="left" src="/content/dam/passports/passport-images/Apply In Person-01.svg" valign="top" width="100%"/></p>
-</td>
-<td style="width: 48%;"><p style="line-height: 20px;"><b><a adhocenable="false" href="/content/travel/en/passports/need-passport/apply-in-person.html" target="_blank" title="Apply in person info">I'm an adult</a></b></p>
-<p style="line-height: 20px;"><b><a adhocenable="false" href="/content/travel/en/passports/need-passport/under-16.html" target="_blank" title="Children under age 16 info">I'm applying for my child under age 16</a></b></p>
-<p><b><a adhocenable="false" href="/content/travel/en/passports/need-passport/16-17.html" target="_blank" title="Children age 16 and 17 info">Children age 16 and 17</a></b></p>
-<p style="line-height: 20px;"><b><a adhocenable="false" href="/content/travel/en/passports/need-passport/status.html" target="_blank" title="Track my application status info">Track my application status</a></b></p>
-<p style="line-height: 20px;"><b><a adhocenable="false" href="/content/travel/en/passports/how-apply/processing-times.html" title="Processing times link">Find processing times</a> </b></p>
-<p style="line-height: 20px;"><a adhocenable="false" href="/content/travel/en/passports/need-passport/card.html" target="_blank" title="Passport card info"><b>What is a passport card?</b></a></p>
-<p style="line-height: 20px;"> </p>
-</td>
-</tr></tbody></table>
-</div>
-</div></div>
-<div class="featurebox parbase section">
-<div class="tsg-rwd-featurebox tsg_rwd_feature_box_double">
-<h3>I already have a passport</h3>
-<div class="tsg-rwd-featurebox-caption">
-<table style="width: 100%; height: 250px;">
-<tbody><tr><td style="width: 48%;"><p><img align="left" src="/content/dam/passports/passport-images/passport.svg" valign="top" width="100%"/></p>
-</td>
-<td style="width: 48%;"><p style="line-height: 20px;"><b><a adhocenable="false" href="/content/travel/en/passports/have-passport/renew.html" target="_blank" title="Renewal info">I'm an adult renewing by mail</a></b></p>
-<p style="line-height: 20px;"><b><a adhocenable="false" href="/content/travel/en/passports/have-passport/lost-stolen.html" target="_blank" title="Lost or stolen info">Report it lost or stolen</a></b></p>
-<p style="line-height: 20px;"><b><a adhocenable="false" href="/content/travel/en/passports/have-passport/change-correct.html" target="_blank" title="Information about changing or correcting my passport">Change my name or correct an error </a></b></p>
-<p style="line-height: 20px;"><a adhocenable="false" href="/content/travel/en/passports/need-passport/status.html" target="_blank" title="Application status info"><b>Track my renewal application status</b></a></p>
-</td>
-</tr></tbody></table>
-</div>
-</div></div>
-<div class="featurebox parbase section">
-<div class="tsg-rwd-featurebox tsg_rwd_feature_box_double">
-<h3>I want a form</h3>
-<div class="tsg-rwd-featurebox-caption">
-<table style="width: 100%; height: 250px;">
-<tbody><tr><td style="width: 48%;"><p><img align="left" src="/content/dam/passports/passport-images/PPT Forms-01-01.svg" valign="top" width="100%"/></p>
-</td>
-<td style="width: 48%;"><p style="line-height: 20px;"><a adhocenable="false" href="/content/travel/en/passports/how-apply/form-finder.html" target="_blank" title="Form wizard"><b>Learn what form to use</b></a></p>
-<p style="line-height: 20px;"><b><a adhocenable="false" href="/content/travel/en/passports/how-apply/forms.html" target="_blank" title="Forms info">Download or fill out my form</a></b></p>
-<p style="line-height: 20px;"> </p>
-</td>
-</tr></tbody></table>
-</div>
-</div></div>
-<div class="featurebox parbase section">
-<div class="tsg-rwd-featurebox tsg_rwd_feature_box_double">
-<h3>Cost of my passport</h3>
-<div class="tsg-rwd-featurebox-caption">
-<table style="width: 100%; height: 250px;">
-<tbody><tr><td style="width: 48%;"><p><img align="left" src="/content/dam/passports/passport-images/Fees-01.svg" valign="top" width="100%"/></p>
-</td>
-<td style="width: 48%;"><p style="line-height: 20px;"><a adhocenable="false" href="/content/travel/en/passports/how-apply/fees/fee-calculator.html" target="_blank" title="Fee calculator"><b>Calculate my fee</b></a></p>
-<p style="line-height: 20px;"><b><a adhocenable="false" href="/content/travel/en/passports/how-apply/fees.html" target="_blank" title="Fees info">Payment methods</a></b></p>
-<p style="line-height: 20px;"> </p>
-</td>
-</tr></tbody></table>
-</div>
-</div></div>
-<div class="featurebox parbase section">
-<div class="tsg-rwd-featurebox tsg_rwd_feature_box_double">
-<h3>Rush my passport</h3>
-<div class="tsg-rwd-featurebox-caption">
-<table style="width: 100%; height: 250px;">
-<tbody><tr><td style="width: 48%;"><p><img align="left" src="/content/dam/passports/passport-images/Expedited Delivery-01.svg" valign="top" width="100%"/></p>
-</td>
-<td style="width: 48%;"><p style="line-height: 20px;"><a adhocenable="false" href="/content/travel/en/passports/get-fast.html" target="_blank" title="Link to page on getting passport for expedited service"><b>I need it in less than 13 weeks</b></a></p>
-<p style="line-height: 20px;"><b><a adhocenable="false" href="/content/travel/en/passports/get-fast/passport-agencies.html" target="_blank" title="Link to page on getting passport for urgent travel">I need it even faster in less than 7-9 weeks. Restrictions apply.</a></b></p>
-<p style="line-height: 20px;"> </p>
-</td>
-</tr></tbody></table>
-</div>
-</div></div>
-<div class="featurebox parbase section">
-<div class="tsg-rwd-featurebox tsg_rwd_feature_box_double">
-<h3>Submitting a good photo</h3>
-<div class="tsg-rwd-featurebox-caption">
-<table style="width: 100%; height: 250px;">
-<tbody><tr><td style="width: 48%;"><p><img align="left" src="/content/dam/passports/passport-images/PPT Photo-01-01.svg" valign="top" width="100%"/></p>
-</td>
-<td style="width: 48%;"><p style="line-height: 20px;"><a adhocenable="false" href="/content/travel/en/passports/how-apply/photos.html" target="_blank" title="Photo info page"><b>I am applying in person or renewing by mail</b></a></p>
-<p style="line-height: 20px;"> </p>
-</td>
-</tr></tbody></table>
-</div>
-</div></div>
-</div>
-<div style="float:left; display:none;">
-<div class="tsg-rwd-segement-page-name-for-menus iparsys parsys"><div class="section"><div class="new"></div>
-</div><div class="iparys_inherited"><div class="tsg-rwd-segement-page-name-for-menus iparsys parsys">
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="tsg-rwd-right-rail">
-<div class="tsg-rwd-content-page-right-rail-parsys parsys"><div class="simplebutton parbase section">
-<!-- only render the JS for the modal popup if needed RHR 6/20/12 Sifter 13509 -->
-<a class="trackDAP" data-action="App Status_Homepage" data-category="TSG_Passports" href="/content/travel/en/passports/need-passport/status.html" title="Track my Application Status">
-<div class="btn">
-<span class="fa fa-clock fa-4x"></span>
-        Track my Application Status
-</div>
-</a>
-</div>
-<div class="simplebutton parbase section">
-<!-- only render the JS for the modal popup if needed RHR 6/20/12 Sifter 13509 -->
-<a class="trackDAP" data-action="Click_HomePage_Spanish" data-category="TSG_Passports" href="/content/travel/es/pasaportes.html" title="">
-<div class="btn">
-<span class="fa fa-comments fa-4x"></span>
-        Información en español
-</div>
-</a>
-</div>
-<div class="simplebutton parbase section">
-<!-- only render the JS for the modal popup if needed RHR 6/20/12 Sifter 13509 -->
-<a class="trackDAP" data-action="Track_AcceptanceFacility_Homepage" data-category="TSG_Passports" href="https://iafdb.travel.state.gov/" target="_blank" title="Link to Acceptance Facilities">
-<div class="btn">
-<span class="fa fa-university fa-4x"></span>
-        Find Location to Apply
-</div>
-</a>
-</div>
-<div class="list parbase section">
-<div class="tsg-rwd-sidebar">
-<h3><div style="height: 20px"><span align="left"><a href="/content/travel/en/News/passports.html"><font color="white">Passport News and Alerts</font></a></span></div></h3>
-<ul class="tsgnews">
-<li>
-<p>
-<a href="/content/travel/en/News/passports/special-passport-acceptance-fairs.html" title="Special Passport Acceptance Fairs">
-<span class="news-date">Aug 14, 2023</span>
-<h4 class="news-title">Special Passport Acceptance Fairs</h4></a>
-<span class="news-description">We're holding special Passport Fairs across the United States to help you get your passport. Adults who are first-time applicants and all children can apply early and avoid the rush! New events will be added each week.</span>
-</p>
-</li>
-<li>
-<p>
-<a href="/content/travel/en/News/passports/top-mistakes.html" title="Top Five Mistakes Applying for a Passport">
-<span class="news-date">Aug 2, 2023</span>
-<h4 class="news-title">Top Five Mistakes Applying for a Passport</h4></a>
-<span class="news-description">Avoid these five most common mistakes when you apply for your U.S. passport.</span>
-</p>
-</li></ul>
-</div> </div>
-<div class="reference parbase section"><div class="cq-dd-paragraph" style="display:inline;"><div class="sidebar_817605788 sidebar parbase">
-<div class="tsg-rwd-sidebar">
-<h3>Processing Times</h3>
-<div class="tsg-rwd-sidebar-icon tsg_rwd_hide">
-<span class="fa fa-bell fa-4x"></span>
-</div>
-<div class="tsg-rwd-sidebar-copy tsg_rwd_textbox_full">
-<p><b>Routine:</b> 10-13 weeks*<b></b></p>
-<p><b>Expedited: </b>7-9 weeks and an extra $60*</p>
-<p>*Mailing times are not included in <a adhocenable="false" href="/content/travel/en/passports/how-apply/processing-times.html" title="Processing Times link">processing times</a>. Processing times only include the time your application is at one of our passport agencies or centers. The total time to get your passport includes both processing and mailing times. It may take up to 2 weeks for applications to arrive by mail at a passport agency or center, and up to 2 weeks for you to receive a completed passport in the mail after we print it. <b>Consider the total time it will take to receive your passport when you are booking travel</b>. </p>
-<p><b>Urgent Travel:</b> See our <a adhocenable="false" href="/content/travel/en/passports/get-fast.html" title="Get my Passport Fast info">Get my Passport Fast</a> page. </p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="reference parbase section"><div class="cq-dd-paragraph" style="display:inline;"><div class="sidebarwithvideo sidebarWithVideo parbase">
-<div class="tsg-rwd-sidebar">
-<h3>Applying in Person</h3>
-<iframe allowfullscreen="" frameborder="0" height="150" src="https://www.youtube.com/embed/rKHEKXuLNvk" width="100%"></iframe>
-<div class="tsg-rwd-sidebar-caption tsg_rwd_show"> <p>Watch this video on how to apply in-person for an adult U.S. passport!</p>
-</div>
-</div></div>
-</div>
-</div>
-<div class="reference parbase section"><div class="cq-dd-paragraph" style="display:inline;"><div class="sidebarwithvideo_1025014309 sidebarWithVideo parbase">
-<div class="tsg-rwd-sidebar">
-<h3>How to Renew Your Passport</h3>
-<iframe allowfullscreen="" frameborder="0" height="150" src="https://www.youtube.com/embed/0akd7xj6wec?rel=0" width="100%"></iframe>
-<div class="tsg-rwd-sidebar-caption tsg_rwd_show"> <p>Not sure if you can renew your passport? John's story summarizes the requirements.</p>
-</div>
-</div></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal fade" id="ExternalPopup" role="dialog" tabindex="-1">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-body-tsg">
-<button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span></button>
-<h3 class="modal-title" id="myModalLabel">External Link</h3>
-<p>You are about to leave travel.state.gov for an external website that is not maintained by the U.S. Department of State.</p>
-<p>Links to external websites are provided as a convenience and should not be construed as an endorsement by the U.S. Department of State of the views or products contained therein. If you wish to remain on travel.state.gov, click the "cancel" message.</p>
-<p class="sameline reducepadding">You are about to visit:</p>
-<p class="targetUrl reducepadding"></p>
-</div>
-<div class="modal-footer-tsg">
-<div class="wrapper">
-<p align="center">
-<button class="btnClear" data-dismiss="modal" type="button">Cancel</button>
-<a class="btn-tsg btn-primary-tsg btnSubmit" data-dismiss="modal" data-popup="true" title="Click here to press GO">GO</a>
-</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="tsg-rwd-footer-row">
-<div class="tsg-rwd-footer">
-<div class="tsg-rwd-footer-menu-frame">
-<div class="tsg-rwd-main-footer-menu">
-<div class="tsg-rwd-footers-main-website-name">Travel.State.Gov</div>
-<ul>
-<li><h4><a href="/content/travel.html">Travel.State.Gov</a></h4></li>
-<li class="tsg-rwd-congressional"><h4><img src="/content/dam/Congressional/Department_of_state.svg" style="display:none; width: 5%;"/><a href="/content/congress-liaison-home/en/Congressional_Liaison.html">Congressional Liaison</a></h4></li>
-<li class="tsg-rwd-sia"><h4><img src="/content/dam/sia-assets/images/Department_of_state.svg" style="display:none; width: 5%;"/><a href="/content/special-issuance-agency-home/en/spec-issuance-agency.html">Special Issuance Agency</a></h4></li>
-<li><h4><a href="/content/travel/en/passports.html">U.S. Passports</a></h4></li>
-<li><h4><a href="/content/travel/en/international-travel.html">International Travel</a></h4></li>
-<li><h4><a href="/content/travel/en/us-visas.html">U.S. Visas</a></h4></li>
-<li><h4><a href="/content/travel/en/Intercountry-Adoption.html">Intercountry Adoption</a></h4></li>
-<li><h4><a href="/content/travel/en/International-Parental-Child-Abduction.html">International Parental Child Abduction</a></h4></li>
-<li><h4><a href="/content/travel/en/records-and-authentications.html">Records and Authentications</a></h4></li>
-</ul>
-</div>
-<div class="tsg-rwd-main-footer-menu">
-<div class="tsg-rwd-footers-main-website-name">Popular Links</div>
-<ul>
-<li><a href="/content/travel.html"><h4>Home</h4></a></li>
-<li><a href="/content/travel/en/traveladvisories/traveladvisories.html"><h4>Travel Advisories</h4></a></li>
-<li><a href="/content/travel/en/News/newsroom.html"><h4>Newsroom</h4></a></li>
-<li><a href="/content/travel/en/about-us.html"> <h4>About Us</h4></a></li>
-<li><a href="/content/travel/en/contact-us.html"><h4>Contact Us</h4></a></li>
-<li><a href="https://careers.state.gov/ca/"><h4>Careers</h4></a></li>
-<li><a href="/content/travel/en/about-us/mytravelgov.html"><span class="fa fa-sign-in-alt"></span><h4 class="footerglobe"> MyTravelGov</h4></a></li>
-<li><a href="http://www.usembassy.gov/"><h4>Find U.S. Embassies &amp; Consulates</h4></a></li>
-</ul>
-</div>
-<div class="tsg-rwd-main-footer-menu">
-<div class="tsg-rwd-footer-social-frame">
-<h3>Stay Connected</h3>
-<div class="tsg-rwd-social-media-icons">
-<ul>
-<li><a href="http://blogs.state.gov/" title="Department of State Blog"><span class="fas fa-comments"></span></a></li>
-<li><a href="http://www.facebook.com/pages/Bureau-of-Consular-Affairs/9229303148" title="Bureau of Consular Affairs Facebook"><span class="fab fa-facebook"></span></a></li>
-<li><a href="https://www.instagram.com/travelgov/" title="Bureau of Consular Affairs Instagram"><span class="fab fa-instagram"></span></a></li>
-<li><a href="http://twitter.com/TravelGov" title="Bureau of Consular Affairs Twitter"><span class="fab fa-twitter"></span></a></li>
-<li><a href="http://www.youtube.com/user/statevideo" title="Department of State Videos"><span class="fab fa-youtube"></span></a></li>
-<li><a href="/content/travel/en/rss.html" title="Travel Advisory RSS Feed"><span class="fa fa-rss"></span></a></li>
-</ul>
-</div>
-<div class="tsg-rwd-footer-legal-resources-frame">
-<h3>Legal Resources</h3>
-<ul>
-<li><h4><a href="/content/travel/en/legal.html">Legal Information</a></h4></li>
-<li><h4><a href="/content/travel/en/consularnotification.html">Info for U.S. Law Enforcement</a></h4></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="tsg-rwd-bottom-legal-row">
-<div class="tsg-rwd-bottom-legal-frame">
-<div class="buttonFlag"></div>
-<a href="https://www.state.gov/privacy-policy/" title="Privacy">Privacy</a> |
-
-                <a href="/content/travel/en/copyright-disclaimer.html" title="Copyright and Disclaimer">Copyright &amp; Disclaimer</a> |
-
-                <a href="https://foia.state.gov/" title="FOIA ">FOIA</a> |
-
-                <a href="https://www.state.gov/key-topics-office-of-civil-rights/eeo-no-fear-act-whistleblower-protection-acts/" title="No FEAR Act Data">No FEAR Act Data</a> |
-
-                <a href="https://www.stateoig.gov" title="Office of the Inspector General">Office of the Inspector General</a> |
-
-                <a href="http://www.usa.gov/" title="USA.gov ">USA.gov</a> |
-
-                <a href="https://www.usa.gov/espanol/" title="USA.gov/espanol">USA.gov/espanol</a> |
-                <br/>This site is managed by the U.S. Department of State. External links to other Internet sites and listings of private entities on this page are provided as a convenience and should not be construed as the U.S. Department of State or U.S. government endorsement of the entity, its views, the products or services it provides, or the accuracy of information contained therein. The order in which names appear has no significance, and the listings or links may be removed at any time at the discretion of the Department.
-            </div>
-</div>
-</body>
-<!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET-->
+<html dir="ltr" lang="en" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# dailymotionapp: http://ogp.me/ns/fb/dailymotionapp#">
 <script type="text/javascript">
-(function(){var g=function(e,h,f,g){
-this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
-this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
-this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
-this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
-this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
-try{(new g(100,"r","QSI_S_ZN_8Btbr9qTQecsqSq","https://zn8btbr9qtqecsqsq-tsgfedramp.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_8Btbr9qTQecsqSq")).start()}catch(i){}})();
-</script><div id="ZN_8Btbr9qTQecsqSq"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
-<!--END WEBSITE FEEDBACK SNIPPET-->
-
+    try {
+      if (window.performance && typeof window.performance.mark === 'function') {
+        window.performance.mark('first_script_execution')
+      }
+    } catch (e) {
+      console.debug('Could not register performance mark first_script_execution')
+    }
+  </script>
+<script type="text/javascript">window.__BUILD_VERSION__='v2023-08-09T13:37:14.947Z'</script>
+<script type="text/javascript">
+    var __GKS__ = {
+      NEON_DISABLE_HUBVISOR:  false ,
+      NEON_HEADER_BIDDING_VIDEO:  true ,
+      NEON_HUBVISOR_AUCTION_DATA:  true ,
+      NEON_ENABLE_ONLY_HUBVISOR_MIDROLL:  true ,
+      NEON_PREBID_ALL_ADS_BUT_FIRST_PREROLL:  false ,
+      NEON_EVENTBUS_USE_DOMAIN_2:  false ,
+      NEON_GDPR:  false ,
+      NEON_PERMUTIVE_GTM_EVENTS:  false ,
+      NEON_VIDEO_TITLE_ON_LOADING:  false ,
+      PV5_PHOTON_ONSITE:  false ,
+      NEON_NEW_WATCHING_PAGE:  true ,
+      NEON_NEW_WATCHING_PAGE_MOBILE:  true ,
+      NEON_PLAYER_EMBED_SCRIPT:  false ,
+      NEON_PUBLISHER_TC:  true ,
+      NEON_LOAD_APP_AND_PLAYER_SIMULTANEOUS:  false ,
+      NEON_PLAYER_EMBED_SCRIPT_DESKTOP:  true ,
+    };
+    window.__TS__ = 326534
+  </script>
+<script type="text/javascript">/*! For license information please see criticalTracking.5fbf1dc553d2c1b11e1b.js.LICENSE.txt */
+(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[40],{"4fRq":function(t,e,n){(function(e){var n,r=e.crypto||e.msCrypto;if(r&&r.getRandomValues){var o=new Uint8Array(16);n=function(){return r.getRandomValues(o),o}}if(!n){var i=new Array(16);n=function(){for(var t,e=0;e<16;e++)0==(3&e)&&(t=4294967296*Math.random()),i[e]=t>>>((3&e)<<3)&255;return i}}t.exports=n}).call(this,n("yLpj"))},"512s":function(t,e,n){"use strict";n.d(e,"a",(function(){return r}));var r={TABLET:"tablet",DESKTOP:"desktop",MOBILE:"mobile"}},"8jRI":function(t,e,n){"use strict";var r="%[a-f0-9]{2}",o=new RegExp(r,"gi"),i=new RegExp("("+r+")+","gi");function c(t,e){try{return decodeURIComponent(t.join(""))}catch(t){}if(1===t.length)return t;e=e||1;var n=t.slice(0,e),r=t.slice(e);return Array.prototype.concat.call([],c(n),c(r))}function u(t){try{return decodeURIComponent(t)}catch(r){for(var e=t.match(o),n=1;n<e.length;n++)e=(t=c(e,n).join("")).match(o);return t}}t.exports=function(t){if("string"!=typeof t)throw new TypeError("Expected `encodedURI` to be of type `string`, got `"+typeof t+"`");try{return t=t.replace(/\+/g," "),decodeURIComponent(t)}catch(e){return function(t){for(var e={"%FE%FF":"��","%FF%FE":"��"},n=i.exec(t);n;){try{e[n[0]]=decodeURIComponent(n[0])}catch(t){var r=u(n[0]);r!==n[0]&&(e[n[0]]=r)}n=i.exec(t)}e["%C2"]="�";for(var o=Object.keys(e),c=0;c<o.length;c++){var a=o[c];t=t.replace(new RegExp(a,"g"),e[a])}return t}(t)}}},"8oxB":function(t,e){var n,r,o=t.exports={};function i(){throw new Error("setTimeout has not been defined")}function c(){throw new Error("clearTimeout has not been defined")}function u(t){if(n===setTimeout)return setTimeout(t,0);if((n===i||!n)&&setTimeout)return n=setTimeout,setTimeout(t,0);try{return n(t,0)}catch(e){try{return n.call(null,t,0)}catch(e){return n.call(this,t,0)}}}!function(){try{n="function"==typeof setTimeout?setTimeout:i}catch(t){n=i}try{r="function"==typeof clearTimeout?clearTimeout:c}catch(t){r=c}}();var a,s=[],f=!1,d=-1;function l(){f&&a&&(f=!1,a.length?s=a.concat(s):d=-1,s.length&&p())}function p(){if(!f){var t=u(l);f=!0;for(var e=s.length;e;){for(a=s,s=[];++d<e;)a&&a[d].run();d=-1,e=s.length}a=null,f=!1,function(t){if(r===clearTimeout)return clearTimeout(t);if((r===c||!r)&&clearTimeout)return r=clearTimeout,clearTimeout(t);try{r(t)}catch(e){try{return r.call(null,t)}catch(e){return r.call(this,t)}}}(t)}}function v(t,e){this.fun=t,this.array=e}function h(){}o.nextTick=function(t){var e=new Array(arguments.length-1);if(arguments.length>1)for(var n=1;n<arguments.length;n++)e[n-1]=arguments[n];s.push(new v(t,e)),1!==s.length||f||u(p)},v.prototype.run=function(){this.fun.apply(null,this.array)},o.title="browser",o.browser=!0,o.env={},o.argv=[],o.version="",o.versions={},o.on=h,o.addListener=h,o.once=h,o.off=h,o.removeListener=h,o.removeAllListeners=h,o.emit=h,o.prependListener=h,o.prependOnceListener=h,o.listeners=function(t){return[]},o.binding=function(t){throw new Error("process.binding is not supported")},o.cwd=function(){return"/"},o.chdir=function(t){throw new Error("process.chdir is not supported")},o.umask=function(){return 0}},EcEN:function(t,e,n){var r=n("xDdU"),o=n("xk4V"),i=o;i.v1=r,i.v4=o,t.exports=i},I2ZF:function(t,e){for(var n=[],r=0;r<256;++r)n[r]=(r+256).toString(16).substr(1);t.exports=function(t,e){var r=e||0,o=n;return o[t[r++]]+o[t[r++]]+o[t[r++]]+o[t[r++]]+"-"+o[t[r++]]+o[t[r++]]+"-"+o[t[r++]]+o[t[r++]]+"-"+o[t[r++]]+o[t[r++]]+"-"+o[t[r++]]+o[t[r++]]+o[t[r++]]+o[t[r++]]+o[t[r++]]+o[t[r++]]}},Ih54:function(t,e,n){"use strict";e.a=()=>3600*((new Date).getTimezoneOffset()/-60)*1e3},JQMA:function(t,e,n){"use strict";var r=n("iKNE"),o=n("KVkK");e.a=()=>{try{var t=o.a.load(r.l);return t&&parseInt(t,10)||(e=Math.floor(1e6*Math.random())+1,o.a.save(r.l,String(e),{maxAge:r.n}),e)}catch(t){return console.error("error loading the TS cookie"),null}var e}},KVkK:function(t,e,n){"use strict";var r=n("lSNA"),o=n.n(r),i=n("cr+I"),c=n("iVi/");function u(t,e){void 0===e&&(e={});var n=function(t){if(t&&"j"===t[0]&&":"===t[1])return t.substr(2);return t}(t);if(function(t,e){return void 0===e&&(e=!t||"{"!==t[0]&&"["!==t[0]&&'"'!==t[0]),!e}(n,e.doNotParse))try{return JSON.parse(n)}catch(t){}return t}var a=n("MgzW"),s=function(){function t(t,e){var n=this;this.changeListeners=[],this.HAS_DOCUMENT_COOKIE=!1,this.cookies=function(t,e){return"string"==typeof t?c.parse(t,e):"object"==typeof t&&null!==t?t:{}}(t,e),new Promise((function(){n.HAS_DOCUMENT_COOKIE="object"==typeof document&&"string"==typeof document.cookie})).catch((function(){}))}return t.prototype._updateBrowserValues=function(t){this.HAS_DOCUMENT_COOKIE&&(this.cookies=c.parse(document.cookie,t))},t.prototype._emitChange=function(t){for(var e=0;e<this.changeListeners.length;++e)this.changeListeners[e](t)},t.prototype.get=function(t,e,n){return void 0===e&&(e={}),this._updateBrowserValues(n),u(this.cookies[t],e)},t.prototype.getAll=function(t,e){void 0===t&&(t={}),this._updateBrowserValues(e);var n={};for(var r in this.cookies)n[r]=u(this.cookies[r],t);return n},t.prototype.set=function(t,e,n){var r;"object"==typeof e&&(e=JSON.stringify(e)),this.cookies=a({},this.cookies,((r={})[t]=e,r)),this.HAS_DOCUMENT_COOKIE&&(document.cookie=c.serialize(t,e,n)),this._emitChange({name:t,value:e,options:n})},t.prototype.remove=function(t,e){var n=e=a({},e,{expires:new Date(1970,1,1,0,0,1),maxAge:0});this.cookies=a({},this.cookies),delete this.cookies[t],this.HAS_DOCUMENT_COOKIE&&(document.cookie=c.serialize(t,"",n)),this._emitChange({name:t,value:void 0,options:e})},t.prototype.addChangeListener=function(t){this.changeListeners.push(t)},t.prototype.removeChangeListener=function(t){var e=this.changeListeners.indexOf(t);e>=0&&this.changeListeners.splice(e,1)},t}(),f=n("iKNE"),d=n("qytn"),l=n("fpOl");function p(t,e){var n=Object.keys(t);if(Object.getOwnPropertySymbols){var r=Object.getOwnPropertySymbols(t);e&&(r=r.filter((function(e){return Object.getOwnPropertyDescriptor(t,e).enumerable}))),n.push.apply(n,r)}return n}function v(t){for(var e=1;e<arguments.length;e++){var n=null!=arguments[e]?arguments[e]:{};e%2?p(Object(n),!0).forEach((function(e){o()(t,e,n[e])})):Object.getOwnPropertyDescriptors?Object.defineProperties(t,Object.getOwnPropertyDescriptors(n)):p(Object(n)).forEach((function(e){Object.defineProperty(t,e,Object.getOwnPropertyDescriptor(n,e))}))}return t}var h={path:"/"},m=null,g=t=>m=t||new s,y=()=>m||g(),w=function(t,e){var n=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{};return y().set(t,e,v(v(v({},h),n),{},{sameSite:"none",secure:!0}))};e.a={create:g,load:t=>y().get(t),remove:t=>(y().remove(t,h),y().remove(t,v(v({},h),{},{domain:".dailymotion.com"}))),save:w,saveAndRequest:t=>{var{name:e,options:n,value:r,queryParams:o}=t;return new Promise((t=>{var c=n=>{if(e===n.name){var r=o&&Object.keys(o).length>0?"?".concat(Object(i.stringify)(o)):"";fetch("".concat(d.j,"/").concat(e).concat(r),{method:"POST",credentials:"same-origin"}).then((()=>{t()})).catch((()=>{t()})),y().removeChangeListener(c)}};Object(l.j)([l.a])?console.warn("setting cookies will not work locally due to CORS restraints"):y().addChangeListener(c),w(e,r,v(v({},f.a),n))}))}}},KjU2:function(t,e,n){"use strict";var r=n("fpOl"),o=n("zXnM");e.a=()=>{var t="https://webed.stg.dm.gg";return Object(r.j)([r.c])&&(t=Object(o.b)("NEON_EVENTBUS_USE_DOMAIN_2")?"https://webed.dailymotionbus.com/":"https://webed.dm-event.net/"),t}},MgzW:function(t,e,n){"use strict";var r=Object.getOwnPropertySymbols,o=Object.prototype.hasOwnProperty,i=Object.prototype.propertyIsEnumerable;function c(t){if(null==t)throw new TypeError("Object.assign cannot be called with null or undefined");return Object(t)}t.exports=function(){try{if(!Object.assign)return!1;var t=new String("abc");if(t[5]="de","5"===Object.getOwnPropertyNames(t)[0])return!1;for(var e={},n=0;n<10;n++)e["_"+String.fromCharCode(n)]=n;if("0123456789"!==Object.getOwnPropertyNames(e).map((function(t){return e[t]})).join(""))return!1;var r={};return"abcdefghijklmnopqrst".split("").forEach((function(t){r[t]=t})),"abcdefghijklmnopqrst"===Object.keys(Object.assign({},r)).join("")}catch(t){return!1}}()?Object.assign:function(t,e){for(var n,u,a=c(t),s=1;s<arguments.length;s++){for(var f in n=Object(arguments[s]))o.call(n,f)&&(a[f]=n[f]);if(r){u=r(n);for(var d=0;d<u.length;d++)i.call(n,u[d])&&(a[u[d]]=n[u[d]])}}return a}},WgNf:function(t,e,n){"use strict";n.r(e);var r,o,i,c,u=n("cr+I"),a=n.n(u),s=n("EcEN"),f=n.n(s),d=n("saAs"),l=n("JQMA"),p=n("sDwS"),v=n("x/k7"),h=n("512s"),m=n("zXnM"),g=n("sXQO"),y=n("hEhO"),w=n("Ih54"),b=n("KjU2");Object(m.a)(a.a.parse(window.location.search));var _=Object(v.c)(),O={app:{type:Object(g.a)()===h.a.MOBILE?"webapp":"website",id:"com.dailymotion.neon",version:window.__BUILD_VERSION__},landing:{id:f()(),referer:window.document.referrer.split("?")[0].slice(0,100)||void 0},visitor:{id:Object(p.a)(),traffic_segment:Object(l.a)(),visit_number:_.number,visit_id:_.id,onsite:!0,timezone_offset:Object(w.a)(),country:null===(r=window.__TWIG_FULL_LOCALE__)||void 0===r?void 0:r.country_code,region:null===(o=window.__TWIG_FULL_LOCALE__)||void 0===o?void 0:o.region_code,as_number:window.__AS_NUMBER__},device:{type:Object(g.a)(),width:window.innerWidth,height:window.innerHeight,locale:null===(i=window.__TWIG_FULL_LOCALE__)||void 0===i?void 0:i.locale}},j={id:f()(),refresh_id:f()(),url:window.document.location.href},E=window.location.pathname.match(/\/video\/([a-z0-9]+)?$/);if(E&&E.length>1){j.xid=E[1];var A=window.location.search.match(/[?&]playlist=(\w+)/);A&&A.length>1&&(j.secondary_xid=A[1],j.secondary_type="collection")}var T=new XMLHttpRequest;T.open("POST",Object(b.a)(),!0);var S={name:"ui_action",version:"1.0",data:{created_ts:(new Date).getTime(),sequence_source:"tab",sequence_number:Object(y.a)(),info:O,screen:j,action:{uuid:f()(),gesture:"app_enter"}}},k=[S];if(null!==(c=performance)&&void 0!==c&&c.getEntriesByType){var[N]=performance.getEntriesByType("navigation");if(N){var{responseStart:x,responseEnd:I}=N,D={name:"neon_performance",version:"1.0",data:{type:"neon_load",info:O,screen:j,created_ts:(new Date).getTime(),sequence_source:"tab",sequence_number:Object(y.a)(),response_start:Math.round(x),response_end:Math.round(I)}};k.push(D)}}var C={name:"app_log",version:"1.0",data:{type:"neon_load",info:O,screen:j,created_ts:(new Date).getTime(),sequence_source:"tab",sequence_number:Object(y.a)(),json_payload:JSON.stringify({app_mode:d.e?"CSR":"SSR"})}};k.push(C),T.send(JSON.stringify({edward:"1.1",events:k,sent_ts:(new Date).getTime()})),window.__TRAXION_REGISTER_EVENT__&&window.__TRAXION_REGISTER_EVENT__("ui_action",S),window.__INITIAL_APP_ENTER_EVENT__=S,window.__INITIAL_SCREEN_TRACKING_DATA__=j},ZFOp:function(t,e,n){"use strict";t.exports=function(t){return encodeURIComponent(t).replace(/[!'()*]/g,(function(t){return"%"+t.charCodeAt(0).toString(16).toUpperCase()}))}},"cr+I":function(t,e,n){"use strict";var r=n("ZFOp"),o=n("MgzW"),i=n("8jRI");function c(t,e){return e.encode?e.strict?r(t):encodeURIComponent(t):t}function u(t){return Array.isArray(t)?t.sort():"object"==typeof t?u(Object.keys(t)).sort((function(t,e){return Number(t)-Number(e)})).map((function(e){return t[e]})):t}function a(t){var e=t.indexOf("?");return-1===e?"":t.slice(e+1)}function s(t,e){var n=function(t){var e;switch(t.arrayFormat){case"index":return function(t,n,r){e=/\[(\d*)\]$/.exec(t),t=t.replace(/\[\d*\]$/,""),e?(void 0===r[t]&&(r[t]={}),r[t][e[1]]=n):r[t]=n};case"bracket":return function(t,n,r){e=/(\[\])$/.exec(t),t=t.replace(/\[\]$/,""),e?void 0!==r[t]?r[t]=[].concat(r[t],n):r[t]=[n]:r[t]=n};default:return function(t,e,n){void 0!==n[t]?n[t]=[].concat(n[t],e):n[t]=e}}}(e=o({arrayFormat:"none"},e)),r=Object.create(null);return"string"!=typeof t?r:(t=t.trim().replace(/^[?#&]/,""))?(t.split("&").forEach((function(t){var e=t.replace(/\+/g," ").split("="),o=e.shift(),c=e.length>0?e.join("="):void 0;c=void 0===c?null:i(c),n(i(o),c,r)})),Object.keys(r).sort().reduce((function(t,e){var n=r[e];return Boolean(n)&&"object"==typeof n&&!Array.isArray(n)?t[e]=u(n):t[e]=n,t}),Object.create(null))):r}e.extract=a,e.parse=s,e.stringify=function(t,e){!1===(e=o({encode:!0,strict:!0,arrayFormat:"none"},e)).sort&&(e.sort=function(){});var n=function(t){switch(t.arrayFormat){case"index":return function(e,n,r){return null===n?[c(e,t),"[",r,"]"].join(""):[c(e,t),"[",c(r,t),"]=",c(n,t)].join("")};case"bracket":return function(e,n){return null===n?c(e,t):[c(e,t),"[]=",c(n,t)].join("")};default:return function(e,n){return null===n?c(e,t):[c(e,t),"=",c(n,t)].join("")}}}(e);return t?Object.keys(t).sort(e.sort).map((function(r){var o=t[r];if(void 0===o)return"";if(null===o)return c(r,e);if(Array.isArray(o)){var i=[];return o.slice().forEach((function(t){void 0!==t&&i.push(n(r,t,i.length))})),i.join("&")}return c(r,e)+"="+c(o,e)})).filter((function(t){return t.length>0})).join("&"):""},e.parseUrl=function(t,e){return{url:t.split("?")[0]||"",query:s(a(t),e)}}},eCGq:function(t,e,n){"use strict";(function(n){var r,o,i;o=[],void 0===(i="function"==typeof(r=function(){var t,e={},r="undefined"!=typeof window?window:n,o=r.document,i="localStorage",c="script";function u(){try{return i in r&&r[i]}catch(t){return!1}}if(e.disabled=!1,e.version="1.3.20",e.set=function(t,e){},e.get=function(t,e){},e.has=function(t){return void 0!==e.get(t)},e.remove=function(t){},e.clear=function(){},e.transact=function(t,n,r){null==r&&(r=n,n=null),null==n&&(n={});var o=e.get(t,n);r(o),e.set(t,o)},e.getAll=function(){},e.forEach=function(){},e.serialize=function(t){return JSON.stringify(t)},e.deserialize=function(t){if("string"==typeof t)try{return JSON.parse(t)}catch(e){return t||void 0}},u())t=r[i],e.set=function(n,r){return void 0===r?e.remove(n):(t.setItem(n,e.serialize(r)),r)},e.get=function(n,r){var o=e.deserialize(t.getItem(n));return void 0===o?r:o},e.remove=function(e){t.removeItem(e)},e.clear=function(){t.clear()},e.getAll=function(){var t={};return e.forEach((function(e,n){t[e]=n})),t},e.forEach=function(n){for(var r=0;r<t.length;r++){var o=t.key(r);n(o,e.get(o))}};else if(o&&o.documentElement.addBehavior){var a,s;try{(s=new ActiveXObject("htmlfile")).open(),s.write("<"+c+">document.w=window</"+c+'><iframe src="/favicon.ico"></iframe>'),s.close(),a=s.w.frames[0].document,t=a.createElement("div")}catch(e){t=o.createElement("div"),a=o.body}var f=function(n){return function(){var r=Array.prototype.slice.call(arguments,0);r.unshift(t),a.appendChild(t),t.addBehavior("#default#userData"),t.load(i);var o=n.apply(e,r);return a.removeChild(t),o}},d=new RegExp("[!\"#$%&'()*+,/\\\\:;<=>?@[\\]^`{|}~]","g"),l=function(t){return t.replace(/^d/,"___$&").replace(d,"___")};e.set=f((function(t,n,r){return n=l(n),void 0===r?e.remove(n):(t.setAttribute(n,e.serialize(r)),t.save(i),r)})),e.get=f((function(t,n,r){n=l(n);var o=e.deserialize(t.getAttribute(n));return void 0===o?r:o})),e.remove=f((function(t,e){e=l(e),t.removeAttribute(e),t.save(i)})),e.clear=f((function(t){var e=t.XMLDocument.documentElement.attributes;t.load(i);for(var n=e.length-1;n>=0;n--)t.removeAttribute(e[n].name);t.save(i)})),e.getAll=function(t){var n={};return e.forEach((function(t,e){n[t]=e})),n},e.forEach=f((function(t,n){for(var r,o=t.XMLDocument.documentElement.attributes,i=0;r=o[i];++i)n(r.name,e.deserialize(t.getAttribute(r.name)))}))}try{var p="__storejs__";e.set(p,p),e.get(p)!=p&&(e.disabled=!0),e.remove(p)}catch(t){e.disabled=!0}return e.enabled=!e.disabled,e})?r.apply(e,o):r)||(t.exports=i)}).call(this,n("yLpj"))},fpOl:function(t,e,n){"use strict";n.d(e,"a",(function(){return r})),n.d(e,"d",(function(){return o})),n.d(e,"e",(function(){return i})),n.d(e,"f",(function(){return c})),n.d(e,"g",(function(){return u})),n.d(e,"h",(function(){return a})),n.d(e,"i",(function(){return s})),n.d(e,"b",(function(){return f})),n.d(e,"c",(function(){return d})),n.d(e,"k",(function(){return l})),n.d(e,"j",(function(){return p}));var r="dev",o="stage-01",i="stage-33",c="stage-44",u="stage-47",a="stage-52",s="stage-53",f="preprod",d="prod";function l(){return"prod".match(/stage-[0-9]{2}/)}function p(t){return t.includes("prod")}},hEhO:function(t,e,n){"use strict";var r=0;e.a=()=>r+=1},iKNE:function(t,e,n){"use strict";n.d(e,"c",(function(){return r})),n.d(e,"b",(function(){return o})),n.d(e,"h",(function(){return i})),n.d(e,"d",(function(){return c})),n.d(e,"e",(function(){return u})),n.d(e,"j",(function(){return a})),n.d(e,"i",(function(){return s})),n.d(e,"m",(function(){return f})),n.d(e,"g",(function(){return d})),n.d(e,"f",(function(){return l})),n.d(e,"l",(function(){return p})),n.d(e,"k",(function(){return v})),n.d(e,"a",(function(){return h})),n.d(e,"o",(function(){return m})),n.d(e,"p",(function(){return g})),n.d(e,"q",(function(){return y})),n.d(e,"n",(function(){return w})),n.d(e,"r",(function(){return b}));var r="client_token",o="access_token",i="refresh_token",c="dmaid",u="dmt",a="sid",s="sdx",f="v1st",d="lang",l="ff",p="ts",v="dm-euconsent-v2",h={domain:".dailymotion.com"},m=2592e3,g=3*m,y=6*m,w=13*m,b={domain:".dailymotion.com",httpOnly:!1,maxAge:w,path:"/"}},"iVi/":function(t,e,n){"use strict";e.parse=function(t,e){if("string"!=typeof t)throw new TypeError("argument str must be a string");for(var n={},o=e||{},c=t.split(i),a=o.decode||r,s=0;s<c.length;s++){var f=c[s],d=f.indexOf("=");if(!(d<0)){var l=f.substr(0,d).trim(),p=f.substr(++d,f.length).trim();'"'==p[0]&&(p=p.slice(1,-1)),null==n[l]&&(n[l]=u(p,a))}}return n},e.serialize=function(t,e,n){var r=n||{},i=r.encode||o;if("function"!=typeof i)throw new TypeError("option encode is invalid");if(!c.test(t))throw new TypeError("argument name is invalid");var u=i(e);if(u&&!c.test(u))throw new TypeError("argument val is invalid");var a=t+"="+u;if(null!=r.maxAge){var s=r.maxAge-0;if(isNaN(s))throw new Error("maxAge should be a Number");a+="; Max-Age="+Math.floor(s)}if(r.domain){if(!c.test(r.domain))throw new TypeError("option domain is invalid");a+="; Domain="+r.domain}if(r.path){if(!c.test(r.path))throw new TypeError("option path is invalid");a+="; Path="+r.path}if(r.expires){if("function"!=typeof r.expires.toUTCString)throw new TypeError("option expires is invalid");a+="; Expires="+r.expires.toUTCString()}r.httpOnly&&(a+="; HttpOnly");r.secure&&(a+="; Secure");if(r.sameSite){switch("string"==typeof r.sameSite?r.sameSite.toLowerCase():r.sameSite){case!0:a+="; SameSite=Strict";break;case"lax":a+="; SameSite=Lax";break;case"strict":a+="; SameSite=Strict";break;case"none":a+="; SameSite=None";break;default:throw new TypeError("option sameSite is invalid")}}return a};var r=decodeURIComponent,o=encodeURIComponent,i=/; */,c=/^[\u0009\u0020-\u007e\u0080-\u00ff]+$/;function u(t,e){try{return e(t)}catch(e){return t}}},lSNA:function(t,e){t.exports=function(t,e,n){return e in t?Object.defineProperty(t,e,{value:n,enumerable:!0,configurable:!0,writable:!0}):t[e]=n,t},t.exports.default=t.exports,t.exports.__esModule=!0},qyIf:function(t,e,n){"use strict";n.d(e,"a",(function(){return o}));var r=["true",!0,"1",1];function o(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{},e=arguments.length>1?arguments[1]:void 0;return Object.keys(t).reduce(((n,o)=>{if(o.startsWith(e)){var i=o.substring(e.length),c=t[o];n[i]=r.includes(c)}return n}),{})}},qytn:function(t,e,n){"use strict";n.d(e,"l",(function(){return r})),n.d(e,"k",(function(){return o})),n.d(e,"b",(function(){return i})),n.d(e,"J",(function(){return c})),n.d(e,"m",(function(){return u})),n.d(e,"o",(function(){return a})),n.d(e,"a",(function(){return s})),n.d(e,"n",(function(){return f})),n.d(e,"K",(function(){return d})),n.d(e,"M",(function(){return l})),n.d(e,"L",(function(){return p})),n.d(e,"f",(function(){return v})),n.d(e,"g",(function(){return h})),n.d(e,"e",(function(){return m})),n.d(e,"d",(function(){return g})),n.d(e,"F",(function(){return y})),n.d(e,"D",(function(){return w})),n.d(e,"A",(function(){return b})),n.d(e,"G",(function(){return _})),n.d(e,"z",(function(){return O})),n.d(e,"w",(function(){return j})),n.d(e,"E",(function(){return E})),n.d(e,"C",(function(){return A})),n.d(e,"B",(function(){return T})),n.d(e,"fb",(function(){return S})),n.d(e,"eb",(function(){return k})),n.d(e,"H",(function(){return N})),n.d(e,"N",(function(){return x})),n.d(e,"p",(function(){return I})),n.d(e,"I",(function(){return D})),n.d(e,"T",(function(){return C})),n.d(e,"R",(function(){return P})),n.d(e,"Q",(function(){return L})),n.d(e,"U",(function(){return R})),n.d(e,"O",(function(){return U})),n.d(e,"P",(function(){return q})),n.d(e,"S",(function(){return M})),n.d(e,"q",(function(){return F})),n.d(e,"cb",(function(){return K})),n.d(e,"db",(function(){return z})),n.d(e,"h",(function(){return V})),n.d(e,"i",(function(){return B})),n.d(e,"x",(function(){return X})),n.d(e,"y",(function(){return G})),n.d(e,"t",(function(){return H})),n.d(e,"s",(function(){return W})),n.d(e,"u",(function(){return J})),n.d(e,"v",(function(){return $})),n.d(e,"V",(function(){return Q})),n.d(e,"Y",(function(){return Z})),n.d(e,"W",(function(){return Y})),n.d(e,"ab",(function(){return tt})),n.d(e,"Z",(function(){return et})),n.d(e,"X",(function(){return nt})),n.d(e,"bb",(function(){return rt})),n.d(e,"c",(function(){return ot})),n.d(e,"r",(function(){return it})),n.d(e,"j",(function(){return ct}));var r="https://www.dailymotion.com",o="https://preprod.dailymotion.com",i="/",c="/notfound",u="/signin/email",a="/register/validation_code",s="/register/activate",f="/register/email_verification",d="/password/recover",l="/password/reset",p="/password/reinforce",v="/:channelName",h=("".concat(v,"/videos"),"".concat(v,"/videos(/:page)")),m="".concat(v,"/playlists"),g=("".concat(v,"/:channelPage"),"".concat(v,"/:channelPage(/:page)")),y="/library",w="".concat(y,"/subscriptions"),b="".concat(y,"/liked"),_="".concat(y,"/watchlater"),O="".concat(y,"/history"),j="".concat(y,"/playlists"),E="".concat(y,"/videos"),A="".concat(y,"/subscriptions/topics-videos"),T="".concat(y,"/subscriptions/channels-videos"),S="/video/:xid",k="/video/:xid?playlist=:playlist_xid",N="/signin",x="/signup",I="/:country",D="/signin/username",C="/search",P="".concat(C,"/:query"),L="".concat(P,"/:searchPage"),R="".concat(P,"/videos"),U=("".concat(P,"/lives"),"".concat(P,"/channels")),q="".concat(P,"/playlists"),M="".concat(P,"/topics"),F="/:country/feed",K="/:country/topic/:topicXid",z="/:country/topic/:topicXid(/:page)",V="/playlist/:collectionXid",B="/playlist/:collectionXid(/:page)",X="".concat(y,"/playlist/:collectionXid"),G="".concat(y,"/playlist/:collectionXid(/:page)"),H="https://legal.dailymotion.com",W="/legal/consent",J="/legal/usprivacy",$="/legal/usprivacy/notice",Q="/settings",Z="".concat(Q,"/account"),Y="".concat(Q,"/change-password"),tt="".concat(Q,"/notifications"),et="".concat(Q,"/feedbacks"),nt="".concat(Q,"/delete-account"),rt="".concat(Q,"/upload"),ot=[c,W,s,f],it=[W],ct="/cookie"},sDwS:function(t,e,n){"use strict";var r=n("EcEN"),o=n.n(r),i=n("iKNE"),c=n("KVkK"),u=()=>{var t=o()().replaceAll("-","").toUpperCase();return c.a.save(i.m,t,{domain:".dailymotion.com",maxAge:i.n}),t};e.a=()=>{try{return c.a.load(i.m)||u()}catch(t){return console.error("error loading the v1st cookie"),null}}},sXQO:function(t,e,n){"use strict";var r=n("saAs");e.a=()=>r.k?window.__DEVICE_TYPE__:null},saAs:function(t,e,n){"use strict";(function(t){n.d(e,"a",(function(){return r})),n.d(e,"b",(function(){return o})),n.d(e,"i",(function(){return i})),n.d(e,"g",(function(){return c})),n.d(e,"j",(function(){return u})),n.d(e,"k",(function(){return a})),n.d(e,"m",(function(){return s})),n.d(e,"e",(function(){return f})),n.d(e,"l",(function(){return d})),n.d(e,"h",(function(){return l})),n.d(e,"f",(function(){return p})),n.d(e,"c",(function(){return v})),n.d(e,"d",(function(){return h}));var r="f1a362d288c1b98099c7",o="eea605b96e01c796ff369935357eca920c5da4c5",i="1095600231293-ih62cdtmregosipj9cbasor4tpb632mr.apps.googleusercontent.com",c="96937694899",u="6LfetSQUAAAAAD-VJkr8eOrQAiuePX81T9f-dF5k",a="undefined"!=typeof window,s=!a,f=!0,d=f&&!a,l="AIzaSyCNDjPnF1V3Wcdw7-NB9u9pT4yvOTqBnuA",p=!1,v=(a?window.__API_ENDPOINT__:t.env.API_ENDPOINT)||"https://graphql.api.dailymotion.com",h=(a?window.__AUTH_ENDPOINT__:t.env.AUTH_ENDPOINT)||"https://graphql.api.dailymotion.com/oauth/token"}).call(this,n("8oxB"))},"x/k7":function(t,e,n){"use strict";n.d(e,"a",(function(){return f})),n.d(e,"c",(function(){return d})),n.d(e,"b",(function(){return l}));var r=n("lSNA"),o=n.n(r),i=n("eCGq"),c=n.n(i);function u(t,e){var n=Object.keys(t);if(Object.getOwnPropertySymbols){var r=Object.getOwnPropertySymbols(t);e&&(r=r.filter((function(e){return Object.getOwnPropertyDescriptor(t,e).enumerable}))),n.push.apply(n,r)}return n}function a(t){for(var e=1;e<arguments.length;e++){var n=null!=arguments[e]?arguments[e]:{};e%2?u(Object(n),!0).forEach((function(e){o()(t,e,n[e])})):Object.getOwnPropertyDescriptors?Object.defineProperties(t,Object.getOwnPropertyDescriptors(n)):u(Object(n)).forEach((function(e){Object.defineProperty(t,e,Object.getOwnPropertyDescriptor(n,e))}))}return t}var s="STORE_VISIT",f=()=>c.a.get(s),d=()=>{var t,e,n=f(),r=!n||Date.now()>=n.lastAction+18e5?(t=(null==n?void 0:n.number)||0,{firstAction:Date.now(),id:Date.now(),lastAction:Date.now(),number:t+1}):a(a({},n),{},{lastAction:Date.now()});return e=r,c.a.set(s,e),r},l=()=>{c.a.set(s,!1),d()}},xDdU:function(t,e,n){var r=n("4fRq"),o=n("I2ZF"),i=r(),c=[1|i[0],i[1],i[2],i[3],i[4],i[5]],u=16383&(i[6]<<8|i[7]),a=0,s=0;t.exports=function(t,e,n){var r=e&&n||0,i=e||[],f=void 0!==(t=t||{}).clockseq?t.clockseq:u,d=void 0!==t.msecs?t.msecs:(new Date).getTime(),l=void 0!==t.nsecs?t.nsecs:s+1,p=d-a+(l-s)/1e4;if(p<0&&void 0===t.clockseq&&(f=f+1&16383),(p<0||d>a)&&void 0===t.nsecs&&(l=0),l>=1e4)throw new Error("uuid.v1(): Can't create more than 10M uuids/sec");a=d,s=l,u=f;var v=(1e4*(268435455&(d+=122192928e5))+l)%4294967296;i[r++]=v>>>24&255,i[r++]=v>>>16&255,i[r++]=v>>>8&255,i[r++]=255&v;var h=d/4294967296*1e4&268435455;i[r++]=h>>>8&255,i[r++]=255&h,i[r++]=h>>>24&15|16,i[r++]=h>>>16&255,i[r++]=f>>>8|128,i[r++]=255&f;for(var m=t.node||c,g=0;g<6;++g)i[r+g]=m[g];return e||o(i)}},xk4V:function(t,e,n){var r=n("4fRq"),o=n("I2ZF");t.exports=function(t,e,n){var i=e&&n||0;"string"==typeof t&&(e="binary"==t?new Array(16):null,t=null);var c=(t=t||{}).random||(t.rng||r)();if(c[6]=15&c[6]|64,c[8]=63&c[8]|128,e)for(var u=0;u<16;++u)e[i+u]=c[u];return e||o(c)}},yLpj:function(t,e){var n;n=function(){return this}();try{n=n||new Function("return this")()}catch(t){"object"==typeof window&&(n=window)}t.exports=n},zXnM:function(t,e,n){"use strict";n.d(e,"a",(function(){return f})),n.d(e,"b",(function(){return d}));var r=n("lSNA"),o=n.n(r),i=n("saAs"),c=n("qyIf");function u(t,e){var n=Object.keys(t);if(Object.getOwnPropertySymbols){var r=Object.getOwnPropertySymbols(t);e&&(r=r.filter((function(e){return Object.getOwnPropertyDescriptor(t,e).enumerable}))),n.push.apply(n,r)}return n}function a(t){for(var e=1;e<arguments.length;e++){var n=null!=arguments[e]?arguments[e]:{};e%2?u(Object(n),!0).forEach((function(e){o()(t,e,n[e])})):Object.getOwnPropertyDescriptors?Object.defineProperties(t,Object.getOwnPropertyDescriptors(n)):u(Object(n)).forEach((function(e){Object.defineProperty(t,e,Object.getOwnPropertyDescriptor(n,e))}))}return t}var s=null;function f(t){s=a(a(a({},function(){if(i.k&&window.__FFS__){var t=Object.entries(window.__FFS__);return Object.fromEntries(t.map((t=>{var[e,n]=t;return[e.toUpperCase(),n]})))}return{}}()),i.k&&window.__GKS__?window.__GKS__:{}),Object(c.a)(t,"GK_"))}function d(t){if(!s)throw Error("Gatekeepers not initialized");return!0===s[t]}}},[["WgNf",1]]]);</script>
+<script>
+      window.dailymotion = {
+        onScriptLoaded() {
+          window.performance.mark('pes_lib_loaded');
+          if (window.__INITIAL_APP_ENTER_EVENT__ && window.__INITIAL_APP_ENTER_EVENT__.data) {
+            window.dailymotion.forwardNeonTrackingData?.(window.__INITIAL_APP_ENTER_EVENT__.data);
+          }
+        }
+      }
+    </script>
+<link as="script" href="https://geo.dailymotion.com/player/xcuu1.js" rel="preload"/>
+<link as="document" href="https://geo.dailymotion.com/player/xcuu1.html" rel="preload"/>
+<script type="text/javascript">
+    var __AS_NUMBER__ = "AS396982";
+    var __DEVICE_TYPE__ = "desktop";
+    var __TWIG_FULL_LOCALE__ = {"locale":"en_US","site_code":"us","language":"English","localized_language":"English","locally_localized_language":"English","country":"United States","localized_country":"United States","locally_localized_country":"United States","currency":"USD","country_code":"US","region_code":"OR"};
+    var __COUNTRY__;
+    var __REGION__;
+    if (__TWIG_FULL_LOCALE__) {
+      __COUNTRY__ = __TWIG_FULL_LOCALE__.country_code;
+      __REGION__ = __TWIG_FULL_LOCALE__.region_code;
+    }
+  </script>
+<script type="text/javascript">!function(e){function a(a){for(var d,f,n=a[0],r=a[1],o=a[2],i=0,u=[];i<n.length;i++)f=n[i],Object.prototype.hasOwnProperty.call(b,f)&&b[f]&&u.push(b[f][0]),b[f]=0;for(d in r)Object.prototype.hasOwnProperty.call(r,d)&&(e[d]=r[d]);for(l&&l(a);u.length;)u.shift()();return t.push.apply(t,o||[]),c()}function c(){for(var e,a=0;a<t.length;a++){for(var c=t[a],d=!0,f=1;f<c.length;f++){var r=c[f];0!==b[r]&&(d=!1)}d&&(t.splice(a--,1),e=n(n.s=c[0]))}return e}var d={},f={1:0},b={1:0},t=[];function n(a){if(d[a])return d[a].exports;var c=d[a]={i:a,l:!1,exports:{}};return e[a].call(c.exports,c,c.exports,n),c.l=!0,c.exports}n.e=function(e){var a=[];f[e]?a.push(f[e]):0!==f[e]&&{0:1}[e]&&a.push(f[e]=new Promise((function(a,c){for(var d=({0:"app-styles",3:"vendors~page-Channel~page-Collection",24:"AuthenticationFlowPage",25:"Channel",26:"ChannelPage",27:"Collection",28:"EmailVerificationLink",29:"Home",30:"Library",31:"PlaylistPage",32:"RecoverPasswordPage",33:"ResetPasswordPage",34:"Search",35:"Settings",36:"TCF2ConsentPage",37:"TopicPage",38:"USPrivacy",42:"page-ActivationLink",43:"page-Channel",44:"page-Collection",45:"runtime-app",46:"vendors~Channel",47:"vendors~runtime-app"}[e]||e)+"."+{0:"1743f23c7f08c1e4ad68",2:"31d6cfe0d16ae931b73c",3:"31d6cfe0d16ae931b73c",4:"31d6cfe0d16ae931b73c",5:"31d6cfe0d16ae931b73c",6:"31d6cfe0d16ae931b73c",7:"31d6cfe0d16ae931b73c",8:"31d6cfe0d16ae931b73c",9:"31d6cfe0d16ae931b73c",10:"31d6cfe0d16ae931b73c",11:"31d6cfe0d16ae931b73c",12:"31d6cfe0d16ae931b73c",13:"31d6cfe0d16ae931b73c",14:"31d6cfe0d16ae931b73c",15:"31d6cfe0d16ae931b73c",16:"31d6cfe0d16ae931b73c",17:"31d6cfe0d16ae931b73c",18:"31d6cfe0d16ae931b73c",19:"31d6cfe0d16ae931b73c",20:"31d6cfe0d16ae931b73c",21:"31d6cfe0d16ae931b73c",22:"31d6cfe0d16ae931b73c",23:"31d6cfe0d16ae931b73c",24:"31d6cfe0d16ae931b73c",25:"31d6cfe0d16ae931b73c",26:"31d6cfe0d16ae931b73c",27:"31d6cfe0d16ae931b73c",28:"31d6cfe0d16ae931b73c",29:"31d6cfe0d16ae931b73c",30:"31d6cfe0d16ae931b73c",31:"31d6cfe0d16ae931b73c",32:"31d6cfe0d16ae931b73c",33:"31d6cfe0d16ae931b73c",34:"31d6cfe0d16ae931b73c",35:"31d6cfe0d16ae931b73c",36:"31d6cfe0d16ae931b73c",37:"31d6cfe0d16ae931b73c",38:"31d6cfe0d16ae931b73c",42:"31d6cfe0d16ae931b73c",43:"31d6cfe0d16ae931b73c",44:"31d6cfe0d16ae931b73c",45:"31d6cfe0d16ae931b73c",46:"31d6cfe0d16ae931b73c",47:"31d6cfe0d16ae931b73c",48:"31d6cfe0d16ae931b73c",49:"31d6cfe0d16ae931b73c",50:"31d6cfe0d16ae931b73c",51:"31d6cfe0d16ae931b73c",52:"31d6cfe0d16ae931b73c",53:"31d6cfe0d16ae931b73c",54:"31d6cfe0d16ae931b73c",55:"31d6cfe0d16ae931b73c",56:"31d6cfe0d16ae931b73c",57:"31d6cfe0d16ae931b73c",58:"31d6cfe0d16ae931b73c",59:"31d6cfe0d16ae931b73c",60:"31d6cfe0d16ae931b73c",61:"31d6cfe0d16ae931b73c",62:"31d6cfe0d16ae931b73c",63:"31d6cfe0d16ae931b73c",64:"31d6cfe0d16ae931b73c",65:"31d6cfe0d16ae931b73c",66:"31d6cfe0d16ae931b73c",67:"31d6cfe0d16ae931b73c",68:"31d6cfe0d16ae931b73c",69:"31d6cfe0d16ae931b73c",70:"31d6cfe0d16ae931b73c",71:"31d6cfe0d16ae931b73c",72:"31d6cfe0d16ae931b73c",73:"31d6cfe0d16ae931b73c"}[e]+".css",b=n.p+d,t=document.getElementsByTagName("link"),r=0;r<t.length;r++){var o=(l=t[r]).getAttribute("data-href")||l.getAttribute("href");if("stylesheet"===l.rel&&(o===d||o===b))return a()}var i=document.getElementsByTagName("style");for(r=0;r<i.length;r++){var l;if((o=(l=i[r]).getAttribute("data-href"))===d||o===b)return a()}var u=document.createElement("link");u.rel="stylesheet",u.type="text/css",u.onload=a,u.onerror=function(a){var d=a&&a.target&&a.target.src||b,t=new Error("Loading CSS chunk "+e+" failed.\n("+d+")");t.code="CSS_CHUNK_LOAD_FAILED",t.request=d,delete f[e],u.parentNode.removeChild(u),c(t)},u.href=b;var s=document.querySelector("head");s.appendChild(u)})).then((function(){f[e]=0})));var c=b[e];if(0!==c)if(c)a.push(c[2]);else{var d=new Promise((function(a,d){c=b[e]=[a,d]}));a.push(c[2]=d);var t,r=document.createElement("script");r.charset="utf-8",r.timeout=120,n.nc&&r.setAttribute("nonce",n.nc),r.src=function(e){return n.p+""+({0:"app-styles",3:"vendors~page-Channel~page-Collection",24:"AuthenticationFlowPage",25:"Channel",26:"ChannelPage",27:"Collection",28:"EmailVerificationLink",29:"Home",30:"Library",31:"PlaylistPage",32:"RecoverPasswordPage",33:"ResetPasswordPage",34:"Search",35:"Settings",36:"TCF2ConsentPage",37:"TopicPage",38:"USPrivacy",42:"page-ActivationLink",43:"page-Channel",44:"page-Collection",45:"runtime-app",46:"vendors~Channel",47:"vendors~runtime-app"}[e]||e)+"."+{0:"58f2323a87aeb89a1ac4",2:"12bfcd478b32ce14a9ae",3:"d1470ae9e2b0fe80f2ae",4:"a8d70c9b29f7c7a30f7f",5:"0b08c12bf746f651a529",6:"e1baac0f7d230d0ca285",7:"9ec4d8d6de9a3bd95420",8:"1d0c050826bb1a0dadc4",9:"ca65a7d339b13486eca0",10:"b0277c9cb54676a862ad",11:"237f3bcc0faa03a4ed04",12:"2412aff0d02e5cc6167b",13:"28d682fa4a4ce1c13931",14:"18a96edb454ac2a052b6",15:"fc6f8779c95bae82b468",16:"c74852d7f2cfdda610d3",17:"cf1a43453be18f3b10ae",18:"cb36a73a8edb7d5962ae",19:"02deacdfe84cea76dfda",20:"051db503138b61c62252",21:"6eb15b991f4c8e73406a",22:"886cab39439e28177f84",23:"9d997ccdf2db2229bfcf",24:"e6b81acac427f4abf630",25:"5fbf0bb6dfa1d3406da8",26:"9cfb200f9104c000f547",27:"78b6d4695332c752ecd7",28:"462e4792d7a4a28cdfe9",29:"fca7dcddbaf74f4eca83",30:"4e478d96b09c3f75443b",31:"3242dfeb567f1d2f6a20",32:"52abf49eb88c667a46b4",33:"d6ac7a0467e669007a1f",34:"ea6919572b64bd109e10",35:"2563cbfcbd1ba3cc9337",36:"8ebdf2cf970ca8b88b15",37:"8b4c24edb07dffcfb8c7",38:"7c0a81260744f2ce6825",42:"2d3e29bc6d9f710be704",43:"5bbb566e6e7ea68c99f1",44:"40fb6dd9409a259f7254",45:"0f513b8bce925c5629b2",46:"ce7598875d257a1a37dd",47:"75abe6dcdea74d4e5282",48:"d61bfbaf30188868d990",49:"ba6e3ee5480f88f6cee4",50:"bb55324b7acf5ebdae35",51:"bd42efbd27977a886be3",52:"6e4fb416356e72801a29",53:"0e92d0096f7ee6c291bd",54:"00cd2ff3241705622590",55:"fac3dde2ffa75922dab2",56:"c79aaafa4b0de502a344",57:"a3941e7bcd3dd5a44e3c",58:"05d43faaba047c288ba3",59:"e275722ff3367eaa663a",60:"35ff4dcee449c1ed810c",61:"eacf20fceb09ab922eba",62:"3234790eb0d300e22b7a",63:"cde5a088887e582bb79b",64:"f63fbc7f266d02fc668f",65:"a24a6601d59630e346ca",66:"2e602029652beaceef5c",67:"b7e8260c27d829cb4f7a",68:"fa67835d907996de9055",69:"1e5767929cee176e0dc0",70:"3b8cc30a0817399d5ba3",71:"6c5b3f4d7f8b0a739609",72:"966b05b307bebb8355de",73:"55f3da2da6e4dce70547"}[e]+".js"}(e);var o=new Error;t=function(a){r.onerror=r.onload=null,clearTimeout(i);var c=b[e];if(0!==c){if(c){var d=a&&("load"===a.type?"missing":a.type),f=a&&a.target&&a.target.src;o.message="Loading chunk "+e+" failed.\n("+d+": "+f+")",o.name="ChunkLoadError",o.type=d,o.request=f,c[1](o)}b[e]=void 0}};var i=setTimeout((function(){t({type:"timeout",target:r})}),12e4);r.onerror=r.onload=t,document.head.appendChild(r)}return Promise.all(a)},n.m=e,n.c=d,n.d=function(e,a,c){n.o(e,a)||Object.defineProperty(e,a,{enumerable:!0,get:c})},n.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n.t=function(e,a){if(1&a&&(e=n(e)),8&a)return e;if(4&a&&"object"==typeof e&&e&&e.__esModule)return e;var c=Object.create(null);if(n.r(c),Object.defineProperty(c,"default",{enumerable:!0,value:e}),2&a&&"string"!=typeof e)for(var d in e)n.d(c,d,function(a){return e[a]}.bind(null,d));return c},n.n=function(e){var a=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(a,"a",a),a},n.o=function(e,a){return Object.prototype.hasOwnProperty.call(e,a)},n.p="//static1.dmcdn.net/neon/prod/",n.oe=function(e){throw console.error(e),e};var r=window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[],o=r.push.bind(r);r.push=a,r=r.slice();for(var i=0;i<r.length;i++)a(r[i]);var l=o;c()}([]);</script>
+<script>
+      dataLayer = [];
+    </script>
+<script type="text/javascript">
+    window.Hubvisor = window.Hubvisor || {};
+    window.Hubvisor.cmd = window.Hubvisor.cmd || [];
+  </script>
+<meta content="en" name="language"/>
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<meta content="a87a0d996fe5f70f" name="y_key"/>
+<meta content="42E38E6C5CF3C253563039FCD6F3F775" name="msvalidate.01"/>
+<meta content="96937694899" property="fb:app_id"/>
+<!-- viewport config -->
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+<meta content="True" name="HandheldFriendly"/>
+<meta content="320" name="MobileOptimized"/>
+<!-- end viewport config -->
+<!-- ms specific -->
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<!-- don't move this below any link elements -->
+<meta content="on" http-equiv="cleartype"/>
+<meta content="no" name="msapplication-tap-highlight"/>
+<!-- end ms specific -->
+<!-- ios specific TODO: add icons and splash page -->
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<!-- enables full-screen on launch from home screen -->
+<meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"/>
+<!-- end ios specific -->
+<link href="//static1.dmcdn.net/neon/prod/favicons/apple-icon-precomposed.a966d521999d793bdfcbe436bb56dad4.png" rel="apple-touch-icon-precomposed">
+<link href="//static1.dmcdn.net/neon/prod/favicons/apple-icon-57x57.eac02e36feefd668423da6dcd6d1ecf0.png" rel="apple-touch-icon" sizes="57x57">
+<link href="//static1.dmcdn.net/neon/prod/favicons/apple-icon-60x60.c994029591fef331a6c5cdee822bf1d4.png" rel="apple-touch-icon" sizes="60x60"/>
+<link href="//static1.dmcdn.net/neon/prod/favicons/apple-icon-72x72.1bb14eb8820c0503b6af680845059b87.png" rel="apple-touch-icon" sizes="72x72"/>
+<link href="//static1.dmcdn.net/neon/prod/favicons/apple-icon-76x76.15d2b54a28ceeb80d235d2d7e05ee6fe.png" rel="apple-touch-icon" sizes="76x76"/>
+<link href="//static1.dmcdn.net/neon/prod/favicons/apple-icon-114x114.e3db3b3ce66894a15ee176995435abc1.png" rel="apple-touch-icon" sizes="114x114"/>
+<link href="//static1.dmcdn.net/neon/prod/favicons/apple-icon-120x120.c57ec3d8aa1045996b8ebb285435b3c9.png" rel="apple-touch-icon" sizes="120x120"/>
+<link href="//static1.dmcdn.net/neon/prod/favicons/apple-icon-152x152.4e9c65471acadae0e6f84536204dc3cc.png" rel="apple-touch-icon" sizes="152x152"/>
+<link href="//static1.dmcdn.net/neon/prod/favicons/apple-icon-180x180.e7d328cd765717dda45b13daf846547d.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="//static1.dmcdn.net/neon/prod/favicons/android-icon-36x36.ddad17021e43a6fe3840bd2d31067714.png" rel="icon" sizes="36x36" type="image/png"/>
+<link href="//static1.dmcdn.net/neon/prod/favicons/android-icon-48x48.a0d2aab90e5f5e450a1cc85e4a0fe9ce.png" rel="icon" sizes="48x48" type="image/png"/>
+<link href="//static1.dmcdn.net/neon/prod/favicons/android-icon-72x72.1bb14eb8820c0503b6af680845059b87.png" rel="icon" sizes="72x72" type="image/png"/>
+<link href="//static1.dmcdn.net/neon/prod/favicons/android-icon-96x96.081b8b68fd5c6fcbc5cfedc69f317545.png" rel="icon" sizes="96x96" type="image/png"/>
+<link href="//static1.dmcdn.net/neon/prod/favicons/android-icon-144x144.7d0035d22b6fc1f5ce9d5406f1654c63.png" rel="icon" sizes="144x144" type="image/png"/>
+<link href="//static1.dmcdn.net/neon/prod/favicons/android-icon-192x192.a966d521999d793bdfcbe436bb56dad4.png" rel="icon" sizes="192x192" type="image/png"/>
+<link href="//static1.dmcdn.net/neon/prod/favicons/manifest.2cb1641030856b343a54a7b78ade9295.json" rel="manifest"/>
+<meta content="//static1.dmcdn.net/neon/prod/favicons/browserconfig.653d077300a12f09a69caeea7a8947f8.xml" name="msapplication-config">
+<meta content="NOODP" name="robots">
+<meta content="Dailymotion" property="og:title">
+<meta content="The latest news, sports, music and entertainment videos on Dailymotion" property="og:description">
+<meta content="https://www.dailymotion.com" property="og:url">
+<meta content="https://static1.dmcdn.net/images/dailymotion-logo-ogtag-new.png.va3e30462476a82772" property="og:image">
+<meta content="https://static1.dmcdn.net/images/dailymotion-logo-ogtag-new.png.va3e30462476a82772" property="og:image:secure_url">
+<meta content="image/png" property="og:image:type"/>
+<meta content="550" property="og:image:width"/>
+<meta content="550" property="og:image:height"/>
+<meta content="Dailymotion" property="og:site_name"/>
+<meta content="website" property="og:type"/>
+<meta name="twitter:app:name:iphone" value="Dailymotion"/>
+<meta name="twitter:app:id:iphone" value="336978041"/>
+<meta name="twitter:app:url:iphone" value="dailymotion://home"/>
+<meta name="twitter:app:name:ipad" value="Dailymotion"/>
+<meta name="twitter:app:id:ipad" value="336978041"/>
+<meta name="twitter:app:url:ipad" value="dailymotion://home"/>
+<meta name="twitter:app:name:googleplay" value="Dailymotion"/>
+<meta name="twitter:app:id:googleplay" value="com.dailymotion.dailymotion"/>
+<meta name="twitter:app:url:googleplay" value="dailymotion://home"/>
+<meta content="dailymotion://home" property="al:ios:url"/>
+<meta content="336978041" property="al:ios:app_store_id"/>
+<meta content="Dailymotion" property="al:ios:app_name"/>
+<meta content="dailymotion://home" property="al:android:url"/>
+<meta content="com.dailymotion.dailymotion" property="al:android:package"/>
+<meta content="Dailymotion" property="al:android:app_name"/>
+<meta content="The latest news, sports, music and entertainment videos on Dailymotion" name="description"/>
+<title>Dailymotion</title>
+<link href="//static1.dmcdn.net/neon/prod/app-styles.1743f23c7f08c1e4ad68.css" rel="stylesheet"/>
+</meta></meta></meta></meta></meta></meta></meta></link></link></head>
+<body>
+<div id="root"><div class="Root__app___13Ed2 desktop"><div class="Player__player___1Ki5O Player" id="player-wrapper" style="transform:translate(0);position:absolute;visibility:hidden;z-index:-1"><div class="Player__body___2XggW" id="player-iframe-wrapper">
+<script data-params="" id="player_embed_script_placeholder" onload="if(window.performance){window.performance.mark('pes_lib_loaded')}" src="https://geo.dailymotion.com/player/xcuu1.js"></script>
+</div></div></div></div>
+<div id="portal-root"></div>
+<script>
+    <!-- console.debug is not defined in IE 10 -->
+    if (!window.console.debug) {
+      console.debug = console.log
+    }
+  </script>
+<script id="page-data">
+    var __INITIAL_STATE__ = undefined;
+    var __APOLLO_STATE__ = undefined;
+  </script>
+<script type="text/javascript">(window.__LOADABLE_LOADED_CHUNKS__=window.__LOADABLE_LOADED_CHUNKS__||[]).push([[41],{"/Kbk":function(t,o,i){"use strict";i.r(o);var a=i("GyfO"),e=t=>{if(Object(a.a)(t.origin)&&t.data&&"string"==typeof t.data&&t.data.match(/^{/))try{var o=JSON.parse(t.data);if("apiready"!==o.event)return;window.__PLAYER_API_READY__=!0,window.__PLAYER_API_READY_EVENT_DATA__=o,window.removeEventListener("message",e)}catch(t){console.error("error while parsing message data",t)}};window.addEventListener("message",e)},GyfO:function(t,o,i){"use strict";function a(t){return["https://www.dailymotion.com","https://preprod.dailymotion.com","https://stage-01.dailymotion.com","https://stage-33.dailymotion.com","https://stage-44.dailymotion.com","https://stage-47.dailymotion.com","https://stage-52.dailymotion.com","https://stage-53.dailymotion.com"].includes(t)}i.d(o,"a",(function(){return a}))}},[["/Kbk",1]]]);</script>
+<link crossorigin="anonymous" href="https://static1.dmcdn.net" rel="preconnect"/>
+<link crossorigin="anonymous" href="https://graphql.api.dailymotion.com" rel="preconnect"/>
+<script crossorigin="anonymous" src="//static1.dmcdn.net/neon/prod/app.29951766ac156c174392.js" type="text/javascript"></script>
+</body>
+<!-- Wed, 09 Aug 2023 13:37:18 GMT (desktop) -->
+</html><!-- Wed 09 Aug 2023 01:37:30 PM UTC: 3aed78df1 (prod - desktop) -->

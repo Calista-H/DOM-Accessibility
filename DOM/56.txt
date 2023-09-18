@@ -1,1059 +1,686 @@
-
 <!DOCTYPE html>
 
-<html class="h-100">
+<html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#">
 <head>
-<title>Guest Reservations</title>
+<meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
-<meta content="As an independent booking service offering over 100,000 hotels worldwide,
-        we can get you the same deals you expect with a bigger travel agency or direct from the hotel." name="description"/>
-<link href="/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
-<link href="/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
-<link href="/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
-<link href="/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
-<link href="/favicons/manifest.json" rel="manifest"/>
-<link color="#202027" href="/favicons/safari-pinned-tab.svg" rel="mask-icon"/>
-<meta content="#202027" name="msapplication-TileColor"/>
-<meta content="/favicons/browserconfig.xml" name="msapplication-config"/>
-<meta content="#ffffff" name="theme-color"/> <link href="/boost/site-compressed.1689947224.css" rel="stylesheet"/>
-<script src="/boost/site-compressed.1691544416.js"></script> <meta content="_csrf" name="csrf-param"/>
-<meta content="XwDTyGdp8TbhIVOFEIzVy8zc0UmNcNBlggzwN6_gE19tR4OKVj28RIx1PuNo-oz-nZm7Ot0koTzqarpB4dVFNA==" name="csrf-token"/>
+<link href="https://gmpg.org/xfn/11" rel="profile"/>
+<title>Dextel.Agency - Web Design &amp; Development. Growth Strategies</title>
+<meta content="Looking for better online results? We create highly engaging websites, high performance ecommerce stores &amp; use smart strategies to scale your business" name="description">
+<meta content="max-image-preview:large" name="robots">
+<link href="https://www.dextel.agency/" rel="canonical">
+<meta content="All in One SEO (AIOSEO) 4.3.9" name="generator"/>
+<meta content="en_US" property="og:locale"/>
+<meta content="Dextel.Agency - Ecommerce, Web design, Web development" property="og:site_name"/>
+<meta content="article" property="og:type"/>
+<meta content="Dextel.Agency - Ecommerce &amp; Web Design for Ambitious Brands" property="og:title"/>
+<meta content="Looking for a talented agency that can deliver the perfect website for your brand or business? We can help. We've been building successful websites &amp; performance ecommerce stores for over 15 years!" property="og:description"/>
+<meta content="https://www.dextel.agency/" property="og:url"/>
+<meta content="https://www.dextel.agency/wp-content/uploads/2021/03/work-top-banner-large.jpg" property="og:image"/>
+<meta content="https://www.dextel.agency/wp-content/uploads/2021/03/work-top-banner-large.jpg" property="og:image:secure_url"/>
+<meta content="/wp-content/uploads/2021/11/Dextel-promo-video-_-web.mp4" property="og:video"/>
+<meta content="/wp-content/uploads/2021/11/Dextel-promo-video-_-web.mp4" property="og:video:secure_url"/>
+<meta content="2020-03-13T09:30:15+00:00" property="article:published_time"/>
+<meta content="2023-06-09T13:32:21+00:00" property="article:modified_time"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Dextel.Agency - Strategy. Ecommerce. Web Design." name="twitter:title"/>
+<meta content="Looking for an agency that can help you grow and scale your business online? We can help." name="twitter:description"/>
+<meta content="https://www.dextel.agency/wp-content/uploads/2021/03/work-top-banner-large-1.jpg" name="twitter:image"/>
+<script class="aioseo-schema" type="application/ld+json">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.dextel.agency\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.dextel.agency\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/www.dextel.agency\/","name":"Home","description":"Looking for better online results? We create highly engaging websites, high performance ecommerce stores & use smart strategies to scale your business","url":"https:\/\/www.dextel.agency\/"}}]},{"@type":"Organization","@id":"https:\/\/www.dextel.agency\/#organization","name":"Dextel.Agency","url":"https:\/\/www.dextel.agency\/"},{"@type":"WebPage","@id":"https:\/\/www.dextel.agency\/#webpage","url":"https:\/\/www.dextel.agency\/","name":"Dextel.Agency - Web Design & Development. Growth Strategies","description":"Looking for better online results? We create highly engaging websites, high performance ecommerce stores & use smart strategies to scale your business","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/www.dextel.agency\/#website"},"breadcrumb":{"@id":"https:\/\/www.dextel.agency\/#breadcrumblist"},"datePublished":"2020-03-13T09:30:15+00:00","dateModified":"2023-06-09T13:32:21+00:00"},{"@type":"WebSite","@id":"https:\/\/www.dextel.agency\/#website","url":"https:\/\/www.dextel.agency\/","name":"Dextel.Agency","description":"Ecommerce, Web design, Web development","inLanguage":"en-US","publisher":{"@id":"https:\/\/www.dextel.agency\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.dextel.agency\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}]}
+		</script>
+<link href="https://www.dextel.agency/feed/" rel="alternate" title="Dextel.Agency » Feed" type="application/rss+xml"/>
+<link href="https://www.dextel.agency/comments/feed/" rel="alternate" title="Dextel.Agency » Comments Feed" type="application/rss+xml"/>
 <script>
-            var abTests = [];
-            var Main = GR.loadPage('layouts.Main', {"isProduction":true,"isDevelopmentServer":false,"breadcrumbPhone":"","mixpanelAdultsRoomChildrenData":[],"mixpanelProjectToken":"c5491a995ed9e9ee29ba488d355afed9","customerType":"Non-Member","serverHost":"web02","device":"computer"});
-        </script>
-<!-- Google Tag Manager -->
-<script>
-    (function(w, d, s, l, i) {
-        w[l] = w[l] || [];
-        w[l].push({
-            'gtm.start': new Date().getTime(),
-            event: 'gtm.js'
-        });
-        var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s),
-            dl = l != 'dataLayer' ? '&l=' + l : '';
-        j.async = true;
-        j.src =
-            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-        f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-NPMZ2WN');
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.dextel.agency\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
 </script>
-<!-- End Google Tag Manager -->
-<!-- start Mixpanel -->
-<script type="text/javascript">
-        (function(e, b) {
-            if (!b.__SV) {
-                var a, f, i, g;
-                window.mixpanel = b;
-                b._i = [];
-                b.init = function(a, e, d) {
-                    function f(b, h) {
-                        var a = h.split(".");
-                        2 == a.length && (b = b[a[0]], h = a[1]);
-                        b[h] = function() {
-                            b.push([h].concat(Array.prototype.slice.call(arguments, 0)))
-                        }
-                    }
-                    var c = b;
-                    "undefined" !== typeof d ? c = b[d] = [] : d = "mixpanel";
-                    c.people = c.people || [];
-                    c.toString = function(b) {
-                        var a = "mixpanel";
-                        "mixpanel" !== d && (a += "." + d);
-                        b || (a += " (stub)");
-                        return a
-                    };
-                    c.people.toString = function() {
-                        return c.toString(1) + ".people (stub)"
-                    };
-                    i = "disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
-                    for (g = 0; g < i.length; g++) f(c, i[g]);
-                    b._i.push([a, e, d])
-                };
-                b.__SV = 1.2;
-                a = e.createElement("script");
-                a.type = "text/javascript";
-                a.async = !0;
-                a.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL ? MIXPANEL_CUSTOM_LIB_URL : "file:" === e.location.protocol && "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//) ? "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js" : "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";
-                f = e.getElementsByTagName("script")[0];
-                f.parentNode.insertBefore(a, f)
-            }
-        })(document, window.mixpanel || []);
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="https://www.dextel.agency/wp-includes/css/dist/block-library/style.min.css?ver=6.3" id="wp-block-library-css" media="all" rel="stylesheet"/>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link href="https://www.dextel.agency/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7" id="contact-form-7-css" media="all" rel="stylesheet"/>
+<link href="https://www.dextel.agency/wp-content/plugins/testimonial-slider-and-showcase/assets/css/wptestimonial.css?ver=2.3.3" id="tss-css" media="all" rel="stylesheet"/>
+<link href="https://www.dextel.agency/wp-content/themes/agensy/css/bundle.min.css?ver=6.3" id="agensy-bundle-css" media="all" rel="stylesheet"/>
+<link href="https://www.dextel.agency/wp-content/themes/agensy/css/bootstrap.min.css?ver=6.3" id="bootsrap-css" media="all" rel="stylesheet"/>
+<link href="https://www.dextel.agency/wp-content/themes/agensy/css/style.css?ver=6.3" id="agensy-main-style-css" media="all" rel="stylesheet"/>
+<link href="https://www.dextel.agency/wp-content/themes/agensy/style.css?ver=6.3" id="agensy-stylesheet-css" media="all" rel="stylesheet"/>
+<style id="agensy-stylesheet-inline-css">
 
-            mixpanel.init("c5491a995ed9e9ee29ba488d355afed9", {
-                'loaded': function() {
-                    $(function() {
-                        if (typeof window.__insp !== 'undefined') {
-                            //Init Mixpanel with callback function "loaded" to get mixpanel distinct_id for Inspectlet Tag User Session
-                            __insp.push(['tagSession', {
-                                mp_distinct_id: mixpanel.get_distinct_id(),
-                                checkout_url: document.baseURI,
-                                referrer_url: document.referrer
-                            }]);
-                        }
-                    });
-                }
-            });
-            </script>
-<!-- end Mixpanel -->
-<!-- Begin Criteo Asynchronous Code -->
-<script async="true" src="//static.criteo.net/js/ld/ld.js" type="text/javascript"></script>
-<script type="text/javascript">
-        window.criteo_q = window.criteo_q || [];
-        var deviceType = /iPad/.test(navigator.userAgent) ? "t" : /Mobile|iP(hone|od)|Android|BlackBerry|IEMobile|Silk/.test(navigator.userAgent) ? "m" : "d";
-        window.criteo_q.push({
-                event: "setAccount",
-                account: 57373            }, {
-                event: "setSiteType",
-                type: deviceType
-            }
-            , {"event":"viewHome"}, {"event":"setData","ui_target":"yes"}        );
-    </script>
-<!-- End Criteo Asynchronous Code -->
-</head>
-<body class="site-index-page d-flex flex-column h-100">
-<div class="flex-shrink-0">
-<header>
-<div class="header navbar navbar-dark bg-dark">
-<div class="container container-1280 d-flex align-content-around">
-<div class="logo flex-grow-1">
-<a class="navbar-brand" href="https://www.guestreservations.com/" title="Guest Reservations">
-<img alt="Guest Reservations - Logo" src="/assets/f415e69c/images/logo/logo-bell-dark.svg" title="Guest Reservations - Logo"/><br/>
-<small>An independent travel network</small>
-</a>
-</div>
-<div class="menu for-desktop">
-<nav class="my-2 my-md-0 mr-md-3">
-<a class="js-hl-groups-link" href="https://groups.guestreservations.com/Group-Rate/" title="Groups (9+ Rooms)">Groups (9+ Rooms)</a>
-<a class="js-hl-guides" href="https://www.guestreservations.com/about/news" title="Travel Guides">Travel Guides</a>
-<a class="js-hl-my-booking" href="https://www.guestreservations.com/about/mybooking" title="My Booking">My Booking</a>
-</nav>
-</div>
-<div class="phone border-left js-mp-track-phone">
-<div class="for-desktop">
-<a class="d-flex flex-column" href="tel:6569559391"><span class="text-warning">
-<img alt="call" src="/assets/f415e69c/images/phone-yellow.svg" title="call"/>Call now</span>
-<span class="js-phone-number">+65 6955 9391</span>
-</a>
-</div>
-<div class="for-tablet">
-<a class="d-flex flex-column" href="tel:6569559391"><span class="text-warning">
-<img alt="call" src="/assets/f415e69c/images/phone-yellow.svg" title="call"/>Call now</span>
-<span class="js-phone-number">+65 6955 9391</span>
-</a>
-</div>
-<div class="for-mobile">
-<a class="d-flex flex-column" href="tel:6569559392"><span class="text-warning">
-<img alt="call" src="/assets/f415e69c/images/phone-yellow.svg" title="call"/>Call now</span>
-<span class="js-phone-number">+65 6955 9392</span>
-</a>
-</div> </div>
-</div>
-</div> </header>
-<main role="main">
-<div class="home-book-form position-relative">
-<div class="container container-1280">
-<div class="title-form-home text-center">
-<h1>Book your <span class="nowrap">perfect trip</span></h1>
-<p>A proudly independent travel network <span class="nowrap">with over 100,000 hotels worldwide</span></p>
-</div>
-<div class="body-form-home position-relative">
-<div class="destination-hotel-booking position-absolute">
-<div class="container">
-<form action="/search/page" autocomplete="off" class="js-searching" method="GET" name="searching">
-<div class="form-search-hotels js-booking-form destination-include">
-<div class="row no-gutters js-first-room js-room-block" data-room_block="1">
-<div class="destination col">
-<div class="form-group">
-<label for="js-destination">Destination</label>
-<input autocomplete="off" class="form-control jsv-validation jsv-notempty jsv-destination" id="js-destination" name="destination" placeholder="Where are you going?" type="text" value=""/>
-</div>
-</div>
-<input id="js-locality" name="locality" type="hidden" value=""/>
-<input id="js-region" name="region" type="hidden" value=""/>
-<input id="js-country" name="country" type="hidden" value=""/>
-<input id="js-latitude" name="latitude" type="hidden" value=""/>
-<input id="js-longitude" name="longitude" type="hidden" value=""/>
-<div class="row line-row no-gutters col">
-<div class="date-info col row no-gutters" data-lastdayofpenultimatemonth="08/31/2024" data-maxdate="09/30/2024" data-mindate="08/14/2023" id="date-info">
-<div class="check-in col js-check-date-block">
-<div class="form-group">
-<label for="check_in_view">Check-in </label>
-<div class="js-check_date_wrap check_date_wrap">
-<input autocomplete="off" class="form-control js-check_date check_date unvisible" ct-datepicker="true" data-startdate="08/14/2023" id="check_in" name="checkIn" placeholder="Check In:" readonly="readonly" type="text" value="08/14/2023"/>
-<input autocomplete="off" class="form-control js-check_date_view check_date_view" ct-datepicker="true" id="check_in_view" onfocus="this.blur();" placeholder="Check In:" readonly="readonly" type="text" value="Mon, Aug 14"/>
-</div>
-</div>
-</div>
-<div class="check-out col js-check-date-block">
-<div class="form-group">
-<label for="check_out_view">Check-out </label>
-<div class="js-check_date_wrap check_date_wrap">
-<input autocomplete="off" class="form-control js-check_date check_date unvisible" ct-datepicker="true" data-startdate="08/15/2023" id="check_out" name="checkOut" placeholder="Check out:" readonly="readonly" type="text" value="08/15/2023"/>
-<input autocomplete="off" class="form-control js-check_date_view check_date_view" ct-datepicker="true" id="check_out_view" onfocus="this.blur();" placeholder="Check out:" readonly="readonly" type="text" value="Tue, Aug 15"/>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="rooms col">
-<div class="form-group">
-<label for="rooms">Rooms</label>
-<div class="dropdown js-rooms">
-<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuRooms" type="button"></button>
-<input id="rooms" name="rooms" type="hidden" value="1"/>
-<div aria-labelledby="dropdownMenuRooms" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
-<div class="scroll-inner simple-scrollbar">
-<button class="dropdown-item" data-option="1" type="button">1</button>
-<button class="dropdown-item" data-option="2" type="button">2</button>
-<button class="dropdown-item" data-option="3" type="button">3</button>
-<button class="dropdown-item" data-option="4" type="button">4</button>
-<button class="dropdown-item" data-option="5" type="button">5</button>
-<button class="dropdown-item" data-option="6" type="button">6</button>
-<button class="dropdown-item" data-option="7" type="button">7</button>
-<button class="dropdown-item" data-option="8" type="button">8</button>
-<button class="dropdown-item" data-callback="goToGroupRates" data-option="9" data-process-dropdown="no" type="button">9+</button>
-</div>
-</div>
-</div> </div>
-</div>
-<div class="people col row no-gutters">
-<div class="adults col">
-<div class="form-group">
-<label for="adults[1]">Adults</label>
-<div class="dropdown js-adults">
-<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuAdults_1" type="button"></button>
-<input id="adults[1]" name="adults[1]" type="hidden" value="2"/>
-<div aria-labelledby="dropdownMenuAdults_1" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
-<div class="scroll-inner simple-scrollbar">
-<button class="dropdown-item" data-option="1" type="button">1</button>
-<button class="dropdown-item" data-option="2" type="button">2</button>
-<button class="dropdown-item" data-option="3" type="button">3</button>
-<button class="dropdown-item" data-option="4" type="button">4</button>
-<button class="dropdown-item" data-option="5" type="button">5</button>
-<button class="dropdown-item" data-option="6" type="button">6</button>
-<button class="dropdown-item" data-option="7" type="button">7</button>
-<button class="dropdown-item" data-option="8" type="button">8</button>
-</div>
-</div>
-</div> </div>
-</div>
-<div class="children col">
-<div class="form-group">
-<label for="children[1]">Children</label>
-<div class="dropdown js-children">
-<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_1" type="button"></button>
-<input id="children[1]" name="children[1]" type="hidden" value="0"/>
-<div aria-labelledby="dropdownMenuChildren_1" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
-<div class="scroll-inner simple-scrollbar">
-<button class="dropdown-item" data-option="0" type="button">0</button>
-<button class="dropdown-item" data-option="1" type="button">1</button>
-<button class="dropdown-item" data-option="2" type="button">2</button>
-<button class="dropdown-item" data-option="3" type="button">3</button>
-<button class="dropdown-item" data-option="4" type="button">4</button>
-<button class="dropdown-item" data-option="5" type="button">5</button>
-<button class="dropdown-item" data-option="6" type="button">6</button>
-<button class="dropdown-item" data-option="7" type="button">7</button>
-<button class="dropdown-item" data-option="8" type="button">8</button>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-<div class="search-button col d-flex align-content">
-<button class="btn btn-warning" type="submit">Find Rooms</button>
-</div>
-<div class="bg-white drop-down-list js-more-rooms">
-<div class="row no-gutters children-ages js-children-ages-block hidden" data-room_block="1">
-<div class="children-ages-title col">
-                        Children ages <br/> (1-17, enter 0 for infants)
-                    </div>
-<div class="children-ages-body w-100 d-flex justify-content-end">
-<div class="child col">
-<div class="form-group">
-<div class="dropdown scroll-bar js-children-ages no-auto-init">
-<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_11" type="button"></button>
-<input data-childrenid="1" disabled="disabled" id="ages[1][1]" name="ages[1][1]" type="hidden" value="0"/>
-<div aria-labelledby="dropdownMenuChildren_11" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
-<div class="scroll-inner simple-scrollbar">
-<button class="dropdown-item" data-option="0" type="button">0</button>
-<button class="dropdown-item" data-option="1" type="button">1</button>
-<button class="dropdown-item" data-option="2" type="button">2</button>
-<button class="dropdown-item" data-option="3" type="button">3</button>
-<button class="dropdown-item" data-option="4" type="button">4</button>
-<button class="dropdown-item" data-option="5" type="button">5</button>
-<button class="dropdown-item" data-option="6" type="button">6</button>
-<button class="dropdown-item" data-option="7" type="button">7</button>
-<button class="dropdown-item" data-option="8" type="button">8</button>
-<button class="dropdown-item" data-option="9" type="button">9</button>
-<button class="dropdown-item" data-option="10" type="button">10</button>
-<button class="dropdown-item" data-option="11" type="button">11</button>
-<button class="dropdown-item" data-option="12" type="button">12</button>
-<button class="dropdown-item" data-option="13" type="button">13</button>
-<button class="dropdown-item" data-option="14" type="button">14</button>
-<button class="dropdown-item" data-option="15" type="button">15</button>
-<button class="dropdown-item" data-option="16" type="button">16</button>
-<button class="dropdown-item" data-option="17" type="button">17</button>
-</div>
-</div>
-</div> </div>
-</div>
-<div class="child col">
-<div class="form-group">
-<div class="dropdown scroll-bar js-children-ages no-auto-init">
-<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_12" type="button"></button>
-<input data-childrenid="2" disabled="disabled" id="ages[1][2]" name="ages[1][2]" type="hidden" value="0"/>
-<div aria-labelledby="dropdownMenuChildren_12" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
-<div class="scroll-inner simple-scrollbar">
-<button class="dropdown-item" data-option="0" type="button">0</button>
-<button class="dropdown-item" data-option="1" type="button">1</button>
-<button class="dropdown-item" data-option="2" type="button">2</button>
-<button class="dropdown-item" data-option="3" type="button">3</button>
-<button class="dropdown-item" data-option="4" type="button">4</button>
-<button class="dropdown-item" data-option="5" type="button">5</button>
-<button class="dropdown-item" data-option="6" type="button">6</button>
-<button class="dropdown-item" data-option="7" type="button">7</button>
-<button class="dropdown-item" data-option="8" type="button">8</button>
-<button class="dropdown-item" data-option="9" type="button">9</button>
-<button class="dropdown-item" data-option="10" type="button">10</button>
-<button class="dropdown-item" data-option="11" type="button">11</button>
-<button class="dropdown-item" data-option="12" type="button">12</button>
-<button class="dropdown-item" data-option="13" type="button">13</button>
-<button class="dropdown-item" data-option="14" type="button">14</button>
-<button class="dropdown-item" data-option="15" type="button">15</button>
-<button class="dropdown-item" data-option="16" type="button">16</button>
-<button class="dropdown-item" data-option="17" type="button">17</button>
-</div>
-</div>
-</div> </div>
-</div>
-<div class="child col">
-<div class="form-group">
-<div class="dropdown scroll-bar js-children-ages no-auto-init">
-<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_13" type="button"></button>
-<input data-childrenid="3" disabled="disabled" id="ages[1][3]" name="ages[1][3]" type="hidden" value="0"/>
-<div aria-labelledby="dropdownMenuChildren_13" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
-<div class="scroll-inner simple-scrollbar">
-<button class="dropdown-item" data-option="0" type="button">0</button>
-<button class="dropdown-item" data-option="1" type="button">1</button>
-<button class="dropdown-item" data-option="2" type="button">2</button>
-<button class="dropdown-item" data-option="3" type="button">3</button>
-<button class="dropdown-item" data-option="4" type="button">4</button>
-<button class="dropdown-item" data-option="5" type="button">5</button>
-<button class="dropdown-item" data-option="6" type="button">6</button>
-<button class="dropdown-item" data-option="7" type="button">7</button>
-<button class="dropdown-item" data-option="8" type="button">8</button>
-<button class="dropdown-item" data-option="9" type="button">9</button>
-<button class="dropdown-item" data-option="10" type="button">10</button>
-<button class="dropdown-item" data-option="11" type="button">11</button>
-<button class="dropdown-item" data-option="12" type="button">12</button>
-<button class="dropdown-item" data-option="13" type="button">13</button>
-<button class="dropdown-item" data-option="14" type="button">14</button>
-<button class="dropdown-item" data-option="15" type="button">15</button>
-<button class="dropdown-item" data-option="16" type="button">16</button>
-<button class="dropdown-item" data-option="17" type="button">17</button>
-</div>
-</div>
-</div> </div>
-</div>
-<div class="child col">
-<div class="form-group">
-<div class="dropdown scroll-bar js-children-ages no-auto-init">
-<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_14" type="button"></button>
-<input data-childrenid="4" disabled="disabled" id="ages[1][4]" name="ages[1][4]" type="hidden" value="0"/>
-<div aria-labelledby="dropdownMenuChildren_14" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
-<div class="scroll-inner simple-scrollbar">
-<button class="dropdown-item" data-option="0" type="button">0</button>
-<button class="dropdown-item" data-option="1" type="button">1</button>
-<button class="dropdown-item" data-option="2" type="button">2</button>
-<button class="dropdown-item" data-option="3" type="button">3</button>
-<button class="dropdown-item" data-option="4" type="button">4</button>
-<button class="dropdown-item" data-option="5" type="button">5</button>
-<button class="dropdown-item" data-option="6" type="button">6</button>
-<button class="dropdown-item" data-option="7" type="button">7</button>
-<button class="dropdown-item" data-option="8" type="button">8</button>
-<button class="dropdown-item" data-option="9" type="button">9</button>
-<button class="dropdown-item" data-option="10" type="button">10</button>
-<button class="dropdown-item" data-option="11" type="button">11</button>
-<button class="dropdown-item" data-option="12" type="button">12</button>
-<button class="dropdown-item" data-option="13" type="button">13</button>
-<button class="dropdown-item" data-option="14" type="button">14</button>
-<button class="dropdown-item" data-option="15" type="button">15</button>
-<button class="dropdown-item" data-option="16" type="button">16</button>
-<button class="dropdown-item" data-option="17" type="button">17</button>
-</div>
-</div>
-</div> </div>
-</div>
-<div class="child col">
-<div class="form-group">
-<div class="dropdown scroll-bar js-children-ages no-auto-init">
-<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_15" type="button"></button>
-<input data-childrenid="5" disabled="disabled" id="ages[1][5]" name="ages[1][5]" type="hidden" value="0"/>
-<div aria-labelledby="dropdownMenuChildren_15" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
-<div class="scroll-inner simple-scrollbar">
-<button class="dropdown-item" data-option="0" type="button">0</button>
-<button class="dropdown-item" data-option="1" type="button">1</button>
-<button class="dropdown-item" data-option="2" type="button">2</button>
-<button class="dropdown-item" data-option="3" type="button">3</button>
-<button class="dropdown-item" data-option="4" type="button">4</button>
-<button class="dropdown-item" data-option="5" type="button">5</button>
-<button class="dropdown-item" data-option="6" type="button">6</button>
-<button class="dropdown-item" data-option="7" type="button">7</button>
-<button class="dropdown-item" data-option="8" type="button">8</button>
-<button class="dropdown-item" data-option="9" type="button">9</button>
-<button class="dropdown-item" data-option="10" type="button">10</button>
-<button class="dropdown-item" data-option="11" type="button">11</button>
-<button class="dropdown-item" data-option="12" type="button">12</button>
-<button class="dropdown-item" data-option="13" type="button">13</button>
-<button class="dropdown-item" data-option="14" type="button">14</button>
-<button class="dropdown-item" data-option="15" type="button">15</button>
-<button class="dropdown-item" data-option="16" type="button">16</button>
-<button class="dropdown-item" data-option="17" type="button">17</button>
-</div>
-</div>
-</div> </div>
-</div>
-<div class="child col">
-<div class="form-group">
-<div class="dropdown scroll-bar js-children-ages no-auto-init">
-<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_16" type="button"></button>
-<input data-childrenid="6" disabled="disabled" id="ages[1][6]" name="ages[1][6]" type="hidden" value="0"/>
-<div aria-labelledby="dropdownMenuChildren_16" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
-<div class="scroll-inner simple-scrollbar">
-<button class="dropdown-item" data-option="0" type="button">0</button>
-<button class="dropdown-item" data-option="1" type="button">1</button>
-<button class="dropdown-item" data-option="2" type="button">2</button>
-<button class="dropdown-item" data-option="3" type="button">3</button>
-<button class="dropdown-item" data-option="4" type="button">4</button>
-<button class="dropdown-item" data-option="5" type="button">5</button>
-<button class="dropdown-item" data-option="6" type="button">6</button>
-<button class="dropdown-item" data-option="7" type="button">7</button>
-<button class="dropdown-item" data-option="8" type="button">8</button>
-<button class="dropdown-item" data-option="9" type="button">9</button>
-<button class="dropdown-item" data-option="10" type="button">10</button>
-<button class="dropdown-item" data-option="11" type="button">11</button>
-<button class="dropdown-item" data-option="12" type="button">12</button>
-<button class="dropdown-item" data-option="13" type="button">13</button>
-<button class="dropdown-item" data-option="14" type="button">14</button>
-<button class="dropdown-item" data-option="15" type="button">15</button>
-<button class="dropdown-item" data-option="16" type="button">16</button>
-<button class="dropdown-item" data-option="17" type="button">17</button>
-</div>
-</div>
-</div> </div>
-</div>
-<div class="child col">
-<div class="form-group">
-<div class="dropdown scroll-bar js-children-ages no-auto-init">
-<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_17" type="button"></button>
-<input data-childrenid="7" disabled="disabled" id="ages[1][7]" name="ages[1][7]" type="hidden" value="0"/>
-<div aria-labelledby="dropdownMenuChildren_17" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
-<div class="scroll-inner simple-scrollbar">
-<button class="dropdown-item" data-option="0" type="button">0</button>
-<button class="dropdown-item" data-option="1" type="button">1</button>
-<button class="dropdown-item" data-option="2" type="button">2</button>
-<button class="dropdown-item" data-option="3" type="button">3</button>
-<button class="dropdown-item" data-option="4" type="button">4</button>
-<button class="dropdown-item" data-option="5" type="button">5</button>
-<button class="dropdown-item" data-option="6" type="button">6</button>
-<button class="dropdown-item" data-option="7" type="button">7</button>
-<button class="dropdown-item" data-option="8" type="button">8</button>
-<button class="dropdown-item" data-option="9" type="button">9</button>
-<button class="dropdown-item" data-option="10" type="button">10</button>
-<button class="dropdown-item" data-option="11" type="button">11</button>
-<button class="dropdown-item" data-option="12" type="button">12</button>
-<button class="dropdown-item" data-option="13" type="button">13</button>
-<button class="dropdown-item" data-option="14" type="button">14</button>
-<button class="dropdown-item" data-option="15" type="button">15</button>
-<button class="dropdown-item" data-option="16" type="button">16</button>
-<button class="dropdown-item" data-option="17" type="button">17</button>
-</div>
-</div>
-</div> </div>
-</div>
-<div class="child col">
-<div class="form-group">
-<div class="dropdown scroll-bar js-children-ages no-auto-init">
-<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_18" type="button"></button>
-<input data-childrenid="8" disabled="disabled" id="ages[1][8]" name="ages[1][8]" type="hidden" value="0"/>
-<div aria-labelledby="dropdownMenuChildren_18" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
-<div class="scroll-inner simple-scrollbar">
-<button class="dropdown-item" data-option="0" type="button">0</button>
-<button class="dropdown-item" data-option="1" type="button">1</button>
-<button class="dropdown-item" data-option="2" type="button">2</button>
-<button class="dropdown-item" data-option="3" type="button">3</button>
-<button class="dropdown-item" data-option="4" type="button">4</button>
-<button class="dropdown-item" data-option="5" type="button">5</button>
-<button class="dropdown-item" data-option="6" type="button">6</button>
-<button class="dropdown-item" data-option="7" type="button">7</button>
-<button class="dropdown-item" data-option="8" type="button">8</button>
-<button class="dropdown-item" data-option="9" type="button">9</button>
-<button class="dropdown-item" data-option="10" type="button">10</button>
-<button class="dropdown-item" data-option="11" type="button">11</button>
-<button class="dropdown-item" data-option="12" type="button">12</button>
-<button class="dropdown-item" data-option="13" type="button">13</button>
-<button class="dropdown-item" data-option="14" type="button">14</button>
-<button class="dropdown-item" data-option="15" type="button">15</button>
-<button class="dropdown-item" data-option="16" type="button">16</button>
-<button class="dropdown-item" data-option="17" type="button">17</button>
-</div>
-</div>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</form> </div>
-</div>
-<div class="box-shadow-form">
-<div class="container">
-<div class="box-shadow-bg"></div>
-</div>
-</div>
-</div>
-</div>
-<div class="bg-light-gray bg-bottom-form"></div>
-</div>
-<div class="block-destinations bg-light-gray">
-<div class="container">
-<div class="title-block text-center">
-<h2>Top Destinations</h2>
-<p>Still deciding where to go? Here are <span class="nowrap">some of our favorite places</span></p>
-</div>
-<div class="destinations-city slider-block">
-<div class="wrap-slick-slider">
-<div class="top-destinations-slider slick-slider">
-<div class="col">
-<div class="card position-relative text-white">
-<a href="https://www.guestreservations.com/hotels-United_Kingdom/London" style="display: block" title="London">
-<figure class="figure">
-<section class="bg-overflow">
-<img alt="London" class="card-img" src="/images/pages/p-home/destinations/london.jpg" title="London"/></section>
-<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
-<section class="mt-auto card-text">
-<p class="card-name">London</p>
-<p class="card-bottom">1038 hotels available</p>
-</section>
-</figcaption>
-</figure>
-</a>
-</div>
-</div>
-<div class="col">
-<div class="card position-relative text-white">
-<a href="https://www.guestreservations.com/hotels-United_States_of_America/CA/Los_Angeles" style="display: block" title="Los Angeles">
-<figure class="figure">
-<section class="bg-overflow">
-<img alt="Los Angeles" class="card-img" src="/images/pages/p-home/destinations/los-angeles.jpg" title="Los Angeles"/></section>
-<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
-<section class="mt-auto card-text">
-<p class="card-name">Los Angeles</p>
-<p class="card-bottom">170 hotels available</p>
-</section>
-</figcaption>
-</figure>
-</a>
-</div>
-</div>
-<div class="col">
-<div class="card position-relative text-white">
-<a href="https://www.guestreservations.com/hotels-United_States_of_America/FL/Miami" style="display: block" title="Miami">
-<figure class="figure">
-<section class="bg-overflow">
-<img alt="Miami" class="card-img" src="/images/pages/p-home/destinations/miami.jpg" title="Miami"/></section>
-<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
-<section class="mt-auto card-text">
-<p class="card-name">Miami</p>
-<p class="card-bottom">183 hotels available</p>
-</section>
-</figcaption>
-</figure>
-</a>
-</div>
-</div>
-<div class="col">
-<div class="card position-relative text-white">
-<a href="https://www.guestreservations.com/hotels-United_States_of_America/New_York" style="display: block" title="New York">
-<figure class="figure">
-<section class="bg-overflow">
-<img alt="New York" class="card-img" src="/images/pages/p-home/destinations/new-york.jpg" title="New York"/></section>
-<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
-<section class="mt-auto card-text">
-<p class="card-name">New York</p>
-<p class="card-bottom">229 hotels available</p>
-</section>
-</figcaption>
-</figure>
-</a>
-</div>
-</div>
-<div class="col">
-<div class="card position-relative text-white">
-<a href="https://www.guestreservations.com/hotels-Thailand/Phuket" style="display: block" title="Phuket">
-<figure class="figure">
-<section class="bg-overflow">
-<img alt="Phuket" class="card-img" src="/images/pages/p-home/destinations/phuket.jpg" title="Phuket"/></section>
-<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
-<section class="mt-auto card-text">
-<p class="card-name">Phuket</p>
-<p class="card-bottom">432 hotels available</p>
-</section>
-</figcaption>
-</figure>
-</a>
-</div>
-</div>
-<div class="col">
-<div class="card position-relative text-white">
-<a href="https://www.guestreservations.com/hotels-Australia/Sydney" style="display: block" title="Sydney">
-<figure class="figure">
-<section class="bg-overflow">
-<img alt="Sydney" class="card-img" src="/images/pages/p-home/destinations/sydney.jpg" title="Sydney"/></section>
-<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
-<section class="mt-auto card-text">
-<p class="card-name">Sydney</p>
-<p class="card-bottom">133 hotels available</p>
-</section>
-</figcaption>
-</figure>
-</a>
-</div>
-</div>
-<div class="col">
-<div class="card position-relative text-white">
-<a href="https://www.guestreservations.com/hotels-Italy/Rome" style="display: block" title="Rome">
-<figure class="figure">
-<section class="bg-overflow">
-<img alt="Rome" class="card-img" src="/images/pages/p-home/destinations/rom.jpg" title="Rome"/></section>
-<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
-<section class="mt-auto card-text">
-<p class="card-name">Rome</p>
-<p class="card-bottom">1754 hotels available</p>
-</section>
-</figcaption>
-</figure>
-</a>
-</div>
-</div>
-<div class="col">
-<div class="card position-relative text-white">
-<a href="https://www.guestreservations.com/hotels-Japan/Tokyo" style="display: block" title="Tokyo">
-<figure class="figure">
-<section class="bg-overflow">
-<img alt="Tokyo" class="card-img" src="/images/pages/p-home/destinations/tokyo.jpg" title="Tokyo"/></section>
-<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
-<section class="mt-auto card-text">
-<p class="card-name">Tokyo</p>
-<p class="card-bottom">503 hotels available</p>
-</section>
-</figcaption>
-</figure>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="about-gr-bg-home">
-<div class="d-flex align-items-center position-absolute">
-<div class="about-gr-text text-center">
-<section class="container">
-<p class="text-big"> The <br class="for-mobile-small"/> <b class="trademark-name">Guest Reservations<sup>TM</sup></b> Difference</p>
-<p>We aggregate the best possible <br class="for-mobile"/> deals for our users by connecting
-                    <br/> with over 100,000 hotels worldwide</p>
-<p class="link">
-<a class="btn btn-warning js-learn-more" href="#" title="Learn more">Learn more</a>
-</p>
-</section>
-</div>
-</div>
-</div>
-<div class="block-hotels-city">
-<div class="container">
-<div class="title-block text-center">
-<h2>Featured Hotels</h2>
-<p>Trending properties from around <span class="nowrap">the world</span></p>
-</div>
-<div class="slider-block">
-<div class="wrap-slick-slider">
-<div class="properties-slider slick-slider">
-<div class="card position-relative text-white">
-<a href="https://www.guestreservations.com/rancho-bernardo-inn/booking" title="Rancho Bernardo Inn">
-<figure class="figure">
-<img alt="Rancho Bernardo Inn" class="card-img" src="/images/pages/p-home/featured-hotels/4e59e3fb-e543-4c2c-acdc-53a4d78517e8.jpg" title="Rancho Bernardo Inn"/>
-<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
-<section class="mt-auto card-text">
-<p class="card-city">San Diego, CA</p>
-<p class="card-name">Rancho Bernardo Inn</p>
-</section>
-</figcaption>
-</figure>
-</a>
-</div>
-<div class="card position-relative text-white">
-<a href="https://www.guestreservations.com/mountaineer-square/booking" title="The Lodge at Mountaineer Square">
-<figure class="figure">
-<img alt="The Lodge at Mountaineer Square" class="card-img" src="/images/pages/p-home/featured-hotels/45548bfb-0c67-4443-a625-68b838cfa293.jpg" title="The Lodge at Mountaineer Square"/>
-<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
-<section class="mt-auto card-text">
-<p class="card-city">Mt. Crested Butte, CO</p>
-<p class="card-name">The Lodge at Mountaineer Square</p>
-</section>
-</figcaption>
-</figure>
-</a>
-</div>
-<div class="card position-relative text-white">
-<a href="https://www.guestreservations.com/reunion-resortra-salamander-golf-spa-resort/booking" title="Reunion Resort">
-<figure class="figure">
-<img alt="Reunion Resort" class="card-img" src="/images/pages/p-home/featured-hotels/2217841c-6eb8-5ab2-8857-db7c1f4ad5d1.jpg" title="Reunion Resort"/>
-<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
-<section class="mt-auto card-text">
-<p class="card-city">Kissimmee, FL</p>
-<p class="card-name">Reunion Resort</p>
-</section>
-</figcaption>
-</figure>
-</a>
-</div>
-<div class="card position-relative text-white">
-<a href="https://www.guestreservations.com/hotel-praia-ipanema/booking" title="Praia Ipanema Hotel">
-<figure class="figure">
-<img alt="Praia Ipanema Hotel" class="card-img" src="/images/pages/p-home/featured-hotels/d592e189-fceb-51bd-a379-ef0c81c11455.jpg" title="Praia Ipanema Hotel"/>
-<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
-<section class="mt-auto card-text">
-<p class="card-city">Rio de Janeiro, Brazil</p>
-<p class="card-name">Praia Ipanema Hotel</p>
-</section>
-</figcaption>
-</figure>
-</a>
-</div>
-<div class="card position-relative text-white">
-<a href="https://www.guestreservations.com/hotel-principe-venice/booking" title="Hotel Principe">
-<figure class="figure">
-<img alt="Hotel Principe" class="card-img" src="/images/pages/p-home/featured-hotels/52ce0231-cb14-575e-8f97-ce5586cea1ab.jpg" title="Hotel Principe"/>
-<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
-<section class="mt-auto card-text">
-<p class="card-city">Venice, Italy</p>
-<p class="card-name">Hotel Principe</p>
-</section>
-</figcaption>
-</figure>
-</a>
-</div>
-<div class="card position-relative text-white">
-<a href="https://www.guestreservations.com/four-seasons-resort-koh-samui/booking" title="Four Seasons Resort Koh Samui">
-<figure class="figure">
-<img alt="Four Seasons Resort Koh Samui" class="card-img" src="/images/pages/p-home/featured-hotels/9a145841-8c30-5f28-b0be-c5db01841f01.jpg" title="Four Seasons Resort Koh Samui"/>
-<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
-<section class="mt-auto card-text">
-<p class="card-city">Koh Samui, Thailand</p>
-<p class="card-name">Four Seasons Resort Koh Samui</p>
-</section>
-</figcaption>
-</figure>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="block-city-top">
-<div class="container">
-<div class="d-flex title">
-<div class="bd-highlight align-self-center">
-<h3><span class="for-tablet-inline for-desktop-inline">Hotels in Other </span>Top Cities</h3></div>
-<div class="ml-auto">
-<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America" title="See all cities">See all cities</a>
-</div>
-</div>
-<div class="link-city">
-<div class="row no-gutters">
-<div class="col-md-3">
-<p class="city city">
-<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Victoria">Victoria Hotels</a></p>
-<p class="city city">
-<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/NJ/Newark">Newark Hotels</a></p>
-<p class="city city">
-<a class="btn" href="https://www.guestreservations.com/hotels-Spain/Madrid">Madrid Hotels</a></p>
-<p class="city city">
-<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/DC/Washington">Washington D.C. Hotels</a></p>
-<p class="city city">
-<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/San_Francisco">San Francisco Hotels</a></p>
-<p class="city city for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-Italy/Milan">Milan Hotels</a></p>
-<p class="city city for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/Minneapolis">Minneapolis Hotels</a></p>
-<p class="city city for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Calgary">Calgary Hotels</a></p>
-</div>
-<div class="col-md-3">
-<p class="city city">
-<a class="btn" href="https://www.guestreservations.com/hotels-France/Nice">Nice Hotels</a></p>
-<p class="city city">
-<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/Los_Angeles">Los Angeles Hotels</a></p>
-<p class="city city">
-<a class="btn" href="https://www.guestreservations.com/hotels-Germany/Hamburg">Hamburg Hotels</a></p>
-<p class="city city">
-<a class="btn" href="https://www.guestreservations.com/hotels-Austria/Vienna">Vienna Hotels</a></p>
-<p class="city city">
-<a class="btn" href="https://www.guestreservations.com/hotels-United_Kingdom/Edinburgh">Edinburgh Hotels</a></p>
-<p class="city city for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/Anaheim">Anaheim Hotels</a></p>
-<p class="city city for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/Fort_Lauderdale">Fort Lauderdale Hotels</a></p>
-<p class="city city for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/Atlantic_City">Atlantic City Hotels</a></p>
-</div>
-<div class="col-md-3">
-<p class="city city for-tablet for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-Mexico/Mexico_City">Mexico City Hotels</a></p>
-<p class="city city for-tablet for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-Denmark/Copenhagen">Copenhagen Hotels</a></p>
-<p class="city city for-tablet for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-China/Shanghai">Shanghai Hotels</a></p>
-<p class="city city for-tablet for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-Japan/Tokyo">Tokyo Hotels</a></p>
-<p class="city city for-tablet for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Banff">Banff Hotels</a></p>
-<p class="city city for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-Switzerland/Bern">Bern Hotels</a></p>
-<p class="city city for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-Mexico/Cancun">Cancun Hotels</a></p>
-<p class="city city for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-China/Xi%27an">Xi'an Hotels</a></p>
-</div>
-<div class="col-md-3">
-<p class="city city for-tablet for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-China/Beijing">Beijing Hotels</a></p>
-<p class="city city for-tablet for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Vancouver">Vancouver Hotels</a></p>
-<p class="city city for-tablet for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Toronto">Toronto Hotels</a></p>
-<p class="city city for-tablet for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Quebec_City">Quebec City Hotels</a></p>
-<p class="city city for-tablet for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/New_York">New York Hotels</a></p>
-<p class="city city for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/NV/Las_Vegas">Las Vegas Hotels</a></p>
-<p class="city city for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-United_Kingdom/London">London Hotels</a></p>
-<p class="city city for-desktop">
-<a class="btn" href="https://www.guestreservations.com/hotels-France/Paris">Paris Hotels</a></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="modal fade modal-learn-more reasons js-modal-learn-more" role="dialog" tabindex="-1">
-<div class="modal-dialog" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h2>4 REASONS TO BOOK WITH <br/> <b class="trademark-name">Guest Reservations<sup>TM</sup></b> </h2>
-<button aria-label="Close" class="close" data-dismiss="modal" type="button">
-<span aria-hidden="true">×</span>
-</button>
-</div>
-<div class="modal-body">
-<p>As an independent travel network offering over 100,000 hotels worldwide,
-                    we can get you the same deals you expect with a bigger travel agency or direct from the hotel.
-                    We compile the best rates from several top suppliers to make it easy to book the perfect room.
-                    Combine these deals with our all-devices booking engine, strict privacy focus, and world-class
-                    support and you have the <b class="trademark-name">Guest Reservations<sup>TM</sup></b>  difference.
-                    Learn more <a href="https://www.guestreservations.com/about/page" target="_blank" title="about us"> about us</a>.</p>
-<section class="reasons-block">
-<div class="row">
-<div class="col-6">
-<div class="media">
-<img alt="Exclusive Deals" class="mr-4" src="/assets/4a44a40b/images/reasons/exclusive-deals.svg"/>
-<div class="media-body">
-<h5 class="mt-0">Exclusive Deals</h5>
-                                    Deep Discounts And Popular Exclusives.
-                                </div>
-</div>
-</div>
-<div class="col-6">
-<div class="media">
-<img alt="Massive selection" class="mr-4" src="/assets/4a44a40b/images/reasons/massive-selection.svg"/>
-<div class="media-body">
-<h5 class="mt-0">Massive selection</h5>
-                                    100,000+ Hotels From All The Top Suppliers!
-                                </div>
-</div>
-</div>
-<div class="w-100"></div>
-<div class="col-6">
-<div class="media">
-<img alt="Leading Customer Service" class="mr-4" src="/assets/4a44a40b/images/reasons/customer-service.svg"/>
-<div class="media-body">
-<h5 class="mt-0">Leading Customer Service</h5>
-                                    Our Agents Are Friendly And Available 24/7.
-                                </div>
-</div>
-</div>
-<div class="col-6">
-<div class="media">
-<img alt="Strict Privacy Focus" class="mr-4" src="/assets/4a44a40b/images/reasons/strict-privac.svg"/>
-<div class="media-body">
-<h5 class="mt-0">Strict Privacy Focus</h5>
-                                    All Bookings Are Secured And Protected.
-                                </div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-</div>
-<script>
-    GR.loadPage('site.Index', {"destinationFromUrl":false});
+				body .navbar > .logo img{
+					height: 54px;
+				}
+			
+</style>
+<link href="https://www.dextel.agency/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.9.3" id="slb_core-css" media="all" rel="stylesheet"/>
+<link href="https://www.dextel.agency/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.13.0" id="js_composer_front-css" media="all" rel="stylesheet"/>
+<link href="//www.dextel.agency/wp-content/uploads/js_composer/custom.css?ver=6.13.0" id="js_composer_custom_css-css" media="all" rel="stylesheet"/>
+<script id="jquery-core-js" src="https://www.dextel.agency/wp-includes/js/jquery/jquery.min.js?ver=3.7.0"></script>
+<script id="jquery-migrate-js" src="https://www.dextel.agency/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="comments-js-extra">
+var comment_data = {"name":"Name is required","email":"Email is required","comment":"Comment is required"};
 </script>
+<script id="comments-js" src="https://www.dextel.agency/wp-content/themes/agensy/js/comments.js?ver=6.3"></script>
+<link href="https://www.dextel.agency/wp-json/" rel="https://api.w.org/"/><link href="https://www.dextel.agency/wp-json/wp/v2/pages/55" rel="alternate" type="application/json"/><link href="https://www.dextel.agency/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<meta content="WordPress 6.3" name="generator"/>
+<link href="https://www.dextel.agency/" rel="shortlink"/>
+<link href="https://www.dextel.agency/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dextel.agency%2F" rel="alternate" type="application/json+oembed"/>
+<link href="https://www.dextel.agency/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.dextel.agency%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+<style>.wpcf7 .ajax-loader{background-image: url(https://www.dextel.agency/wp-content/plugins/contact-form-7/images/ajax-loader.gif);visibility:hidden;display:inline-block;width:16px;height:16px;border:none;padding:0;margin:0 0 0 4px;vertical-align:middle}.wpcf7 .ajax-loader.is-active{visibility:visible}</style><style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." name="generator"/>
+<link href="https://www.dextel.agency/wp-content/uploads/2021/02/cropped-android-chrome-256x256-1-32x32.png" rel="icon" sizes="32x32"/>
+<link href="https://www.dextel.agency/wp-content/uploads/2021/02/cropped-android-chrome-256x256-1-192x192.png" rel="icon" sizes="192x192"/>
+<link href="https://www.dextel.agency/wp-content/uploads/2021/02/cropped-android-chrome-256x256-1-180x180.png" rel="apple-touch-icon"/>
+<meta content="https://www.dextel.agency/wp-content/uploads/2021/02/cropped-android-chrome-256x256-1-270x270.png" name="msapplication-TileImage"/>
+<style id="wp-custom-css">
+			.text-content p {
+font-size: 22px;	
+line-height: 1.5;
+}
+
+
+.text-content p small {
+line-height:0;
+}
+
+.text-content h2 {
+  font-weight: 600;
+	margin-bottom: 5%;
+  }
+
+/* Worpress Customizing Additional CSS Setting*/
+
+/*b2b page*/
+#b2bSlider .item-content-wrapper{
+height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+#b2bSlider .item-content-wrapper h3,
+#b2bSlider .item-content-wrapper p{
+	font-style:normal;
+}
+
+
+.item-content blockquote{
+	font-size:26px;
+	padding:30px 0;
+}
+
+.tss-wrapper .tss-layout3 .item-content-wrapper:before, .tss-wrapper .tss-isotope1 .item-content-wrapper:before, .tss-wrapper .tss-video1 .item-content-wrapper:before, .tss-wrapper .tss-carousel3 .item-content-wrapper:before {
+   display:none;
+}
+
+.underline {
+	text-decoration:underline;
+	text-underline-offset:4px;
+	text-decoration-color:#9E005D;
+	text-decoration-thickness: 3px;
+}
+/* pop up  */
+.hustle-cta-helper-text a{
+	text-decoration:underline;
+}
+
+/* testimonial page */
+.testimonial:after{
+	background: #34363a;
+    content: "";
+    display: block;
+    height: 1px;
+    width: 100%;
+		margin-top:70px;
+}
+/**/
+
+@media only screen and (max-width: 767px), only screen and (max-device-width: 767px) {  
+.text-content h2 {
+  font-size: 9vw;
+	margin-bottom: 5%;
+  }
+.text-content h3 {
+  font-size: 7vw;
+	margin-bottom: 5%;
+  }
+.text-content p {
+font-size: 16px;	
+line-height: 1.5;
+}
+	
+/* Worpress Customizing Additional CSS Setting*/
+.flex-reverse{
+	flex-direction: column-reverse;
+}
+.item-content blockquote{
+	font-size:18px;
+}
+/* */
+	
+	
+}
+.blog .header-image{
+    display:none;
+}
+
+@media (min-width:1200px){
+	.page-header p{
+		padding-right:20%
+	}
+}
+.blog .header-image + .content-section{
+    padding-top:0;
+}
+.single-post .content-section{
+    padding-top:50px;
+}
+@media (max-width:767px){
+	.single-post .content-section{
+		padding-top:10px
+	}
+}
+.slider .swiper-pagination .swiper-pagination-bullet svg{
+        top: -9px;
+    right: -10px;
+}		</style>
+<style data-type="vc_shortcodes-custom-css" type="text/css">.vc_custom_1676056220597{margin-top: 0px !important;margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;}.vc_custom_1675879670201{border-bottom-width: 100px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-19739694-3"></script>
+<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-19739694-3');
+	</script>
+</link></meta></meta></head>
+<body class="home page-template page-template-page-builder page-template-page-builder-php page page-id-55 no-preloader body-horizontal-menu wpb-js-composer js-comp-ver-6.13.0 vc_responsive">
+<div class="navigation-menu">
+<div class="inner">
+<div class="side-menu">
+<div class="menu-main-menu-container"><ul class="menu" id="menu-main-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-55 current_page_item active menu-item-2297 nav-item" id="menu-item-2297" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a aria-current="page" class="nav-link" data-text="Home" href="https://www.dextel.agency/" title="Home">Home</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61 nav-item" id="menu-item-61" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="What We Do" href="https://www.dextel.agency/agency-what-we-do/" title="What We Do">What We Do</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422 nav-item" id="menu-item-422" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="Ecommerce" href="https://www.dextel.agency/ecommerce-magento-shopify/" title="Ecommerce">Ecommerce</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60 nav-item" id="menu-item-60" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="Work" href="https://www.dextel.agency/work/" title="Work">Work</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 nav-item" id="menu-item-59" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="Insights" href="https://www.dextel.agency/insights/" title="Insights">Insights</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2140 nav-item" id="menu-item-2140" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="Get A Quote" href="https://www.dextel.agency/get-a-quote/" title="Get A Quote">Get A Quote</a><i></i></li>
+</ul></div> </div>
+<section class="widget_text widget widget_custom_html" id="custom_html-1"><div class="textwidget custom-html-widget">
+<div class="sides"><h1><strong>Hey, Thanks for visiting!</strong></h1><h2>If you're looking to make an impact online, we can help.</h2>
+<h2>
+<strong>Do you have a project in mind?</strong>
+</h2>
+<address>Let's Talk!<br/>
+<a href="/cdn-cgi/l/email-protection#adc5c8c1c1c2edc9c8d5d9c8c183cccac8c3ced4"><span class="__cf_email__" data-cfemail="5b333e3737341b3f3e232f3e37753a3c3e353822">[email protected]</span></a>
+<a href="tel:514-343-5550">(514) 343-5550</a>
+</address>
+<address><a href="https://calendly.com/dextelagency/30minstrategy" rel="noopener" target="_blank"><strong>Book a free strategy session!</strong></a></address>
+</div>
+</div></section> </div>
+</div>
+<aside class="left-side">
+<div class="logo"> <img alt="Dextel.Agency" src="https://www.dextel.agency/wp-content/uploads/2021/01/logo_icon2.png"/> </div>
+<ul>
+<li> <a data-text="BEHANCE" href="https://www.behance.net/dextelagency" rel="noreferrer" target="_blank" title="BEHANCE">BEHANCE</a> </li>
+<li> <a data-text="DRIBBBLE" href="https://dribbble.com/dextelagency" rel="noreferrer" target="_blank" title="DRIBBBLE">DRIBBBLE</a> </li>
+<li> <a data-text="LINKEDIN" href="https://ca.linkedin.com/company/dextelagency" rel="noreferrer" target="_blank" title="LINKEDIN">LINKEDIN</a> </li>
+</ul>
+<a class="gotop" href="#top"><img alt="Image" src="https://www.dextel.agency/wp-content/themes/agensy/images/icon-gotop.svg"/></a>
+</aside>
+<nav class="navbar">
+<div class="logo"><a href="https://www.dextel.agency/"><img alt="Dextel.Agency" src="https://www.dextel.agency/wp-content/uploads/2021/01/dextel_logo_200.png"/></a></div>
+<div class="phone">
+<a data-text="(514) 343 5550" href="tel:+15143435550" title="(514) 343 5550">(514) 343 5550</a>
+</div>
+<div class="main-menu">
+<div class="menu-main-menu-container"><ul class="menu-horizontal" id="menu-main-menu-1"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-55 current_page_item active menu-item-2297 nav-item" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a aria-current="page" class="nav-link" data-text="Home" href="https://www.dextel.agency/" title="Home">Home</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61 nav-item" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="What We Do" href="https://www.dextel.agency/agency-what-we-do/" title="What We Do">What We Do</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422 nav-item" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="Ecommerce" href="https://www.dextel.agency/ecommerce-magento-shopify/" title="Ecommerce">Ecommerce</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60 nav-item" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="Work" href="https://www.dextel.agency/work/" title="Work">Work</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59 nav-item" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="Insights" href="https://www.dextel.agency/insights/" title="Insights">Insights</a><i></i></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2140 nav-item" itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement"><a class="nav-link" data-text="Get A Quote" href="https://www.dextel.agency/get-a-quote/" title="Get A Quote">Get A Quote</a><i></i></li>
+</ul></div> </div>
+<div class="hamburger-menu" id="hamburger-menu">
+<div class="burger">
+<svg data-name="Layer 1" id="burger-svg" viewbox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+<title>Show / Hide Navigation</title>
+<rect class="burger-svg__base" height="50" width="50"></rect>
+<g class="burger-svg__bars">
+<rect class="burger-svg__bar burger-svg__bar-1" height="2" width="22" x="14" y="18"></rect>
+<rect class="burger-svg__bar burger-svg__bar-2" height="2" width="22" x="14" y="24"></rect>
+<rect class="burger-svg__bar burger-svg__bar-3" height="2" width="22" x="14" y="30"></rect>
+</g>
+</svg>
+</div>
+</div>
+</nav>
+<header class="page-header">
+<div class="container">
+<div class="row">
+<div class="col-12">
+<h1>Web Solutions<br/>for Growing Your Brand<span class="dot"></span></h1>
+<p>We create strong <u>websites</u>, high-converting <u>landing pages</u>, <u>ecommerce stores</u> and smart, persuasive <u>online strategies</u> that drive results. The outcome? We boost your online sales, generate more leads and help you win more new business. </p>
+</div>
+</div>
+</div>
+</header>
+<main>
+<section class="wpb-content-wrapper"><section class="content-section no-spacing" data-color="light"><div class="vc_row wpb_row vc_row-fluid vc_row-no-padding" data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <header class="slider">
+<div class="swiper-container" data-autoplay-delay="4500" data-loop="disable" data-speed="600">
+<div class="swiper-wrapper">
+<div class="swiper-slide" data-background="https://www.dextel.agency/wp-content/uploads/2020/03/Modanessa.jpg">
+<div class="slide-inner">
+<figure><img alt="Image" src="https://www.dextel.agency/wp-content/uploads/2020/03/Frame-11-2.png"/></figure>
+<h2>New Shopify Ecommerce <br/> store For Modanessa</h2>
+<div class="link">
+<a href="/portfolio/modanessa/" title="VIEW DETAILS">
+VIEW DETAILS </a>
+</div>
+</div>
+</div>
+<div class="swiper-slide" data-background="https://www.dextel.agency/wp-content/uploads/2020/03/dex_slide3_nc.jpg">
+<div class="slide-inner">
+<figure><img alt="Image" src="https://www.dextel.agency/wp-content/uploads/2020/03/home_logo_noamcarver.png"/></figure>
+<h2>Custom website for Noamcarver.com,<br/>creator of unique rings for your special day!</h2>
+<div class="link">
+<a href="/portfolio/noam-carver-jewelry/" title="VIEW DETAILS">
+VIEW DETAILS </a>
+</div>
+</div>
+</div>
+<div class="swiper-slide" data-background="https://www.dextel.agency/wp-content/uploads/2020/03/Swisstime.jpg">
+<div class="slide-inner">
+<figure><img alt="Image" src="https://www.dextel.agency/wp-content/uploads/2020/03/Mask-group.png"/></figure>
+<h2>New Ecommerce Store<br/> for Swiss Time Buyers</h2>
+<div class="link">
+<a href="/portfolio/swiss-time-buyers/" title="SEE DETAILS">
+SEE DETAILS </a>
+</div>
+</div>
+</div>
+<div class="swiper-slide" data-background="https://www.dextel.agency/wp-content/uploads/2020/03/gellis-banner-2.jpg">
+<div class="slide-inner">
+<figure><img alt="Image" src="https://www.dextel.agency/wp-content/uploads/2020/03/logo_gellis.png"/></figure>
+<h2>Branding &amp; Web Design<br/>for Jewelry wholesaler<br/>S.Gellis </h2>
+<div class="link">
+<a href="/portfolio/sgellis-jewellery/" title="SEE DETAILS">
+SEE DETAILS </a>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-pagination"></div>
+<div class="swiper-button-prev"><span></span><b>PREV</b></div>
+<div class="swiper-button-next"><span></span><b>NEXT</b></div>
+</div>
+</header>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></section><section class="content-section no-spacing" data-color="light"><div class="vc_row wpb_row vc_row-fluid vc_row-no-padding" data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md vc_hidden-sm"><div class="vc_column-inner"><div class="wpb_wrapper"> <header class="slider">
+<div class="swiper-container" data-autoplay-delay="2500" data-loop="enable" data-speed="600">
+<div class="swiper-wrapper">
+<div class="swiper-slide" data-background="https://www.dextel.agency/wp-content/uploads/2022/02/Modanessa-1.jpg">
+<div class="slide-inner">
+<figure><img alt="Image" src="https://www.dextel.agency/wp-content/uploads/2020/03/Frame-11-2.png"/></figure>
+<h2>New Shopify Shoes Ecommerce <br/>For Modanessa</h2>
+<div class="link">
+<a href="/portfolio/modanessa/" title="View Case Study">
+View Case Study </a>
+</div>
+</div>
+</div>
+<div class="swiper-slide" data-background="https://www.dextel.agency/wp-content/uploads/2022/02/home-mobileslide-noamcarver.jpg">
+<div class="slide-inner">
+<figure><img alt="Image" src="https://www.dextel.agency/wp-content/uploads/2020/03/home_logo_noamcarver.png"/></figure>
+<h2>Noamcarver.com, <br/>unique rings for your special day!</h2>
+<div class="link">
+<a href="/portfolio/noam-carver-jewelry/" title="View Case Study">
+View Case Study </a>
+</div>
+</div>
+</div>
+<div class="swiper-slide" data-background="https://www.dextel.agency/wp-content/uploads/2022/02/swiss.jpg">
+<div class="slide-inner">
+<figure><img alt="Image" src="https://www.dextel.agency/wp-content/uploads/2020/03/Mask-group.png"/></figure>
+<h2>New Ecommerce Store for <br/> Swiss Time Buyers</h2>
+<div class="link">
+<a href="/portfolio/swiss-time-buyers/" title="SEE DETAILS">
+SEE DETAILS </a>
+</div>
+</div>
+</div>
+<div class="swiper-slide" data-background="https://www.dextel.agency/wp-content/uploads/2022/02/gellis.jpg">
+<div class="slide-inner">
+<figure><img alt="Image" src="https://www.dextel.agency/wp-content/uploads/2020/03/logo_gellis.png"/></figure>
+<h2>Branding &amp; Web Design<br/>for Jewelry wholesaler<br/>S.Gellis </h2>
+<div class="link">
+<a href="/portfolio/sgellis-jewellery/" title="SEE DETAILS">
+SEE DETAILS </a>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-pagination"></div>
+<div class="swiper-button-prev"><span></span><b>PREV</b></div>
+<div class="swiper-button-next"><span></span><b>NEXT</b></div>
+</div>
+</header>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></section><section class="content-section" data-color="light"><div class="container"><div class="vc_row wpb_row vc_row-fluid"><div class="home_text wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1675879670201"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<h2>We're on mission to grow your business!</h2>
+<p>We know the digital landscape, and we can help you create the perfect website, landing page, ecommerce store or online campaign to grow your business and reach your goals.</p>
+<p>We work with every client, big or small, with the same level of dedication, to create strong user experiences that lead to better conversions, higher user engagement, and greater ROI. We strive to make sure that your website is not only visually appealing but also built with your goals in mind.</p>
+<p>No gimmicks, just simple effective results!</p>
+</div>
+<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<p><strong>WHAT WE DO:</strong></p>
+</div>
+<div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid home-content"><div class="wpb_column vc_column_container vc_col-sm-4 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<h3><strong>ECOMMERCE</strong></h3>
+<p><small> </small><br>
+<small>We are passionate about <strong>ecommerce</strong>, and we know how to cost-effectively build and setup the <strong>perfect</strong> online store for your business, tailored to your specific audience, products and needs, and optimized to drive sales and increase conversions, all while keeping costs low.</small></br></p>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<h3><strong>WEB DEVELOPMENT</strong></h3>
+<p><small></small><br>
+<small>Are you looking for a <strong>website</strong> that will outshine your competitors, or a <strong>landing page</strong> designed and built to attract more clients? We specialize in creating beautifully designed, scalable, user-friendly, feature-rich websites and landing pages that are optimized to help you connect with your audience and earn their trust.</small></br></p>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<h3><strong>BRANDING &amp; DESIGN</strong></h3>
+<p><small> </small><br>
+<small>Is your branding up-to-date and making you stand out? We help you identify what resonates with your audience and create the visuals and assets you need to not only get their attention but also to effectively communicate what makes your business unique and special, and why they should buy from <strong>you</strong>!</small></br></p>
+</div>
+</div></div></div></div><div class="vc_empty_space" style="height: 65px"><span class="vc_empty_space_inner"></span></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<h3><strong>ONLINE STRATEGIES</strong></h3>
+<p><small> </small><br>
+<small>We can help you get your website right in front of the people interested in your products or services. We’ll review your goals and put together a <strong>smart, on-budget digital campaign</strong>, honing on the latest online marketing trends to generate buzz for your business.</small></br></p>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<h3><strong>B2B SOLUTIONS</strong></h3>
+<p><small> </small><br>
+<small>We understand B2B. We create custom-made B2B solutions that are designed to meet the unique requirements of your organization, providing you with the digital tools you need to optimize your operations, improve your customer experience and maximize your growth potential. Our digital solutions are carefully crafted to ensure that they are reliable, secure and highly efficient.</small></br></p>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<h3><strong>CUSTOM SOLUTIONS</strong></h3>
+<p><small> </small><br>
+<small>Need a <strong>custom solution</strong>? Our experienced developers can design, code and develop any custom feature or tool you may need. We can also build entire web apps or B2B portals that seamlessly integrate with your operations and optimize productivity.</small></br></p>
+</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<h2>What We Do</h2>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-lg vc_hidden-md"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element">
+<div class="wpb_wrapper">
+<p>Our services are designed to help you grow. We can deliver creative concepts, web pages, design, strategy, effective messaging and more. Our goal is to help you connect your brand with your customers, and help you win their business.</p>
+</div>
+</div>
+<div class="wpb_text_column wpb_content_element">
+<div class="wpb_wrapper">
+<style> .whatwedo{padding:0;} li{padding-bottom:10px; font-size:20px; list-style: none;}</style>
+<ul class="whatwedo">
+<li>⟶ WEB DESIGN</li>
+<li>⟶ ECOMMERCE</li>
+<li>⟶ B2B SOLUTIONS</li>
+<li>⟶ BRANDING &amp; DESIGN</li>
+<li>⟶ DIGITAL STRATEGY</li>
+<li>⟶ LEAD GENERATION</li>
+<li>⟶ CONTENT WRITING</li>
+<li>⟶ WEBSITE MAINTENANCE</li>
+</ul>
+</div>
+</div>
+</div></div></div></div>
+<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+<div class="wpb_wrapper">
+<div class="custom-btn"><a href="/?page_id=41">LET'S TALK<span></span> <i></i></a></div>
+</div>
+</div>
+</div></div></div></div></div></section><section class="content-section" data-color="light"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+<ul class="works">
+<li>
+<div class="wow fadeInUp">
+<h2>SOME RECENT WORK</h2>
+</div>
+</li>
+<li>
+<div class="project-box">
+<figure class="project-image reveal-effect masker wow">
+<a data-text="Provoke Agency" href="https://www.dextel.agency/portfolio/provoke-agency/" title="Provoke Agency">
+<img alt="Provoke Agency" src="https://www.dextel.agency/wp-content/uploads/2023/07/Frame-8.jpg"/>
+</a>
+</figure>
+<div class="project-content">
+<h3><a data-text="Provoke Agency" href="https://www.dextel.agency/portfolio/provoke-agency/" title="Provoke Agency">
+Provoke Agency </a></h3>
+<small>Digital Strategy, Web Design, Web Development, Wordpress</small>
+</div>
+</div>
+</li>
+<li>
+<div class="project-box">
+<figure class="project-image reveal-effect masker wow">
+<a data-text="Modanessa" href="https://www.dextel.agency/portfolio/modanessa/" title="Modanessa">
+<img alt="Modanessa" src="https://www.dextel.agency/wp-content/uploads/2023/07/cover.jpg"/>
+</a>
+</figure>
+<div class="project-content">
+<h3><a data-text="Modanessa" href="https://www.dextel.agency/portfolio/modanessa/" title="Modanessa">
+Modanessa </a></h3>
+<small>eCommerce, Shopify, Web Design</small>
+</div>
+</div>
+</li>
+<li>
+<div class="project-box">
+<figure class="project-image reveal-effect masker wow">
+<a data-text="Swiss Time Buyers" href="https://www.dextel.agency/portfolio/swiss-time-buyers/" title="Swiss Time Buyers">
+<img alt="Swiss Time Buyers" src="https://www.dextel.agency/wp-content/uploads/2023/04/swiss-time-buyers.png"/>
+</a>
+</figure>
+<div class="project-content">
+<h3><a data-text="Swiss Time Buyers" href="https://www.dextel.agency/portfolio/swiss-time-buyers/" title="Swiss Time Buyers">
+Swiss Time Buyers </a></h3>
+<small>B2B, eCommerce, Magento, Web Design</small>
+</div>
+</div>
+</li>
+</ul>
+</div></div></div></div></section><section class="content-section no-spacing" data-color="light"><div class="container"><div class="vc_row wpb_row vc_row-fluid vc_custom_1676056220597"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md vc_hidden-sm"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+<div class="wpb_wrapper">
+<div class="custom-btn"><a href="/?page_id=2135">GET A QUOTE<span></span> <i></i></a></div>
+</div>
+</div>
+</div></div></div></div></div></section><section class="content-section" data-color="light"><div class="container"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element">
+<div class="wpb_wrapper">
+<style> .success {font-size: 3vw; font-weight: 800; margin-right:50px;}</style>
+<style media="(max-width: 767px)"> .success {font-size: 7vw; font-weight: 800; margin-right:0;} </style>
+<h2 class="success">Clients we have worked with all saw an <span style="color: #9e005d;">increase</span> in visibility, engagement and sales!</h2>
+</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="Crownring.com" class="vc_single_image-img attachment-full" decoding="async" height="110" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_crownring.png" title="Clients CrownRing" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="" class="vc_single_image-img attachment-full" decoding="async" height="110" src="https://www.dextel.agency/wp-content/uploads/2022/09/client_swisstime.jpg" title="client_swisstime" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="MomsBeyond.com" class="vc_single_image-img attachment-full" decoding="async" height="110" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_momsbeyond.png" title="clients momsbeyond.com" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2022/09/client_embix.jpg" title="client_embix" width="227"/></div>
+</figure>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3 vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="Lease Sniper" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_leasesniper.png" title="clients_leasesniper" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="NoamCarver.com" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_noamcarver.png" title="clients noamcarver" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="Oli and Gaby" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_oliandgaby.png" title="clients oliandgaby.com" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2022/09/client_decarie.jpg" title="client_decarie" width="227"/></div>
+</figure>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md vc_hidden-sm"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element">
+<div class="wpb_wrapper">
+<style> .success {font-size: 3vw; font-weight: 800; margin-right:50px;}</style>
+<style media="(max-width: 767px)"> .success {font-size: 7vw; font-weight: 800; margin-right:0;} </style>
+<h2 class="success">Clients we have worked with all saw an <span style="color: #9e005d;">increase</span> in traffic, in conversions and growth!</h2>
+</div>
+</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-lg vc_hidden-md vc_hidden-sm vc_col-xs-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="Crownring.com" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_crownring.png" title="Clients CrownRing" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2022/09/client_swisstime.jpg" title="client_swisstime" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="MomsBeyond.com" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_momsbeyond.png" title="clients momsbeyond.com" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2022/09/client_embix.jpg" title="client_embix" width="227"/></div>
+</figure>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-lg vc_hidden-md vc_hidden-sm vc_col-xs-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="Lease Sniper" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_leasesniper.png" title="clients_leasesniper" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="NoamCarver.com" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_noamcarver.png" title="clients noamcarver" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="Oli and Gaby" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2021/01/clients_oliandgaby.png" title="clients oliandgaby.com" width="227"/></div>
+</figure>
+</div>
+<div class="wpb_single_image wpb_content_element vc_align_left">
+<figure class="wpb_wrapper vc_figure">
+<div class="vc_single_image-wrapper vc_box_border_grey"><img alt="" class="vc_single_image-img attachment-full" decoding="async" height="110" loading="lazy" src="https://www.dextel.agency/wp-content/uploads/2022/09/client_decarie.jpg" title="client_decarie" width="227"/></div>
+</figure>
+</div>
+</div></div></div></div></div></div></div></div></div></section><section class="content-section" data-color="light"><div class="container"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"> <div class="text-content wow fadeInUp">
+<p>We look forward to helping your business grow online and thrive!</p>
+</div>
+</div></div></div></div></div></section>
+</section>
 </main>
-</div>
-<div class="footer mt-auto">
-<footer>
-<div class="w-100 footer-padding bg-light">
-<div class="container container-1280">
-<div class="footer-nav w-100">
+<footer class="footer">
+<div class="container">
 <div class="row">
-<div class="col logo-social d-flex flex-column">
-<span class="navbar-brand d-flex flex-column mb-auto">
-<img alt="Guestreservations - Logo" src="/assets/237ed65f/images/logo-dark-tm.svg" title="Guestreservations - Logo"/>
-<small> An independent travel network</small>
-</span>
-<div class="social-networks">
-<a href="https://www.facebook.com/guestreservations" target="_blank" title="GuestReservations on Facebook">
-<img alt="GuestReservations on Facebook" src="/assets/237ed65f/images/social-networks/facebook.svg" title="GuestReservations on Facebook"/>
-</a>
-<a href="https://twitter.com/guest_res" target="_blank" title="GuestReservations on Twitter">
-<img alt="GuestReservations on Twitter" src="/assets/237ed65f/images/social-networks/twitter.svg" title="GuestReservations on Twitter"/>
-</a>
-<a href="https://www.instagram.com/guestreservations/" target="_blank" title="GuestReservations on Instagram">
-<img alt="GuestReservations on Instagram" src="/assets/237ed65f/images/social-networks/instagram.svg" title="GuestReservations on Instagram"/>
-</a>
-<a href="https://www.pinterest.com/guestreservations/" target="_blank" title="GuestReservations on Pinterest">
-<img alt="GuestReservations on Pinterest" src="/assets/237ed65f/images/social-networks/pinterest.svg" title="GuestReservations on Pinterest"/>
-</a>
-<a href="https://www.youtube.com/@GuestReservations" target="_blank" title="GuestReservations on YouTube">
-<img alt="GuestReservations on YouTube" src="/assets/237ed65f/images/social-networks/you-tube.svg" title="GuestReservations on YouTube"/>
-</a>
-</div>
-</div>
-<div class="col nav-footer d-flex">
-<div class="styles">
-<h5>Learn More</h5>
-<ul class="list-unstyled">
-<li><a href="https://www.guestreservations.com/about/page" title="About Us">About Us</a></li>
-<li><a href="https://www.guestreservations.com/about/faq" title="FAQs">FAQs</a></li>
-<li><a href="https://www.guestreservations.com/about/news" title="News">News</a></li>
-<li><a href="https://www.guestreservations.com/about/reviews" title="Customer Reviews">Customer
-                                    Reviews</a></li>
-<li><a href="https://www.guestreservations.com/about/termsofuse" title="Terms of Service">Terms of
-                                    Service</a></li>
-<li><a href="https://www.guestreservations.com/about/privacy" title="Privacy Policy">Privacy Policy</a></li>
-<li><a class="no-affiliation-popup-link" href="#" title="Hotel Non-Affiliation">Hotel
-                                    Non-Affiliation</a></li>
-</ul>
-</div>
-<div class="styles">
-<h5>Get in Touch</h5>
-<ul class="list-unstyled">
-<li><a href="https://www.guestreservations.com/about/contact" title="Contact Us">Contact Us</a>
-</li>
-<li><a href="https://www.guestreservations.com/about/mybooking" title="My Booking">My Booking</a>
-</li>
-<li><a href="https://groups.guestreservations.com/Group-Rate/" title="Group Rates">Group Rates</a></li>
-<li><a href="https://groups.guestreservations.com/Group-Rate/?GroupType=150&amp;sc=GRes_Weddings" title="Weddings">Weddings</a></li>
-<li><a href="https://groups.guestreservations.com/Group-Rate/?es=1" title="Extended Stay">Extended Stay</a></li>
-</ul>
+<div class="col-12">
+<div class="career wow fadeInUp">
+<h6>LET’S WORK TOGETHER</h6>
+<h2>Do you have a project in mind?</h2>
+<p>We’d love to hear about it.</p>
+<div class="custom-link wow fadeInUp">
+<a class="custom-btn" href="/?page_id=2135" title="GET A QUOTE">
+GET A QUOTE </a>
+<span></span> <i></i>
 </div>
 </div>
 </div>
-</div>
-<div aria-labelledby="myModalLabel" class="modal fade modal-admin" id="show-no-affiliation" tabindex="-1">
-<div class="modal-dialog modal-log" role="document">
-<div class="modal-content">
-<div class="modal-header text-center">
-<button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span></button>
-<h4 class="modal-title trademark-name" id="myModalLabel">Guest Reservations<sup>TM</sup><br/>
-                    Hotel Non-Affiliation – Proudly Independent Network</h4>
-</div>
-<div class="modal-body" id="modal-body">
-<div class="panel panel-default">
-                    We are an independent travel network for over 100,000 hotels worldwide. We are not owned or
-                    sponsored by any particular hotel, and the trademarks of all hotels in our network are owned
-                    by the respective hotels or licensors. We only use hotel trademarks or information to the
-                    extent necessary to assist our customers to book rooms in the travel destination of their
-                    choice.
-                </div>
-<div class="panel panel-default">
-<div class="panel-heading">
-<b class="trademark-name">Guest Reservations<sup>TM</sup></b> Connects Travelers to Relevant
-                        Deals:
-                    </div>
-<div class="panel-body no-padding">
-<span class="row">
-<p class="icons icon-case">We are focused on connecting travelers to the most relevant deals.</p>
-</span>
-<span class="row">
-<p class="icons icon-bed">As an independent travel network and online travel agent (OTA), we can offer rooms
-                                through hotel room suppliers and through global distribution systems where hotels
-                                place their inventory for sale.</p>
-</span>
-<span class="row">
-<p class="icons icon-sale">This allows us, as an independent travel network, to get you the same deals you
-                                expect with larger travel agencies.</p>
-</span>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="copyrighted-slogan w-100">
-<div class="row">
-<div class="col-md-auto copyrighted">
-<p>Copyright 2023 <b class="trademark-name">Guest Reservations<sup>TM</sup></b>.</p>
-</div>
-<div class="col slogan">
-<p> <span class="trademark-name"> <b class="trademark-name">Guest Reservations<sup>TM</sup></b> is an independent
-                           travel network <br class="for-mobile for-tablet"/> offering over 100,000 hotels worldwide.</span></p>
-</div>
+<div class="col-lg-5 wow fadeInUp">
+<div class="widget_text widget footer-widget"><div class="textwidget custom-html-widget"><div class="logo">
+<img alt="Dextel Agency | Web Design, Ecommerce, Strategy" src="/wp-content/uploads/2021/01/dextel_logo_200.png" srcset="/wp-content/uploads/2021/01/dextel_logo_200.png"/>
+</div></div></div> </div>
+<div class="col-lg-4 col-md-6 wow fadeInUp">
+<div class="widget footer-widget"><h2 class="widget-title">Find out about</h2><div class="menu-dextel-footer-menu-container"><ul class="menu" id="menu-dextel-footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1046" id="menu-item-1046"><a href="https://www.dextel.agency/agency-what-we-do/">What We Do</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1044" id="menu-item-1044"><a href="https://www.dextel.agency/ecommerce-magento-shopify/">Ecommerce</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1045" id="menu-item-1045"><a href="https://www.dextel.agency/work/">Work</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1047" id="menu-item-1047"><a href="https://www.dextel.agency/insights/">Insights</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3404" id="menu-item-3404"><a href="https://www.dextel.agency/testimonials/">Testimonials</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2141" id="menu-item-2141"><a href="https://www.dextel.agency/get-a-quote/">Get A Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1050" id="menu-item-1050"><a href="https://www.dextel.agency/contact/">Contact Us</a></li>
+</ul></div></div> </div>
+<div class="col-lg-3 col-md-6 wow fadeInUp">
+<div class="widget_text widget footer-widget"><h2 class="widget-title">Say Hello!</h2><div class="textwidget custom-html-widget"><address>
+<a class="__cf_email__" data-cfemail="69010c050506290d0c111d0c0547080e0c070a10" href="/cdn-cgi/l/email-protection">[email protected]</a><br/>
+(514) 343.5550
+</address></div></div> </div>
+<div class="col-12 wow fadeInUp">
+<div class="sub-footer">
+<span>© Dextel.Agency - All rights reserved.</span>
 </div>
 </div>
 </div>
 </div>
 </footer>
-</div>
-<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCGyzSMOtzEO7yuVY1c_XrQqOxKdZ6NZTU&amp;libraries=places&amp;callback=initAutocomplete&amp;language=en"></script> <!-- Google Tag Manager (noscript) -->
-<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NPMZ2WN" style="display:none;visibility:hidden" width="0"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-<!-- Bing -->
-<script>
-            (function(w, d, t, r, u) {
-                var f, n, i;
-                w[u] = w[u] || [], f = function() {
-                    var o = {
-                        ti: "5267870"
-                    };
-                    o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad")
-                }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function() {
-                    var s = this.readyState;
-                    s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null)
-                }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i)
-            })(window, document, "script", "//bat.bing.com/bat.js", "uetq");
-        </script><noscript><img height="0" src="//bat.bing.com/action/0?ti=5267870&amp;Ver=2" style="display:none; visibility: hidden;" width="0"/></noscript>
-<iframe class="search-loading" src="/site/searchloading" style="display: none"></iframe>
-<div id="mobile-indicator"></div>
-<!-- serverHost: web02 -->
-<script>(function(){var js = "window['__CF$cv$params']={r:'7f6f0cc64f7a3da4',t:'MTY5MjA3NzQ3MS45OTUwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
-</html>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script id="wpb-modifications" type="text/html"> window.wpbCustomElement = 1; </script><script id="swv-js" src="https://www.dextel.agency/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7"></script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"api":{"root":"https:\/\/www.dextel.agency\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+</script>
+<script id="contact-form-7-js" src="https://www.dextel.agency/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7"></script>
+<script id="qppr_frontend_scripts-js-extra">
+var qpprFrontData = {"linkData":{"\/portfolio.php":[1,0,""],"\/team.php":[1,0,""],"\/ecommerce.php":[1,0,""],"\/contact_us.php":[1,0,""],"\/web-development.php":[1,0,""],"\/index.php":[1,0,""],"\/marketing.php":[1,0,""]},"siteURL":"https:\/\/www.dextel.agency","siteURLq":"https:\/\/www.dextel.agency"};
+</script>
+<script id="qppr_frontend_scripts-js" src="https://www.dextel.agency/wp-content/plugins/quick-pagepost-redirect-plugin/js/qppr_frontend_script.min.js?ver=5.2.3"></script>
+<script id="bootstrap-js" src="https://www.dextel.agency/wp-content/themes/agensy/js/bootstrap.min.js?ver=6.3"></script>
+<script id="agensy-bundle-js" src="https://www.dextel.agency/wp-content/themes/agensy/js/bundle.js?ver=6.3"></script>
+<script id="agensy-scripts-js-extra">
+var data = {"pre_loader_typewriter":[],"audio_source":"","enable_sound_bar":""};
+</script>
+<script id="agensy-scripts-js" src="https://www.dextel.agency/wp-content/themes/agensy/js/scripts.js?ver=6.3"></script>
+<script id="google-recaptcha-js" src="https://www.google.com/recaptcha/api.js?render=6LeSzCIgAAAAAFeqiIXNlhtNLt-n1guhAwi94BfB&amp;ver=3.0"></script>
+<script id="wp-polyfill-inert-js" src="https://www.dextel.agency/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2"></script>
+<script id="regenerator-runtime-js" src="https://www.dextel.agency/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11"></script>
+<script id="wp-polyfill-js" src="https://www.dextel.agency/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0"></script>
+<script id="wpcf7-recaptcha-js-extra">
+var wpcf7_recaptcha = {"sitekey":"6LeSzCIgAAAAAFeqiIXNlhtNLt-n1guhAwi94BfB","actions":{"homepage":"homepage","contactform":"contactform"}};
+</script>
+<script id="wpcf7-recaptcha-js" src="https://www.dextel.agency/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.7.7"></script>
+<script id="wpb_composer_front_js-js" src="https://www.dextel.agency/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.13.0"></script>
+<script id="slb_context" type="text/javascript">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
+</body></html>

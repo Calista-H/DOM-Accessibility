@@ -1,723 +1,530 @@
 <!DOCTYPE html>
 
-<html class="no-js" dir="ltr" lang="en" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<html class="no-js" lang="en-US">
 <head>
-<title>National Institutes of Health (NIH) | Turning Discovery Into Health</title>
 <meta charset="utf-8"/>
-<meta content="A30D8FD8CE2A8061A23665890CF14BE9" name="msvalidate.01"/>
-<meta content="lyomW7vae6PDUB2gi1ABrwpXody5512P3bxHXNfpwUE" name="google-site-verification"/>
-<link href="https://www.nih.gov/rss.xml" rel="alternate" title="National Institutes of Health (NIH) RSS" type="application/rss+xml"/>
-<script type="text/javascript">
-//<![CDATA[
-      var usasearch_config = { siteHandle:"nih" };
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<title>Blue Smoke | NYC 'Cue from Union Square Hospitality Group</title>
+<!-- Powered by BentoBox http://getbento.com -->
+<!--
+	___ ___ _  _ _____ ___  ___  _____  __
+	| _ ) __| \| |_   _/ _ \| _ )/ _ \ \/ /
+	| _ \ _|| .` | | || (_) | _ \ (_) >  <
+	|___/___|_|\_| |_| \___/|___/\___/_/\_\
 
-      var script = document.createElement("script");
-      script.type = "text/javascript";
-      script.src = "//search.usa.gov/javascripts/remote.loader.js";
-      document.getElementsByTagName("head")[0].appendChild(script);
-
-//]]>
-</script><link href="https://www.nih.gov/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
-<meta content="rjIoO4vW0AYgltSYvxM1L_CzGIkq28kHf9gHIASKx8s" name="google-site-verification"/>
-<script id="_fed_an_ua_tag" language="javascript" src="/sites/all/libraries/DAP/Universal-Federated-Analytics-Min.1.0.js?agency=HHS&amp;subagency=NIH&amp;pua=UA-22075261-1&amp;sp=find&amp;yt=true&amp;exts=doc,docx,xls,xlsx,xlsm,ppt,pptx,exe,zip,pdf,js,txt,csv,dxf,wmv,jpg,wma,mov,avi,mp3,mp4,csv"></script><link href="http://www.w3.org/1999/xhtml/vocab" rel="profile"/>
-<meta content="on" http-equiv="cleartype"/>
-<link href="https://www.nih.gov/sites/all/themes/nih/apple-touch-icon.png" rel="apple-touch-icon"/>
-<meta content="Official website of the National Institutes of Health (NIH). NIH is one of the world's foremost medical research centers. An agency of the U.S. Department of Health and Human Services, the NIH is the Federal focal point for health and medical research. The NIH website offers health information for the public, scientists, researchers, medical professionals, patients, educators," name="description"/>
-<meta content="NIH, Health, research funding, medical research, medical information, grants, biomedical, disease prevention, biological science, clinical trials" name="keywords"/>
-<meta content="follow, index" name="robots"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<meta content="Drupal 7 (http://drupal.org)" name="generator"/>
-<link href="https://www.nih.gov/" rel="canonical"/>
-<link href="https://www.nih.gov/" rel="shortlink"/>
-<meta content="EN" http-equiv="content-language"/>
-<meta content="National Institutes of Health (NIH)" property="og:site_name"/>
+	-->
+<meta content="Blue Smoke, barbecue, BBQ, brisket, pulled pork, Alabama white sauce, best barbecue New York, menu, Flatiron barbecue, Battery Park City barbecue, dinner, lunch, brunch, kid-friendly restaurant, allergy-friendly, American food, soul food, Danny Meyer, Union Square Hospitality Group, bourbon, whiskey, cocktails, craft beer, New York, Delivery, Nationwide Shipping" name="keywords"/>
+<meta content="Blue Smoke has been serving up NYC 'Cue for 20+ years. Check out our joint in Battery Park City, or explore our catering and delivery menus." name="description"/>
+<link href="https://media-cdn.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/87097blue_Smoke_favicon.png" rel="icon"/>
+<link href="https://www.bluesmoke.com/" rel="canonical"/>
+<meta content="5 Days" name="Revisit-After"/>
+<meta content="Global" name="Distribution"/>
+<meta content="General" name="Rating"/>
+<meta content="Blue Smoke" property="og:site_name"/>
+<meta content="Blue Smoke | NYC 'Cue from Union Square Hospitality Group" property="og:title"/>
 <meta content="website" property="og:type"/>
-<meta content="https://www.nih.gov/" property="og:url"/>
-<meta content="National Institutes of Health (NIH)" property="og:title"/>
-<meta content="Official website of the National Institutes of Health (NIH). NIH is one of the world's foremost medical research centers. An agency of the U.S. Department of Health and Human Services, the NIH is the Federal focal point for health and medical research. The NIH website offers health information for the public, scientists, researchers, medical professionals, patients, educators, and students. The Site has extensive information on funding and training opportunities, clinical trials, health news and links to the many Institutes and Centers that make-up the NIH." property="og:description"/>
+<meta content="https://bluesmoke.getbento.com/" property="og:url"/>
+<meta content="Blue Smoke has been serving up NYC 'Cue for 20+ years. Check out our joint in Battery Park City, or explore our catering and delivery menus." property="og:description"/>
+<meta content="https://images.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/27470FinalLogo.png?w=1200&amp;fit=fill&amp;auto=compress,format&amp;h=600&amp;bg=EDEDF1&amp;pad=100" property="og:image"/>
 <meta content="summary" name="twitter:card"/>
-<meta content="https://www.nih.gov/" name="twitter:url"/>
-<meta content="National Institutes of Health (NIH)" name="twitter:title"/>
-<meta content="Official website of the National Institutes of Health (NIH). NIH is one of the world's foremost medical research centers. An agency of the U.S. Department of Health and Human Services, the NIH is the" name="twitter:description"/>
-<meta content="NIH" name="owner"/>
-<link href="https://www.nih.gov/sites/default/files/css/css_PfvPCWanzn7FjDwZqwAHhPoOxYKwkQP-RZSK1pFFG0s.css" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://www.nih.gov/sites/default/files/css/css__mIWP9gcStq74isjZVoAAsiih8VXwJoN75Nyw_BXrj0.css" media="screen" rel="stylesheet" type="text/css"/>
-<style media="print">#sb-container{position:relative;}#sb-overlay{display:none;}#sb-wrapper{position:relative;top:0;left:0;}#sb-loading{display:none;}
-</style>
-<link href="https://www.nih.gov/sites/default/files/css/css_jENQOQqZCRFGZK__DTefxYiXR2RUf03k1ugj3_Vg7vk.css" media="all" rel="stylesheet" type="text/css"/>
-<link href="//cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.css" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://www.nih.gov/sites/default/files/css/css_3yt-b0M1HNJsvKsXwYjh5TEtX2lJGAvJvtmVAfORYZs.css" media="all" rel="stylesheet" type="text/css"/>
-<link href="//fonts.googleapis.com/css?family=Droid+Sans:700,regular|Droid+Serif:italic,regular&amp;subset=latin" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://www.nih.gov/sites/default/files/css/css_oTdMQ9QWtIt933yCG_bKROjEPaHnpw9Ef0Rw7TKOWrs.css" media="all" rel="stylesheet" type="text/css"/>
-<link href="https://www.nih.gov/sites/default/files/css/css_5rDMv37-JxnNA70cRr_1jlAjVs56DCb8EN4XB2QLl0c.css" media="all" rel="stylesheet" type="text/css"/>
-<!--[if lte IE 8]>
-<link type="text/css" rel="stylesheet" href="https://www.nih.gov/sites/default/files/css/css_aLJB_yHt22A_mQek4IRDNsur5tEkCpqLe72j_w6QHQ0.css" media="all" />
-<![endif]-->
-<link href="https://www.nih.gov/sites/default/files/css/css_KviiBystpJcQq4MplcQZvCFxnu9V763f5bPq_AKh4xM.css" media="all" rel="stylesheet" type="text/css"/>
-<script src="https://www.nih.gov/sites/default/files/js/js_mQAv54bz2JVXcwS5QWlz0fVY9Os67zeu9bgNqtlVLPY.js"></script>
-<script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
-<script>window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/2.2/jquery.min.js'>\x3C/script>")</script>
-<script>jQuery.migrateMute=true;jQuery.migrateTrace=false;</script>
-<script src="//code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
-<script>window.jQuery && window.jQuery.migrateWarnings || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery-migrate/1.4.1/jquery-migrate.min.js'>\x3C/script>")</script>
-<script src="https://www.nih.gov/sites/default/files/js/js_9sGTPBGcOGZjLiSLGrYEnuUf8VdvLmL_DEZNNNbnHXk.js"></script>
-<script src="https://www.nih.gov/sites/default/files/js/js_hNnF7a_sbk6nZ2-mOamHzalYND7HBHDLRInsaU93HDk.js"></script>
-<script src="https://www.nih.gov/sites/default/files/js/js_gHk2gWJ_Qw_jU2qRiUmSl7d8oly1Cx7lQFrqcp3RXcI.js"></script>
-<script>document.createElement( "picture" );</script>
-<script src="//cdn.jsdelivr.net/qtip2/3.0.3/jquery.qtip.min.js"></script>
-<script defer="defer" src="//script.crazyegg.com/pages/scripts/0011/2616.js"></script>
-<script src="https://www.nih.gov/sites/default/files/js/js_JptcGXptsGRtUVJYOZbmqgxxhpYiOUb-ZoxREPRTjPM.js"></script>
-<script>
-          Shadowbox.path = "/sites/all/libraries/shadowbox/";
-        </script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"instances":"{\u0022default\u0022:{\u0022content\u0022:{\u0022text\u0022:\u0022\u0022},\u0022style\u0022:{\u0022tip\u0022:false,\u0022classes\u0022:\u0022\u0022},\u0022position\u0022:{\u0022at\u0022:\u0022bottom right\u0022,\u0022adjust\u0022:{\u0022method\u0022:\u0022\u0022},\u0022my\u0022:\u0022top left\u0022,\u0022viewport\u0022:false},\u0022show\u0022:{\u0022event\u0022:\u0022mouseenter \u0022},\u0022hide\u0022:{\u0022event\u0022:\u0022mouseleave \u0022}}}","qtipDebug":"{\u0022leaveElement\u0022:0}","shadowbox":{"animate":true,"animateFade":true,"animSequence":"wh","auto_enable_all_images":1,"auto_gallery":1,"autoplayMovies":true,"continuous":false,"counterLimit":10,"counterType":"default","displayCounter":true,"displayNav":true,"enableKeys":true,"fadeDuration":0.34999999999999998,"handleOversize":"resize","handleUnsupported":"link","initialHeight":160,"initialWidth":320,"language":"en","modal":false,"overlayColor":"#000","overlayOpacity":0.80000000000000004,"resizeDuration":0.55000000000000004,"showMovieControls":true,"slideshowDelay":0,"viewportPadding":20,"useSizzle":false},"picture":{"mappings":[["Sidebar media mappings","sidebar_media_mappings"],["Floated media mappings","floated_media_mappings"],["Not Set","not_set"]],"label":"Image size (required)"},"flexslider":{"optionsets":{"nih_slides_preset":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":500,"initDelay":0,"useCSS":false,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":5,"maxItems":5,"move":0,"animation":"slide","slideshow":true,"slideshowSpeed":"6000","directionNav":true,"controlNav":true,"prevText":"Previous","nextText":"Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":false,"pauseOnAction":true,"pauseOnHover":true,"manualControls":"","colorboxEnabled":false,"colorboxImageStyle":"featured_media_mappings","colorboxFallbackImageStyle":""}},"instances":{"flexslider-1":"nih_slides_preset"}},"field_group":{"html-element":"itn_block"},"extlink":{"extTarget":"_blank","extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":0,"extSubdomains":1,"extExclude":"(.\\.nih\\.gov.)|(.\\.cancer\\.gov.)|(.\\.genome\\.gov.)|(.\\.drugabuse\\.gov.)|(locatorplus\\.gov.)|(.\\.govdelivery\\.com.)|(.\\.hatchbuck\\.com.)|(nihseniorhealth\\.gov.)|(clinicaltrials\\.gov.)|(search\\.usa\\.gov\\\/search\\?affiliate\\=hip.)|(search\\.gov\\\/search\\?affiliate\\=hip.)|(drugabuse\\.gov.)|(medlineplus\\.gov.)|(collegedrinkingprevention\\.gov.)|(smokefree\\.gov.)|(arpa-h\\.gov.)","extInclude":"(.\\.pagefreezer\\.com.)","extCssExclude":".media, .emergency-message, .slideshow-main, .bean-home-slideshow-2l-block","extCssExplicit":"","extAlert":"_blank","extAlertText":"You are leaving the NIH website.\r\n\r\nThis external link provides additional information that is consistent with the intended purpose of this site. NIH cannot attest to the accuracy of a non-federal site.\r\n\r\nLinking to a non-federal site does not constitute an endorsement by NIH or any of its employees of the sponsors or the information and products presented on the site. You will be subject to the destination site\u2019s privacy policy when you follow the link.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)","extUseFontAwesome":0}});</script>
+<meta content="Blue Smoke | NYC 'Cue from Union Square Hospitality Group" name="twitter:title"/>
+<meta content="Blue Smoke has been serving up NYC 'Cue for 20+ years. Check out our joint in Battery Park City, or explore our catering and delivery menus." name="twitter:description"/>
+<meta content="@BlueSmokeNYC" name="twitter:site"/>
+<meta content="@BlueSmokeNYC" name="twitter:creator"/>
+<meta content="https://images.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/27470FinalLogo.png?w=1200&amp;fit=fill&amp;auto=compress,format&amp;h=600&amp;bg=EDEDF1&amp;pad=100" name="twitter:image"/>
+<script src="https://theme-assets.getbento.com/sensei/83a3e5e.sensei/assets/js/head.min.js" type="text/javascript"></script>
 <script type="text/javascript">
-    // ForeSee Production Embed Script v2.01
-    // DO NOT MODIFY BELOW THIS LINE *****************************************
-    ;(function (g) {
-      var d = document, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0], fsr = 'fsReady',
-      aex = {
-        "src": "//gateway.foresee.com/sites/nih-gov/production/gateway.min.js",
-        "type": "text/javascript",
-        "async": "true",
-        "data-vendor": "fs",
-        "data-role": "gateway"
-      };
-      for (var attr in aex) { am.setAttribute(attr, aex[attr]); } h.appendChild(am); g[fsr] || (g[fsr] = function () { var aT = '__' + fsr + '_stk__'; g[aT] = g[aT] || []; g[aT].push(arguments); });
-    })(window);
-    // DO NOT MODIFY ABOVE THIS LINE *****************************************
+			WebFont.load({custom: { families: ["TradeGothicBoldCond", "TradeGothic"] }});
+		</script>
+<link href="//assets-cdn-refresh.getbento.com/stylesheet/bluesmoke-redesign/1/scss/main.0bf072571d65f00441f9d10739403494.scss" rel="stylesheet">
+<script type="text/javascript">
+	    Modernizr.addTest("maybemobile", function(){ return (Modernizr.touchevents && Modernizr.mq("only screen and (max-width: 768px)")) ? true : false; });
+	</script>
+<script>
+	  !function(f,b,e,v,n,t,s)
+	  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	  n.queue=[];t=b.createElement(e);t.async=!0;
+	  t.src=v;s=b.getElementsByTagName(e)[0];
+	  s.parentNode.insertBefore(t,s)}(window, document,'script',
+	  'https://connect.facebook.net/en_US/fbevents.js');
+	  fbq('init', '276907072927542');
+	  fbq('track', 'PageView');
+	</script>
+<noscript>
+<img height="1" src="https://www.facebook.com/tr?id=276907072927542&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PGCCJ6T');
+	</script>
+<script>!function(){var t=function(){var t=document.createElement("script");t.src="https://ws.audioeye.com/ae.js",t.type="text/javascript",t.setAttribute("async",""),document.getElementsByTagName("body")[0].appendChild(t)};"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",t):window.attachEvent&&window.attachEvent("onload",t):t()}();</script>
+<script type="text/javascript">
+			window.Sensei = { settings: { store: { enabled: false, cart_quantity: null }, gmaps: { apikey: "AIzaSyCxtTPdJqQMOwjsbKBO3adqPGzBR1MgC5g", styles: [ { "featureType": "all", "elementType": "labels.text.fill", "stylers": [{ "color": "#333333" }, { "lightness": 40 } ] }, { "featureType": "all", "elementType": "labels.text.stroke", "stylers": [ { "visibility": "on" }, { "color": "#ffffff" }, { "lightness": 16 } ] }, { "featureType": "all", "elementType": "labels.icon", "stylers": [ { "visibility": "off" } ] }, { "featureType": "administrative", "elementType": "geometry.fill", "stylers": [ { "color": "#fefefe" }, { "lightness": 20 } ] }, { "featureType": "administrative", "elementType": "geometry.stroke", "stylers": [ { "color": "#fefefe" }, { "lightness": 17 }, { "weight": 1.2 } ] }, { "featureType": "landscape", "elementType": "geometry", "stylers": [ { "color": "#f5f5f5" }, { "lightness": "64" } ] }, { "featureType": "poi", "elementType": "geometry", "stylers": [ { "color": "#f5f5f5" }, { "lightness": "-36" } ] }, { "featureType": "poi.park", "elementType": "geometry", "stylers": [ { "color": "#dedede" }, { "lightness": "-33" } ] }, { "featureType": "road.highway", "elementType": "geometry.fill", "stylers": [ { "color": "#ffffff" }, { "lightness": "-15" } ] }, { "featureType": "road.highway", "elementType": "geometry.stroke", "stylers": [ { "color": "#ffffff" }, { "lightness": 29 }, { "weight": 0.2 } ] }, { "featureType": "road.arterial", "elementType": "geometry", "stylers": [ { "color": "#ffffff" }, { "lightness": "-15" } ] }, { "featureType": "road.local", "elementType": "geometry", "stylers": [ { "color": "#ffffff" }, { "lightness": "-15" } ] }, { "featureType": "transit", "elementType": "geometry", "stylers": [ { "color": "#f2f2f2" }, { "lightness": "-15" } ] }, { "featureType": "water", "elementType": "geometry", "stylers": [ { "color": "#e9e9e9" }, { "lightness": "-56" } ] } ], icon: "https://images.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/68823mapmarker_revised.png", mobile_icon: "https%3A//images.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/68823mapmarker_revised.png%3Fw%3D50%26fit%3Dmax%26auto%3Dcompress%2Cformat" }, galleries: { autoplay: false, fade: true }, heros: { autoplay_galleries: true }, srcset_enabled: false }, modernizr: window.Modernizr }; window.Sensei.settings.galleries.dots = true; </script> <!-- Facebook Pixel Code --> <script> !function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '1774517649433672'); fbq('track', 'PageView'); </script> <noscript><img height="1" src="https://www.facebook.com/tr?id=1774517649433672&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/></noscript> <!-- End Facebook Pixel Code -->  <script async="" src="https://inkindscript.com/inkind.js"></script> <!-- Google tag (gtag.js) --> <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-T9CGMJSKBB"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-T9CGMJSKBB'); </script>
 
-    // Un-comment out the function below when you are ready to input your variable
-    /*fsReady(function() {
-      FSR.CPPS.set('name','value'); // use single quotes when passing a static-value
-      FSR.CPPS.set('name2',somevariable); // don't use quotes for a dynamic value
-      FSR.CPPS.set('name3',othervariable); // add as many CPPs as you like in this way
-    });*/
-  </script>
-</head>
-<body class="html front not-logged-in page-node section-landing-page">
-<a class="element-invisible element-focusable" href="#main-content">Skip to main content</a>
-<noscript aria-hidden="true"><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-5CBCNW2" style="display:none;visibility:hidden" width="0"></iframe></noscript>
-<div class="l-page has-no-sidebars">
-<div class="l-page-content">
-<header class="l-header" role="banner">
-<div class="l-ribbon-wrapper">
-<ul class="l-ribbon">
-<li><span class="ribbon-hhs"></span><a href="https://www.hhs.gov">U.S. Department of Health &amp; Human Services</a><span class="ribbon-right"></span></li>
-</ul>
-</div> <div class="l-banner-wrapper">
-<div class="l-banner">
-<div class="l-branding">
-<a class="nih-logo icon-nih-logo" href="/" rel="home" title="National Institutes of Health (NIH) - Turning Discovery into Health"><img alt="National Institutes of Health (NIH) - Turning Discovery into Health" height="60" src="/sites/all/themes/nih/images/nih-logo-color.png" width="390"/></a>
+<!--[if lt IE 9]>
+	    <script type="text/javascript" src="https://theme-assets.getbento.com/sensei/83a3e5e.sensei/assets/assets/js/ltie9.min.js "></script>
+	<![endif] -->
+<script type="application/ld+json">{"@context": "http://schema.org", "@type": "Organization", "@id": "https://www.bluesmoke.com/#organization", "url": "https://www.bluesmoke.com", "name": "Blue Smoke", "description": "Blue Smoke is a celebration of the American South with a soulful menu featuring barbecue meats and thoughtfully sourced ingredients; ready for pick up or local delivery. Nationwide shipping via Goldbelly.", "logo": "https://images.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/27470FinalLogo.png?w=600\u0026fit=max\u0026auto=compress,format\u0026h=600", "subOrganization": {"@type": "FoodEstablishment", "@id": "https://www.bluesmoke.com/location/blue-smoke-battery-park-city/#foodestablishment", "url": "https://www.bluesmoke.com/location/blue-smoke-battery-park-city/", "name": "Blue Smoke", "description": "Blue Smoke serves original New York barbecue for lunch and dinner in the heart of Lower Manhattan, steps from the World Trade Center and Brookfield Place.We offer Onsite Dining, Take-Out, Delivery, Private Parties, and Nationwide Shipping.Learn more about Catering.", "image": "https://images.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/63573220927_BlueSmoke_2391_1.jpg?w=1800\u0026fit=max\u0026auto=compress,format\u0026h=1800", "photo": "https://images.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/63573220927_BlueSmoke_2391_1.jpg?w=1800\u0026fit=max\u0026auto=compress,format\u0026h=1800", "address": {"@type": "PostalAddress", "name": "Blue Smoke", "streetAddress": "255 Vesey Street", "addressLocality": "New York", "addressRegion": "NY", "postalCode": "10281"}, "location": {"@type": "PostalAddress", "name": "Blue Smoke", "streetAddress": "255 Vesey Street", "addressLocality": "New York", "addressRegion": "NY", "postalCode": "10281"}, "telephone": "212-889-2005", "hasMap": "https://www.bluesmoke.com/location/blue-smoke-battery-park-city/", "parentOrganization": {"@type": "Organization", "@id": "https://www.bluesmoke.com/#organization"}, "servesCuisine": "Barbecue, American, Soul", "priceRange": "$$", "acceptsReservations": "https://www.bluesmoke.com", "potentialAction": {"@type": "ReserveAction", "object": {"@type": "Reservation", "name": "Table at Blue Smoke"}, "result": {"@type": "Reservation", "name": "Table at Blue Smoke"}, "target": "https://www.bluesmoke.com/location/blue-smoke-battery-park-city/", "location": {"@id": "https://www.bluesmoke.com/location/blue-smoke-battery-park-city/#foodestablishment"}}}, "sameAs": ["https://www.facebook.com/BlueSmokeBarbecue", "http://instagram.com/bluesmokenyc"], "potentialAction": [{"@type": "ReserveAction", "object": {"@type": "Reservation", "name": "Table", "url": "https://www.bluesmoke.com/#action-reservations"}, "result": {"@type": "Reservation", "name": "Table"}, "target": "https://www.bluesmoke.com"}, {"@type": "SubscribeAction", "object": {"@type": "Product", "name": "Mailing List"}, "target": "https://www.bluesmoke.com"}, {"@type": "BuyAction", "object": {"@type": "Product", "name": "Catering Product"}, "target": "https://www.bluesmoke.com/store/catering/"}]}</script>
+<script type="application/ld+json">{"@context": "http://schema.org", "@type": "WebSite", "@id": "https://www.bluesmoke.com/#website", "url": "https://www.bluesmoke.com", "name": "Blue Smoke"}</script>
+<script type="application/ld+json">{"@context": "http://schema.org", "@type": "WebPage", "@id": "https://www.bluesmoke.com/#webpage", "url": "https://www.bluesmoke.com", "name": "Blue Smoke"}</script>
+</link></head>
+<body class="has-hero-intent has-mobi-footer index-template">
+<div class="site-notifications">
 </div>
-<!-- DigitalGov Search -->
-<form accept-charset="UTF-8" action="https://search.nih.gov/search" class="search-form site-search" id="search" method="get">
-<div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/></div>
-<input id="affiliate" name="affiliate" type="hidden" value="nih"/>
-<label class="hide" for="query">Search the NIH Website</label>
-<input autocomplete="on" class="usagov-search-autocomplete form-field form-field-site-search" id="query" name="query" placeholder="Search NIH" type="text"/><input class="form-button form-button-site-search" name="commit" type="submit" value="Search"/>
-</form>
-<ul class="banner-utilities">
-<li><a href="http://employees.nih.gov/">NIH Employee Intranet</a></li>
-<li><a href="https://ned.nih.gov/">Staff Directory</a></li>
-<li><a href="https://salud.nih.gov">En Español</a></li>
-</ul> </div>
+<header class="site-header">
+<a class="skip" href="#main-content">Skip to main content</a>
+<div class="site-header-desktop">
+<div class="site-header-desktop-primary" data-header-sticky="">
+<div class="container">
+<div class="site-logo">
+<a class="site-logo__btn" href="/">
+<img alt="Blue Smoke Home" class="site-logo__expanded" src="https://images.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/27470FinalLogo.png"/>
+</a>
+</div>
+<nav class="site-nav">
+<ul class="site-nav-menu" data-menu-type="desktop">
+<li>
+<a class="site-nav-link" href="/menus/">MENUS</a>
+</li>
+<li>
+<a class="site-nav-link" href="/catering/">CATERING</a>
+</li>
+<li>
+<a class="site-nav-link" href="https://order.thanx.com/bluesmoke" rel="noopener" target="_blank">PICKUP &amp; DELIVERY</a>
+</li>
+<li>
+<a class="site-nav-link" href="/location/blue-smoke-battery-park-city/">Hours &amp; Location</a>
+</li>
+<li>
+<a class="site-nav-link" href="https://www.goldbelly.com/blue-smoke" rel="noopener" target="_blank">Goldbelly Nationwide Shipping</a>
+</li>
+<li><a class="btn btn-brand" href="/reservations/" target="_parent">Reservations</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div aria-label="Navigation Menu Modal" class="site-header-mobi">
+<div class="site-logo">
+<a class="site-logo__btn" href="/">
+<img alt="Blue Smoke Home" src="https://images.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/27470FinalLogo.png"/>
+</a>
+</div>
+<button aria-controls="SiteHeaderMobilePanel" aria-expanded="false" class="nav-toggle-btn" type="button">
+<span class="sr-only">Toggle Navigation</span>
+<span class="nav-toggle-btn__line"></span>
+<span class="nav-toggle-btn__line"></span>
+<span class="nav-toggle-btn__line"></span>
+</button>
+<div class="site-header-mobi-panel" id="SiteHeaderMobilePanel">
+<div class="site-header-mobi-panel__inner">
+<nav aria-label="Navigation Menu" class="site-nav">
+<ul class="site-nav-menu" data-menu-type="mobile">
+<li>
+<a class="site-nav-link" href="/menus/">MENUS</a>
+</li>
+<li>
+<a class="site-nav-link" href="/catering/">CATERING</a>
+</li>
+<li>
+<a class="site-nav-link" href="https://order.thanx.com/bluesmoke" rel="noopener" target="_blank">PICKUP &amp; DELIVERY</a>
+</li>
+<li>
+<a class="site-nav-link" href="/location/blue-smoke-battery-park-city/">Hours &amp; Location</a>
+</li>
+<li>
+<a class="site-nav-link" href="https://www.goldbelly.com/blue-smoke" rel="noopener" target="_blank">Goldbelly Nationwide Shipping</a>
+</li>
+<li>
+<a class="site-nav-link" href="https://www.ushg.com/giftcards/?utm_source=web&amp;utm_medium=footer&amp;utm_campaign=gift_cards&amp;utm_content=bs" rel="noopener" target="_blank">Gift Cards</a>
+</li>
+<li>
+<a class="site-nav-link" href="/careers/">Careers</a>
+</li>
+<li>
+<a class="site-nav-link" href="/contact/">Contact</a>
+</li>
+<li>
+<a class="site-nav-link" href="/terms-and-conditions/">Terms and Conditions</a>
+</li>
+<li>
+<a class="site-nav-link" href="/catering/">Catering</a>
+</li>
+<li>
+<a class="site-nav-link" href="/about/">About</a>
+</li>
+<li><a class="" href="https://www.sevenrooms.com/explore/bluesmoke/subscription" rel="noopener" target="_blank">Hungry For More?</a></li>
+</ul>
+</nav>
+<div class="site-social site-social--bordered">
+<ul class="social-accounts">
+<li><a data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Social Icons" data-bb-track-label="Facebook, Header" data-bb-track-on="click" href="https://www.facebook.com/BlueSmokeBarbecue" rel="noopener" target="_blank"><span aria-hidden="true" class="fa fa-facebook"></span><span class="sr-only">Facebook</span></a></li>
+<li><a data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Social Icons" data-bb-track-label="Twitter, Header" data-bb-track-on="click" href="https://twitter.com/BlueSmokeNYC" rel="noopener" target="_blank"><span aria-hidden="true" class="fa fa-twitter"></span><span class="sr-only">Twitter</span></a></li>
+<li><a data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Social Icons" data-bb-track-label="Instagram, Header" data-bb-track-on="click" href="http://instagram.com/bluesmokenyc" rel="noopener" target="_blank"><span aria-hidden="true" class="fa fa-instagram"></span><span class="sr-only">Instagram</span></a></li>
+</ul>
+</div>
+</div>
+<div class="site-powered-by">
+<a href="https://getbento.com/?utm_source=header&amp;utm_campaign=bluesmoke.com" rel="noopener" target="_blank">powered by BentoBox</a>
+</div>
+</div>
 </div>
 </header>
-<div class="l-navigation-wrapper">
-<!-- ****************** SITE MENU ****************** -->
-<h2 class="element-invisible">Site Menu</h2>
-<nav class="l-menu-wrapper">
-<ul class="l-menu">
-<!-- ********* HOME TAB (Mobile view only) ********* -->
-<li class="tab-wrapper tab-wrapper-home">
-<div class="tab home"><a href="/"><span>Home</span></a></div>
-</li>
-<!-- ********* HEALTH INFO TAB ********* -->
-<li class="tab-wrapper tab-wrapper-healthinfo tab-wrapper-left">
-<div class="tab"><a href="/health-information"><span>Health Information</span></a></div>
-<div class="megamenu">
-<div class="megamenu-col megamenu-leftcol">
-<ul class="sub-menu">
-<li><a href="https://www.hhs.gov/programs/social-services/health-care-facilities/index.html">Health Care Providers &amp; Facilities</a></li>
-<li><a href="/health-information/health-info-lines">Health Info Lines</a></li>
-<li><a href="https://www.healthcare.gov">HealthCare.gov</a></li>
-<li><a href="/research-training/science-education">Science Education Resources</a></li>
-<li><a href="/health-information/nih-clinical-research-trials-you">NIH Clinical Research Trials and You</a></li>
-<li><a href="/institutes-nih/nih-office-director/office-communications-public-liaison/clear-communication/talking-your-doctor">Talking to Your Doctor</a></li>
-<!--<li><a href="/institutes-nih/nih-office-director/office-communications-public-liaison/clear-communication/clear-health-nih" title="">Clear Health A–Z</a></li>-->
-</ul>
-<p class="more-wrapper"><a class="button gold" href="/health-information" title="More Health Information">More »</a></p>
+<div class="site-content">
+<main class="site-content__main page-id--634714">
+<h1 class="sr-only">Home</h1>
+<span class="sr-only" id="main-content">Main content starts here, tab to start navigating</span>
+<section aria-label="hero-section" class="hero hero--gallery hero--fullheight revealable" id="hero">
+<div class="gallery gallery--fit">
+<li class="gallery__item gallery__item--dimmed" style="background-image: url('https://images.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/37313E-Comm_-_Cheyenne_Cohen_-_2020_62_2.jpg?w=1200&amp;fit=crop&amp;auto=compress,format&amp;crop=focalpoint&amp;fp-x=0.5&amp;fp-y=0.5');background-position: 
+  
+  
+    
+  
+
+  50.0% 50.0%
+">
+<div class="gallery__content container">
+<h2 class="h1">Catering</h2>
+<img alt="a table topped with different types of food on a plate" class="sr-only"/>
+<p><span style="font-size: 24px;">Kick back, relax, and let us handle the 'cue! Now offering delivery within Manhattan. </span></p>
+<a class="btn btn-brand" href="https://www.bluesmoke.com/catering/" target="_parent">Learn More</a>
 </div>
-<div class="megamenu-col megamenu-rightcol">
-<form accept-charset="UTF-8" action="https://search.nih.gov/search" class="search-form" id="hipsearch" method="get">
-<p class="subhead"><label for="query2">Search Health Topics</label></p>
-<div class="input-wrapper">
-<div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"/></div>
-<input id="affiliate" name="affiliate" type="hidden" value="hip"/>
-<input name="dc" type="hidden" value="940"/>
-<input autocomplete="on" class="usagov-search-autocomplete form-field form-field-search" id="query2" maxlength="50" name="query" type="text"/>
-<input class="form-button" id="searchbutton" name="commit" type="submit" value="Go"/>
+<span class="sr-only">Slide 1 of 3</span>
+</li>
+<li class="gallery__item gallery__item--dimmed" style="background-image: url('https://images.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/Superbowl_Banner.png?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+">
+<div class="gallery__content container">
+<h2 class="h1">Dig into Dollar Wings</h2>
+<img alt="a plate of food on a table" class="sr-only"/>
+<p style="text-align: center;"><span style="font-size: 24px;">Happy Hour Every day, 3-6pm</span></p><p style="text-align: center;"><span style="font-size: 24px;">$6 beers, $9 wines, $12 cocktails, and Dollar Wings!</span></p>
+<a class="btn btn-brand" href="https://www.bluesmoke.com/battery-park-city-menu/" rel="noopener" target="_blank">Happy Hour Menu</a>
+</div>
+<span class="sr-only">Slide 2 of 3</span>
+</li>
+<li class="gallery__item" style="background-image: url('https://images.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/63573220927_BlueSmoke_2391_1.jpg?w=1200&amp;fit=crop&amp;auto=compress,format&amp;crop=focalpoint&amp;fp-x=0.5&amp;fp-y=0.5');background-position: 
+  
+  
+    
+  
+
+  50.0% 50.0%
+">
+<div class="gallery__content container">
+<h2 class="h1">Let's Party!</h2>
+<img alt="a bottle of wine on a table" class="sr-only"/>
+<p><span style="font-size: 24px;">Now accepting reservations of up to 35 on Resy</span></p>
+<a class="btn btn-brand" href="https://resy.com/cities/ny/blue-smoke-battery-park-city?date=2023-01-26&amp;seats=2" rel="noopener" target="_blank">BOOK NOW</a>
+</div>
+<span class="sr-only">Slide 3 of 3</span>
+</li>
+</div>
+<div id="motion-elements-control-section">
+<button class="btn fa fa-play play-motion ada-motion-toggle-btns hide-motion" data-action="play">
+<span class="sr-only">hero gallery paused, press to play images slides</span>
+</button>
+<button class="btn fa fa-pause pause-motion ada-motion-toggle-btns" data-action="pause">
+<span class="sr-only">Playing hero gallery, press to pause images slides</span>
+</button>
+</div>
+</section>
+<section class="c-split c-split--vcenter revealable">
+<div class="c-split__col c-split__col--empty">
+<div class="c-split__col-inner">
+<div aria-label="a person holding a plate of barbecue" class="c-split__image" role="img" style="background-image: url('https://images.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/35503BSE-CO3.JPG?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+"></div>
+</div>
+</div>
+<div class="c-split__col">
+<div class="c-split__col-inner">
+<div class="c-split__content content">
+<p>Blue Smoke serves up mouthwatering barbecue, sides, and homestyle baked goods alongside cocktails, local and Southern beers, and a wide range of American whiskies. </p>
+<a class="btn btn-brand" href="/about" target="_parent">Our Story</a>
+</div>
+</div>
+</div>
+</section>
+<section class="c-split c-split--vcenter revealable">
+<div class="c-split__col c-split__col--empty">
+<div class="c-split__col-inner">
+<div aria-label="a close up of a fire oven" class="c-split__image" role="img" style="background-image: url('https://images.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/93285BS33151.JPG?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+"></div>
+</div>
+</div>
+<div class="c-split__col c-split__col--empty">
+<div class="c-split__col-inner">
+<div aria-label="a bunch of different barbecue sides on a table" class="c-split__image" role="img" style="background-image: url('https://images.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/7171BS57241.JPG?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+"></div>
+</div>
+</div>
+</section>
+<section class="c-split c-split--vcenter revealable">
+<div class="c-split__col">
+<div class="c-split__col-inner">
+<div class="c-split__content content">
+<p>Named for the legendary curl of smoke that rises from perfectly smoked barbecue, Blue Smoke has been a pioneer of New York City barbecue since its opening in 2002.</p><p><br/></p>
+<a class="btn btn-brand" href="/battery-park-city-menu/" target="_parent">Our Menu</a>
+</div>
+</div>
+</div>
+<div class="c-split__col c-split__col--empty">
+<div class="c-split__col-inner">
+<div aria-label="full racks of ribs in the smoker" class="c-split__image" role="img" style="background-image: url('https://images.getbento.com/accounts/71108c3190e14bffd6e289b9dc3ea33f/media/images/44928Smoker_-_Cheyenne_Cohen_-_2001_149.jpg?w=1200&amp;fit=max&amp;auto=compress,format');background-position: 
+  
+  
+    
+  
+
+  none
+"></div>
+</div>
+</div>
+</section>
+</main>
+<aside class="mobi-footer mobi-footer--sticky">
+<ul class="mobi-footer__list">
+<li class="mobi-footer__item">
+<a class="btn btn-brand btn-block" href="/reservations/" target="_parent">Reservations</a>
+</li>
+<li class="mobi-footer__item">
+<a class="btn btn-brand-alt btn-block" href="https://www.sevenrooms.com/explore/bluesmoke/subscription" rel="noopener" target="_blank">Hungry For More?</a>
+</li>
+</ul>
+</aside>
+</div>
+<footer>
+<div class="site-footer-desktop">
+<div class="site-footer-desktop-primary">
+<div class="site-footer-desktop-primary__container container">
+<ul class="social-accounts">
+<li><a data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Social Icons" data-bb-track-label="Facebook, Footer" data-bb-track-on="click" href="https://www.facebook.com/BlueSmokeBarbecue" rel="noopener" target="_blank"><span aria-hidden="true" class="fa fa-facebook"></span><span class="sr-only">Facebook</span></a></li>
+<li><a data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Social Icons" data-bb-track-label="Twitter, Footer" data-bb-track-on="click" href="https://twitter.com/BlueSmokeNYC" rel="noopener" target="_blank"><span aria-hidden="true" class="fa fa-twitter"></span><span class="sr-only">Twitter</span></a></li>
+<li><a data-bb-track="button" data-bb-track-action="Click" data-bb-track-category="Social Icons" data-bb-track-label="Instagram, Footer" data-bb-track-on="click" href="http://instagram.com/bluesmokenyc" rel="noopener" target="_blank"><span aria-hidden="true" class="fa fa-instagram"></span><span class="sr-only">Instagram</span></a></li>
+</ul>
+<nav class="site-nav">
+<ul class="site-nav-menu">
+<li>
+<a class="site-nav-link" href="https://www.ushg.com/giftcards/?utm_source=web&amp;utm_medium=footer&amp;utm_campaign=gift_cards&amp;utm_content=bs" rel="noopener" target="_blank">Gift Cards</a>
+</li>
+<li>
+<a class="site-nav-link" href="/careers/">Careers</a>
+</li>
+<li>
+<a class="site-nav-link" href="/contact/">Contact</a>
+</li>
+<li>
+<a class="site-nav-link" href="/terms-and-conditions/">Terms and Conditions</a>
+</li>
+<li>
+<a class="site-nav-link" href="/catering/">Catering</a>
+</li>
+<li>
+<a class="site-nav-link" href="/about/">About</a>
+</li>
+<li><a class="btn btn-brand-alt" href="https://www.sevenrooms.com/explore/bluesmoke/subscription" rel="noopener" target="_blank">Hungry For More?</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="site-footer-desktop-secondary">
+<div class="site-powered-by">
+<a href="https://getbento.com/?utm_source=footer&amp;utm_campaign=bluesmoke.com" rel="noopener" target="_blank">powered by BentoBox</a>
+</div>
+</div>
+</div>
+</footer>
+<div class="popup popup--form mfp-hide" id="popup-newsletter-form">
+<form class="js-form-ajax form-alt container-sm" data-form-endpoint="/forms/submit/newsletter/" enctype="multipart/form-data" method="post">
+<div style="display: none;">
+<label>leave this field blank
+            <input name="comment_body" type="text" value=""/>
+</label>
+</div>
+<input name="form" type="hidden" value="newsletter"/>
+<div aria-hidden="true" data-bb-track="form" data-bb-track-action="Submit" data-bb-track-category="Forms" data-bb-track-label="Email Sign Up" data-bb-track-on="submit"></div>
+<div class="form-header">
+<h2 class="h1 form-heading">Email Signup</h2>
+</div>
+<div class="form-ui">
+<label for="167445">
+<i class="error-label"></i>
+<span class="input-label">First Name
+         <span class="input-label-required">- Required</span>
+</span>
+<input autocomplete="given-name" class="form-control" id="167445" name="167445" placeholder="First Name" required="" type="text"/>
+</label>
+<label for="167446">
+<i class="error-label"></i>
+<span class="input-label">Last Name
+         <span class="input-label-required">- Required</span>
+</span>
+<input autocomplete="family-name" class="form-control" id="167446" name="167446" placeholder="Last Name" required="" type="text"/>
+</label>
+<label for="167447">
+<i class="error-label"></i>
+<span class="input-label">Email
+         <span class="input-label-required">- Required</span>
+</span>
+<input autocomplete="email" class="form-control" id="167447" name="167447" placeholder="Email" required="" type="email"/>
+</label>
+</div>
+<div class="form-actions">
+<button class="btn btn-brand-alt" type="submit">Submit</button>
+<span class="form-error-msg">Please check errors in the form above</span>
+</div>
+<div class="form-success-msg">
+<span role="alert">Thank you for signing up for email updates!</span>
+<button class="btn btn-brand-alt js-popup-closebtn" type="button">Close</button>
 </div>
 </form>
-<p class="subhead">Quick Links</p>
-<ul class="sub-menu">
-<li><a class="minibadge minibadge-medlineplus" href="https://medlineplus.gov/"><span class="minibadge-text">MedlinePlus Health Info</span></a></li>
-<li><a class="minibadge minibadge-newsinhealth" href="https://newsinhealth.nih.gov/"><span class="minibadge-text">NIH News in Health</span></a></li>
-<li><a class="minibadge minibadge-wellnesstoolkits" href="/health-information/your-healthiest-self-wellness-toolkits"><span class="minibadge-text">Wellness Toolkits</span></a></li>
-</ul>
 </div>
-</div>
-</li>
-<!-- ********* GRANTS TAB ********* -->
-<li class="tab-wrapper tab-wrapper-grants tab-wrapper-left">
-<div class="tab"><a href="/grants-funding"><span>Grants &amp; Funding</span></a></div>
-<div class="megamenu">
-<div class="megamenu-col megamenu-leftcol">
-<ul>
-<li><a href="https://grants.nih.gov">Grants Home Page</a></li>
-<li><a href="https://grants.nih.gov/funding/index.htm">Find Funding</a></li>
-<li><a href="https://grants.nih.gov/grants/how-to-apply-application-guide/due-dates-and-submission-policies/due-dates.htm">Due Dates</a></li>
-<li><a href="https://grants.nih.gov/grants/how-to-apply-application-guide.html">How to Apply</a></li>
-<li><a href="https://grants.nih.gov/grants/about_grants.htm">About Grants</a></li>
-<li><a href="https://grants.nih.gov/policy/index.htm">Policy &amp; Compliance</a></li>
-<li><a href="https://nexus.od.nih.gov/all/">Grants News/Blog</a></li>
-<li><a href="https://grants.nih.gov/funding/contracts.htm">Contracts</a></li>
-<li><a href="https://www.lrp.nih.gov/">Loan Repayment</a></li>
-</ul>
-<p class="more-wrapper"><a class="button gold" href="/grants-funding" title="More Grants &amp; Funding Information">More »</a></p>
-</div>
-<div class="megamenu-col megamenu-rightcol">
-<p class="subhead">Quick Links</p>
-<ul>
-<li><a class="minibadge minibadge-report" href="https://report.nih.gov/"><span class="minibadge-text">RePORT</span></a></li>
-<li><a class="minibadge minibadge-era" href="https://commons.era.nih.gov/commons/"><span class="minibadge-text">eRA Commons</span></a></li>
-<li><a class="minibadge minibadge-commonfund" href="https://commonfund.nih.gov/"><span class="minibadge-text">NIH Common Fund</span></a></li>
-</ul>
-</div>
-</div>
-</li>
-<!-- ********* NEWS TAB ********* -->
-<li class="tab-wrapper tab-wrapper-news tab-wrapper-left">
-<div class="tab"><a href="/news-events"><span>News &amp; Events</span></a></div>
-<div class="megamenu">
-<div class="megamenu-col megamenu-leftcol">
-<ul>
-<li><a href="/news-events/news-releases">News Releases</a></li>
-<li><a href="/news-events/digital-media-kits">Digital Media Kits</a></li>
-<li><a href="/news-events/media-resources">Media Resources</a></li>
-<li><a href="/news-events/media-contacts">Media Contacts</a></li>
-<li><a href="/news-events/images-b-roll">Images and B-roll</a></li>
-<li><a href="/news-events/events">Events</a></li>
-<li><a href="/news-events/social-media-outreach">Social Media</a></li>
-</ul>
-<p class="more-wrapper"><a class="button gold" href="/news-events" title="More News &amp; Events">More »</a></p>
-</div>
-<div class="megamenu-col megamenu-rightcol">
-<p class="subhead">Quick Links</p>
-<ul>
-<li><a class="minibadge minibadge-newsinhealth" href="https://newsinhealth.nih.gov/"><span class="minibadge-text">NIH News in Health</span></a></li>
-<li><a class="minibadge minibadge-researchmatters" href="/news-events/nih-research-matters"><span class="minibadge-text">NIH Research Matters</span></a></li>
-<li><a class="minibadge minibadge-nihrecord" href="https://nihrecord.nih.gov/"><span class="minibadge-text">NIH Record</span></a></li>
-</ul>
-</div>
-</div>
-</li>
-<!-- ********* RESEARCH TAB ********* -->
-<li class="tab-wrapper tab-wrapper-research tab-wrapper-right">
-<div class="tab"><a href="/research-training"><span>Research &amp; Training</span></a></div>
-<div class="megamenu">
-<div class="megamenu-col megamenu-leftcol">
-<ul>
-<li><a href="/research-training/medical-research-initiatives">Medical Research Initiatives</a></li>
-<li><a href="/research-training/science-highlights">Science Highlights</a></li>
-<li><a href="/research-training/science-education">Science Education</a></li>
-<li><a href="/research-training/research-nih-labs-clinics">Research in NIH Labs &amp; Clinics</a></li>
-<li><a href="/research-training/training-opportunities">Training Opportunities</a></li>
-<li><a href="/research-training/library-resources">Library Resources</a></li>
-<li><a href="/research-training/research-resources">Research Resources</a></li>
-<li><a href="/research-training/clinical-research-resources">Clinical Research Resources</a></li>
-<li><a href="/research-training/safety-regulation-guidance">Safety, Regulation and Guidance</a></li>
-</ul>
-<p class="more-wrapper"><a class="button gold" href="/research-training" title="More Research &amp; Training">More »</a></p>
-</div>
-<div class="megamenu-col megamenu-rightcol">
-<p class="subhead">Quick Links</p>
-<ul>
-<li><a class="minibadge minibadge-pubmed" href="https://pubmed.ncbi.nlm.nih.gov"><span class="minibadge-text">PubMed</span></a></li>
-<li><a class="minibadge minibadge-stemcell" href="https://stemcells.nih.gov"><span class="minibadge-text">Stem Cell Information</span></a></li>
-<li><a class="minibadge minibadge-oppnet" href="https://oppnet.nih.gov"><span class="minibadge-text">OppNet</span></a></li>
-<li><a class="minibadge minibadge-nidb" href="https://intramural.nih.gov"><span class="minibadge-text">NIDB</span></a></li>
-<li><a class="minibadge minibadge-nihblueprint" href="https://neuroscienceblueprint.nih.gov"><span class="minibadge-text">NIH Blueprint for Neuroscience Research</span></a></li>
-</ul>
-</div>
-</div>
-</li>
-<!-- ********* INSTITUTES TAB ********* -->
-<li class="tab-wrapper tab-wrapper-institutes tab-wrapper-right">
-<div class="tab"><a href="/institutes-nih"><span>Institutes at NIH</span></a></div>
-<div class="megamenu">
-<div class="megamenu-col megamenu-leftcol">
-<ul>
-<li><a href="/institutes-nih/list-institutes-centers">List of Institutes and Centers</a></li>
-<li><a href="/institutes-nih/nih-office-director">NIH Office of the Director</a></li>
-<li><a href="/institutes-nih/directors-nih-institutes-centers">Directors of NIH Institutes and Centers</a></li>
-<li><a href="/institutes-nih/nih-institute-center-contact-information">NIH Institute and Center Contact Information</a></li>
-</ul>
-<p class="more-wrapper"><a class="button gold" href="/institutes-nih" title="More About the Institutes at NIH">More »</a></p>
-</div>
-<div class="megamenu-col megamenu-rightcol">
-<p class="subhead">Quick Links</p>
-<ul class="ic-acronymn-list">
-<li><a href="https://www.cancer.gov" title="National Cancer Institute">NCI</a></li>
-<li><a href="https://nei.nih.gov" title="National Eye Institute">NEI</a></li>
-<li><a href="https://www.nhlbi.nih.gov" title="National Heart, Lung, and Blood Institute">NHLBI</a></li>
-<li><a href="https://www.genome.gov" title="National Human Genome Research Institute">NHGRI</a></li>
-<li><a href="https://www.nia.nih.gov" title="National Institute on Aging">NIA</a></li>
-<li><a href="https://www.niaaa.nih.gov" title="National Institute on Alcohol Abuse and Alcoholism">NIAAA</a></li>
-<li><a href="https://www.niaid.nih.gov" title="National Institute of Allergy and Infectious Diseases">NIAID</a></li>
-<li><a href="https://www.niams.nih.gov" title="National Institute of Arthritis and Musculoskeletal and Skin Diseases">NIAMS</a></li>
-<li><a href="https://www.nibib.nih.gov" title="National Institute of Biomedical Imaging and Bioengineering">NIBIB</a></li>
-<li><a href="https://www.nichd.nih.gov" title="Eunice Kennedy Shriver National Institute of Child Health and Human Development">NICHD</a></li>
-<li><a href="https://www.nidcd.nih.gov" title="National Institute on Deafness and Other Communication Disorders">NIDCD</a></li>
-<li><a href="https://www.nidcr.nih.gov" title="National Institute of Dental and Craniofacial Research">NIDCR</a></li>
-<li><a href="https://www.niddk.nih.gov" title="National Institute of Diabetes and Digestive and Kidney Diseases">NIDDK</a></li>
-<li><a href="https://nida.nih.gov" title="National Institute on Drug Abuse">NIDA</a></li>
-<li><a href="https://www.niehs.nih.gov" title="National Institute of Environmental Health Sciences">NIEHS</a></li>
-<li><a href="https://www.nigms.nih.gov" title="National Institute of General Medical Sciences">NIGMS</a></li>
-<li><a href="https://www.nimh.nih.gov" title="National Institute of Mental Health">NIMH</a></li>
-<li><a href="https://www.nimhd.nih.gov" title="National Institute on Minority Health and Health Disparities">NIMHD</a></li>
-<li><a href="https://www.ninds.nih.gov" title="National Institute of Neurological Disorders and Stroke">NINDS</a></li>
-<li><a href="https://www.ninr.nih.gov" title="National Institute of Nursing Research">NINR</a></li>
-<li><a href="https://www.nlm.nih.gov" title="National Library of Medicine">NLM</a></li>
-<li><a href="https://www.cc.nih.gov" title="NIH Clinical Center">CC</a></li>
-<li><a href="https://www.cit.nih.gov" title="Center for Information Technology">CIT</a></li>
-<li><a href="https://www.csr.nih.gov" title="Center for Scientific Review">CSR</a></li>
-<li><a href="https://www.fic.nih.gov" title="Fogarty International Center">FIC</a></li>
-<li><a href="https://ncats.nih.gov" title="National Center for Advancing Translational Sciences">NCATS</a></li>
-<li><a href="https://nccih.nih.gov" title="National Center for Complementary and Integrative Health">NCCIH</a></li>
-</ul>
-</div>
-</div>
-</li>
-<!-- ********* ABOUT TAB ********* -->
-<li class="tab-wrapper tab-wrapper-about tab-wrapper-right">
-<div class="tab"><a href="/about-nih"><span>About NIH</span></a></div>
-<div class="megamenu">
-<div class="megamenu-col megamenu-leftcol">
-<ul>
-<li><a href="/about-nih/who-we-are">Who We Are</a></li>
-<li><a href="/about-nih/what-we-do">What We Do</a></li>
-<li><a href="https://hr.nih.gov/jobs">Jobs at NIH</a></li>
-<li><a href="/about-nih/visitor-information">Visitor Information</a></li>
-<li><a href="/about-nih/frequently-asked-questions">Frequently Asked Questions</a></li>
-<li><a href="/about-nih/contact-us">Contact Us</a></li>
-<!--<li><a href="/about-nih/explore-nih">Explore NIH</a></li>-->
-</ul>
-<p class="more-wrapper"><a class="button gold" href="/about-nih" title="More About NIH">More »</a></p>
-</div>
-<div class="megamenu-col megamenu-rightcol">
-<p class="subhead">Quick Links</p>
-<ul>
-<li><a class="minibadge minibadge-directorsblog" href="/about-nih/who-we-are/nih-director"><span class="minibadge-text">The NIH Director</span></a></li>
-<li><a class="minibadge minibadge-almanac" href="/virtual-tour"><span class="minibadge-text">Take the Virtual Tour</span></a></li>
-<li><a class="minibadge minibadge-discovery" href="/about-nih/what-we-do/nih-turning-discovery-into-health"><span class="minibadge-text">NIH…Turning Discovery Into Health<sup>®</sup></span></a></li>
-<li><a class="minibadge minibadge-impact" href="/about-nih/what-we-do/impact-nih-research"><span class="minibadge-text">Impact of NIH Research</span></a></li>
-<li><a class="minibadge minibadge-publictrust" href="/about-nih/what-we-do/science-health-public-trust"><span class="minibadge-text">Science, Health, and Public Trust</span></a></li>
-<!--<li><a class="minibadge minibadge-visitorinfo" href="/about-nih/visitor-information"><span class="minibadge-text">Visitor Information</span></a></li>-->
-<!--<li><a class="minibadge minibadge-jobsatnih" href="https://hr.nih.gov/jobs"><span class="minibadge-text">Jobs at NIH</span></a></li>-->
-</ul>
-</div>
-</div>
-</li>
-</ul>
-<div class="tab-bkgnd"></div><!-- For pixel rounding issue -->
-</nav>
-<!-- ****************** END SITE MENU ****************** -->
-</div>
-<div class="l-main-wrapper">
-<div class="l-main" id="page-content">
-<div class="l-content-wrapper">
-<div class="l-content" role="main">
-<a id="main-content"></a>
-<div class="block block--bean slideshow-main block--bean-home-slideshow-2l-block" id="block-bean-home-slideshow-2l-block">
-<div class="block__content">
-<div about="/block/home-slideshow-2l-block" class="ds-1col entity entity-bean bean-home-slideshow-2l-block view-mode-slide_block clearfix">
-<div class="flexslider optionset-nih-slides-preset" id="flexslider-1">
-<ul class="slides"><li><div about="/field-collection/field-slide-field-collection/66" class="ds-1col entity entity-field-collection-item field-collection-item-field-slide-field-collection view-mode-full clearfix">
-<div class="ds-1col file file-image file-image-jpeg view-mode-slide_file clearfix" onclick="location.href='/virtual-tour'">
-<picture title="Take the Virtual Tour">
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source media="screen and (min-width: 1100px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-large-extra/public/home_0/slides/current/20230814-slide-virtual-tour.jpg?itok=UTTMs2PE&amp;timestamp=1692035398 1x"/>
-<source media="screen and (min-width: 960px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-large/public/home_0/slides/current/20230814-slide-virtual-tour.jpg?itok=8F3r0E4J&amp;timestamp=1692035398 1x"/>
-<source media="screen and (min-width: 800px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-medium/public/home_0/slides/current/20230814-slide-virtual-tour.jpg?itok=MpG_RpDl&amp;timestamp=1692035398 1x"/>
-<source media="screen and (min-width: 600px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-medium-small/public/home_0/slides/current/20230814-slide-virtual-tour.jpg?itok=3-E0PAXt&amp;timestamp=1692035398 1x"/>
-<source media="screen and (min-width: 480px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-small/public/home_0/slides/current/20230814-slide-virtual-tour.jpg?itok=D_AyZVVv&amp;timestamp=1692035398 1x"/>
-<source media="screen and (min-width: 0)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-tiny/public/home_0/slides/current/20230814-slide-virtual-tour.jpg?itok=foWXtNUC&amp;timestamp=1692035398 1x"/>
-<!--[if IE 9]></video><![endif]-->
-<img alt="An aerial photograph of the NIH campus in Bethesda, Maryland." src="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-medium-small/public/home_0/slides/current/20230814-slide-virtual-tour.jpg?itok=3-E0PAXt&amp;timestamp=1692035398" title="Take the Virtual Tour"/>
-</picture></div>
-<div class="homeslide-textbox">
-<h3 class="homeslide-title"><a href="/virtual-tour">Take the Virtual Tour</a></h3>
-<p class="homeslide-description">Explore the Bethesda campus and how NIH turns discovery into health.</p>
-<p class="homeslide-more-button"><a class="button blue-dark" href="/virtual-tour">Learn more »</a></p>
-</div></div>
-</li>
-<li><div about="/field-collection/field-slide-field-collection/56" class="ds-1col entity entity-field-collection-item field-collection-item-field-slide-field-collection view-mode-full clearfix">
-<div class="ds-1col file file-image file-image-jpeg view-mode-slide_file clearfix" onclick="location.href='https://www.nih.gov/news-events/news-releases/nih-launches-long-covid-clinical-trials-through-recover-initiative-opening-enrollment'">
-<picture title="Long COVID">
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source media="screen and (min-width: 1100px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-large-extra/public/home_0/slides/current/slide-recover.jpg?itok=LQ4zRK9a&amp;timestamp=1691585664 1x"/>
-<source media="screen and (min-width: 960px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-large/public/home_0/slides/current/slide-recover.jpg?itok=injFtj8u&amp;timestamp=1691585664 1x"/>
-<source media="screen and (min-width: 800px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-medium/public/home_0/slides/current/slide-recover.jpg?itok=Gumc1yhG&amp;timestamp=1691585664 1x"/>
-<source media="screen and (min-width: 600px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-medium-small/public/home_0/slides/current/slide-recover.jpg?itok=6iNKDNss&amp;timestamp=1691585664 1x"/>
-<source media="screen and (min-width: 480px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-small/public/home_0/slides/current/slide-recover.jpg?itok=miWokUUu&amp;timestamp=1691585664 1x"/>
-<source media="screen and (min-width: 0)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-tiny/public/home_0/slides/current/slide-recover.jpg?itok=iOFBfu2j&amp;timestamp=1691585664 1x"/>
-<!--[if IE 9]></video><![endif]-->
-<img alt="photo of a doctor using a stethoscope on a patient's lungs" src="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-medium-small/public/home_0/slides/current/slide-recover.jpg?itok=6iNKDNss&amp;timestamp=1691585664" title="Long COVID"/>
-</picture></div>
-<div class="homeslide-textbox">
-<h3 class="homeslide-title"><a href="https://www.nih.gov/news-events/news-releases/nih-launches-long-covid-clinical-trials-through-recover-initiative-opening-enrollment">Long COVID</a></h3>
-<p class="homeslide-description">Enrollment opening for clinical trials to evaluate treatments through RECOVER Initiative.</p>
-<p class="homeslide-more-button"><a class="button blue-dark" href="https://www.nih.gov/news-events/news-releases/nih-launches-long-covid-clinical-trials-through-recover-initiative-opening-enrollment">Learn more »</a></p>
-</div></div>
-</li>
-<li><div about="/field-collection/field-slide-field-collection/71" class="ds-1col entity entity-field-collection-item field-collection-item-field-slide-field-collection view-mode-full clearfix">
-<div class="ds-1col file file-image file-image-jpeg view-mode-slide_file clearfix" onclick="location.href='https://science.education.nih.gov/'">
-<picture title="STEM Teaching Resources">
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source media="screen and (min-width: 1100px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-large-extra/public/home_0/slides/archived/slide-stem.jpg?itok=DI1yQ6Ex&amp;timestamp=1691586942 1x"/>
-<source media="screen and (min-width: 960px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-large/public/home_0/slides/archived/slide-stem.jpg?itok=qgPfuUHg&amp;timestamp=1691586942 1x"/>
-<source media="screen and (min-width: 800px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-medium/public/home_0/slides/archived/slide-stem.jpg?itok=iRT7R2Sf&amp;timestamp=1691586942 1x"/>
-<source media="screen and (min-width: 600px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-medium-small/public/home_0/slides/archived/slide-stem.jpg?itok=vEiNruop&amp;timestamp=1691586942 1x"/>
-<source media="screen and (min-width: 480px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-small/public/home_0/slides/archived/slide-stem.jpg?itok=FJ0bhSje&amp;timestamp=1691586942 1x"/>
-<source media="screen and (min-width: 0)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-tiny/public/home_0/slides/archived/slide-stem.jpg?itok=P74HymSL&amp;timestamp=1691586942 1x"/>
-<!--[if IE 9]></video><![endif]-->
-<img alt="Rows of triangles alternating colors and images of NIH’s STEM activities, including cartoon characters, molecules, and other parts of the body. " src="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-medium-small/public/home_0/slides/archived/slide-stem.jpg?itok=vEiNruop&amp;timestamp=1691586942" title="STEM Teaching Resources"/>
-</picture></div>
-<div class="homeslide-textbox">
-<h3 class="homeslide-title"><a href="https://science.education.nih.gov/">STEM Teaching Resources</a></h3>
-<p class="homeslide-description">Innovative NIH-funded content to engage K-12 students in health science</p>
-<p class="homeslide-more-button"><a class="button blue-dark" href="https://science.education.nih.gov/">Learn more »</a></p>
-</div></div>
-</li>
-<li><div about="/field-collection/field-slide-field-collection/76" class="ds-1col entity entity-field-collection-item field-collection-item-field-slide-field-collection view-mode-full clearfix">
-<div class="ds-1col file file-image file-image-jpeg view-mode-slide_file clearfix" onclick="location.href='https://www.niddk.nih.gov/health-information/digestive-diseases/gastroparesis/definition-facts#gastroparesis'">
-<picture title="Gastroparesis Awareness Month">
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source media="screen and (min-width: 1100px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-large-extra/public/home_0/slides/current/slide-gastro2.jpg?itok=GAl8dYXr&amp;timestamp=1691585643 1x"/>
-<source media="screen and (min-width: 960px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-large/public/home_0/slides/current/slide-gastro2.jpg?itok=0b0lcpuV&amp;timestamp=1691585643 1x"/>
-<source media="screen and (min-width: 800px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-medium/public/home_0/slides/current/slide-gastro2.jpg?itok=k3qNI9dp&amp;timestamp=1691585643 1x"/>
-<source media="screen and (min-width: 600px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-medium-small/public/home_0/slides/current/slide-gastro2.jpg?itok=qs3pcZDQ&amp;timestamp=1691585643 1x"/>
-<source media="screen and (min-width: 480px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-small/public/home_0/slides/current/slide-gastro2.jpg?itok=xnzNgqbl&amp;timestamp=1691585643 1x"/>
-<source media="screen and (min-width: 0)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-tiny/public/home_0/slides/current/slide-gastro2.jpg?itok=-iPo-d-R&amp;timestamp=1691585643 1x"/>
-<!--[if IE 9]></video><![endif]-->
-<img alt="A woman sitting on a couch holding a glass of water while experiencing stomach pain." src="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-medium-small/public/home_0/slides/current/slide-gastro2.jpg?itok=qs3pcZDQ&amp;timestamp=1691585643" title="Gastroparesis Awareness Month"/>
-</picture></div>
-<div class="homeslide-textbox">
-<h3 class="homeslide-title"><a href="https://www.niddk.nih.gov/health-information/digestive-diseases/gastroparesis/definition-facts#gastroparesis">Gastroparesis Awareness Month</a></h3>
-<p class="homeslide-description">Gastroparesis is a digestive disorder that may cause poor nutrition and problems with managing blood glucose levels.</p>
-<p class="homeslide-more-button"><a class="button blue-dark" href="https://www.niddk.nih.gov/health-information/digestive-diseases/gastroparesis/definition-facts#gastroparesis">Learn more »</a></p>
-</div></div>
-</li>
-<li><div about="/field-collection/field-slide-field-collection/13176" class="ds-1col entity entity-field-collection-item field-collection-item-field-slide-field-collection view-mode-full clearfix">
-<div class="ds-1col file file-image file-image-jpeg view-mode-slide_file clearfix" onclick="location.href='https://www.nih.gov/news-events/nih-research-matters/research-context-progress-towards-universal-vaccines'">
-<picture title="Research in Context">
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source media="screen and (min-width: 1100px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-large-extra/public/home_0/slides/current/20230725-slide-covid-research-in-context.jpg?itok=-8Md4TtO&amp;timestamp=1690309316 1x"/>
-<source media="screen and (min-width: 960px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-large/public/home_0/slides/current/20230725-slide-covid-research-in-context.jpg?itok=MakA6K4K&amp;timestamp=1690309316 1x"/>
-<source media="screen and (min-width: 800px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-medium/public/home_0/slides/current/20230725-slide-covid-research-in-context.jpg?itok=x3-eB3le&amp;timestamp=1690309316 1x"/>
-<source media="screen and (min-width: 600px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-medium-small/public/home_0/slides/current/20230725-slide-covid-research-in-context.jpg?itok=jhkioDJT&amp;timestamp=1690309316 1x"/>
-<source media="screen and (min-width: 480px)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-small/public/home_0/slides/current/20230725-slide-covid-research-in-context.jpg?itok=pR-ieLSd&amp;timestamp=1690309316 1x"/>
-<source media="screen and (min-width: 0)" srcset="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-tiny/public/home_0/slides/current/20230725-slide-covid-research-in-context.jpg?itok=URwXAHEq&amp;timestamp=1690309316 1x"/>
-<!--[if IE 9]></video><![endif]-->
-<img alt="Illustration of nanoparticle vaccine with numerous different colored regions." src="https://www.nih.gov/sites/default/files/styles/slide_breakpoint-medium-small/public/home_0/slides/current/20230725-slide-covid-research-in-context.jpg?itok=jhkioDJT&amp;timestamp=1690309316" title="Research in Context"/>
-</picture></div>
-<div class="homeslide-textbox">
-<h3 class="homeslide-title"><a href="https://www.nih.gov/news-events/nih-research-matters/research-context-progress-towards-universal-vaccines">Research in Context</a></h3>
-<p class="homeslide-description">An in-depth article about universal vaccines launches this new series.</p>
-<p class="homeslide-more-button"><a class="button blue-dark" href="https://www.nih.gov/news-events/nih-research-matters/research-context-progress-towards-universal-vaccines">Learn more »</a></p>
-</div></div>
-</li>
-</ul></div>
-</div>
-</div>
-</div>
-<div class="block block--bean bleed-block teaser-list-landing block--bean-itn-block" id="block-bean-itn-block">
-<h3 class="block__title">In the News</h3>
-<div class="block__content">
-<div about="/block/itn-block" class="ds-1col entity entity-bean bean-itn view-mode-itn_block clearfix">
-<div class="required-fields group-itn field-group-html-element"><div class="teaser-itn teaser-landing teaser-clickable"><div class="ds-1col file file-image file-image-jpeg view-mode-itn_file clearfix">
-<p class="teaser-thumbnail"><picture title="COVID-19">
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source media="screen and (min-width: 960px)" srcset="https://www.nih.gov/sites/default/files/styles/landing_teaser_breakpoint-large/public/home_0/itn/current/20230808-covid.jpg?itok=cDDcQXgy&amp;timestamp=1691519821 1x"/>
-<source media="screen and (min-width: 600px)" srcset="https://www.nih.gov/sites/default/files/styles/landing_teaser_breakpoint-medium-small/public/home_0/itn/current/20230808-covid.jpg?itok=y14dXM2i&amp;timestamp=1691519821 1x"/>
-<source media="screen and (min-width: 480px)" srcset="https://www.nih.gov/sites/default/files/styles/landing_teaser_breakpoint-medium-small/public/home_0/itn/current/20230808-covid.jpg?itok=y14dXM2i&amp;timestamp=1691519821 1x"/>
-<source media="screen and (min-width: 0)" srcset="https://www.nih.gov/sites/default/files/styles/landing_teaser_breakpoint-medium-small/public/home_0/itn/current/20230808-covid.jpg?itok=y14dXM2i&amp;timestamp=1691519821 1x"/>
-<!--[if IE 9]></video><![endif]-->
-<img alt="Human leukocyte antigen B (HLA-B) interacts with a segment from SARS-CoV-2." src="https://www.nih.gov/sites/default/files/styles/itn_breakpoint-medium/public/home_0/itn/current/20230808-covid.jpg?itok=bW_BQ2Ey&amp;timestamp=1691519821" title="COVID-19"/>
-</picture></p><h4 class="teaser-title"><a href="https://www.nih.gov/news-events/nih-research-matters/genetic-variant-associated-absence-covid-19-symptoms">COVID-19</a></h4>
-<p class="teaser-description">
-People with no symptoms may have a unique genetic variant.</p></div>
-</div><div class="teaser-itn teaser-landing teaser-clickable"><div class="ds-1col file file-image file-image-jpeg view-mode-itn_file clearfix">
-<p class="teaser-thumbnail"><picture title="Cognitive Decline">
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source media="screen and (min-width: 960px)" srcset="https://www.nih.gov/sites/default/files/styles/landing_teaser_breakpoint-large/public/home_0/itn/current/20230808-hearing-aid.jpg?itok=y3Pyxi92&amp;timestamp=1691519648 1x"/>
-<source media="screen and (min-width: 600px)" srcset="https://www.nih.gov/sites/default/files/styles/landing_teaser_breakpoint-medium-small/public/home_0/itn/current/20230808-hearing-aid.jpg?itok=v0b7L4by&amp;timestamp=1691519648 1x"/>
-<source media="screen and (min-width: 480px)" srcset="https://www.nih.gov/sites/default/files/styles/landing_teaser_breakpoint-medium-small/public/home_0/itn/current/20230808-hearing-aid.jpg?itok=v0b7L4by&amp;timestamp=1691519648 1x"/>
-<source media="screen and (min-width: 0)" srcset="https://www.nih.gov/sites/default/files/styles/landing_teaser_breakpoint-medium-small/public/home_0/itn/current/20230808-hearing-aid.jpg?itok=v0b7L4by&amp;timestamp=1691519648 1x"/>
-<!--[if IE 9]></video><![endif]-->
-<img alt="Older man places a hearing aid in his ear. " src="https://www.nih.gov/sites/default/files/styles/itn_breakpoint-medium/public/home_0/itn/current/20230808-hearing-aid.jpg?itok=n7n6a_pd&amp;timestamp=1691519648" title="Cognitive Decline"/>
-</picture></p><h4 class="teaser-title"><a href="https://www.nih.gov/news-events/nih-research-matters/hearing-aids-slow-cognitive-decline-people-high-risk">Cognitive Decline</a></h4>
-<p class="teaser-description">
-Hearing aids may slow symptoms in older adults at high risk of dementia.</p></div>
-</div><div class="teaser-itn teaser-landing teaser-clickable"><div class="ds-1col file file-image file-image-jpeg view-mode-itn_file clearfix">
-<p class="teaser-thumbnail"><picture title="Amyotrophic Lateral Sclerosis (ALS)">
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source media="screen and (min-width: 960px)" srcset="https://www.nih.gov/sites/default/files/styles/landing_teaser_breakpoint-large/public/home_0/itn/current/20230808-als.jpg?itok=ciRj-8Hr&amp;timestamp=1691520089 1x"/>
-<source media="screen and (min-width: 600px)" srcset="https://www.nih.gov/sites/default/files/styles/landing_teaser_breakpoint-medium-small/public/home_0/itn/current/20230808-als.jpg?itok=m_RbOZpD&amp;timestamp=1691520089 1x"/>
-<source media="screen and (min-width: 480px)" srcset="https://www.nih.gov/sites/default/files/styles/landing_teaser_breakpoint-medium-small/public/home_0/itn/current/20230808-als.jpg?itok=m_RbOZpD&amp;timestamp=1691520089 1x"/>
-<source media="screen and (min-width: 0)" srcset="https://www.nih.gov/sites/default/files/styles/landing_teaser_breakpoint-medium-small/public/home_0/itn/current/20230808-als.jpg?itok=m_RbOZpD&amp;timestamp=1691520089 1x"/>
-<!--[if IE 9]></video><![endif]-->
-<img alt="Astrocyte and blood vessel, 3D illustration. Astrocytes, brain glial cells, also known as astroglia, connect neuronal cells to blood vessels" src="https://www.nih.gov/sites/default/files/styles/itn_breakpoint-medium/public/home_0/itn/current/20230808-als.jpg?itok=1kPWcv4w&amp;timestamp=1691520089" title="Amyotrophic Lateral Sclerosis (ALS)"/>
-</picture></p><h4 class="teaser-title"><a href="https://www.ninds.nih.gov/health-information/disorders/amyotrophic-lateral-sclerosis-als">Amyotrophic Lateral Sclerosis (ALS)</a></h4>
-<p class="teaser-description">
-Learn about this devastating neurological disease.</p></div>
-</div><div class="teaser-itn teaser-landing teaser-clickable"><div class="ds-1col file file-image file-image-jpeg view-mode-itn_file clearfix">
-<p class="teaser-thumbnail"><picture title="Opioid Use Disorder">
-<!--[if IE 9]><video style="display: none;"><![endif]-->
-<source media="screen and (min-width: 960px)" srcset="https://www.nih.gov/sites/default/files/styles/landing_teaser_breakpoint-large/public/home_0/itn/current/20230808-opiods.jpg?itok=gOKUTHgS&amp;timestamp=1691520962 1x"/>
-<source media="screen and (min-width: 600px)" srcset="https://www.nih.gov/sites/default/files/styles/landing_teaser_breakpoint-medium-small/public/home_0/itn/current/20230808-opiods.jpg?itok=2yOr6UH_&amp;timestamp=1691520962 1x"/>
-<source media="screen and (min-width: 480px)" srcset="https://www.nih.gov/sites/default/files/styles/landing_teaser_breakpoint-medium-small/public/home_0/itn/current/20230808-opiods.jpg?itok=2yOr6UH_&amp;timestamp=1691520962 1x"/>
-<source media="screen and (min-width: 0)" srcset="https://www.nih.gov/sites/default/files/styles/landing_teaser_breakpoint-medium-small/public/home_0/itn/current/20230808-opiods.jpg?itok=2yOr6UH_&amp;timestamp=1691520962 1x"/>
-<!--[if IE 9]></video><![endif]-->
-<img alt="Black woman in a counseling therapy session." src="https://www.nih.gov/sites/default/files/styles/itn_breakpoint-medium/public/home_0/itn/current/20230808-opiods.jpg?itok=y2AB9XPE&amp;timestamp=1691520962" title="Opioid Use Disorder"/>
-</picture></p><h4 class="teaser-title"><a href="https://nida.nih.gov/news-events/news-releases/2023/08/only-1-in-5-us-adults-with-opioid-use-disorder-received-medications-to-treat-it-in-2021">Opioid Use Disorder</a></h4>
-<p class="teaser-description">
-Only 22% of adults received medications to treat OUD.</p></div>
-</div></div></div>
-</div>
-</div>
-<div class="block block--bean teaser-list block--bean-nih-at-a-glance-block" id="block-bean-nih-at-a-glance-block">
-<h3 class="block__title">NIH at a Glance</h3>
-<div class="block__content">
-<div about="/block/nih-at-a-glance-block" class="ds-1col entity entity-bean bean-nih-at-a-glance view-mode-nih_at_a_glance clearfix">
-<div>
-<div class="teaser teaser-clickable">
-<div class="teaser-thumbnail"><div class="media media-element-container media-thumbnail"><div class="file file-image file-image-jpeg" id="file-75316--2">
-<h2 class="element-invisible"><a href="/about-nih/virtual-tour-screenshot-square.jpg">virtual-tour-screenshot-square.jpg</a></h2>
-<div class="content">
-<img alt="NIH Virtual Tour screenshot" class="media-element" data-delta="10" height="150" src="https://www.nih.gov/sites/default/files/styles/thumbnail/public/about-nih/virtual-tour-screenshot-square.jpg?itok=SObcnZ_b" title="NIH Virtual Tour screenshot" typeof="foaf:Image" width="150"/></div>
-</div>
-</div></div>
-<h4 class="teaser-title"><a href="/virtual-tour">Take the Virtual Tour</a></h4>
-<p class="teaser-description">Explore the Bethesda campus and how NIH turns discovery into health.</p>
-</div>
-<div class="teaser teaser-clickable">
-<div class="teaser-thumbnail"><div class="media media-element-container media-thumbnail"><div class="file file-image file-image-jpeg" id="file-66951--2">
-<h2 class="element-invisible"><a href="/nih-director/lawrence-tabak-portrait-thumbnail.jpg">lawrence-tabak-portrait-thumbnail.jpg</a></h2>
-<div class="content">
-<img alt="Portrait of Dr. Lawrence Tabak" class="media-element" data-delta="8" height="150" src="https://www.nih.gov/sites/default/files/styles/thumbnail/public/about-nih/nih-director/lawrence-tabak-portrait-thumbnail.jpg?itok=89vo1PxE" title="Dr. Lawrence Tabak" typeof="foaf:Image" width="150"/></div>
-</div>
-</div></div>
-<h4 class="teaser-title"><a href="/about-nih/who-we-are/nih-director">The NIH Director</a></h4>
-<p class="teaser-description">Lawrence A. Tabak, D.D.S., Ph.D., is the Acting NIH Director and provides leadership for the 27 institutes and centers that make up the NIH.</p>
-</div>
-<div class="teaser teaser-clickable">
-<div class="teaser-thumbnail"><div class="media media-element-container media-nih_at_a_glance"><div class="file file-image file-image-jpeg" id="file-346">
-<h2 class="element-invisible"><a href="/glance/nih-glance-funding.jpg">nih-at-a-glance-funding.jpg</a></h2>
-<div class="content">
-<img alt="Funding for Research" class="media-element" data-delta="3" height="150" src="https://www.nih.gov/sites/default/files/styles/thumbnail/public/home_0/at-a-glance/nih-at-a-glance-funding.jpg?itok=8s0rOmpa" title="Funding for Research" typeof="foaf:Image" width="150"/></div>
-</div>
-</div></div>
-<h4 class="teaser-title"><a href="http://grants.nih.gov">Funding for Research</a></h4>
-<p class="teaser-description">NIH is the largest source of funding for medical research in the world, creating hundreds of thousands of high-quality jobs.</p>
-</div>
-<div class="teaser teaser-clickable">
-<div class="teaser-thumbnail"><div class="media media-element-container media-nih_at_a_glance"><div class="file file-image file-image-jpeg" id="file-351">
-<h2 class="element-invisible"><a href="/glance/nih-glance-labs.jpg">nih-at-a-glance-labs.jpg</a></h2>
-<div class="content">
-<img alt="Labs at NIH" class="media-element" data-delta="4" height="150" src="https://www.nih.gov/sites/default/files/styles/thumbnail/public/home_0/at-a-glance/nih-at-a-glance-labs.jpg?itok=HFyWgTQv" title="Labs at NIH" typeof="foaf:Image" width="150"/></div>
-</div>
-</div></div>
-<h4 class="teaser-title"><a href="http://irp.nih.gov/">Labs at NIH</a></h4>
-<p class="teaser-description">Scientists conduct research on NIH campuses across the U.S., as part of our Intramural Research Program.</p>
-</div>
-<div class="teaser teaser-clickable">
-<div class="teaser-thumbnail"><div class="media media-element-container media-thumbnail"><div class="file file-image file-image-jpeg" id="file-71981--3">
-<h2 class="element-invisible"><a href="/impact/improving-health-collage.jpg">improving-health-collage.jpg</a></h2>
-<div class="content">
-<img alt="Composite graphic of health-focused imagery, with four groups of people in each of the four corners of the image surrounding a heartbeat monitor." class="media-element" data-delta="9" height="150" src="https://www.nih.gov/sites/default/files/styles/thumbnail/public/about-nih/impact/improving-health-collage.jpg?itok=qlnSxRIg" title="Composite graphic of health-focused imagery" typeof="foaf:Image" width="150"/></div>
-</div>
-</div></div>
-<h4 class="teaser-title"><a href="/about-nih/what-we-do/impact-nih-research">Impact of NIH Research</a></h4>
-<p class="teaser-description">NIH-supported research has had a major positive impact on nearly all of our lives.</p>
-</div>
-<div class="teaser teaser-clickable">
-<div class="teaser-thumbnail"><div class="media media-element-container media-thumbnail"><div class="file file-image file-image-jpeg" id="file-25826">
-<h2 class="element-invisible"><a href="/about-nih/researcher-holding-petri-dish.jpg">researcher-holding-petri-dish.jpg</a></h2>
-<div class="content">
-<img alt="Researcher holding a petri dish." class="media-element" data-delta="6" height="150" src="https://www.nih.gov/sites/default/files/styles/thumbnail/public/about-nih/researcher-holding-petri-dish.jpg?itok=af4KZKn0" title="Researcher holding a petri dish" typeof="foaf:Image" width="150"/></div>
-</div>
-</div></div>
-<h4 class="teaser-title"><a href="http://www.jobs.nih.gov/">Jobs at NIH</a></h4>
-<p class="teaser-description">The central recruitment point of access to all NIH jobs and training opportunities</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="block block--bean teaser-list teaser-list-no-thumbnails block--bean-home-covid-19" id="block-bean-home-covid-19">
-<h3 class="block__title">COVID-19</h3>
-<div class="block__content">
-<div about="/block/home---covid-19" class="entity entity-bean bean-featured-resources-initiatives">
-<div class="content">
-<div class="field--resource-items">
-<div class="teaser">
-<h4 class="teaser-title"><a href="/research-training/medical-research-initiatives/activ">ACTIV</a></h4>
-<p class="teaser-description">A public-private partnership to develop a coordinated research strategy to speed the most promising COVID-19 vaccines and treatments.</p>
-</div>
-<div class="teaser">
-<h4 class="teaser-title"><a href="/research-training/medical-research-initiatives/radx">Rapid Acceleration of Diagnostics (RADx)</a></h4>
-<p class="teaser-description">An initiative to speed innovation in the development, commercialization, and implementation of technologies for COVID-19 testing.</p>
-</div>
-<div class="teaser">
-<h4 class="teaser-title"><a href="https://recovercovid.org/">RECOVER</a></h4>
-<p class="teaser-description">A new research initiative to understand, prevent, and treat the long-term effects of COVID-19.</p>
-</div>
-<div class="teaser">
-<h4 class="teaser-title"><a href="https://www.covid19treatmentguidelines.nih.gov/">COVID-19 Treatment Guidelines</a></h4>
-<p class="teaser-description">Guidelines from NIH for the diagnosis, treatment, and control of COVID-19.</p>
-</div>
-<div class="teaser">
-<h4 class="teaser-title"><a href="https://covid19.nih.gov">Research information from NIH</a></h4>
-<p class="teaser-description">NIH supports research in COVID-19 testing, treatments, and vaccines. <a href="https://salud.nih.gov/temas-de-salud/covid-19" title="Información y recursos sobre el COVID-19 en español de los Institutos Nacionales de la Salud">También disponible en español.</a></p>
-</div>
-<div class="teaser">
-<h4 class="teaser-title"><a href="https://ors.od.nih.gov/sr/dohs/safety/NIH-covid-19-safety-plan/Pages/default.aspx">NIH COVID-19 Safety Plan</a></h4>
-<p class="teaser-description">Guidance to NIH staff, including employees, contractors, trainees, and volunteers, related to COVID-19.</p>
-</div> </div>
-</div>
-</div>
-</div>
-</div>
-<div class="block block--bean teaser-list teaser-list-no-thumbnails block--bean-featured-resources-initiatives" id="block-bean-featured-resources-initiatives">
-<h3 class="block__title">Featured Resources &amp; Initiatives</h3>
-<div class="block__content">
-<div about="/block/featured-resources--initiatives" class="entity entity-bean bean-featured-resources-initiatives">
-<div class="content">
-<div class="field--resource-items">
-<div class="teaser">
-<h4 class="teaser-title"><a href="/arpa-h">ARPA-H</a></h4>
-<p class="teaser-description">A new science agency proposed by President Joseph Biden as part of NIH to drive biomedical breakthroughs and provide transformative solutions for all patients.</p>
-</div>
-<div class="teaser">
-<h4 class="teaser-title"><a href="/anti-sexual-harassment">Anti-Sexual Harassment</a></h4>
-<p class="teaser-description">NIH does not tolerate pervasive or severe harassment of any kind, including sexual harassment.</p>
-</div>
-<div class="teaser">
-<h4 class="teaser-title"><a href="/ending-structural-racism">Ending Structural Racism</a></h4>
-<p class="teaser-description">Learn more about NIH’s efforts to end structural racism in biomedical research through the UNITE initiative.</p>
-</div>
-<div class="teaser">
-<h4 class="teaser-title"><a href="http://allofus.nih.gov"><em>All of Us</em> Research Program</a></h4>
-<p class="teaser-description">A research effort to revolutionize how we improve health and treat disease.</p>
-</div>
-<div class="teaser">
-<h4 class="teaser-title"><a href="https://heal.nih.gov/">NIH HEAL Initiative</a></h4>
-<p class="teaser-description">Trans-agency effort to speed scientific solutions to stem the national opioid crisis.</p>
-</div>
-<div class="teaser">
-<h4 class="teaser-title"><a href="/health-information/nih-clinical-research-trials-you">Clinical Trials</a></h4>
-<p class="teaser-description">Learn about participating in clinical trials and where to find them.</p>
-</div>
-<div class="teaser">
-<h4 class="teaser-title"><a href="/research-training/accelerating-medicines-partnership-amp">Accelerating Medicines Partnership</a></h4>
-<p class="teaser-description">A bold venture to help identify new treatments and cures for diseases.</p>
-</div>
-<div class="teaser">
-<h4 class="teaser-title"><a href="/research-training/medical-research-initiatives">Medical Research Initiatives</a></h4>
-<p class="teaser-description">Important initiatives aimed at improving medical research.</p>
-</div>
-<div class="teaser">
-<h4 class="teaser-title"><a href="/research-training/training-opportunities">Training at NIH</a></h4>
-<p class="teaser-description">NIH provides training opportunities internally, as well as at universities and other institutions across the U.S.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="block block--bean teaser-list teaser-list-no-thumbnails block--bean-home-nondiscrimination-notice-" id="block-bean-home-nondiscrimination-notice-">
-<h3 class="block__title">Nondiscrimination Notice and Language Assistance Services</h3>
-<div class="block__content">
-<div about="/block/home---nondiscrimination-notice-" class="ds-1col entity entity-bean bean-basic-block view-mode-default clearfix">
-<ul class="inline-link-list"><li><a href="/nondiscrimination-notice-language-assistance-services">English</a></li>
-<li><a href="/nondiscrimination-notice-language-assistance-services#spanish" lang="es" xml:lang="es">Español</a></li>
-<li><a href="/nondiscrimination-notice-language-assistance-services#chinese" lang="zh" xml:lang="zh">繁體中文</a></li>
-<li><a href="/nondiscrimination-notice-language-assistance-services#vietnamese" lang="vi" xml:lang="vi">Tiếng Việt</a></li>
-<li><a href="/nondiscrimination-notice-language-assistance-services#korean" lang="ko" xml:lang="ko">한국어</a></li>
-<li><a href="/nondiscrimination-notice-language-assistance-services#tagalog" lang="tl" xml:lang="tl">Tagalog</a></li>
-<li><a href="/nondiscrimination-notice-language-assistance-services#russian" lang="ru" xml:lang="ru">Русский</a></li>
-<li><a dir="rtl" href="/nondiscrimination-notice-language-assistance-services#arabic" lang="ar" xml:lang="ar">العربي</a></li>
-<li><a href="/nondiscrimination-notice-language-assistance-services#creole" lang="ht" xml:lang="ht">Kreyòl Ayisyen</a></li>
-<li><a href="/nondiscrimination-notice-language-assistance-services#french" lang="fr" xml:lang="fr">Français</a></li>
-<li><a href="/nondiscrimination-notice-language-assistance-services#polish" lang="pl" xml:lang="pl">Polski</a></li>
-<li><a href="/nondiscrimination-notice-language-assistance-services#portuguese" lang="pt" xml:lang="pt">Português</a></li>
-<li><a href="/nondiscrimination-notice-language-assistance-services#italian" lang="it" xml:lang="it">Italiano</a></li>
-<li><a href="/nondiscrimination-notice-language-assistance-services#german" lang="de" xml:lang="de">Deutsch</a></li>
-<li><a href="/nondiscrimination-notice-language-assistance-services#japanese" lang="ja" xml:lang="ja">日本語</a></li>
-<li><a dir="rtl" href="/nondiscrimination-notice-language-assistance-services#farsi" lang="fa" xml:lang="fa">فارس</a></li>
-</ul></div>
-</div>
-</div>
-</div>
-</div>
-<div class="l-connect-wrapper">
-<div class="l-connect">
-<h2 class="element-invisible">Connect with Us</h2>
-<ul>
-<li><a class="contactus-monochrome" href="/about-nih/contact-us"><span class="icon"></span>Contact Us</a></li>
-<li><a class="twitter-monochrome" href="https://twitter.com/NIH"><span class="icon"></span>Twitter</a></li>
-<li><a class="facebook-monochrome" href="https://www.facebook.com/nih.gov"><span class="icon"></span>Facebook</a></li>
-<li><a class="instagram-monochrome" href="https://www.instagram.com/nihgov/"><span class="icon"></span>Instagram</a></li>
-<li><a class="youtube-monochrome" href="https://www.youtube.com/user/nihod"><span class="icon"></span>YouTube</a></li>
-<li><a class="flickr-monochrome" href="https://www.flickr.com/photos/nihgov/"><span class="icon"></span>Flickr</a></li>
-<li><a class="social-monochrome" href="/news-events/social-media-outreach"><span class="icon"></span>More Social Media from NIH</a></li>
-</ul>
-</div>
-</div> </div>
-</div>
-<div class="l-footer-wrapper">
-<footer class="l-footer" role="contentinfo">
-<h2 class="element-invisible">Footer</h2>
-<ul>
-<li><a href="/">NIH Home</a></li>
-<li><a href="https://salud.nih.gov">En Español</a></li>
-<li><a href="/site-map">Site Map</a></li>
-<li><a href="/about-nih/visitor-information">Visitor Information</a></li>
-<li><a href="/about-nih/frequently-asked-questions">Frequently Asked Questions</a></li>
-<li><a href="/privacy-policy">Privacy Policy</a></li>
-<li><a href="/disclaimers">Disclaimers</a></li>
-<li><a href="/accessibility">Accessibility</a></li>
-<li><a href="/nih-website-archives">NIH Website Archives</a></li>
-</ul>
-<ul>
-<li><a href="/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office">Freedom of Information Act</a></li>
-<li><a href="https://www.edi.nih.gov/no-fear-act">No Fear Act</a></li>
-<li><a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html">HHS Vulnerability Disclosure</a></li>
-<li><a href="https://oig.hhs.gov">Office of Inspector General</a></li>
-<li><a class="lastTab" href="https://www.usa.gov/">USA.gov – Government Made Easy</a></li>
-</ul>
-<p>NIH…Turning Discovery Into Health<sup>®</sup></p>
-<p>National Institutes of Health, 9000 Rockville Pike, Bethesda, Maryland 20892</p>
-<p><a href="https://www.hhs.gov">U.S. Department of Health and Human Services</a></p>
-</footer>
-</div>
-<div class="back-to-top"><a href="#"><span class="icon-arrow-up"></span><span class="text">Back to Top</span></a></div>
-</div>
-</div>
-<script src="https://www.nih.gov/sites/default/files/js/js_u7NkY8T8nlOgV0rVVicmfB0CUuCvZZE_2_NkS4ohh6A.js"></script>
-<script src="https://www.nih.gov/sites/default/files/js/js_E9yUYWK8EMydR0HMIp2PahVxPAClXyH0Cnh782A15UM.js"></script>
-</body>
-</html>
+<div class="popup popup--form mfp-hide" id="popup-reservations-form">
+<form class="reservations-form form-alt container-sm">
+<div aria-hidden="true" data-bb-track="form" data-bb-track-action="Submit" data-bb-track-category="Forms" data-bb-track-label="Reservations" data-bb-track-on="submit"></div>
+<div class="form-header"><h2 class="h1 form-heading">Reservations</h2>
+</div>
+<div class="form-ui">
+<label class="input--hidden" for="location">
+<i class="error-label"></i>
+<span class="input-label">Location
+								<span class="input-label-required">- Required</span>
+</span>
+<div class="form-control-group has-icon-right">
+<select aria-describedby="location" class="form-control unselected" id="location" name="location" required="">
+<option disabled="" value="">Location</option>
+<option data-reservation-api-key="" data-reservation-id="3038" data-reservation-service="resy" selected="" value="site">Blue Smoke
+										</option>
+</select>
+<span aria-hidden="true" class="form-control-group--icon is-positioned-right">
+<i class="fa fa-chevron-down"></i>
+</span>
+</div>
+</label>
+<label for="seats">
+<span aria-hidden="true" class="input-label">Number of People
+								<span class="input-label-optional">- Optional</span>
+</span>
+<div class="form-control-group has-icon-right">
+<select class="form-control unselected" id="seats" name="seats">
+<option disabled="" selected="" value="">Number of People</option>
+<option value="1">1 Person</option>
+<option value="2">2 People</option>
+<option value="3">3 People</option>
+<option value="4">4 People</option>
+<option value="5">5 People</option>
+<option value="6">6 People</option>
+<option value="7">7 People</option>
+<option value="8">8+ People</option>
+</select>
+<span aria-hidden="true" class="form-control-group--icon is-positioned-right">
+<i class="fa fa-chevron-down"></i>
+</span>
+</div>
+</label>
+<label for="date">
+<i class="error-label"></i>
+<span class="input-label">Date
+								<span class="input-label-required">- Required</span>
+</span>
+<div data-react-component="accessible-date-picker"></div>
+</label>
+<label for="time">
+<span aria-hidden="true" class="input-label">Time
+								<span class="input-label-optional">- Optional</span>
+</span>
+<div class="form-control-group has-icon-left has-icon-right">
+<span aria-hidden="true" class="form-control-group--icon is-positioned-left">
+<i class="fa fa-clock-o"></i>
+</span>
+<select class="form-control unselected" id="time" name="time">
+<option disabled="" selected="" value="">Time</option>
+<option value="0700">7:00 AM</option>
+<option value="0730">7:30 AM</option>
+<option value="0800">8:00 AM</option>
+<option value="0830">8:30 AM</option>
+<option value="0900">9:00 AM</option>
+<option value="0930">9:30 AM</option>
+<option value="1000">10:00 AM</option>
+<option value="1030">10:30 AM</option>
+<option value="1100">11:00 AM</option>
+<option value="1130">11:30 AM</option>
+<option value="1200">12:00 PM</option>
+<option value="1230">12:30 PM</option>
+<option value="1300">1:00 PM</option>
+<option value="1330">1:30 PM</option>
+<option value="1400">2:00 PM</option>
+<option value="1430">2:30 PM</option>
+<option value="1500">3:00 PM</option>
+<option value="1530">3:30 PM</option>
+<option value="1600">4:00 PM</option>
+<option value="1630">4:30 PM</option>
+<option value="1700">5:00 PM</option>
+<option value="1730">5:30 PM</option>
+<option value="1800">6:00 PM</option>
+<option value="1830">6:30 PM</option>
+<option value="1900">7:00 PM</option>
+<option value="1930">7:30 PM</option>
+<option value="2000">8:00 PM</option>
+<option value="2030">8:30 PM</option>
+<option value="2100">9:00 PM</option>
+<option value="2130">9:30 PM</option>
+<option value="2200">10:00 PM</option>
+<option value="2230">10:30 PM</option>
+<option value="2300">11:00 PM</option>
+</select>
+<span aria-hidden="true" class="form-control-group--icon is-positioned-right">
+<i class="fa fa-chevron-down"></i>
+</span>
+</div>
+</label>
+</div>
+<div class="form-actions">
+<button class="btn btn-brand-alt" type="submit">Find A Table</button>
+<span class="form-error-msg">Please check errors in the form above</span>
+</div>
+<div class="form-success-msg">
+<span>Thanks!</span>
+</div>
+</form>
+</div>
+<script src="https://theme-assets.getbento.com/sensei/83a3e5e.sensei/assets/js/foot.libs.min.js" type="text/javascript"></script>
+<script src="https://theme-assets.getbento.com/sensei/83a3e5e.sensei/assets/js/bentobox.min.js" type="text/javascript"></script>
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-PGCCJ6T" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<script id="alerts-component-script" src="https://app-assets.getbento.com/alerts-component/5c6af41/main.js" type="text/javascript"></script>
+<script src="https://app-assets.getbento.com/alerts-component/5c6af41/main.js.map" type="text/javascript"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function(){
+		const has_diner_signup_ff = "false" === 'true'
+
+      	window.bentobox.overlayAlertComponent.init(
+			'div',  { has_diner_signup_ff }
+	  	);
+      	window.bentobox.bannerAlertComponent.init();
+    });
+  </script>
+<script data-bentoanalytics='{"account": "bluesmoke-redesign", "theme": "sensei", "template": "index.html", "preset": "sensei-fine-dining-preset", "cartType": "", "indicativeApiKey": "62e150f7-1993-460b-90ab-1bb1bd494ad7", "snowplowAppId": "customer-websites", "devMode": false, "templateNameFromMapping": "Landing Page"}' src="https://app-assets.getbento.com/analytics/e87720c/bento-analytics.min.js" type="text/javascript"></script></body></html>

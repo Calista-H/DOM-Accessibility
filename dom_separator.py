@@ -6,16 +6,16 @@ import pandas as pd
 class CSVTextFileExporter:
     def __init__(self):
         self.df = pd.read_csv('oldUrlViolations.csv')
+        self.unique_urls = None  # Initialize as None
 
     # drop rows where the 'DOM' column contains potential issues
     def drop_potential_issues(self):
         indices_to_drop = [31, 54, 55, 56, 57]
         self.df = self.df.drop(indices_to_drop)
-        #real
         self.df = self.df[self.df['webURL'] != 'https://colab.research.google.com/']
         self.df = self.df[self.df['webURL'] != 'https://padlet.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.belkin.com/']
-        
+
         """
         self.df = self.df[self.df['webURL'] != 'https://calendar.google.com/']
         self.df = self.df[self.df['webURL'] != 'https://creativecommons.org/']
@@ -31,7 +31,7 @@ class CSVTextFileExporter:
         self.df = self.df[self.df['webURL'] != 'https://partakefoods.com/']
         self.df = self.df[self.df['webURL'] != 'https://playwright.dev/']
         self.df = self.df[self.df['webURL'] != 'https://shop.lonelyplanet.com/']
-        self.df = self.df[self.df['webURL'] != 'https://slack.com/']
+        #self.df = self.df[self.df['webURL'] != 'https://slack.com/']
         self.df = self.df[self.df['webURL'] != 'https://snacknation.com/']
         self.df = self.df[self.df['webURL'] != 'https://soundcloud.com/']
         self.df = self.df[self.df['webURL'] != 'https://stackoverflow.com/']
@@ -116,30 +116,48 @@ class CSVTextFileExporter:
         self.df = self.df[self.df['webURL'] != 'https://zoom.us/']
         """
 
+    def create_unique_urls(self):
+        self.unique_urls = self.df['webURL'].unique()
 
     def save_text_files(self):
-
-        num_rows = len(self.df)
-
-        self.df['idnum'] = list(range(1, num_rows + 1))
 
         # Create a directory to store the text files
         os.makedirs('DOM', exist_ok=True)
 
+        # Call create_unique_urls to populate unique_urls
+        self.create_unique_urls()
+
+        # Create a mapping of unique webURL to numbers
+        url_to_number = {url: idx for idx, url in enumerate(self.unique_urls, start=1)}
+
+        # Create a mapping of unique DOMs to numbers
+        url_to_dom_number = {}
+
         # Iterate through each row in the CSV
         for index, row in self.df.iterrows():
-            item_id = row['idnum']
-            item_text = row['DOM']
+            url = row['webURL']
+            dom_content = row['DOM']
 
-            # Save the item as a text file within the main folder
-            item_file_path = os.path.join('DOM', f'{item_id}.txt')
-            with open(item_file_path, 'w') as text_file:
-                text_file.write(item_text)
+            # Get the assigned number for this URL
+            url_number = url_to_number[url]
 
-        self.df['DOM'] = self.df['idnum']
+            # Check if the DOM content has been assigned a number before
+            if url in url_to_dom_number:
+                number = url_to_dom_number[url]
+            else:
+                # If not, assign a new number
+                number = len(url_to_dom_number) + 1
+                url_to_dom_number[url] = number
+            
+             # Update the 'DOM' column with the assigned number
+            self.df.at[index, 'DOM'] = number
 
-         # Delete the 'idnum' column
-        self.df.drop(columns=['idnum'], inplace=True)
+            # Create a file for this URL with the assigned number as the filename
+            file_path = os.path.join('DOM', f'{url_number}.txt')
+            with open(file_path, 'w') as text_file:
+                text_file.write(dom_content)
+        
+        # Save the updated DataFrame to a new CSV file
         self.df.to_csv('urlViolations.csv')
 
 exporter = CSVTextFileExporter()

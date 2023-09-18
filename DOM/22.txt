@@ -1,83 +1,353 @@
-
 <!DOCTYPE html>
+<html dir="ltr" lang="en-US"><head><style nonce="lH3Q-1jDtQ0xeDA7e5ukqA">
+a, a:link, a:visited, a:active, a:hover {
+  color: #1a73e8;
+  text-decoration: none;
+}
+body {
+  font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  text-align: center;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+.box {
+  border: 1px solid #dadce0;
+  box-sizing: border-box;
+  border-radius: 8px;
+  margin: 24px auto 5px auto;
+  max-width: 800px;
+  padding: 24px;
+}
+h1 {
+  color: #2c2c2c;
+  font-size: 24px;
+  hyphens: auto;
+  margin: 24px 0;
+}
+.icaCallout {
+  background-color: #f8f9fa;
+  padding: 12px 16px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+p, .sub, .contentText, .icaCallout {
+  color: #5f6368;;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2px;
+  text-align: left;
+}
+.signin {
+  text-align: right;
+}
+.signinUIModernization {
+  height: 36px;
+  text-align: right;
+}
+.signinButonDisplayUIModernization {
+  display: inline-block;
+  box-sizing: border-box;
+}
+.signinUIModernization a,
+.signinUIModernization a:link,
+.signinUIModernization a:visited,
+.signinUIModernization a:active,
+.signinUIModernization a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+.signinUIModernization a:focus {
+  color: #0f0f0f;
+  text-decoration: none;
+}
+.saveButtonContainer,
+.saveButtonContainerNarrowScreen {
+  width: 100%;
+  margin-top: 12px;
+}
+.customButtonContainer {
+  height: 20px;
+  padding: 8px 0;
+  margin-top: 8px;
+}
+.navigationCtasYoutube {
+  text-align: right;
+}
+a.button {
+  color: #fff;
+}
+a.hairlinebutton,
+a.nolinebutton{
+  color: #1a73e8;
+}
+.navigationCtasYoutube a.hairlinebutton {
+  border-color: #1a73e8;
+}
+button, .button {
+  background-color: #1a73e8;
+  border: none;
+  color: #fff;
+}
+input.button {
+  -webkit-appearance: none;
+}
+.basebutton {
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 36px;
+  margin: 12px 4px 0;
+  padding: 8px 24px;
+}
+.hairlinebutton {
+  background-color: #fff;
+  border-width: 1px;
+  border-color: #dadce0;
+  border-style: solid;
+  max-height: 15px;
+}
+.basebuttonUIModernization {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 18px;
+  border-radius: 18px;
+  cursor: pointer;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  min-width: 75px;
+  height: 36px;
+  padding: 7px 12px;
+}
+.hairlinebuttonUIModernization {
+  background-color: #0f0f0f;
+  border-width: 2px;
+  border-color: transparent;
+  border-style: solid;
+  color: #fff;
+  }
+.hairlinebuttonUIModernization:focus {
+  background-color: #fff;
+  border-width: 1px;
+  border-color: #0f0f0f;
+  border-style: solid;
+  color: #0f0f0f;
+  padding: 8px 12px;
+}
+.customizeButtonUIModernization {
+  min-width: 120px;
+  background-color: #f2f2f2;
+  text-align: center;
+}
+.customizeButtonUIModernization:focus {
+  background-color: #fff;
+  border-width: 1px;
+  border-color: #0f0f0f;
+  border-style: solid;
+  padding: 8px 12px;
+}
+a.basebuttonUIModernization.customizeButtonUIModernization,
+a.basebuttonUIModernization.customizeButtonUIModernization:link,
+a.basebuttonUIModernization.customizeButtonUIModernization:visited,
+a.basebuttonUIModernization.customizeButtonUIModernization:active,
+a.basebuttonUIModernization.customizeButtonUIModernization:hover {
+  color: #0f0f0f;
+  text-decoration: none;
+}
+a.basebuttonUIModernization.customizeButtonUIModernization:focus {
+  color: #0f0f0f;
+  text-decoration: none;
+}
+.saveButtonUIModernization {
+  min-width: 120px;
+  text-align: center;
+}
+.detailsButtonUIModernization {
+  min-width: 220px;
+  text-align: center;
+  background-color: #0f0f0f;
+  border-width: 1px;
+  border-color: transparent;
+  border-style: solid;
+  color: #fff;
+}
+.detailsButtonUIModernization:focus {
+  background-color: #fff;
+  border-width: 1px;
+  border-color: #0f0f0f;
+  border-style: solid;
+  color: #0f0f0f;
+}
+.error {
+  border: 2px solid #d93025;
+  border-radius: 5px;
+  color: #d93025;
+  margin: auto;
+  padding: 5px;
+}
+.box a:hover, .detailspage a:hover {
+  text-decoration: underline;
+}
+.footer {
+  margin-top: 16px;
+}
+.footer a {
+  margin-left: 24px;
+  white-space: nowrap;
+}
+.footer a, .footer select, .footer input {
+  color: #757575;
+  font-size: 12px;
+}
+.languagepicker {
+  display: inline-flex;
+  margin: 2px 0;
+}
+#languageform,
+#languageselect {
+  margin: 0 2px;
+}
+#languageselect {
+  color: #757575;
+}
+.detailspage {
+  margin: 24px auto 0 auto;
+  max-width: 700px;
+}
+.detailspage h1, .detailspage h2 {
+  font-size: 22px
+}
+.setting {
+  border: 1px solid #dadce0;
+  box-sizing: border-box;
+  border-radius: 8px;
+  margin-bottom: 11px;
+  padding: 24px 24px 20px 24px;
+  text-align: right;
+}
+.sub {
+  padding: 24px 24px 20px 24px;
+}
+hr {
+  margin: 12px -24px 12px;
+  border: 0;
+  border-top: 1px solid #dadce0;
+}
+fieldset {
+  border: none;
+  padding: 0;
+}
+label {
+  margin: 24px;
+}
+td {
+  vertical-align: top;
+}
+.setting h2, .setting h3, h4 {
+  color: #3c4043;
+  margin: 0;
+  text-align: left;
+}
+.yt-text {
+  color: #5f6368;
+  font-size: 14px;
+  font-weight: 300;
+}
+.ytTextUIModernization {
+  color: #5f6368;
+  font-size: 14px;
+  font-weight: 300;
+  display: inline-block;
+}
+.productLogoContainer {
+  margin: auto;
+  max-width: 360px;
+}
 
-<html lang="en">
-<head>
-<title>Kaggle: Your Machine Learning and Data Science Community</title>
-<meta charset="utf-8"/>
-<meta content="index, follow" name="robots"/>
-<meta content="Kaggle is the world’s largest data science community with powerful tools and resources to help you achieve your data science goals." name="description"/>
-<meta content="no-cache" name="turbolinks-cache-control"/>
-<meta content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0" name="viewport"/>
-<meta content="#008ABC" name="theme-color">
-<script nonce="bhyKH7q9S/wirPji2sBOXA==" type="text/javascript">
-    window["pageRequestStartTime"] = 1692074902838;
-    window["pageRequestEndTime"] = 1692074902844;
-    window["initialPageLoadStartTime"] = new Date().getTime();
-  </script>
-<link crossorigin="anonymous" href="https://www.google-analytics.com" rel="preconnect"/><link href="https://stats.g.doubleclick.net" rel="preconnect"/><link href="https://storage.googleapis.com" rel="preconnect"/><link href="https://apis.google.com" rel="preconnect"/>
-<link href="/static/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
-<link crossorigin="use-credentials" href="/static/json/manifest.json" rel="manifest"/>
-<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect">
-<link as="style" href="https://fonts.googleapis.com/icon?family=Google+Material+Icons&amp;display=block" rel="preload"/>
-<link as="style" href="https://fonts.googleapis.com/css?family=Inter:400,400i,500,500i,600,600i,700,700i&amp;display=swap" rel="preload"/>
-<link href="https://fonts.googleapis.com/icon?family=Google+Material+Icons&amp;display=block" id="async-google-font-1" media="print" rel="stylesheet"/>
-<link href="https://fonts.googleapis.com/css?family=Inter:400,400i,500,500i,600,600i,700,700i&amp;display=swap" id="async-google-font-2" media="print" rel="stylesheet"/>
-<script nonce="bhyKH7q9S/wirPji2sBOXA==" type="text/javascript">
-    const styleSheetIds = ["async-google-font-1", "async-google-font-2"];
-    styleSheetIds.forEach(function (id) {
-      document.getElementById(id).addEventListener("load", function() {
-        this.media = "all";
-      });
-    });
-  </script>
-<link href="/static/assets/vendor.css?v=dd064d680b3ca5c8a76b" rel="stylesheet" type="text/css"/>
-<link href="/static/assets/app.css?v=c5ea368bfe8bd6c8f533" rel="stylesheet" type="text/css"/>
-<script nonce="bhyKH7q9S/wirPji2sBOXA==">
-        try{(function(a,s,y,n,c,h,i,d,e){d=s.createElement("style");
-        d.appendChild(s.createTextNode(""));s.head.appendChild(d);d=d.sheet;
-        y=y.map(x => d.insertRule(x + "{ opacity: 0 !important }"));
-        h.start=1*new Date;h.end=i=function(){y.forEach(x => x<d.cssRules.length ? d.deleteRule(x) : {})};
-        (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
-        })(window,document,['.site-header-react__nav'],'dataLayer',2000,{'GTM-52LNT9S':true});}catch(ex){}
-    </script>
-<script nonce="bhyKH7q9S/wirPji2sBOXA==">
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-        gtag('config', 'G-T7QHS60L4Q', {
-            'optimize_id': 'GTM-52LNT9S',
-            'displayFeaturesTask': null,
-            'send_page_view': false,
-            'content_group1': 'Home'
-        });
-    </script>
-<script async="" nonce="bhyKH7q9S/wirPji2sBOXA==" src="https://www.googletagmanager.com/gtag/js?id=G-T7QHS60L4Q"></script>
-<meta content="Kaggle: Your Machine Learning and Data Science Community" property="og:title"/>
-<meta content="Kaggle is the world’s largest data science community with powerful tools and resources to help you achieve your data science goals." property="og:description"/>
-<meta content="https://www.kaggle.com/" property="og:url"/>
-<meta content="website" property="og:type"/>
-<meta content="@Kaggle" name="twitter:site"/>
-<script nonce="bhyKH7q9S/wirPji2sBOXA==">window['useKaggleAnalytics'] = true;</script>
-<script async="" defer="" id="gapi-target" nonce="bhyKH7q9S/wirPji2sBOXA==" src="https://apis.google.com/js/api.js"></script>
-<script data-turbolinks-track="reload" nonce="bhyKH7q9S/wirPji2sBOXA==" src="/static/assets/runtime.js?v=d5f3c9e895cf47e259d6"></script>
-<script data-turbolinks-track="reload" nonce="bhyKH7q9S/wirPji2sBOXA==" src="/static/assets/vendor.js?v=4306927b086ff81d87b2"></script>
-<script data-turbolinks-track="reload" nonce="bhyKH7q9S/wirPji2sBOXA==" src="/static/assets/app.js?v=e30d236f33f1a68ecb22"></script>
-<script nonce="bhyKH7q9S/wirPji2sBOXA==" type="text/javascript">
-      window.kaggleStackdriverConfig = {
-        key: 'AIzaSyA4eNqUdRRskJsCZWVz-qL655Xa5JEMreE',
-        projectId: 'kaggle-161607',
-        service: 'web-fe',
-        version: 'ci',
-        userId: '0'
-      }
-    </script>
-</link></meta></head>
-<body data-turbolinks="false">
-<main>
-<div id="site-container"></div>
-<div class="hide" id="site-body">
-</div>
-</main>
-</body>
-</html>
+/** Narrow screen (for example a mobile device). */
+@media only screen and (max-width: 480px) {
+  body {
+    margin: 18px 14px;
+  }
+  .footer form {
+    margin-bottom: 3px;
+  }
+  .imgContainer {
+    min-width: 96px;
+  }
+  button, .button {
+    width:100%;
+  }
+  .basebutton {
+    margin: 12px 0 0;
+  }
+  .hideOnSmallWidth {
+    display: none;
+  }
+  .saveButtonContainerNarrowScreen {
+    display: inline-block;
+  }
+  .saveButtonContainer {
+    display: none;
+  }
+  .navigationCtasYoutube a.hairlinebutton {
+    display: block;
+    text-align: center;
+  }
+  .detailsButtonUIModernization,
+  .customizeButtonUIModernization,
+  .saveButtonUIModernization {
+    display: block;
+    box-sizing: border-box;
+    width:100%;
+    margin-top: 12px;
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  .imgContainer {
+    min-width: 72px;
+  }
+}
+
+/** Normal/non-narrow screen. */
+@media not screen and (max-width: 480px) {
+  body {
+    margin: 18px 25px;
+  }
+  .footer form {
+    display: inline;
+  }
+  .imgContainer {
+    width: 51%;
+  }
+  button, .button {
+    width: auto;
+  }
+  .searchButton {
+    min-width: 182px;
+  }
+  .detailsButton {
+    min-width: 220px;
+  }
+  .hideOnNormalWidth {
+    display: none;
+  }
+  .saveButtonContainer {
+    display: inline-block;
+  }
+  .saveButtonContainerNarrowScreen {
+    display: none;
+  }
+  .saveButtonUIModernization {
+    margin-left: 8px;
+  }
+  .detailsButtonUIModernization {
+    margin-top: 12px;
+  }
+}
+</style><title>Before you continue</title><meta content="initial-scale=1, maximum-scale=5, width=device-width" name="viewport"/><link href="//www.google.com/favicon.ico" rel="shortcut icon"/></head><body><div class="signin"><a class="basebutton hairlinebutton" href="https://accounts.google.com/ServiceLogin?hl=en-US&amp;continue=https://news.google.com/&amp;gae=cb-">Sign in</a></div><div class="box"><img alt="Google" height="28" src="//www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_68x28dp.png" srcset="//www.gstatic.com/images/branding/googlelogo/2x/googlelogo_color_68x28dp.png 2x" width="68"/><h1>Before you continue to Google</h1><div class="contentText">We use <a href="https://policies.google.com/technologies/cookies?hl=en-US&amp;utm_source=ucb" target="_blank">cookies</a> and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to understand how our services are used and enhance the quality of those services</li></ul>If you choose to “Accept all,” we will also use cookies and data to<ul><li>Develop and improve new services</li><li>Deliver and measure the effectiveness of ads</li><li>Show personalized content, depending on your settings</li><li>Show personalized ads, depending on your settings</li></ul><div>If you choose to “Reject all,” we will not use cookies for these additional purposes.</div><br/><div>Non-personalized content is influenced by things like the content you’re currently viewing, activity in your active Search session, and your location. Non-personalized ads are influenced by the content you’re currently viewing and your general location. Personalized content and ads can also include more relevant results, recommendations, and tailored ads based on past activity from this browser, like previous Google searches. We also use cookies and data to tailor the experience to be age-appropriate, if relevant.</div><br/>Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.</div><div class="saveButtonContainer"><form action="https://consent.google.com/save" method="POST" style="display:inline;"><input name="bl" type="hidden" value="boq_identityfrontenduiserver_20230808.05_p0"/><input name="x" type="hidden" value="8"/><input name="gl" type="hidden" value="NL"/><input name="m" type="hidden" value="0"/><input name="app" type="hidden" value="0"/><input name="pc" type="hidden" value="n"/><input name="continue" type="hidden" value="https://news.google.com/"/><input name="hl" type="hidden" value="en-US"/><input name="cm" type="hidden" value="2"/><input name="set_eom" type="hidden" value="true"/><input aria-label="Reject all" class="basebutton button searchButton" type="submit" value="Reject all"/></form><form action="https://consent.google.com/save" method="POST" style="display:inline;"><input name="bl" type="hidden" value="boq_identityfrontenduiserver_20230808.05_p0"/><input name="x" type="hidden" value="8"/><input name="gl" type="hidden" value="NL"/><input name="m" type="hidden" value="0"/><input name="app" type="hidden" value="0"/><input name="pc" type="hidden" value="n"/><input name="continue" type="hidden" value="https://news.google.com/"/><input name="hl" type="hidden" value="en-US"/><input name="cm" type="hidden" value="2"/><input name="set_eom" type="hidden" value="false"/><input name="set_sc" type="hidden" value="true"/><input name="set_aps" type="hidden" value="true"/><input aria-label="Accept all" class="basebutton button searchButton" type="submit" value="Accept all"/></form></div><div class="saveButtonContainerNarrowScreen"><form action="https://consent.google.com/save" method="POST" style="display:block;"><input name="bl" type="hidden" value="boq_identityfrontenduiserver_20230808.05_p0"/><input name="x" type="hidden" value="8"/><input name="gl" type="hidden" value="NL"/><input name="m" type="hidden" value="0"/><input name="app" type="hidden" value="0"/><input name="pc" type="hidden" value="n"/><input name="continue" type="hidden" value="https://news.google.com/"/><input name="hl" type="hidden" value="en-US"/><input name="cm" type="hidden" value="2"/><input name="set_eom" type="hidden" value="false"/><input name="set_sc" type="hidden" value="true"/><input name="set_aps" type="hidden" value="true"/><input aria-label="Accept all" class="basebutton button searchButton" type="submit" value="Accept all"/></form><form action="https://consent.google.com/save" method="POST" style="display:block;"><input name="bl" type="hidden" value="boq_identityfrontenduiserver_20230808.05_p0"/><input name="x" type="hidden" value="8"/><input name="gl" type="hidden" value="NL"/><input name="m" type="hidden" value="0"/><input name="app" type="hidden" value="0"/><input name="pc" type="hidden" value="n"/><input name="continue" type="hidden" value="https://news.google.com/"/><input name="hl" type="hidden" value="en-US"/><input name="cm" type="hidden" value="2"/><input name="set_eom" type="hidden" value="true"/><input aria-label="Reject all" class="basebutton button searchButton" type="submit" value="Reject all"/></form></div><div class="customButtonContainer"><a class="basebutton nolinebutton" href="https://consent.google.com/dl?continue=https://news.google.com/&amp;gl=NL&amp;hl=en-US&amp;cm=2&amp;pc=n&amp;src=1">More options</a></div></div><div class="footer"><form action="https://consent.google.com/ml" method="get"><select id="languageselect" name="hl"><option value="af">Afrikaans</option><option value="az">azərbaycan</option><option value="bs">bosanski</option><option value="ca">català</option><option value="cs">Čeština</option><option value="cy">Cymraeg</option><option value="da">Dansk</option><option value="de">Deutsch</option><option value="et">eesti</option><option value="en-GB">English (United Kingdom)</option><option value="en">English (United States)</option><option value="es">Español (España)</option><option value="es-419">Español (Latinoamérica)</option><option value="eu">euskara</option><option value="fil">Filipino</option><option value="fr-CA">Français (Canada)</option><option value="fr">Français (France)</option><option value="ga">Gaeilge</option><option value="gl">galego</option><option value="hr">Hrvatski</option><option value="id">Indonesia</option><option value="zu">isiZulu</option><option value="is">íslenska</option><option value="it">Italiano</option><option value="sw">Kiswahili</option><option value="lv">latviešu</option><option value="lt">lietuvių</option><option value="hu">magyar</option><option value="ms">Melayu</option><option value="nl">Nederlands</option><option value="no">norsk</option><option value="uz">o‘zbek</option><option value="pl">polski</option><option value="pt-BR">Português (Brasil)</option><option value="pt-PT">Português (Portugal)</option><option value="ro">română</option><option value="sq">shqip</option><option value="sk">Slovenčina</option><option value="sl">slovenščina</option><option value="sr-Latn">srpski (latinica)</option><option value="fi">Suomi</option><option value="sv">Svenska</option><option value="vi">Tiếng Việt</option><option value="tr">Türkçe</option><option value="el">Ελληνικά</option><option value="be">беларуская</option><option value="bg">български</option><option value="ky">кыргызча</option><option value="kk">қазақ тілі</option><option value="mk">македонски</option><option value="mn">монгол</option><option value="ru">Русский</option><option value="sr">српски</option><option value="uk">Українська</option><option value="ka">ქართული</option><option value="hy">հայերեն</option><option value="iw">עברית</option><option value="ur">اردو</option><option value="ar">العربية</option><option value="fa">فارسی</option><option value="am">አማርኛ</option><option value="ne">नेपाली</option><option value="mr">मराठी</option><option value="hi">हिन्दी</option><option value="as">অসমীয়া</option><option value="bn">বাংলা</option><option value="pa">ਪੰਜਾਬੀ</option><option value="gu">ગુજરાતી</option><option value="or">ଓଡ଼ିଆ</option><option value="ta">தமிழ்</option><option value="te">తెలుగు</option><option value="kn">ಕನ್ನಡ</option><option value="ml">മലയാളം</option><option value="si">සිංහල</option><option value="th">ไทย</option><option value="lo">ລາວ</option><option value="my">မြန်မာ</option><option value="km">ខ្មែរ</option><option value="ko">한국어</option><option value="ja">日本語</option><option value="zh-CN">简体中文</option><option value="zh-TW">繁體中文</option><option value="zh-HK">繁體中文 (香港)</option></select><input name="oldhl" type="hidden" value="en-US"/><input name="gl" type="hidden" value="NL"/><input name="m" type="hidden" value="0"/><input name="app" type="hidden" value="0"/><input name="pc" type="hidden" value="n"/><input name="continue" type="hidden" value="https://news.google.com/"/><input name="src" type="hidden" value="1"/><input name="cm" type="hidden" value="2"/><input type="submit" value="Change language"/></form><a href="https://policies.google.com/privacy?hl=en-US&amp;utm_source=ucb">Privacy Policy</a> <a href="https://policies.google.com/terms?hl=en-US&amp;utm_source=ucb">Terms of Service</a></div></body></html>
