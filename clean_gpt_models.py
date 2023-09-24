@@ -14,7 +14,7 @@ class CleanGPTModels:
     self.df = pd.read_csv('urlViolations.csv')
 
   # function adds a severity score column with specified name at given index
-  def add_severity_score(self, column_name, insert_index):
+  def add_severity_score(self, df, column_name, insert_index):
       # create dictionary to map impact types to numerical values
       impact_values = {
         'critical': 5,
@@ -24,20 +24,28 @@ class CleanGPTModels:
         'cosmetic': 1,
       }
       # asssign numerical values to the 'impactValue' column
-      self.df['impactValue'] = self.df['impact'].map(impact_values)
+      df['impactValue'] = df['impact'].map(impact_values)
 
       # group by 'webURL' and calculate the score by summing the 'impactValue' for each group
-      score_df = self.df.groupby('webURL')['impactValue'].sum().reset_index()
+      score_df = df.groupby('webURL')['impactValue'].sum().reset_index()
 
       # merge  'score_df' dataframe back into the original df based on 'webURL'
-      self.df = pd.merge(self.df, score_df.rename(columns={'impactValue': column_name}), on='webURL')
+      df = pd.merge(df, score_df.rename(columns={'impactValue': column_name}), on='webURL')
       # insert score column at specified index
-      self.df.insert(insert_index, column_name, self.df.pop(column_name))
+      df.insert(insert_index, column_name, df.pop(column_name))
       # drop the intermediary 'impactValue' column
-      self.df.drop(columns='impactValue', inplace=True)
+      df.drop(columns='impactValue', inplace=True)
 
-      return self.df
+      return df
   
+  def calculate_severity_score(self, df, score):
+    total=0
+    first_rows = df.groupby('webURL').first()
+    for webURL, row in first_rows.iterrows():
+       total = total + row[score]
+
+    return total
+
   def get_dom_by_idnum(self, idnum):
         # Create the path to the text file based on 'idnum'
         dom_file_path = os.path.join('DOM', f'{idnum}.txt')
@@ -60,6 +68,7 @@ class CleanGPTModels:
     corrected_doms_dict = {}
 
     # iterate through groups with the same URL
+    count = 0
     for weburl, group_indices in grouped_df.groups.items():
         # get the group df using group indices
         group_df = self.df.loc[group_indices]
@@ -71,6 +80,8 @@ class CleanGPTModels:
         dom = ''
         for index, row in group_df.iterrows():
             print(row['webURL'])
+            print(count)
+            count=count+1
             # if at first row of group, initialize dom to be original group DOM
             if dom == '':
               dom_file_path = os.path.join('DOM', f'{row["DOM"]}.txt')
@@ -82,14 +93,13 @@ class CleanGPTModels:
             fix = self.gpt_functions.get_correction(index)
             #print(self.gpt_functions.get_correction(index))
             error_fix_dict[error] = fix
-            #print(row['webURL'], error, fix)
+            #print(error+"\n"+fix)
 
         dom_corrected = dom
         # iterate through error_fix dictionary and replace errors with fixes
         for error, fix in error_fix_dict.items():
           # insert corrections into current fixed DOM
-          # print(error[3:-3], fix[3:-3])
-          # dom_corrected = dom_corrected.replace(error[3:-3], fix[3:-3])  # [3:-3] removes enclosing [[ ]]
+          #print(error[3:-3]+"\n"+fix[3:-3])
           dom_corrected = dom_corrected.replace(error[3:-3], fix[3:-3])  # [3:-3] removes enclosing [[ ]]
 
 
@@ -101,8 +111,9 @@ class CleanGPTModels:
     # create new column with the final corrected DOMs
     self.df['DOMCorrected'] = self.df.index.map(corrected_doms_dict)
 
+
     # save dataframe with corrections as a csv file
-    #self.df.to_csv('corrections.csv')
+    self.df.to_csv('corrections.csv')
 
   """Run corrections through Playwright"""
   #df = pd.read_csv('corrections.csv')
@@ -162,25 +173,25 @@ class CleanGPTModels:
         length_file = open('num_violations.txt', "r")
         length = int(length_file.readline())
 
-      df = pd.DataFrame()
+      new_df = pd.DataFrame()
 
       #build dataset by concatenating individual rows violations
       if length > 0:
         for i in range(length):
           df_temp = pd.read_json("data" + str(i) + ".json", lines=True)
           df_temp = df_temp.reset_index(drop = True)
-          df = pd.concat([df, df_temp])
-        df.insert(0, "webURL", url)
-        df.insert(1, "numViolations", length)
+          new_df = pd.concat([new_df, df_temp])
+        new_df.insert(0, "webURL", url)
+        new_df.insert(1, "numViolations", length)
 
       #make a row of null values for a URL that has no violations
       else:
         df_temp = pd.DataFrame({'webURL' : [url], 'numViolations' : ['0'], 'id': ['None'], 'impact': ['None'], 'tags' : ['None'], 'description': ['None'], 'help' : ['None'], 'helpUrl' : ['None'], 'html' : ['None'], 'failureSummary' : ['None']})
         df_temp = df_temp.reset_index(drop = True)
-        self.df = pd.concat([self.df, df_temp])
+        new_df = pd.concat([new_df, df_temp])
 
       #add row index
-      self.df = self.df.reset_index(drop=True)
+      new_df = new_df.reset_index(drop=True)
 
       #delete data.json's to reset for the next round
       self.remove_files_starting_with("data*")
@@ -189,8 +200,8 @@ class CleanGPTModels:
       if os.path.exists('num_violations.txt'):
         os.remove('num_violations.txt')
 
-      self.df = self.add_severity_score('finalScore', 3)
-      return self.df
+      new_df = self.add_severity_score(new_df,'finalScore', 3)
+      return new_df
 
 
   # call corrections2violations on entire corrections dataset
@@ -200,10 +211,11 @@ class CleanGPTModels:
 
     for webURL, row in first_rows.iterrows():
         # Print current URL for progress
-        print(webURL)
+        print("checking",webURL)
 
         # Concatenate individual rows
         df_temp = self.corrections2violations(webURL, row['DOMCorrected'])
+        #print(df_temp)
         df_corrections = pd.concat([df_corrections, df_temp])
 
     df_corrections.to_csv('correctionViolations.csv')
@@ -211,11 +223,40 @@ class CleanGPTModels:
     return df_corrections
 
 model = CleanGPTModels()
-model.add_severity_score('initialScore', 5)
-print(model.df['initialScore'].sum())
-print("initial mean severity score: ", model.df['initialScore'].unique().sum() / model.df['webURL'].nunique())
+model.df=model.add_severity_score(model.df,'initialScore', 5)
+
+total_initial_severity_score = model.calculate_severity_score(model.df,'initialScore')
+mean_initial_severity_score = model.calculate_severity_score(model.df,'initialScore') / model.df['webURL'].unique().size
 
 model.create_corrected_dom_column()
 result = model.call_corrections2violations()
-print(result['finalScore'].sum())
-print("final mean severity score: ", result['finalScore'].unique().sum() / result['webURL'].nunique())
+
+total_final_severity_score = model.calculate_severity_score(result,'finalScore')
+mean_final_severity_score = model.calculate_severity_score(result,'finalScore') / result['webURL'].unique().size
+
+print("total initial severity score: ", total_initial_severity_score)
+print("mean initial severity score: ", mean_initial_severity_score)
+
+print("total final severity score: ", total_final_severity_score)
+print("mean final severity score: ", mean_final_severity_score)
+
+print("total improvement: ", ((1-(total_final_severity_score/total_initial_severity_score))*100), "%")
+
+"""
+df = pd.read_csv('correctionViolations.csv')
+#print(model.calculate_severity_score(df,'finalScore'))
+print("total # of urls: ",df['webURL'].unique().size)
+
+print("total # of violations: ", len(model.df))
+
+print("total initial severity score: ", total_initial_severity_score)
+print("mean initial severity score: ", mean_initial_severity_score)
+
+total_final_severity_score = model.calculate_severity_score(df11,'finalScore')
+mean_final_severity_score = model.calculate_severity_score(df11,'finalScore') / df['webURL'].unique().size
+
+print("total final severity score: ", total_final_severity_score)
+print("mean final severity score: ", mean_final_severity_score)
+
+print("total improvement: ", ((1-(total_final_severity_score/total_initial_severity_score))*100), "%")
+"""

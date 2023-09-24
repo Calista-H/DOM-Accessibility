@@ -1,34 +1,117 @@
 <!DOCTYPE html>
-<html lang="en"><head><title>My AP Login â College Board</title><meta content="IE=edge" http-equiv="X-UA-Compatible"/><meta charset="utf-8"/><meta content="NO-CACHE" http-equiv="CACHE-CONTROL"/><meta content="NO-CACHE" http-equiv="PRAGMA"/><meta content="width=device-width,initial-scale=1" name="viewport"/><meta content="Sign in to access your AP or Pre-AP resources and tools including AP Classroom. " name="description"/><meta content="6qHW-qKK-k8r4WZ-oBfy2P7N4Gp2G5OXgaRIpkZFW_4" name="google-site-verification"/><script>window.AppcuesSettings = {
-				enableURLDetection: false,
-			}</script><script src="//fast.appcues.com/138420.js"></script><script async="" src="//assets.adobedtm.com/f740f8a20d94/1dcfc2687ba3/launch-9227a8742d03.min.js"></script><script>window.cbEnv = ''
-			  window.cbEnvLower = false
-			  window.cbTrackData = window.cbTrackData || {};
-			cbTrackData.trackDelayType = 'delayed';</script><link href="https://atlas.collegeboard.org/apricot/release/3.4.0/css/apricot.min.css" media="all" rel="stylesheet"/><style>html {
-				display: none;
-			}</style><script>if (self == top) {
-				document.documentElement.style.display = 'block'
-			} else {
-				top.location = self.location
-			}</script><script defer="defer" src="/runtime.bundle.52971ce493bb1787019f.js"></script><script defer="defer" src="/vendors.bundle.a5824d73846ddce832d1.js"></script><script defer="defer" src="/main.bundle.5be7f9f00bc73feb112c.js"></script><link href="/vendors.573fbaa440c1641f495f.css" rel="stylesheet"/><link href="/main.63518ab8a3babace5d52.css" rel="stylesheet"/></head><body><div id="root"></div><script src="https://sdk.amazonaws.com/js/aws-sdk-2.889.0.min.js"></script><script src="/static/js/jquery.js"></script><script>jQuery.fn.load = function (callback) {
-				$(window).on('load', callback)
-			}</script><script src="https://atlas.collegeboard.org/apricot/release/3.4.0/js/apricot.min.js"></script><script>this.cb = this.cb || {}
-			cb.core = cb.core || {}
-			cb.core.utils = cb.core.utils || {}
 
-			// Enable settings as you need them
-			cb.core.utils.DeploymentProfile = {
-				iam: {
-					appId: 366,
-					requiresLogin: false, // Force users to first log in before accessing your website
-					sessionCheck: true, // Check the current session to ensure it is valid
-					aws: {
-						// Enables Catapult. Do not enable this if you are not using it
-						cbAWSDomains: ['apfym'],
-					},
-				},
-				dataProtector: {
-					// Forced log out.
-					protectionEnabled: true, // True by default
-				},
-			}</script><script src="https://atlas.collegeboard.org/widgets/release/2021-04-27/main.js"></script></body></html>
+<!-- BE GOOD -->
+<html data-environment="production" data-variant="bot" data-version="v-2308151809-5e4f2-production" dir="ltr" lang="en">
+<head>
+<meta content="authenticity_token" name="csrf-param"/>
+<meta content="cL8td81c5lThjEbiPze3tJgAc0loDn8ssmM+CJ20LHHpnZd3DXedrZ1z+YEpRzk8kG9Gybj6qsz8XEHHhXey2Q==" name="csrf-token"/>
+<meta content="wss://brahms.padlet.com/_/realtime" name="realtime-uri"/>
+<title>Padlet: Beauty will save the work</title>
+<meta content="Make beautiful boards to collect, organize, and present anything. Used by over 30 million people worldwide. Get started for free." name="description"/>
+<script type="text/javascript">
+      (function() {
+        if (!window.ww) { window.ww = {} }
+        window.ww.vueStartingState = {"educationClientLogos":[{"name":"Prince William County Schools","schoolUrl":"https://www.pwcs.edu/","tag":["education"],"country":"US","lightModeLogoWidth":"583","lightModeLogoHeight":"133","darkModeUrl":"https://padlet.net/school-logos/v2/prince_william_county_dark.webp","lightModeUrl":"https://padlet.net/school-logos/v2/prince_william_county_light.webp","darkModeLogoWidth":"305","darkModeLogoHeight":"75"},{"name":"Akron Public Schools","schoolUrl":"https://www.akronschools.com/","tag":["education"],"country":"US","lightModeLogoWidth":"450","lightModeLogoHeight":"180","darkModeUrl":"https://padlet.net/school-logos/v2/akron_public_schools_dark.webp","lightModeUrl":"https://padlet.net/school-logos/v2/akron_public_schools_light.webp","darkModeLogoWidth":"450","darkModeLogoHeight":"180"},{"name":"Columbia University","schoolUrl":"https://www.columbia.edu/","tag":["education"],"country":"US","lightModeLogoWidth":"1115","lightModeLogoHeight":"171","darkModeUrl":"https://padlet.net/school-logos/v2/columbia_university_dark.webp","lightModeUrl":"https://padlet.net/school-logos/v2/columbia_university_light.webp","darkModeLogoWidth":"1016","darkModeLogoHeight":"150"},{"name":"University of Pennsylvania","schoolUrl":"https://www.upenn.edu/","tag":["education"],"country":"US","lightModeLogoWidth":"988","lightModeLogoHeight":"319","darkModeUrl":"https://padlet.net/school-logos/v2/university_of_pennsylvania_dark.webp","lightModeUrl":"https://padlet.net/school-logos/v2/university_of_pennsylvania_light.webp","darkModeLogoWidth":"389","darkModeLogoHeight":"126"}],"currentPage":"home","isUserLoggedIn":false,"currentUser":null,"homePlans":[{"tier":"platinum","annualPrice":99000.0,"monthlyPrice":9900.0},{"tier":"gold","annualPrice":69000.0,"monthlyPrice":6900.0}],"teamPlans":[{"tier":"gold","annualPrice":149.99,"monthlyPrice":14.99}],"classroomPlans":[{"tier":"gold","annualPrice":199.0}],"currencySign":"€","flip":{"subscriptionsPageSchoolSectionExperimentVariantTrial":false}}
+      })()
+    </script>
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3475236,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "hivpp1qa0w");
+</script>
+<script defer="defer" src="https://padlet.net/packs/js/runtime~landside-63150709617eabfbd0a6.js"></script>
+<script defer="defer" src="https://padlet.net/packs/js/0-0f253e52516eee1d439e.chunk.js"></script>
+<script defer="defer" src="https://padlet.net/packs/js/2-b1488d075a60da9f2ac3.chunk.js"></script>
+<script defer="defer" src="https://padlet.net/packs/js/landside-d36a314d0f383bd75c1d.chunk.js"></script>
+<link href="https://padlet.net/packs/css/landside-5238b278.chunk.css" media="screen" rel="stylesheet"/>
+<link as="font" crossorigin="" href="https://padlet.net/packs/media/fonts/Oricons-e665095f0587a6e0c7f4bd5766f1f516.woff2" rel="preload"/>
+<link as="font" crossorigin="" href="https://padlet.net/fonts/inter/3.19/Inter-roman.var.woff2" rel="preload"/>
+<link href="/manifest.json" rel="manifest"/>
+<meta charset="utf-8"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<meta content="width=device-width, initial-scale=1.0, viewport-fit=cover" name="viewport"/>
+<meta content="rgb(17,17,17)" media="(prefers-color-scheme: dark)" name="theme-color"/>
+<meta content="rgb(255,255,255)" media="(prefers-color-scheme: light)" name="theme-color"/>
+<meta content="Padlet: Beauty will save the work" property="og:title">
+<meta content="website" property="og:type">
+<meta content="https://padlet.com/" property="og:url">
+<meta content="https://padlet.net/meta/opengraph.jpg" property="og:image">
+<meta content="Make beautiful boards to collect, organize, and present anything. Used by over 30 million people worldwide. Get started for free." property="og:description">
+<meta content="Padlet" property="og:site_name">
+<meta content="166448900169195" property="fb:app_id">
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="@padlet" name="twitter:site"/>
+<meta content="Padlet: Beauty will save the work" name="twitter:title"/>
+<meta content="Make beautiful boards to collect, organize, and present anything. Used by over 30 million people worldwide. Get started for free." name="twitter:description"/>
+<meta content="https://padlet.net/meta/opengraph.jpg" name="twitter:image"/>
+<link href="https://padlet.net/assets/favicon-77f5dfc8f2a1cedf897af74e7ad6bacac872efec784e4c1dc1aec764c88de40a.png" rel="icon" type="image/png">
+<link href="https://chrome.google.com/webstore/detail/kcljbbiddpoeaknnjaminoceoojdbikp" rel="chrome-webstore-item"/>
+<link href="https://chrome.google.com/webstore/detail/ppckapbnfhikdajgehibjapcohbaomhd" rel="chrome-webstore-item"/>
+<meta content="Padlet" name="application-name">
+<meta content="https://padlet.net/assets/ie10-tile-42822db34f1934a4c2b3e61cc9907a61393a70dae4d4335103b2815a8e285493.png" name="msapplication-TileImage">
+<meta content="#fe2e9a" name="msapplication-TileColor">
+<meta content="name=Home;action-uri=https://padlet.com/;icon-uri=https://padlet.net/assets/home-32-c671a7751d3b44498697f84b2d4180f7c36462d5c12da2c9aecfe4c1409a36c9.ico" name="msapplication-task">
+<meta content="name=My padlets;action-uri=https://padlet.com/account/walls;icon-uri=https://padlet.net/assets/grid-32-7326a51b5665f92ccb0963eb3bec19423710544dae29597f780d65a1c4cac182.ico" name="msapplication-task">
+<meta conent="name=Create;action-uri=https://padlet.com/create;icon-uri=https://padlet.net/assets/plus-32-c3c006e2fbbb7ef4a6ed1c78403e4de3d20482499888f10e2e14daf5b1f03492.ico" name="msapplication-task"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="Padlet" name="apple-mobile-web-app-title"/>
+<link href="https://padlet.net/assets/ios_startup-1bb3d894ac28c35d60beb6066b227313799ba381203b44a581bc001a4498c6fc.png" rel="apple-touch-startup-image"/>
+<meta content="yes" name="mobile-web-app-capable"/>
+<link href="https://padlet.net/assets/crane_196x196-a7319aaa217d6f0198f1ea8359be879318c79014727d03553af9fe77ce608956.png" rel="shortcut icon" sizes="196x196"/>
+<script>window.$pepinUser = {"userRegistration":"Anonymous","userId":"613822030","tenantId":"1","userAge":0,"userPlanName":"vanilla","userCreatedAt":"2020-06-07T19:26:24.020Z"}</script>
+<script>window.$pepinTraits = {"userRegistration":"Anonymous","userId":"613822030","tenantId":"1","userAge":0,"userPlanName":"vanilla","userCreatedAt":"2020-06-07T19:26:24.020Z"}</script>
+<script type="text/javascript">
+!function(){var conn =navigator.connection ? {downlink:navigator.connection.downlink,effective:navigator.connection.effectiveType} : {};var e=window.rudderanalytics=window.rudderanalytics||[];e.methods=["load","page","track","identify","alias","group","ready","reset","getAnonymousId","setAnonymousId"],e.factory=function(t){return function(){var r=Array.prototype.slice.call(arguments);return r.unshift(t),e.push(r),e}};for(var t=0;t<e.methods.length;t++){var r=e.methods[t];e[r]=e.factory(r)}e.loadJS=function(e,t){var r=document.createElement("script");r.type="text/javascript",r.async=!0,r.src="https://padlet.net/v1.1/rudder-analytics.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(r,a)},e.loadJS(),
+e.load('22crxVC2QvBTRHCDzJOaFA68siE','https://pepin.padletcdn.com/'),
+e.page('Homepage', 'Home', undefined, { conn: conn, traits: $pepinTraits })}();
+</script>
+<link href="https://padlet.com/" rel="canonical">
+</link></meta></meta></meta></meta></meta></link></meta></meta></meta></meta></meta></meta></meta></head>
+<body>
+<svg aria-hidden="true" height="0" style="position: absolute" viewbox="0 0 1 1" width="0" xmlns="http://www.w3.org/2000/svg">
+<clippath clippathunits="objectBoundingBox" id="rounded-hexagon-svg-clip-path">
+<path d="M 0.371094 0.03125 C 0.449219 -0.0117188 0.550781 -0.0117188 0.628906 0.03125 L 0.871094 0.164062 C 0.949219 0.207031 1 0.285156 1 0.371094 L 1 0.628906 C 1 0.714844 0.949219 0.792969 0.871094 0.835938 L 0.628906 0.96875 C 0.550781 1.011719 0.449219 1.011719 0.371094 0.96875 L 0.128906 0.835938 C 0.0507812 0.792969 0 0.714844 0 0.628906 L 0 0.371094 C 0 0.285156 0.0507812 0.207031 0.128906 0.164062 Z M 0.371094 0.03125"></path>
+</clippath>
+</svg>
+<div id="landside"></div>
+<script>
+if (navigator.serviceWorker) {
+  if (navigator.serviceWorker.controller && /serviceworker\.js|OneSignalSDKWorker\.js/.test(navigator.serviceWorker.controller.scriptURL)) {
+    navigator.serviceWorker.getRegistrations().then(function(registrations){
+      for (var i in registrations) {
+        var registration = registrations[i];
+        if (registration.active && /serviceworker\.js|OneSignalSDKWorker\.js/.test(registration.active.scriptURL)) {
+          registration.unregister();
+        }
+      }
+    })
+  }
+  // NOTE: We shouldn't update the URL of this service.
+  // https://developers.google.com/web/fundamentals/primers/service-workers/lifecycle#avoid-url-change
+  navigator.serviceWorker.register('/sw.js?version=202007311200')
+    .then(function(reg) {
+      // console.log('[Companion]', 'Service worker registered!');
+    })
+    .catch(function(error) {
+      // console.warn('[Companion]', 'Service worker failed to register with the following error:', error);
+    });
+}
+</script>
+<script crossorigin="anonymous" src="https://padlet.net/v3/polyfill.min.js?flags=gated&amp;features=default%2Cfetch%2CgetComputedStyle%2CResizeObserver%2CIntersectionObserver%2CIntersectionObserverEntry%2CArray.prototype.includes%2CArray.prototype.find%2CArray.prototype.findIndex%2CObject.entries%2CObject.values%2CNodeList.prototype.%40%40iterator%2CNodeList.prototype.forEach%2CIntl%2CNode.prototype.contains"></script>
+<script defer="defer" src="https://padlet.net/packs/js/runtime~nwjs_desktop_app-efc3d30ebd2384dd731b.js"></script>
+<script defer="defer" src="https://padlet.net/packs/js/nwjs_desktop_app-d462cc01387464654bfe.chunk.js"></script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7f73ef0cfd3ad0cd',t:'MTY5MjEyODY4My4xOTIwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script crossorigin="anonymous" data-cf-beacon='{"rayId":"7f73ef0cfd3ad0cd","version":"2023.8.0","b":1,"token":"fba185386db54545bd04a9be5991c3c8","si":100}' defer="" integrity="sha512-bjgnUKX4azu3dLTVtie9u6TKqgx29RBwfj3QXYt5EKfWM/9hPSAI/4qcV5NACjwAo8UtTeWefx6Zq5PHcMm7Tg==" src="https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854"></script>
+</body>
+</html>

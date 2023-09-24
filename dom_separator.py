@@ -10,14 +10,12 @@ class CSVTextFileExporter:
 
     # drop rows where the 'DOM' column contains potential issues
     def drop_potential_issues(self):
-        indices_to_drop = [31, 54, 55, 56, 57]
+        indices_to_drop = [31, 54, 55, 56, 57, 62, 178, 383, 413, 421]
         self.df = self.df.drop(indices_to_drop)
-        self.df = self.df[self.df['webURL'] != 'https://colab.research.google.com/']
-        self.df = self.df[self.df['webURL'] != 'https://padlet.com/']
-        self.df = self.df[self.df['webURL'] != 'https://www.belkin.com/']
-
+        self.df = self.df[self.df['webURL'] != 'https://snacknation.com/']
+        
         """
-        self.df = self.df[self.df['webURL'] != 'https://calendar.google.com/']
+        self.df = self.df[self.df['webURL'] != 'https://colab.research.google.com/']
         self.df = self.df[self.df['webURL'] != 'https://creativecommons.org/']
         self.df = self.df[self.df['webURL'] != 'https://discord.com/']
         self.df = self.df[self.df['webURL'] != 'https://girlswhocode.com/']
@@ -27,16 +25,18 @@ class CSVTextFileExporter:
         self.df = self.df[self.df['webURL'] != 'https://mail.google.com/']
         self.df = self.df[self.df['webURL'] != 'https://medium.com/']
         self.df = self.df[self.df['webURL'] != 'https://myap.collegeboard.org/']
+        
         self.df = self.df[self.df['webURL'] != 'https://news.google.com/']
+        self.df = self.df[self.df['webURL'] != 'https://padlet.com/']
         self.df = self.df[self.df['webURL'] != 'https://partakefoods.com/']
         self.df = self.df[self.df['webURL'] != 'https://playwright.dev/']
         self.df = self.df[self.df['webURL'] != 'https://shop.lonelyplanet.com/']
-        #self.df = self.df[self.df['webURL'] != 'https://slack.com/']
-        self.df = self.df[self.df['webURL'] != 'https://snacknation.com/']
+        self.df = self.df[self.df['webURL'] != 'https://slack.com/']
         self.df = self.df[self.df['webURL'] != 'https://soundcloud.com/']
         self.df = self.df[self.df['webURL'] != 'https://stackoverflow.com/']
         self.df = self.df[self.df['webURL'] != 'https://symbolic.com/']
         self.df = self.df[self.df['webURL'] != 'https://translate.google.com/']
+        
         self.df = self.df[self.df['webURL'] != 'https://travel.state.gov/content/travel/en/passports.html']
         self.df = self.df[self.df['webURL'] != 'https://twitter.com/']
         self.df = self.df[self.df['webURL'] != 'https://us.delsey.com/']
@@ -47,15 +47,18 @@ class CSVTextFileExporter:
         self.df = self.df[self.df['webURL'] != 'https://www.apple.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.audible.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.baidu.com/']
+        
         self.df = self.df[self.df['webURL'] != 'https://www.bankofamerica.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.barclays.co.uk/']
         self.df = self.df[self.df['webURL'] != 'https://www.bbc.com/']
+        self.df = self.df[self.df['webURL'] != 'https://www.belkin.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.bluesmoke.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.capitalone.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.cdc.gov/']
         self.df = self.df[self.df['webURL'] != 'https://www.dailymotion.com/us']
         self.df = self.df[self.df['webURL'] != 'https://www.dcshoes.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.dextel.agency/']
+        
         self.df = self.df[self.df['webURL'] != 'https://www.disneyplus.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.dmv.ca.gov/portal/']
         self.df = self.df[self.df['webURL'] != 'https://www.docusign.com/']
@@ -65,6 +68,8 @@ class CSVTextFileExporter:
         self.df = self.df[self.df['webURL'] != 'https://www.facebook.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.forbes.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.gap.com/']
+        self.df = self.df[self.df['webURL'] != 'https://calendar.google.com/']
+        
         self.df = self.df[self.df['webURL'] != 'https://www.geeksforgeeks.org/']
         self.df = self.df[self.df['webURL'] != 'https://www.glassesusa.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.google.com/maps']
@@ -75,6 +80,7 @@ class CSVTextFileExporter:
         self.df = self.df[self.df['webURL'] != 'https://www.instagram.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.itcorp.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.kaggle.com/']
+        
         self.df = self.df[self.df['webURL'] != 'https://www.marcforgione.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.mayoclinic.org/']
         self.df = self.df[self.df['webURL'] != 'https://www.mightynetworks.com/']
@@ -85,16 +91,17 @@ class CSVTextFileExporter:
         self.df = self.df[self.df['webURL'] != 'https://www.nike.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.nordstrom.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.npr.org/']
+        
         self.df = self.df[self.df['webURL'] != 'https://www.nytimes.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.onepercentfortheplanet.org/']
         self.df = self.df[self.df['webURL'] != 'https://www.pacificlife.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.patagonia.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.patreon.com/']
-        self.df = self.df[self.df['webURL'] != 'https://www.paypal.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.quora.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.reddit.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.researchgate.net/']
         self.df = self.df[self.df['webURL'] != 'https://www.roblox.com/']
+        
         self.df = self.df[self.df['webURL'] != 'https://www.scope.org.uk/']
         self.df = self.df[self.df['webURL'] != 'https://www.shybird.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.slideshare.net/']
@@ -105,9 +112,10 @@ class CSVTextFileExporter:
         self.df = self.df[self.df['webURL'] != 'https://www.thebazaar.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.theguardian.com/us']
         self.df = self.df[self.df['webURL'] != 'https://www.vortex.com/']
+        
         self.df = self.df[self.df['webURL'] != 'https://www.waze.com/live-map/']
-        self.df = self.df[self.df['webURL'] != 'https://www.weebly.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.whatsapp.com/']
+        self.df = self.df[self.df['webURL'] != 'https://www.weebly.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.wikipedia.org/']
         self.df = self.df[self.df['webURL'] != 'https://www.wordreference.com/']
         self.df = self.df[self.df['webURL'] != 'https://www.yahoo.com/']
@@ -115,7 +123,6 @@ class CSVTextFileExporter:
         self.df = self.df[self.df['webURL'] != 'https://www.youtube.com/']
         self.df = self.df[self.df['webURL'] != 'https://zoom.us/']
         """
-
     def create_unique_urls(self):
         self.unique_urls = self.df['webURL'].unique()
 

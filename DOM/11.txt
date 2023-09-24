@@ -1,1304 +1,1059 @@
+
 <!DOCTYPE html>
 
-<html lang="en">
-<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# 2490221586: http://ogp.me/ns/fb/2490221586#">
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<meta content="async" name="include_mode"/>
-<!-- SL:start:notranslate -->
-<title>Share and Discover Knowledge on SlideShare</title>
-<meta content="Discover, Share, and Present presentations and infographics with the world’s largest professional content sharing community." name="description"/>
-<!-- SL:end:notranslate -->
-<meta content="index" name="robots"/>
-<link href="https://image.slidesharecdn.com" rel="preconnect"/>
-<link crossorigin="" href="https://public.slidesharecdn.com" rel="preconnect"/>
-<link crossorigin="" href="https://cdn.slidesharecdn.com" rel="preconnect"/>
-<link as="font" crossorigin="anonymous" href="https://public.slidesharecdn.com/v2/assets/fontawesome-webfont-c589f72df384e3ef078b.woff" rel="preload" type="font/woff"/>
-<link as="font" crossorigin="anonymous" href="https://public.slidesharecdn.com/v2/assets/slideshare-icons-fa2b4fc5febb408f90e1.woff" rel="preload" type="font/woff"/>
-<link as="script" href="https://cmp.osano.com/AzZdHGSGtpxCq1Cpt/079b27eb-bb3f-48dd-9bd9-3feb8aec3c38/osano.js" rel="preload"/>
-<meta content="https://www.slideshare.net" name="og_url" property="og:url">
-<meta content="https://public.slidesharecdn.com/v2/images/meta_share_tile.png" name="og_image" property="og:image">
-<meta content="SlideShare.net" name="og_title" property="og:title">
-<meta content="www.slideshare.net" name="og_site_name" property="og:site_name"/>
-<meta content="Discover, Share, and Present presentations and infographics with the world’s largest professional content sharing community." name="og_description" property="og:description"/>
-<meta content="919F105929364046782FD1286650C474" name="msvalidate.01"/>
-<link href="https://public.slidesharecdn.com/v2/assets/favicon-aeb517165ad56906594e.ico" rel="shortcut icon"/>
-<link href="https://www.slideshare.net/rss/latest" rel="alternate" title="RSS" type="application/rss+xml">
-<link href="/opensearch.xml" rel="search" title="SlideShare Search" type="application/opensearchdescription+xml"/>
-<style>
-/* latin-ext */
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwmRdu3cOWxy40.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 300;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu3cOWxw.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/sourcesanspro/v19/6xK3dSBYKcSV-LCoeQqfX1RYOo3qNq7lujVj9_mf.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/sourcesanspro/v19/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 600;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwmRdu3cOWxy40.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 600;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu3cOWxw.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-/* latin-ext */
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwmRdu3cOWxy40.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Source Sans Pro';
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url(https://fonts.gstatic.com/s/sourcesanspro/v19/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu3cOWxw.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-</style>
-<script src="https://cmp.osano.com/AzZdHGSGtpxCq1Cpt/079b27eb-bb3f-48dd-9bd9-3feb8aec3c38/osano.js"></script>
-<link href="https://public.slidesharecdn.com/v2/stylesheets/app_critical.cbcb91ec793134209d78.css" media="screen" rel="stylesheet">
-<!--[if IE 9]><link rel="stylesheet" href="https://public.slidesharecdn.com/v2/stylesheets/ie9_nav_bar_fix.9cc3853428037bc4cf3e.css" media="screen" /><![endif]-->
-<script crossorigin="anonymous" data-lazy="no" src="https://js.sentry-cdn.com/b4c0615827744d28bec2745a9dbc3855.min.js"></script>
+<html class="h-100">
+<head>
+<title>Guest Reservations</title>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="As an independent booking service offering over 100,000 hotels worldwide,
+        we can get you the same deals you expect with a bigger travel agency or direct from the hotel." name="description"/>
+<link href="/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link href="/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180"/>
+<link href="/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="/favicons/manifest.json" rel="manifest"/>
+<link color="#202027" href="/favicons/safari-pinned-tab.svg" rel="mask-icon"/>
+<meta content="#202027" name="msapplication-TileColor"/>
+<meta content="/favicons/browserconfig.xml" name="msapplication-config"/>
+<meta content="#ffffff" name="theme-color"/> <link href="/boost/site-compressed.1689947224.css" rel="stylesheet"/>
+<script src="/boost/site-compressed.1691544416.js"></script> <meta content="_csrf" name="csrf-param"/>
+<meta content="6bLSlSMJa-dMH09P5ToJ41D0RY6iwifAUvgV48zkVuLa97bWTX0A3yVJP3yudV-qI6Yc--mjHqER1UyynYYwlg==" name="csrf-token"/>
 <script>
-      Sentry.onLoad(function() {
-        Sentry.init({
-          environment: "production",
-          tracesSampleRate: "production" === "production" ? 0.2 : 1.0,
+            var abTests = [];
+            var Main = GR.loadPage('layouts.Main', {"isProduction":true,"isDevelopmentServer":false,"breadcrumbPhone":"","mixpanelAdultsRoomChildrenData":[],"mixpanelProjectToken":"c5491a995ed9e9ee29ba488d355afed9","customerType":"Non-Member","serverHost":"web02","device":"computer"});
+        </script>
+<!-- Google Tag Manager -->
+<script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
         });
-      });
-    </script>
-<script src="https://public.slidesharecdn.com/v2/javascripts/assets/ads/detection.b5547b5686cba1bb15c6.js"></script>
-<script src="https://public.slidesharecdn.com/v2/javascripts/assets/wpsafelink.d7f3de3cc8ab5cda809e.js"></script>
-<script src="https://public.slidesharecdn.com/v2/javascripts/assets/common/sgc.95ddd113855ed35ca261.js"></script>
-<link href="https://www.slideshare.net/" hreflang="en" rel="alternate">
-<link href="https://www.slideshare.net/" hreflang="x-default" rel="alternate">
-<link href="https://www.slideshare.net/" rel="canonical">
-<script>
-    window.feature_flags = {
-      desktop_anchor_ad: true,
-      disable_facebook: true,
-      document_full_page_reader: true,
-      document_interstitials_flag: true,
-      minimalist_header: false,
-      outstream_ads: true,
-      recommendation_impression_tracking: true,
-      saving_of_content: false,
-      search_results_tracking: true, 
-      view_restriction_without_subscription_after_five: true,
-    };
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NPMZ2WN');
 </script>
-<script>
-    window.ab_tests = {"excluded_user":{"value":"true","version":0}}
-  window.nway_tests = {"adblock_mitigation":"A","aditude":"B","example":"B","freestar":"B","linkedin_recs_v2":"A","nextjs_categories":"A","nextjs_embed":"A","nextjs_secret":"B","nextjs_slideshow":"B","nextjs_upload":"B","slidenext2":"A"}
-</script>
-<link href="https://public.slidesharecdn.com/v2/stylesheets/homepage.6ecfd0b44021e2cd87ec.css" media="screen" rel="stylesheet">
-<script>
-      // GA Segmentation
-      window._gaq = window._gaq || []; _gaq.push(['_setAccount', 'UA-2330466-1']);_gaq.push(['_setDomainName', '.slideshare.net']);_gaq.push(['_addIgnoredRef', 'slideshare.net']);_gaq.push(['_setCustomVar', 1, 'member_type', 'LOGGEDOUT', 1]);
-        _gaq.push(['_trackPageview']);
-
-      // Slideshare object
-      var slideshare_object = {
-        user: {"userGroup":"non-member","login":"guest","id":null,"loggedin":false,"name":null,"is_valid_fbuser":false,"fb_userid":null,"is_pro":"false","su":false,"is_test_user":false,"has_uploads":null,"is_li_connected":false,"is_li_auto_created_user":false,"show_li_connect_cta":false,"has_privacy_enabled":null,"scribd_subscriber":false,"connected_with_scribd":false,"trial_eligible":false},
-        timer: { start: (new Date()).getTime(), end: '', execTime: '' },
-        top_nav: { get_url: "/top_nav"},
-        dev: false,
-        init: [],
-        feature_flag: [],
-        is_mobile: false,
-        deploy_environment: "production",
-        rum_pagekey: "desktop_homepage_loggedout",
-        page_key: "main/index",
-        is_ssl: true,
-        country_code: "SG",
-        web_analytics_url: "https://wa.slideshare.net",
-      };
-    </script>
-<script src="https://public.slidesharecdn.com/v2/javascripts/packs/combined_experiments.367b981a565436f30097.js"></script>
-<meta content="2490221586" property="fb:app_id"/>
-<link href="/manifest.json" rel="manifest">
-<script src="https://public.slidesharecdn.com/v2/javascripts/assets/tracking/recommendations-tracker.0e1066f1e6aa9c3d3c96.js"></script>
-</link></link></link></link></link></link></link></meta></meta></meta></head>
-<!-- Google tag (gtag.js) -->
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-JFMG63W8KJ"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-JFMG63W8KJ');
-    console.log("Google Analytics active")
-  </script>
-<body class="locale-en" id="pagekey-slideshare_desktop_homepage_loggedout">
-<link href="https://public.slidesharecdn.com/v2/stylesheets/font-awesome.791b0fa94203df9b9bf8.css" media="screen" rel="stylesheet">
-<link href="https://public.slidesharecdn.com/v2/stylesheets/slideshare-icons.8833fc2200d3822f96e9.css" media="screen" rel="stylesheet"/>
-<header class="contain-to-grid" id="main-nav">
-<nav id="top-navbar">
-<div id="left-nav">
-<button aria-controls="nav-sidebar" aria-expanded="false" aria-haspopup="true" aria-label="Open navigation menu" class="visible-phone modernize reset" data-cy="mobile-header-menu" id="open-sidebar" type="button">
-<svg fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8h18c.265 0 .52-.105.707-.293C21.895 7.52 22 7.265 22 7c0-.265-.105-.52-.293-.707C21.52 6.105 21.265 6 21 6H3c-.265 0-.52.105-.707.293C2.105 6.48 2 6.735 2 7c0 .265.105.52.293.707C2.48 7.895 2.735 8 3 8zm18 8H3c-.265 0-.52.105-.707.293C2.105 16.48 2 16.735 2 17c0 .265.105.52.293.707.187.188.442.293.707.293h18c.265 0 .52-.105.707-.293.188-.187.293-.442.293-.707 0-.265-.105-.52-.293-.707C21.52 16.105 21.265 16 21 16zm0-5H3c-.265 0-.52.105-.707.293C2.105 11.48 2 11.735 2 12c0 .265.105.52.293.707.187.188.442.293.707.293h18c.265 0 .52-.105.707-.293.188-.187.293-.442.293-.707 0-.265-.105-.52-.293-.707C21.52 11.105 21.265 11 21 11z" fill="#636C8B"></path>
-</svg>
-</button>
-<nav aria-labelledby="open-sidebar" id="nav-sidebar">
-<div id="sidebar-content">
-<div id="sidebar-header">
-<div class="logo-close-button-container add-vertical-spacing">
-<a class="logo-container" href="/">
-<img alt="SlideShare a Scribd company logo" src="https://public.slidesharecdn.com/v2/images/logo/slideshare-scribd-logo.svg"/>
-</a>
-<button aria-label="Close menu" class="hamburger-menu-close-button" type="button">×</button>
-</div>
-<svg fill="none" height="90" viewbox="0 0 90 90" width="90" xmlns="http://www.w3.org/2000/svg">
-<path clip-rule="evenodd" d="M70.51 5.604c.17-.008.343-.012.515-.012.173 0 .345.004.516.012l-.004.083c-.17-.008-.34-.012-.512-.012-.171 0-.342.004-.511.012l-.004-.083zm2.057.1c.342.05.68.117 1.01.2l-.02.081c-.328-.082-.663-.148-1.002-.198l.012-.083zm-4.094.2c.331-.083.668-.15 1.011-.2l.012.083c-.34.05-.674.116-1.003.198l-.02-.08zm6.09.299c.326.116.644.248.953.395l-.036.075c-.307-.145-.622-.276-.944-.392l.028-.078zm-8.028.395c.31-.147.627-.279.952-.395l.028.078c-.322.116-.638.247-.944.392l-.036-.075zm9.89.486c.294.178.58.369.856.574l-.05.066c-.273-.203-.557-.392-.85-.568l.043-.072zm-11.655.574c.276-.205.561-.396.857-.574l.043.072c-.293.176-.577.365-.85.568l-.05-.066zm13.307.654c.254.23.498.474.728.728l-.061.056c-.23-.252-.47-.493-.723-.723l.056-.061zm-14.832.728c.231-.254.474-.497.729-.728l.056.061c-.253.23-.494.47-.723.723l-.062-.056zm16.215.797c.204.275.396.56.573.856l-.072.043c-.175-.293-.365-.576-.568-.85l.067-.05zm-17.442.856c.177-.295.368-.581.573-.856l.067.05c-.203.273-.393.556-.569.849l-.071-.043zm-.882 1.86c.117-.325.249-.642.395-.952l.076.036c-.146.307-.277.622-.392.944l-.079-.028zm19.383-.952c.147.31.279.627.395.952l-.078.028c-.116-.322-.246-.637-.392-.944l.075-.036zm.694 1.939c.083.33.15.668.2 1.01l-.082.013c-.05-.34-.117-.675-.199-1.003l.081-.02zm-20.575 1.01c.05-.342.117-.68.2-1.01l.08.02c-.081.328-.148.663-.198 1.003l-.082-.012zm20.875 1.026c.008.171.012.343.012.516s-.004.344-.012.515l-.083-.004c.008-.17.012-.34.012-.511 0-.172-.004-.342-.012-.512l.083-.004zm-20.988.516c0-.173.005-.345.013-.516l.083.004c-.008.17-.012.34-.012.512 0 .171.004.342.012.511l-.083.004c-.008-.17-.013-.342-.013-.515zm20.888 1.541c-.05.343-.117.68-.2 1.011l-.08-.02c.081-.329.148-.663.198-1.003l.082.012zm-20.575 1.011c-.083-.331-.15-.668-.2-1.011l.082-.012c.05.34.117.674.199 1.003l-.081.02zm20.076.986c-.116.325-.248.643-.395.952l-.075-.035c.146-.307.276-.622.392-.945l.078.028zm-19.383.952c-.146-.31-.278-.627-.395-.952l.079-.028c.115.323.246.638.392.945l-.076.035zm18.502.909c-.177.295-.369.58-.573.856l-.067-.05c.203-.273.393-.556.569-.85l.071.044zm-17.442.856c-.205-.276-.396-.561-.573-.856l.071-.043c.176.293.366.576.569.85l-.067.049zm16.214.796c-.23.255-.474.498-.728.729l-.056-.062c.252-.229.494-.47.723-.723l.061.056zm-14.831.729c-.255-.231-.498-.474-.729-.729l.062-.056c.23.253.47.494.723.723l-.056.062zm13.307.654c-.276.205-.562.396-.857.573l-.043-.071c.293-.176.577-.366.85-.569l.05.067zm-11.654.573c-.296-.177-.581-.368-.857-.573l.05-.067c.273.203.557.393.85.569l-.043.071zm1.86.882c-.325-.117-.643-.248-.952-.395l.036-.075c.306.145.622.276.944.391l-.028.079zm8.029-.395c-.31.147-.627.278-.952.395l-.028-.079c.322-.115.637-.246.944-.391l.036.075zm-6.032.894c-.342-.05-.68-.118-1.01-.2l.02-.081c.328.082.662.148 1.002.198l-.012.083zm4.094-.2c-.332.082-.669.15-1.011.2l-.012-.083c.34-.05.674-.116 1.002-.198l.02.08zm-2.553.312c-.172 0-.344-.004-.515-.013l.004-.083c.17.008.34.013.511.013.172 0 .342-.005.512-.013l.004.083c-.171.009-.343.013-.516.013z" fill="#C1C1C1" fill-rule="evenodd"></path>
-<path d="M23.309 17.026c-2.309.817-4.609 1.809-6.225 3.367-1.617 1.558-2.425 3.8-1.459 5.675 1.3 2.508 5.4 3.967 5.425 6.683.017 1.942-2.216 3.434-4.466 4.134-2.25.708-4.742.958-6.784 1.991-3.083 1.559-4.533 4.575-5.125 7.475-.616 3.009-.366 6.434 2.275 8.609 3.284 2.708 8.709 2.408 13.359 1.825 6.2-.775 12.375-1.675 18.55-2.584 13.525-1.975 27.058-3.966 40.591-5.95 1.45-.216 2.959-.45 4.142-1.158 2.342-1.417 2.542-4.342 1.175-6.433-1.367-2.092-3.875-3.509-6.375-4.734s-5.142-2.391-7.017-4.208c-1.875-1.817-2.808-4.5-1.383-6.567 1.2-1.75 3.783-2.683 4.908-4.466 1.484-2.35-.225-5.342-2.908-6.842s-36.467-1.117-48.683 3.183z" fill="#C0C4CC"></path>
-<path d="M86.684 86.083H3.201c-.492 0-.9-.408-.9-.9v-3.95c0-.492.408-.9.9-.9h83.483c.492 0 .9.408.9.9v3.95c0 .492-.408.9-.9.9z" fill="#D3D3D3"></path>
-<path d="M59.959 83.917h-36.55c-2.6 0-4.7-2.458-4.7-5.492 0-1.516.525-2.891 1.375-3.883s2.025-1.608 3.325-1.608h36.55v10.983z" fill="#1772AF"></path>
-<path d="M35.117 73.667h34.05c.05 0 .092.042.092.092v9.325c0 .05-.042.091-.092.091h-34.05c-2.341 0-4.25-1.9-4.25-4.25v-1.008c0-2.35 1.9-4.25 4.25-4.25z" fill="#F2F2F2"></path>
-<path d="M32.293 75.484c-.642.75-1.042 1.791-1.042 2.941 0 2.3 1.592 4.159 3.559 4.159h36.483v1.333h-36.55c-2.6 0-4.7-2.458-4.7-5.492 0-1.516.525-2.891 1.375-3.883s2.025-1.608 3.325-1.608h36.55v1.333H34.81c-.984 0-1.875.458-2.517 1.217z" fill="#0E538C"></path>
-<path clip-rule="evenodd" d="M35.127 81.076c0-.045.037-.083.083-.083h32.775c.046 0 .084.038.084.084 0 .046-.038.083-.084.083H35.21c-.046 0-.083-.037-.083-.084zM35.127 79.409c0-.047.037-.084.083-.084h32.775c.046 0 .084.037.084.084 0 .045-.038.083-.084.083H35.21c-.046 0-.083-.038-.083-.084zM35.127 77.743c0-.046.037-.084.083-.084h32.775c.046 0 .084.037.084.084 0 .046-.038.083-.084.083H35.21c-.046 0-.083-.037-.083-.083zM35.127 76.076c0-.046.037-.084.083-.084h32.775c.046 0 .084.037.084.084 0 .046-.038.083-.084.083H35.21c-.046 0-.083-.038-.083-.084z" fill="#D3D3D3" fill-rule="evenodd"></path>
-<path d="M31.934 72.925H66.8c2.475 0 4.484-1.925 4.484-4.3 0-1.192-.5-2.266-1.317-3.041-.808-.776-1.933-1.259-3.175-1.259H31.934v8.6z" fill="#FFD18D"></path>
-<path d="M56.025 64.91H23.14c-.041 0-.075.032-.075.074v7.284c0 .041.034.075.075.075h32.884c2.025 0 3.666-1.642 3.666-3.667v-.1c0-2.025-1.641-3.667-3.666-3.667z" fill="#F2F2F2"></path>
-<path d="M58.333 66.325c.617.591.992 1.4.992 2.3 0 1.8-1.517 3.258-3.392 3.258H21.125v1.05h34.867c2.475 0 4.483-1.925 4.483-4.3 0-1.192-.5-2.267-1.317-3.042-.816-.775-1.933-1.258-3.175-1.258H21.125v1.05h34.808c.934-.017 1.784.35 2.4.942z" fill="#FFBE55"></path>
-<path clip-rule="evenodd" d="M24.191 71.468c0-.046.038-.083.084-.083H55.55c.046 0 .083.037.083.083 0 .046-.037.083-.083.083H24.275c-.046 0-.084-.037-.084-.083zM24.191 69.8c0-.046.038-.083.084-.083H55.55c.046 0 .083.037.083.083 0 .046-.037.084-.083.084H24.275c-.046 0-.084-.038-.084-.084zM24.191 68.134c0-.046.038-.083.084-.083H55.55c.046 0 .083.037.083.083 0 .046-.037.083-.083.083H24.275c-.046 0-.084-.037-.084-.083zM24.191 66.467c0-.046.038-.083.084-.083H55.55c.046 0 .083.037.083.083 0 .046-.037.084-.083.084H24.275c-.046 0-.084-.038-.084-.084z" fill="#D3D3D3" fill-rule="evenodd"></path>
-<path d="M59.959 64.325h-36.55c-2.6 0-4.7-2.458-4.7-5.492 0-1.516.525-2.891 1.375-3.883s2.025-1.608 3.325-1.608h36.55v10.983z" fill="#43AFFF"></path>
-<path d="M35.117 54.075h34.05c.05 0 .092.042.092.092v9.325c0 .05-.042.092-.092.092h-34.05c-2.341 0-4.25-1.9-4.25-4.25v-1.017c0-2.342 1.9-4.242 4.25-4.242z" fill="#F2F2F2"></path>
-<path d="M32.293 55.892c-.642.75-1.042 1.791-1.042 2.941 0 2.3 1.592 4.159 3.559 4.159h36.483v1.333h-36.55c-2.6 0-4.7-2.458-4.7-5.492 0-1.516.525-2.891 1.375-3.883s2.025-1.608 3.325-1.608h36.55v1.333H34.81c-.984-.008-1.875.459-2.517 1.217z" fill="#2A94F4"></path>
-<path clip-rule="evenodd" d="M35.127 61.485c0-.046.037-.084.083-.084h32.775c.046 0 .084.038.084.084 0 .046-.038.083-.084.083H35.21c-.046 0-.083-.037-.083-.083zM35.127 59.817c0-.046.037-.084.083-.084h32.775c.046 0 .084.038.084.084 0 .046-.038.083-.084.083H35.21c-.046 0-.083-.037-.083-.083zM35.127 58.15c0-.045.037-.083.083-.083h32.775c.046 0 .084.038.084.084 0 .046-.038.083-.084.083H35.21c-.046 0-.083-.037-.083-.083zM35.127 56.484c0-.046.037-.084.083-.084h32.775c.046 0 .084.038.084.084 0 .046-.038.083-.084.083H35.21c-.046 0-.083-.037-.083-.083z" fill="#D3D3D3" fill-rule="evenodd"></path>
-<path d="M55.542 74.517l-1.917-1.591-2 1.591v-6.45h3.917v6.45z" fill="#2A94F4"></path>
-<path d="M78.757 82.166c1.825 0 2.592-1.458 2.9-3 .342-1.741.092-3.6.092-3.6h-5.975l-.025.2c-.117 1.092-.475 6.4 3.008 6.4z" fill="#B6E7FF"></path>
-<path d="M75.766 75.566c0 .134 1.341.234 2.991.234 1.65 0 2.992-.109 2.992-.234 0-.133-1.342-.233-2.992-.233s-2.991.108-2.991.233z" fill="#85DDFF"></path>
-<path d="M70.666 59s3.15 4.791 5.042 7.716c1.891 2.925 2.383 3.534 2.608 4.475.225.942.425 4.433.425 4.433h.142s-.05-2.958-.217-3.958c-.167-.966.008-1.308.15-2.325.133-1.016.317-2.633-.708-3.758s-.75-2.225-1.117-2.975c-.358-.742-3.15-1.642-3.508-2.408-.367-.75-1.942-1.217-2.817-1.2z" fill="#2A94F4"></path>
-<path d="M70.666 58.999s.992 1.125 1.667 1.508c.675.384.991.042 1.508.967.517.925.542 1.325 1.008 1.8.475.475 1.034.492 1.084 1.533.041 1.034-.225 1.917-.225 1.917s-4.842-7.475-5.042-7.725z" fill="#41AAF7"></path>
-<path d="M78.5 75.632h-.142s-.042-.958-.425-1.425c-.242-.3-1.292-.641-2.317-1.05-.566-.225-1.133-.466-1.558-.742-1.2-.758-2.342-3.216-2.442-3.65-.033-.15-.05-.241-.05-.308 0-.116.059-.133.159-.25.05-.058.191-.041.375.017.516.158.95.508 1.225.983.25.434.65.975 1.141 1.109.85.224.775.366 1.092 1.224.308.859 1.1 1 2.083 2.017.984 1.008.859 2.075.859 2.075z" fill="#2A94F4"></path>
-<path d="M75.616 73.158c-.566-.225-1.133-.467-1.558-.742-1.2-.758-2.342-3.216-2.442-3.65-.033-.15-.05-.241-.05-.308 0 .025.059.417.684.675.65.267.775.267.858.675.083.408.158.85.492.933.341.084.55-.3.816.325.267.617.4.834.642.917.25.083.433-.042.492.433.033.3.05.575.066.742z" fill="#41AAF7"></path>
-<path d="M79.534 75.633h.166s.325-5.933.775-6.483c.292-.358 1.25-.992 2.467-1.475.675-.267 1.342-.558 1.842-.875 1.416-.9 2.775-3.808 2.891-4.325.042-.183.059-.292.059-.367 0-.141-.075-.158-.192-.3-.058-.066-.233-.041-.442.017-.608.183-1.125.608-1.45 1.158-.3.517-.766 1.15-1.35 1.309-1 .266-.916.433-1.291 1.45-.367 1.016-1.3 1.183-2.467 2.391-1.158 1.2-1.008 7.5-1.008 7.5z" fill="#2A94F4"></path>
-<path d="M82.95 67.675c.674-.267 1.34-.558 1.84-.875 1.417-.9 2.776-3.808 2.892-4.325.042-.183.059-.292.059-.367 0 .034-.067.492-.808.8-.767.317-.917.317-1.017.8-.1.484-.183 1-.584 1.1-.4.1-.65-.35-.966.384-.317.733-.467.983-.758 1.083-.292.1-.517-.05-.575.517-.05.35-.075.675-.084.883z" fill="#41AAF7"></path>
-<path d="M78.757 82.166c1.825 0 2.592-1.459 2.9-3-1.791-.675-4.041-1.767-5.908-3.4-.117 1.091-.475 6.4 3.008 6.4z" fill="#CCE9FF"></path>
-<path d="M10.657 82.39c1.5 0 2.133-1.2 2.383-2.474.284-1.433.075-2.967.075-2.967H8.2s-.009.058-.017.159c-.1.908-.392 5.283 2.475 5.283z" fill="#B6E7FF"></path>
-<path d="M8.2 76.95c0 .108 1.1.191 2.458.191s2.458-.083 2.458-.192c0-.108-1.1-.191-2.458-.191-1.359 0-2.459.083-2.459.192z" fill="#85DDFF"></path>
-<path d="M2.582 60.607s3.108 4.725 4.975 7.617c1.867 2.883 2.35 3.483 2.575 4.417.225.933.425 4.375.425 4.375h.242s.158-2.909-.134-3.859c-.291-.95-.175-1.333-.041-2.333.133-1 .308-2.6-.7-3.708-1.009-1.109-.742-2.2-1.1-2.934-.359-.733-3.109-1.616-3.467-2.375-.35-.758-1.908-1.225-2.775-1.2z" fill="#2A94F4"></path>
-<path d="M3.266 60.607s.975 1.109 1.641 1.484c.667.375.975.041 1.484.958.508.908.533 1.308 1 1.775.466.467 1.025.492 1.066 1.508.042 1.025-.225 1.884-.225 1.884s-4.766-7.367-4.966-7.609z" fill="#41AAF7"></path>
-<path d="M11.59 76.95l.176-.05s-.308-1.225-.008-1.95c.191-.475 1.383-1.292 2.525-2.2.633-.5 1.25-1.017 1.683-1.525 1.225-1.408 1.733-4.933 1.692-5.525-.017-.209-.034-.325-.059-.409-.05-.15-.125-.15-.3-.258-.083-.05-.258.025-.466.159-.592.391-1.009 1-1.175 1.691-.15.642-.45 1.475-1.017 1.825-.983.6-.842.758-.908 1.959-.067 1.2-1.009 1.674-1.867 3.325-.842 1.658-.275 2.958-.275 2.958z" fill="#2A94F4"></path>
-<path d="M14.291 72.75c.633-.5 1.25-1.017 1.683-1.526 1.225-1.408 1.734-4.933 1.692-5.525-.017-.208-.033-.325-.058-.408.008.042.083.55-.609 1.108-.716.584-.875.634-.825 1.175.05.55.125 1.125-.275 1.359-.391.233-.808-.167-.908.716-.1.884-.183 1.2-.467 1.4-.275.2-.558.109-.45.734.084.391.159.741.217.966z" fill="#41AAF7"></path>
-<path d="M10.657 82.391c1.5 0 2.133-1.2 2.383-2.475-1.475-.558-3.325-1.45-4.867-2.8-.091.9-.383 5.275 2.484 5.275z" fill="#CCE9FF"></path>
-<path d="M55.614 46.917h-16.02v3.679h16.02v-3.679z" fill="#072C3D"></path>
-<path d="M56.779 46.324l-17.504-.594-1.103-15.189h19.936l-1.33 15.783z" fill="#2A94F4"></path>
-<path d="M33.13 46.964c2.812.118 12.792 1.886 17.74 2.8 1.72.309 2.824.522 2.824.522s1.234.451 2.741.985c1.389.499 3.002 1.068 4.118 1.436.427.142.392.748-.036.854-1.056.25-3.43.214-5.15-.38-1.412.63-2.076.665-2.765.155-.225-.166-.486-.309-.76-.415-.498-.202-1.055-.333-1.59-.404-1.162-.154-2.195-.071-2.195-.071-4.01.771-13.171 3.37-18.63.154s-.083-5.79 3.703-5.636z" fill="#FFE3CA"></path>
-<path d="M33.127 46.965c2.812.118 12.792 1.886 17.74 2.8l-.628 2.765c-1.163-.154-2.196-.071-2.196-.071-4.01.771-13.172 3.37-18.63.154-5.459-3.216-.072-5.803 3.714-5.648z" fill="#0A3E5B"></path>
-<path d="M53.822 52.043c.557.118 1.364-.546 2.61-.771 1.389.498 3.002 1.068 4.118 1.435.427.143.392.748-.036.855-1.056.249-3.43.213-5.15-.38-1.412.629-2.076.664-2.765.154-.225-.166-.486-.308-.76-.415.25-.688 1.33-.795 1.983-.878zM59.885 30.6c-.154 4.605-2.314 10.146-3.524 11.95-.475.712-.795 1.104-.795 1.104h-4s.013-.024.036-.06c0-.012.012-.023.012-.023.202-.356 1.009-1.816 1.697-3.774.819-2.326 1.472-5.364.783-8.129H41.528c-1.365 5.459 2.527 11.986 2.527 11.986h-3.999S35.951 37.008 35.75 30.6c-.214-6.408 6.942-7.594 10.786-7.831H49.1l.415.035c3.916.404 10.573 1.614 10.371 7.796z" fill="#2A94F4"></path>
-<path d="M49.977 10.665c1.77 0 3.204-1.435 3.204-3.204 0-1.77-1.434-3.204-3.204-3.204-1.77 0-3.204 1.434-3.204 3.204 0 1.77 1.435 3.204 3.204 3.204z" fill="#0E538C"></path>
-<path d="M41.553 14.367c0-2.883 2.871-6.135 6.408-6.135 3.536 0 6.408 3.252 6.408 6.135 0 2.884-2.872 5.435-6.408 5.435-3.537 0-6.408-2.54-6.408-5.435z" fill="#0E538C"></path>
-<path d="M45.967 20.561l.57 3.513L47.96 27.1l1.187-3.026.475-3.56-3.655.047z" fill="#FCD2B1"></path>
-<path d="M51.937 16.064c0 2.421-1.78 5.34-3.975 5.34-2.196 0-3.976-2.919-3.976-5.34 0-2.42 1.78-4.39 3.976-4.39 2.195 0 3.975 1.97 3.975 4.39z" fill="#FFE3CA"></path>
-<path d="M51.104 10.724h-6.29v4.153h6.29v-4.153z" fill="#0E538C"></path>
-<path clip-rule="evenodd" d="M54.875 31.027c.124-.04.258.028.3.152.123.378.147.943.03 1.729-.116.79-.38 1.827-.851 3.159-.044.124-.18.188-.303.145-.124-.044-.189-.18-.145-.304.466-1.313.719-2.318.83-3.07.112-.757.077-1.236-.013-1.511-.04-.125.027-.259.152-.3zM40.297 31.027c.125.041.192.175.152.3-.09.275-.125.754-.013 1.511.11.752.364 1.757.83 3.07.043.124-.021.26-.145.303-.123.044-.26-.02-.303-.144-.472-1.332-.735-2.368-.852-3.16-.116-.785-.092-1.35.032-1.728.04-.124.174-.192.299-.151z" fill="#3CA8F7" fill-rule="evenodd"></path>
-<path d="M56.243 48.221H39.381c-.522 0-.938-.415-.938-.937l-.474-11.416c0-.522.415-.937.937-.937H56.73c.522 0 .937.415.937.937l-.474 11.416c0 .522-.428.937-.95.937z" fill="#CCE9FF"></path>
-<path d="M64.04 48.221c-2.111 1.852-10.584 7.429-14.797 10.182l-2.409 1.566s-1.21.522-2.67 1.175c-1.352.593-2.919 1.293-3.975 1.792-.403.19-.807-.273-.558-.641.594-.914 2.338-2.516 4-3.263.593-1.424 1.044-1.91 1.898-2.018.285-.035.57-.118.843-.225.498-.202.996-.498 1.424-.807.949-.688 1.649-1.46 1.649-1.46 2.373-3.322 7.239-11.51 13.41-12.934 6.17-1.424 4.034 4.141 1.186 6.633z" fill="#FFE3CA"></path>
-<path d="M64.04 48.222c-2.112 1.851-10.585 7.428-14.797 10.182l-1.448-2.433c.95-.688 1.65-1.46 1.65-1.46 2.373-3.322 7.238-11.51 13.408-12.934 6.171-1.424 4.035 4.153 1.187 6.645z" fill="#0A3E5B"></path>
-<path d="M45.53 58.782c-.488.296-.618 1.34-1.366 2.361-1.352.593-2.919 1.294-3.975 1.792-.403.19-.807-.273-.558-.64.594-.915 2.338-2.517 4-3.264.593-1.424 1.044-1.91 1.898-2.017.285-.036.57-.12.843-.226.284.665-.416 1.483-.843 1.994z" fill="#2A94F4"></path>
-<path d="M47.782 43.358c.983 0 1.78-.797 1.78-1.78s-.797-1.78-1.78-1.78-1.78.797-1.78 1.78.797 1.78 1.78 1.78z" fill="#3CA8F7"></path>
-</svg>
-</div>
-<div id="sidebar-body">
-<ul class="nav-actions">
-<li>
-<a class="button radius modernize primary" href="/upload" id="upload"><i class="modernize icon-upload"></i>Upload</a>
-</li>
-<li>
-<a class="sub-nav-link modernize grey-link" data-ga-action="click" data-ga-cat="sub_nav_cat" data-ga-label="Home" href="/" rel="nofollow">Home</a>
-</li>
-<li>
-<a class="sub-nav-link modernize grey-link" data-ga-action="click" data-ga-cat="sub_nav_cat" data-ga-label="Explore" href="/explore" rel="nofollow">Explore</a>
-</li>
-</ul>
-<ul class="user-actions">
-<li>
-<a class="button radius modernize secondary" href="https://www.slideshare.net/login" id="login-from-sidenav">Login</a>
-</li>
-<li>
-<a class="modernize button link signup-account-gating menu-reset-focus-on-blur" data-cy="mobile-signup-link" href="https://www.slideshare.net/login" id="signup-from-sidenav" title="Signup now for a SlideShare account">Signup</a>
-</li>
-</ul>
-</div>
-</div>
-</nav>
-<a class="logo-container" data-cy="slideshare-logo" href="/">
-<img alt="SlideShare a Scribd company logo" src="https://public.slidesharecdn.com/v2/images/logo/slideshare-scribd-logo.svg"/>
-</a>
-<ul id="left-nav-links">
-<li>
-<a class="sub-nav-link modernize grey-link" data-ga-action="click" data-ga-cat="sub_nav_cat" data-ga-label="Home" href="/">Home</a>
-</li>
-<li data-cy="explore-link">
-<a class="sub-nav-link modernize grey-link" data-ga-action="click" data-ga-cat="sub_nav_cat" data-ga-label="Explore" href="/explore">Explore</a>
-</li>
-</ul>
-</div>
-<form accept-charset="UTF-8" action="/search" id="nav-search-form" method="get"><input autocomplete="off" name="utf8" type="hidden" value="✓"/>
-<div class="input-box">
-<input name="searchfrom" type="hidden" value="header"/>
-<input aria-label="Search" autocomplete="off" data-cy="search-field" id="nav-search-query" name="q" placeholder="Search" type="text" value=""/>
-<button data-cy="search-submit" id="search-submit" type="submit">
-<i aria-hidden="true" class="modernize icon-search"></i>
-<span class="visually-hidden">Submit Search</span>
-</button>
-</div>
-</form> <ul class="nav-actions hidden-phone">
-<li>
-<a class="button radius modernize primary" href="/upload"><i class="modernize icon-upload"></i>Upload</a>
-</li>
-<li>
-<a class="button radius modernize secondary" href="/login" id="login-from-header">Login</a>
-</li>
-<li>
-<a class="modernize button link signup-account-gating" data-cy="signup-link" href="/login" id="signup-from-header" title="Signup now for a SlideShare account">Signup</a>
-</li>
-</ul>
-</nav>
-</header>
-<div class="app-notification-banner hidden">
-<div class="content-center">
-<p>
-<span class="notification-text">
-        We've updated our privacy policy.
-        <a class="notification-link desktop" href="https://www.scribd.com/privacy" target="_blank">
-          Click here to review the details.
-        </a>
-<a class="notification-link mobile" href="https://www.scribd.com/privacy" target="_blank">
-          Tap here to review the details.
-        </a>
-</span>
-</p>
-</div>
-<div class="notification-actions">
-<button aria-label="Close" class="close-banner" type="button">×</button>
-</div>
-</div>
-<div class="wrapper">
-<script>
-  slideshare_object.ads_config = {"ads_homepage_right1_fill":"\u003cdiv class= medRecTop\u003e\n  \u003cscript type=\"text/javascript\"\u003e slideshare_object.SS_LI_FillAd({ tile : 1, zone : 'slideshare', dart_code: '', width: 300, height: 250, tscp_enabled: true }); \u003c/script\u003e\n\u003c/div\u003e\n","ads_homepage_right2_fill":"\u003cdiv class= largeRectangleAd\u003e\n  \u003cscript type=\"text/javascript\"\u003e  slideshare_object.SS_LI_FillAd \u0026\u0026 slideshare_object.SS_LI_FillAd({ tile : 1, zone : 'slideshare', dart_code: '', width: 300, height: 250, appendTo: \"hp-ad-1\", tscp_enabled: true }); \u003c/script\u003e\n\u003c/div\u003e\n"};
-  window.showAds = true;
-</script>
-<section class="j-lazyload-hp ss-hero has-background-img" data-mobile="https://public.slidesharecdn.com/v2/images/hp_mobile_header.jpg?cb=af36c5d4d5e9e3a0b5d25bdadbfc06869166df99" data-original="https://public.slidesharecdn.com/v2/images/hp_desktop_header.jpg?cb=fc6a75b2c177cfad98518da43d3b385f38976fb4" id="hp-hero">
-<div class="hp-responsive-hide">
-<div class="hero_top_unit">
-<div class="hero_top_unit_content" data-cy="homepage-header">
-<h1>Discover. Share. Learn.</h1>
-<p class="subheading">Share what you know and love through presentations, infographics, documents and more</p>
-</div>
-</div>
-</div>
-<div class="top_header">
-<div class="top_line"></div>
-<h2>Today’s Top SlideShares</h2>
-<div class="top_line right"></div>
-</div>
-</section>
-<div data-cy="homepage-slideshows" id="hp-ssod">
-<div class="row">
-<div class="columns hp-ssod-columns">
-<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3 recommendation-module" data-module-id="top-recommended" data-section="top">
-<li class="iso_slideshow ss-thumbnail ss-slideshow-thumbnail notranslate presentation" data-cy="slideshow-listing" data-emailshareurl="mailto:?subject=Check out this SlideShare presentation&amp;body=https://www.slideshare.net/Inspiro/time-management-productivity-best-practices" data-embedcode='&lt;iframe src="https://www.slideshare.net/slideshow/embed_code/key/fwQ5HZgHx5viNq" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="https://www.slideshare.net/Inspiro/time-management-productivity-best-practices" title="Time Management &amp;amp; Productivity - Best Practices" target="_blank"&gt;Time Management &amp;amp; Productivity - Best Practices&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="https://www.slideshare.net/Inspiro" target="_blank"&gt;Vit Horky&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;' data-facebookshareurl="https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.slideshare.net%2FInspiro%2Ftime-management-productivity-best-practices&amp;t=Time+Management+%26+Productivity+-++Best+Practices" data-linkedinshareurl="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww.slideshare.net%2FInspiro%2Ftime-management-productivity-best-practices&amp;trk=SLIDESHARE" data-pinterestshareurl="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.slideshare.net%2FInspiro%2Ftime-management-productivity-best-practices&amp;media=https%3A%2F%2Fimage.slidesharecdn.com%2Ftimemanagementproductivity-bestpracticesbyvithorky-160209024645%2F85%2Ftime-management-productivity-best-practices-1-638.jpg%3Fcb%3D1664964419&amp;description=Time+Management+%26+Productivity+-++Best+Practices" data-pptlocation="timemanagementproductivity-bestpracticesbyvithorky-160209024645" data-slideshowauthorid="23972941" data-slideshowid="58032465" data-slideshowtype="0" data-smsshareurl="sms:?body=Check out this SlideShare : https://www.slideshare.net/Inspiro/time-management-productivity-best-practices" data-sslink="https://www.slideshare.net/Inspiro/time-management-productivity-best-practices" data-sstype="0" data-sstypeasstring="presentation" data-title="Time Management &amp; Productivity -  Best Practices" data-totalslides="42" data-twittershareurl="https://twitter.com/intent/tweet?via=SlideShare&amp;text=Time+Management+%26amp%3B+Productivity+-+Best+Practices+%23management+%23productivity+https%3A%2F%2Fwww.slideshare.net%2FInspiro%2Ftime-management-productivity-best-practices" data-whatsappshareurl="whatsapp://send?text=Checkout+https%3A%2F%2Fwww.slideshare.net%2FInspiro%2Ftime-management-productivity-best-practices+Time+Management+%26+Productivity+-++Best+Practices" data-wordpressshareurl="[slideshare id=58032465&amp;doc=timemanagementproductivity-bestpracticesbyvithorky-160209024645]">
-<a class="iso_slideshow_link thumbnail-link recommendation" data-algo-id="" data-cy="document-card" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="thumbnail_link_click" data-index="0" data-module-id="top-recommended" data-ppt-id="58032465" data-rec-id="58032465" data-recommendation-type="slideshow" data-source-model="" data-source-name="FEATURED" data-urn-type="Slideshow" href="/Inspiro/time-management-productivity-best-practices">
-<span class="visually-hidden">Time Management &amp; Productivity -  Best Practices</span>
-</a>
-<div class="thumbnail-content">
-<div class="bg-img-container">
-<img alt="" class="j-lazy-thumb" data-original="https://cdn.slidesharecdn.com/ss_thumbnails/timemanagementproductivity-bestpracticesbyvithorky-160209024645-thumbnail.jpg?width=600&amp;height=600&amp;fit=bounds" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
-</img></div>
-<div class="details">
-<div class="author">
-<a class="j-author_text notranslate" href="/Inspiro" rel="nofollow" title="Vit Horky">Vit Horky</a>
-</div>
-<span class="title title-link antialiased">
-          Time Management &amp; Productivity -  Best Practices
-        </span>
-<div class="small-info">
-          142,908 views
-        </div>
-<hr/>
-<div class="info">
-          142,908 views
-        </div>
-<div class="actions">
-<a class="favorite j-favorite action-btn" data-cy="like-button" data-e2e="browse-favorite-button" data-ss-created-at="2016-02-09 02:46:45 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="https://www.slideshare.net/Inspiro/time-management-productivity-best-practices" data-ssid="58032465" href="#" role="button" title="Like this SlideShare">
-<i aria-hidden="true" class="fa fa-heart"></i>
-<span class="visually-hidden">Like Time Management &amp; Productivity -  Best Practices SlideShare.</span>
-</a>
-<a class="action-btn save j-save download download-slideshow-58032465" data-cy="download-button" data-download="/slideshow/download?download_key=76c5bd72e1480b384a8e5e8fb2789c08f38cddd4f04739c6dfc0addbf3c56c6b&amp;slideshow_id=58032465" data-e2e="browse-download-button" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="save_click" data-ss-created-at="2016-02-09 02:46:45 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="/Inspiro/time-management-productivity-best-practices" data-ssid="58032465" data-subscription-required="true" href="#" rel="nofollow" title="Save this SlideShare">
-<i aria-hidden="true" class="fa fa-download"></i>
-<span class="visually-hidden">Save Time Management &amp; Productivity -  Best Practices SlideShare.</span>
-</a>
-<a class="action-btn share desktop-share j-share ga-track-share_desktop-share" data-cy="share" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="share_click" data-ss-created-at="2016-02-09 02:46:45 UTC" data-ss-format="presentation" data-ss-language="en" data-ssid="58032465" href="#" role="button" title="Share this SlideShare">
-<i aria-hidden="true" class="fa fa-share"></i>
-<span class="visually-hidden">Share Time Management &amp; Productivity -  Best Practices SlideShare.</span>
-</a>
-</div>
-</div>
-</div>
-</li>
-<li class="iso_slideshow ss-thumbnail ss-slideshow-thumbnail notranslate presentation" data-cy="slideshow-listing" data-emailshareurl="mailto:?subject=Check out this SlideShare presentation&amp;body=https://www.slideshare.net/slidecomet/5-storytelling-lessons-from-superhero-stories" data-embedcode='&lt;iframe src="https://www.slideshare.net/slideshow/embed_code/key/sH7VItkOeqwlon" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="https://www.slideshare.net/slidecomet/5-storytelling-lessons-from-superhero-stories" title="5 Storytelling Lessons From Superhero Stories" target="_blank"&gt;5 Storytelling Lessons From Superhero Stories&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="https://www.slideshare.net/slidecomet" target="_blank"&gt;HighSpark | Visual Storytelling Agency&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;' data-facebookshareurl="https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.slideshare.net%2Fslidecomet%2F5-storytelling-lessons-from-superhero-stories&amp;t=5+Storytelling+Lessons+From+Superhero+Stories" data-linkedinshareurl="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww.slideshare.net%2Fslidecomet%2F5-storytelling-lessons-from-superhero-stories&amp;trk=SLIDESHARE" data-pinterestshareurl="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.slideshare.net%2Fslidecomet%2F5-storytelling-lessons-from-superhero-stories&amp;media=https%3A%2F%2Fimage.slidesharecdn.com%2Fpresentationdesignsuperhero-160427111843%2F85%2F5-storytelling-lessons-from-superhero-stories-1-638.jpg%3Fcb%3D1664963296&amp;description=5+Storytelling+Lessons+From+Superhero+Stories" data-pptlocation="presentationdesignsuperhero-160427111843" data-slideshowauthorid="50606147" data-slideshowid="61412100" data-slideshowtype="0" data-smsshareurl="sms:?body=Check out this SlideShare : https://www.slideshare.net/slidecomet/5-storytelling-lessons-from-superhero-stories" data-sslink="https://www.slideshare.net/slidecomet/5-storytelling-lessons-from-superhero-stories" data-sstype="0" data-sstypeasstring="presentation" data-title="5 Storytelling Lessons From Superhero Stories" data-totalslides="48" data-twittershareurl="https://twitter.com/intent/tweet?via=SlideShare&amp;text=5+Storytelling+Lessons+From+Superhero+Stories+by+%40High_Spark+%23business+%23businessstorytelling+https%3A%2F%2Fwww.slideshare.net%2Fslidecomet%2F5-storytelling-lessons-from-superhero-stories" data-whatsappshareurl="whatsapp://send?text=Checkout+https%3A%2F%2Fwww.slideshare.net%2Fslidecomet%2F5-storytelling-lessons-from-superhero-stories+5+Storytelling+Lessons+From+Superhero+Stories" data-wordpressshareurl="[slideshare id=61412100&amp;doc=presentationdesignsuperhero-160427111843]">
-<a class="iso_slideshow_link thumbnail-link recommendation" data-algo-id="" data-cy="document-card" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="thumbnail_link_click" data-index="1" data-module-id="top-recommended" data-ppt-id="61412100" data-rec-id="61412100" data-recommendation-type="slideshow" data-source-model="" data-source-name="FEATURED" data-urn-type="Slideshow" href="/slidecomet/5-storytelling-lessons-from-superhero-stories">
-<span class="visually-hidden">5 Storytelling Lessons From Superhero Stories</span>
-</a>
-<div class="thumbnail-content">
-<div class="bg-img-container">
-<img alt="" class="j-lazy-thumb" data-original="https://cdn.slidesharecdn.com/ss_thumbnails/presentationdesignsuperhero-160427111843-thumbnail.jpg?width=600&amp;height=600&amp;fit=bounds" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
-</img></div>
-<div class="details">
-<div class="author">
-<a class="j-author_text notranslate" href="/slidecomet" rel="nofollow" title="HighSpark | Visual Storytelling Agency">HighSpark | Visual Storytelling Agency</a>
-</div>
-<span class="title title-link antialiased">
-          5 Storytelling Lessons From Superhero Stories
-        </span>
-<div class="small-info">
-          2,089,268 views
-        </div>
-<hr/>
-<div class="info">
-          2,089,268 views
-        </div>
-<div class="actions">
-<a class="favorite j-favorite action-btn" data-cy="like-button" data-e2e="browse-favorite-button" data-ss-created-at="2016-04-27 11:18:43 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="https://www.slideshare.net/slidecomet/5-storytelling-lessons-from-superhero-stories" data-ssid="61412100" href="#" role="button" title="Like this SlideShare">
-<i aria-hidden="true" class="fa fa-heart"></i>
-<span class="visually-hidden">Like 5 Storytelling Lessons From Superhero Stories SlideShare.</span>
-</a>
-<a class="action-btn share desktop-share j-share ga-track-share_desktop-share" data-cy="share" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="share_click" data-ss-created-at="2016-04-27 11:18:43 UTC" data-ss-format="presentation" data-ss-language="en" data-ssid="61412100" href="#" role="button" title="Share this SlideShare">
-<i aria-hidden="true" class="fa fa-share"></i>
-<span class="visually-hidden">Share 5 Storytelling Lessons From Superhero Stories SlideShare.</span>
-</a>
-</div>
-</div>
-</div>
-</li>
-<li class="iso_slideshow ss-thumbnail ss-slideshow-thumbnail notranslate presentation hide-for-medium" data-cy="slideshow-listing" data-emailshareurl="mailto:?subject=Check out this SlideShare presentation&amp;body=https://www.slideshare.net/christyponnattil/introduction-to-data-science-254604795" data-embedcode='&lt;iframe src="https://www.slideshare.net/slideshow/embed_code/key/aB5A7Bv2NqoJq" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="https://www.slideshare.net/christyponnattil/introduction-to-data-science-254604795" title="Introduction to Data Science" target="_blank"&gt;Introduction to Data Science&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="https://www.slideshare.net/christyponnattil" target="_blank"&gt;Christy Abraham Joy&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;' data-facebookshareurl="https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.slideshare.net%2Fchristyponnattil%2Fintroduction-to-data-science-254604795&amp;t=Introduction+to+Data+Science" data-linkedinshareurl="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww.slideshare.net%2Fchristyponnattil%2Fintroduction-to-data-science-254604795&amp;trk=SLIDESHARE" data-pinterestshareurl="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.slideshare.net%2Fchristyponnattil%2Fintroduction-to-data-science-254604795&amp;media=https%3A%2F%2Fimage.slidesharecdn.com%2Fdatasciencecorner-221130165458-60b0d249%2F85%2Fintroduction-to-data-science-1-638.jpg%3Fcb%3D1669828015&amp;description=Introduction+to+Data+Science" data-pptlocation="datasciencecorner-221130165458-60b0d249" data-slideshowauthorid="64420915" data-slideshowid="254604795" data-slideshowtype="0" data-smsshareurl="sms:?body=Check out this SlideShare : https://www.slideshare.net/christyponnattil/introduction-to-data-science-254604795" data-sslink="https://www.slideshare.net/christyponnattil/introduction-to-data-science-254604795" data-sstype="0" data-sstypeasstring="presentation" data-title="Introduction to Data Science" data-totalslides="51" data-twittershareurl="https://twitter.com/intent/tweet?via=SlideShare&amp;text=Introduction+to+Data+Science+%23aiml+%23algorithms+https%3A%2F%2Fwww.slideshare.net%2Fchristyponnattil%2Fintroduction-to-data-science-254604795" data-whatsappshareurl="whatsapp://send?text=Checkout+https%3A%2F%2Fwww.slideshare.net%2Fchristyponnattil%2Fintroduction-to-data-science-254604795+Introduction+to+Data+Science" data-wordpressshareurl="[slideshare id=254604795&amp;doc=datasciencecorner-221130165458-60b0d249]">
-<a class="iso_slideshow_link thumbnail-link recommendation" data-algo-id="" data-cy="document-card" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="thumbnail_link_click" data-index="2" data-module-id="top-recommended" data-ppt-id="254604795" data-rec-id="254604795" data-recommendation-type="slideshow" data-source-model="" data-source-name="FEATURED" data-urn-type="Slideshow" href="/christyponnattil/introduction-to-data-science-254604795">
-<span class="visually-hidden">Introduction to Data Science</span>
-</a>
-<div class="thumbnail-content">
-<div class="bg-img-container">
-<img alt="" class="j-lazy-thumb" data-original="https://cdn.slidesharecdn.com/ss_thumbnails/datasciencecorner-221130165458-60b0d249-thumbnail.jpg?width=600&amp;height=600&amp;fit=bounds" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-</div>
-<div class="details">
-<div class="author">
-<a class="j-author_text notranslate" href="/christyponnattil" rel="nofollow" title="Christy Abraham Joy">Christy Abraham Joy</a>
-</div>
-<span class="title title-link antialiased">
-          Introduction to Data Science
-        </span>
-<div class="small-info">
-          19,127 views
-        </div>
-<hr/>
-<div class="info">
-          19,127 views
-        </div>
-<div class="actions">
-<a class="favorite j-favorite action-btn" data-cy="like-button" data-e2e="browse-favorite-button" data-ss-created-at="2022-11-30 16:54:58 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="https://www.slideshare.net/christyponnattil/introduction-to-data-science-254604795" data-ssid="254604795" href="#" role="button" title="Like this SlideShare">
-<i aria-hidden="true" class="fa fa-heart"></i>
-<span class="visually-hidden">Like Introduction to Data Science SlideShare.</span>
-</a>
-<a class="action-btn save j-save download download-slideshow-254604795" data-cy="download-button" data-download="/slideshow/download?download_key=11ee6ea8a61f54a89beebdedc67c1f2df2d9c6c35ed1ba88ec622a58d0877ea7&amp;slideshow_id=254604795" data-e2e="browse-download-button" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="save_click" data-ss-created-at="2022-11-30 16:54:58 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="/christyponnattil/introduction-to-data-science-254604795" data-ssid="254604795" data-subscription-required="true" href="#" rel="nofollow" title="Save this SlideShare">
-<i aria-hidden="true" class="fa fa-download"></i>
-<span class="visually-hidden">Save Introduction to Data Science SlideShare.</span>
-</a>
-<a class="action-btn share desktop-share j-share ga-track-share_desktop-share" data-cy="share" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="share_click" data-ss-created-at="2022-11-30 16:54:58 UTC" data-ss-format="presentation" data-ss-language="en" data-ssid="254604795" href="#" role="button" title="Share this SlideShare">
-<i aria-hidden="true" class="fa fa-share"></i>
-<span class="visually-hidden">Share Introduction to Data Science SlideShare.</span>
-</a>
-</div>
-</div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</div><!-- /#hp-ssod -->
-<section id="hp-featured">
-<div class="row">
-<div class="columns">
-<table class="h-table h-table-margin" role="presentation">
-<tr>
-<td class="h-content"><h3 class="antialiased">Featured SlideShares</h3></td>
-<td class="h-line"><div></div></td>
-<td class="h-content">
-<a data-ga-action="link_featured_see_all_click" data-ga-cat="homepage_loggedout" href="/featured" title="All featured SlideShares"><small>See All</small></a>
-</td>
-</tr>
-</table>
-</div>
-</div>
-<div class="row">
-<div class="columns">
-<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-3 recommendation-module" data-module-id="featured-recommended" data-section="featured">
-<li class="iso_slideshow ss-thumbnail ss-slideshow-thumbnail notranslate presentation" data-cy="slideshow-listing" data-emailshareurl="mailto:?subject=Check out this SlideShare presentation&amp;body=https://www.slideshare.net/MindGenius/the-six-step-guide-to-practical-project-management" data-embedcode='&lt;iframe src="https://www.slideshare.net/slideshow/embed_code/key/hDhawQHXxUTwTz" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="https://www.slideshare.net/MindGenius/the-six-step-guide-to-practical-project-management" title="The six step guide to practical project management" target="_blank"&gt;The six step guide to practical project management&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="https://www.slideshare.net/MindGenius" target="_blank"&gt;MindGenius&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;' data-facebookshareurl="https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.slideshare.net%2FMindGenius%2Fthe-six-step-guide-to-practical-project-management&amp;t=The+six+step+guide+to+practical+project+management" data-linkedinshareurl="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww.slideshare.net%2FMindGenius%2Fthe-six-step-guide-to-practical-project-management&amp;trk=SLIDESHARE" data-pinterestshareurl="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.slideshare.net%2FMindGenius%2Fthe-six-step-guide-to-practical-project-management&amp;media=https%3A%2F%2Fimage.slidesharecdn.com%2Fpracticalprojectmanagementebookbymindgenius-160210113840%2F85%2Fthe-six-step-guide-to-practical-project-management-1-638.jpg%3Fcb%3D1667881904&amp;description=The+six+step+guide+to+practical+project+management" data-pptlocation="practicalprojectmanagementebookbymindgenius-160210113840" data-slideshowauthorid="27256149" data-slideshowid="58096360" data-slideshowtype="0" data-smsshareurl="sms:?body=Check out this SlideShare : https://www.slideshare.net/MindGenius/the-six-step-guide-to-practical-project-management" data-sslink="https://www.slideshare.net/MindGenius/the-six-step-guide-to-practical-project-management" data-sstype="0" data-sstypeasstring="presentation" data-title="The six step guide to practical project management" data-totalslides="27" data-twittershareurl="https://twitter.com/intent/tweet?via=SlideShare&amp;text=The+six+step+guide+to+practical+project+management+by+%40MindGenius+%23brainstorming+%23gantt+https%3A%2F%2Fwww.slideshare.net%2FMindGenius%2Fthe-six-step-guide-to-practical-project-management" data-whatsappshareurl="whatsapp://send?text=Checkout+https%3A%2F%2Fwww.slideshare.net%2FMindGenius%2Fthe-six-step-guide-to-practical-project-management+The+six+step+guide+to+practical+project+management" data-wordpressshareurl="[slideshare id=58096360&amp;doc=practicalprojectmanagementebookbymindgenius-160210113840]">
-<a class="iso_slideshow_link thumbnail-link recommendation" data-algo-id="" data-cy="document-card" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="thumbnail_link_click" data-index="0" data-module-id="featured-recommended" data-ppt-id="58096360" data-rec-id="58096360" data-recommendation-type="slideshow" data-source-model="" data-source-name="FEATURED" data-urn-type="Slideshow" href="/MindGenius/the-six-step-guide-to-practical-project-management">
-<span class="visually-hidden">The six step guide to practical project management</span>
-</a>
-<div class="thumbnail-content">
-<div class="bg-img-container">
-<img alt="" class="j-lazy-thumb" data-original="https://cdn.slidesharecdn.com/ss_thumbnails/practicalprojectmanagementebookbymindgenius-160210113840-thumbnail.jpg?width=600&amp;height=600&amp;fit=bounds" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-</div>
-<div class="details">
-<div class="author">
-<a class="j-author_text notranslate" href="/MindGenius" rel="nofollow" title="MindGenius">MindGenius</a>
-</div>
-<span class="title title-link antialiased">
-          The six step guide to practical project management
-        </span>
-<div class="small-info">
-          7y ago, 15,973 views
-        </div>
-<hr/>
-<div class="info">
-          7y ago, 15,973 views
-        </div>
-<div class="actions">
-<a class="favorite j-favorite action-btn" data-cy="like-button" data-e2e="browse-favorite-button" data-ss-created-at="2016-02-10 11:38:39 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="https://www.slideshare.net/MindGenius/the-six-step-guide-to-practical-project-management" data-ssid="58096360" href="#" role="button" title="Like this SlideShare">
-<i aria-hidden="true" class="fa fa-heart"></i>
-<span class="visually-hidden">Like The six step guide to practical project management SlideShare.</span>
-</a>
-<a class="action-btn save j-save download download-slideshow-58096360" data-cy="download-button" data-download="/slideshow/download?download_key=5cdd6051a22962a95b10b5bceb78b621b731a6295541c2011019a6410d3aaee6&amp;slideshow_id=58096360" data-e2e="browse-download-button" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="save_click" data-ss-created-at="2016-02-10 11:38:39 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="/MindGenius/the-six-step-guide-to-practical-project-management" data-ssid="58096360" data-subscription-required="true" href="#" rel="nofollow" title="Save this SlideShare">
-<i aria-hidden="true" class="fa fa-download"></i>
-<span class="visually-hidden">Save The six step guide to practical project management SlideShare.</span>
-</a>
-<a class="action-btn share desktop-share j-share ga-track-share_desktop-share" data-cy="share" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="share_click" data-ss-created-at="2016-02-10 11:38:39 UTC" data-ss-format="presentation" data-ss-language="en" data-ssid="58096360" href="#" role="button" title="Share this SlideShare">
-<i aria-hidden="true" class="fa fa-share"></i>
-<span class="visually-hidden">Share The six step guide to practical project management SlideShare.</span>
-</a>
-</div>
-</div>
-</div>
-</li>
-<li class="iso_slideshow ss-thumbnail ss-slideshow-thumbnail notranslate presentation" data-cy="slideshow-listing" data-emailshareurl="mailto:?subject=Check out this SlideShare presentation&amp;body=https://www.slideshare.net/AlirezaEsmikhani/chatgpt-webinar-slides" data-embedcode='&lt;iframe src="https://www.slideshare.net/slideshow/embed_code/key/HeDEXlGO4vyHf1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="https://www.slideshare.net/AlirezaEsmikhani/chatgpt-webinar-slides" title="ChatGPT webinar slides" target="_blank"&gt;ChatGPT webinar slides&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="https://www.slideshare.net/AlirezaEsmikhani" target="_blank"&gt;Alireza Esmikhani&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;' data-facebookshareurl="https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.slideshare.net%2FAlirezaEsmikhani%2Fchatgpt-webinar-slides&amp;t=ChatGPT+webinar+slides" data-linkedinshareurl="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww.slideshare.net%2FAlirezaEsmikhani%2Fchatgpt-webinar-slides&amp;trk=SLIDESHARE" data-pinterestshareurl="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.slideshare.net%2FAlirezaEsmikhani%2Fchatgpt-webinar-slides&amp;media=https%3A%2F%2Fimage.slidesharecdn.com%2Fchatgptwebinarslides-230213155400-bbf23d45%2F85%2Fchatgpt-webinar-slides-1-638.jpg%3Fcb%3D1676304007&amp;description=ChatGPT+webinar+slides" data-pptlocation="chatgptwebinarslides-230213155400-bbf23d45" data-slideshowauthorid="169947433" data-slideshowid="255837172" data-slideshowtype="0" data-smsshareurl="sms:?body=Check out this SlideShare : https://www.slideshare.net/AlirezaEsmikhani/chatgpt-webinar-slides" data-sslink="https://www.slideshare.net/AlirezaEsmikhani/chatgpt-webinar-slides" data-sstype="0" data-sstypeasstring="presentation" data-title="ChatGPT webinar slides" data-totalslides="36" data-twittershareurl="https://twitter.com/intent/tweet?via=SlideShare&amp;text=ChatGPT+webinar+slides+%23ai+%23artificialintelligence+https%3A%2F%2Fwww.slideshare.net%2FAlirezaEsmikhani%2Fchatgpt-webinar-slides" data-whatsappshareurl="whatsapp://send?text=Checkout+https%3A%2F%2Fwww.slideshare.net%2FAlirezaEsmikhani%2Fchatgpt-webinar-slides+ChatGPT+webinar+slides" data-wordpressshareurl="[slideshare id=255837172&amp;doc=chatgptwebinarslides-230213155400-bbf23d45]">
-<a class="iso_slideshow_link thumbnail-link recommendation" data-algo-id="" data-cy="document-card" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="thumbnail_link_click" data-index="1" data-module-id="featured-recommended" data-ppt-id="255837172" data-rec-id="255837172" data-recommendation-type="slideshow" data-source-model="" data-source-name="FEATURED" data-urn-type="Slideshow" href="/AlirezaEsmikhani/chatgpt-webinar-slides">
-<span class="visually-hidden">ChatGPT webinar slides</span>
-</a>
-<div class="thumbnail-content">
-<div class="bg-img-container">
-<img alt="" class="j-lazy-thumb" data-original="https://cdn.slidesharecdn.com/ss_thumbnails/chatgptwebinarslides-230213155400-bbf23d45-thumbnail.jpg?width=600&amp;height=600&amp;fit=bounds" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-</div>
-<div class="details">
-<div class="author">
-<a class="j-author_text notranslate" href="/AlirezaEsmikhani" rel="nofollow" title="Alireza Esmikhani">Alireza Esmikhani</a>
-</div>
-<span class="title title-link antialiased">
-          ChatGPT webinar slides
-        </span>
-<div class="small-info">
-          5m ago, 12,254 views
-        </div>
-<hr/>
-<div class="info">
-          5m ago, 12,254 views
-        </div>
-<div class="actions">
-<a class="favorite j-favorite action-btn" data-cy="like-button" data-e2e="browse-favorite-button" data-ss-created-at="2023-02-13 15:54:00 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="https://www.slideshare.net/AlirezaEsmikhani/chatgpt-webinar-slides" data-ssid="255837172" href="#" role="button" title="Like this SlideShare">
-<i aria-hidden="true" class="fa fa-heart"></i>
-<span class="visually-hidden">Like ChatGPT webinar slides SlideShare.</span>
-</a>
-<a class="action-btn share desktop-share j-share ga-track-share_desktop-share" data-cy="share" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="share_click" data-ss-created-at="2023-02-13 15:54:00 UTC" data-ss-format="presentation" data-ss-language="en" data-ssid="255837172" href="#" role="button" title="Share this SlideShare">
-<i aria-hidden="true" class="fa fa-share"></i>
-<span class="visually-hidden">Share ChatGPT webinar slides SlideShare.</span>
-</a>
-</div>
-</div>
-</div>
-</li>
-<li class="iso_slideshow ss-thumbnail ss-slideshow-thumbnail notranslate presentation" data-cy="slideshow-listing" data-emailshareurl="mailto:?subject=Check out this SlideShare presentation&amp;body=https://www.slideshare.net/RachelPearson36/beginners-guide-to-tiktok-for-search-rachel-pearson-we-are-tilt-brightonseo-finalpdf" data-embedcode='&lt;iframe src="https://www.slideshare.net/slideshow/embed_code/key/Fuqsc41FaO0B8R" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="https://www.slideshare.net/RachelPearson36/beginners-guide-to-tiktok-for-search-rachel-pearson-we-are-tilt-brightonseo-finalpdf" title="Beginners Guide to TikTok for Search - Rachel Pearson - We are Tilt __ BrightonSEO (FINAL).pdf" target="_blank"&gt;Beginners Guide to TikTok for Search - Rachel Pearson - We are Tilt __ BrightonSEO (FINAL).pdf&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="https://www.slideshare.net/RachelPearson36" target="_blank"&gt;RachelPearson36&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;' data-facebookshareurl="https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.slideshare.net%2FRachelPearson36%2Fbeginners-guide-to-tiktok-for-search-rachel-pearson-we-are-tilt-brightonseo-finalpdf&amp;t=Beginners+Guide+to+TikTok+for+Search+-+Rachel+Pearson+-+We+are+Tilt+__+BrightonSEO+%28FINAL%29.pdf" data-linkedinshareurl="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww.slideshare.net%2FRachelPearson36%2Fbeginners-guide-to-tiktok-for-search-rachel-pearson-we-are-tilt-brightonseo-finalpdf&amp;trk=SLIDESHARE" data-pinterestshareurl="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.slideshare.net%2FRachelPearson36%2Fbeginners-guide-to-tiktok-for-search-rachel-pearson-we-are-tilt-brightonseo-finalpdf&amp;media=https%3A%2F%2Fimage.slidesharecdn.com%2Fbeginnersguidetotiktokforsearch-rachelpearson-wearetiltbrightonseofinal-230417082258-46a37be4%2F85%2Fbeginners-guide-to-tiktok-for-search-rachel-pearson-we-are-tilt-brightonseo-finalpdf-1-638.jpg%3Fcb%3D1681720142&amp;description=Beginners+Guide+to+TikTok+for+Search+-+Rachel+Pearson+-+We+are+Tilt+__+BrightonSEO+%28FINAL%29.pdf" data-pptlocation="beginnersguidetotiktokforsearch-rachelpearson-wearetiltbrightonseofinal-230417082258-46a37be4" data-slideshowauthorid="223138863" data-slideshowid="257430073" data-slideshowtype="0" data-smsshareurl="sms:?body=Check out this SlideShare : https://www.slideshare.net/RachelPearson36/beginners-guide-to-tiktok-for-search-rachel-pearson-we-are-tilt-brightonseo-finalpdf" data-sslink="https://www.slideshare.net/RachelPearson36/beginners-guide-to-tiktok-for-search-rachel-pearson-we-are-tilt-brightonseo-finalpdf" data-sstype="0" data-sstypeasstring="presentation" data-title="Beginners Guide to TikTok for Search - Rachel Pearson - We are Tilt __ BrightonSEO (FINAL).pdf" data-totalslides="21" data-twittershareurl="https://twitter.com/intent/tweet?via=SlideShare&amp;text=Beginners+Guide+to+TikTok+for+Search+-+Rachel+Pearson+-+We+are+Tilt+__+Bright...+https%3A%2F%2Fwww.slideshare.net%2FRachelPearson36%2Fbeginners-guide-to-tiktok-for-search-rachel-pearson-we-are-tilt-brightonseo-finalpdf" data-whatsappshareurl="whatsapp://send?text=Checkout+https%3A%2F%2Fwww.slideshare.net%2FRachelPearson36%2Fbeginners-guide-to-tiktok-for-search-rachel-pearson-we-are-tilt-brightonseo-finalpdf+Beginners+Guide+to+TikTok+for+Search+-+Rachel+Pearson+-+We+are+Tilt+__+BrightonSEO+%28FINAL%29.pdf" data-wordpressshareurl="[slideshare id=257430073&amp;doc=beginnersguidetotiktokforsearch-rachelpearson-wearetiltbrightonseofinal-230417082258-46a37be4]">
-<a class="iso_slideshow_link thumbnail-link recommendation" data-algo-id="" data-cy="document-card" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="thumbnail_link_click" data-index="2" data-module-id="featured-recommended" data-ppt-id="257430073" data-rec-id="257430073" data-recommendation-type="slideshow" data-source-model="" data-source-name="FEATURED" data-urn-type="Slideshow" href="/RachelPearson36/beginners-guide-to-tiktok-for-search-rachel-pearson-we-are-tilt-brightonseo-finalpdf">
-<span class="visually-hidden">Beginners Guide to TikTok for Search - Rachel Pearson - We are Tilt __ BrightonSEO (FINAL).pdf</span>
-</a>
-<div class="thumbnail-content">
-<div class="bg-img-container">
-<img alt="" class="j-lazy-thumb" data-original="https://cdn.slidesharecdn.com/ss_thumbnails/beginnersguidetotiktokforsearch-rachelpearson-wearetiltbrightonseofinal-230417082258-46a37be4-thumbnail.jpg?width=600&amp;height=600&amp;fit=bounds" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-</div>
-<div class="details">
-<div class="author">
-<a class="j-author_text notranslate" href="/RachelPearson36" rel="nofollow" title="RachelPearson36">RachelPearson36</a>
-</div>
-<span class="title title-link antialiased">
-          Beginners Guide to TikTok for Search - Rachel Pearson - We are Tilt __ BrightonSEO (FINAL).pdf
-        </span>
-<div class="small-info">
-          3m ago, 4,112 views
-        </div>
-<hr/>
-<div class="info">
-          3m ago, 4,112 views
-        </div>
-<div class="actions">
-<a class="favorite j-favorite action-btn" data-cy="like-button" data-e2e="browse-favorite-button" data-ss-created-at="2023-04-17 08:22:58 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="https://www.slideshare.net/RachelPearson36/beginners-guide-to-tiktok-for-search-rachel-pearson-we-are-tilt-brightonseo-finalpdf" data-ssid="257430073" href="#" role="button" title="Like this SlideShare">
-<i aria-hidden="true" class="fa fa-heart"></i>
-<span class="visually-hidden">Like Beginners Guide to TikTok for Search - Rachel Pearson - We are Tilt __ BrightonSEO (FINAL).pdf SlideShare.</span>
-</a>
-<a class="action-btn save j-save download download-slideshow-257430073" data-cy="download-button" data-download="/slideshow/download?download_key=059cc1a4c995b2256696477e527de26842db02885ae0554dae29c9e156e57432&amp;slideshow_id=257430073" data-e2e="browse-download-button" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="save_click" data-ss-created-at="2023-04-17 08:22:58 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="/RachelPearson36/beginners-guide-to-tiktok-for-search-rachel-pearson-we-are-tilt-brightonseo-finalpdf" data-ssid="257430073" data-subscription-required="true" href="#" rel="nofollow" title="Save this SlideShare">
-<i aria-hidden="true" class="fa fa-download"></i>
-<span class="visually-hidden">Save Beginners Guide to TikTok for Search - Rachel Pearson - We are Tilt __ BrightonSEO (FINAL).pdf SlideShare.</span>
-</a>
-<a class="action-btn share desktop-share j-share ga-track-share_desktop-share" data-cy="share" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="share_click" data-ss-created-at="2023-04-17 08:22:58 UTC" data-ss-format="presentation" data-ss-language="en" data-ssid="257430073" href="#" role="button" title="Share this SlideShare">
-<i aria-hidden="true" class="fa fa-share"></i>
-<span class="visually-hidden">Share Beginners Guide to TikTok for Search - Rachel Pearson - We are Tilt __ BrightonSEO (FINAL).pdf SlideShare.</span>
-</a>
-</div>
-</div>
-</div>
-</li>
-</ul>
-<ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-4 recommendation-module" data-module-id="featured-recommended" data-section="featured">
-<li class="iso_slideshow ss-thumbnail ss-slideshow-thumbnail notranslate presentation" data-cy="slideshow-listing" data-emailshareurl="mailto:?subject=Check out this SlideShare presentation&amp;body=https://www.slideshare.net/PWPB_Slides/20140824-usbrs-best-practices" data-embedcode='&lt;iframe src="https://www.slideshare.net/slideshow/embed_code/key/KvNHWlIgnDZZqS" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="https://www.slideshare.net/PWPB_Slides/20140824-usbrs-best-practices" title="More than Just Lines on a Map: Best Practices for U.S Bike Routes" target="_blank"&gt;More than Just Lines on a Map: Best Practices for U.S Bike Routes&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="https://www.slideshare.net/PWPB_Slides" target="_blank"&gt;Project for Public Spaces &amp;amp; National Center for Biking and Walking&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;' data-facebookshareurl="https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.slideshare.net%2FPWPB_Slides%2F20140824-usbrs-best-practices&amp;t=More+than+Just+Lines+on+a+Map%3A+Best+Practices+for+U.S+Bike+Routes" data-linkedinshareurl="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww.slideshare.net%2FPWPB_Slides%2F20140824-usbrs-best-practices&amp;trk=SLIDESHARE" data-pinterestshareurl="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.slideshare.net%2FPWPB_Slides%2F20140824-usbrs-best-practices&amp;media=https%3A%2F%2Fimage.slidesharecdn.com%2F2014-141015115431-conversion-gate01%2F85%2Fmore-than-just-lines-on-a-map-best-practices-for-us-bike-routes-1-638.jpg%3Fcb%3D1670733529&amp;description=More+than+Just+Lines+on+a+Map%3A+Best+Practices+for+U.S+Bike+Routes" data-pptlocation="2014-141015115431-conversion-gate01" data-slideshowauthorid="44020323" data-slideshowid="40310652" data-slideshowtype="0" data-smsshareurl="sms:?body=Check out this SlideShare : https://www.slideshare.net/PWPB_Slides/20140824-usbrs-best-practices" data-sslink="https://www.slideshare.net/PWPB_Slides/20140824-usbrs-best-practices" data-sstype="0" data-sstypeasstring="presentation" data-title="More than Just Lines on a Map: Best Practices for U.S Bike Routes" data-totalslides="51" data-twittershareurl="https://twitter.com/intent/tweet?via=SlideShare&amp;text=More+than+Just+Lines+on+a+Map%3A+Best+Practices+for+U.S+Bike+Routes+%232014prowalkprobikeproplace+%23connect+https%3A%2F%2Fwww.slideshare.net%2FPWPB_Slides%2F20140824-usbrs-best-practices" data-whatsappshareurl="whatsapp://send?text=Checkout+https%3A%2F%2Fwww.slideshare.net%2FPWPB_Slides%2F20140824-usbrs-best-practices+More+than+Just+Lines+on+a+Map%3A+Best+Practices+for+U.S+Bike+Routes" data-wordpressshareurl="[slideshare id=40310652&amp;doc=2014-141015115431-conversion-gate01]">
-<a class="iso_slideshow_link thumbnail-link recommendation" data-algo-id="" data-cy="document-card" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="thumbnail_link_click" data-index="0" data-module-id="featured-recommended" data-ppt-id="40310652" data-rec-id="40310652" data-recommendation-type="slideshow" data-source-model="" data-source-name="FEATURED" data-urn-type="Slideshow" href="/PWPB_Slides/20140824-usbrs-best-practices">
-<span class="visually-hidden">More than Just Lines on a Map: Best Practices for U.S Bike Routes</span>
-</a>
-<div class="thumbnail-content">
-<div class="bg-img-container">
-<img alt="" class="j-lazy-thumb" data-original="https://cdn.slidesharecdn.com/ss_thumbnails/2014-141015115431-conversion-gate01-thumbnail.jpg?width=600&amp;height=600&amp;fit=bounds" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-</div>
-<div class="details">
-<div class="author">
-<a class="j-author_text notranslate" href="/PWPB_Slides" rel="nofollow" title="Project for Public Spaces &amp; National Center for Biking and Walking">Project for Public Spaces &amp; National Center for Biking and Walking</a>
-</div>
-<span class="title title-link antialiased">
-          More than Just Lines on a Map: Best Practices for U.S Bike Routes
-        </span>
-<div class="small-info">
-          8y ago, 2,938 views
-        </div>
-<hr/>
-<div class="info">
-          8y ago, 2,938 views
-        </div>
-<div class="actions">
-<a class="favorite j-favorite action-btn" data-cy="like-button" data-e2e="browse-favorite-button" data-ss-created-at="2014-10-15 11:54:31 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="https://www.slideshare.net/PWPB_Slides/20140824-usbrs-best-practices" data-ssid="40310652" href="#" role="button" title="Like this SlideShare">
-<i aria-hidden="true" class="fa fa-heart"></i>
-<span class="visually-hidden">Like More than Just Lines on a Map: Best Practices for U.S Bike Routes SlideShare.</span>
-</a>
-<a class="action-btn save j-save download download-slideshow-40310652" data-cy="download-button" data-download="/slideshow/download?download_key=95334cff9c6203684282abc00347123c796af59a814355e60182328fe866cdc1&amp;slideshow_id=40310652" data-e2e="browse-download-button" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="save_click" data-ss-created-at="2014-10-15 11:54:31 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="/PWPB_Slides/20140824-usbrs-best-practices" data-ssid="40310652" data-subscription-required="true" href="#" rel="nofollow" title="Save this SlideShare">
-<i aria-hidden="true" class="fa fa-download"></i>
-<span class="visually-hidden">Save More than Just Lines on a Map: Best Practices for U.S Bike Routes SlideShare.</span>
-</a>
-<a class="action-btn share desktop-share j-share ga-track-share_desktop-share" data-cy="share" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="share_click" data-ss-created-at="2014-10-15 11:54:31 UTC" data-ss-format="presentation" data-ss-language="en" data-ssid="40310652" href="#" role="button" title="Share this SlideShare">
-<i aria-hidden="true" class="fa fa-share"></i>
-<span class="visually-hidden">Share More than Just Lines on a Map: Best Practices for U.S Bike Routes SlideShare.</span>
-</a>
-</div>
-</div>
-</div>
-</li>
-<li class="iso_slideshow ss-thumbnail ss-slideshow-thumbnail notranslate presentation" data-cy="slideshow-listing" data-emailshareurl="mailto:?subject=Check out this SlideShare presentation&amp;body=https://www.slideshare.net/thegreatadventurer/staying-cool-during-summer" data-embedcode='&lt;iframe src="https://www.slideshare.net/slideshow/embed_code/key/6mzAYInGDwNcch" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="https://www.slideshare.net/thegreatadventurer/staying-cool-during-summer" title="Staying Cool During Summer" target="_blank"&gt;Staying Cool During Summer&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="https://www.slideshare.net/thegreatadventurer" target="_blank"&gt;Deborah Davis&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;' data-facebookshareurl="https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.slideshare.net%2Fthegreatadventurer%2Fstaying-cool-during-summer&amp;t=Staying+Cool+During+Summer" data-linkedinshareurl="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww.slideshare.net%2Fthegreatadventurer%2Fstaying-cool-during-summer&amp;trk=SLIDESHARE" data-pinterestshareurl="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.slideshare.net%2Fthegreatadventurer%2Fstaying-cool-during-summer&amp;media=https%3A%2F%2Fimage.slidesharecdn.com%2Fstayingcoolduringsummerss-160203031244%2F85%2Fstaying-cool-during-summer-1-638.jpg%3Fcb%3D1666359563&amp;description=Staying+Cool+During+Summer" data-pptlocation="stayingcoolduringsummerss-160203031244" data-slideshowauthorid="55827382" data-slideshowid="57811266" data-slideshowtype="0" data-smsshareurl="sms:?body=Check out this SlideShare : https://www.slideshare.net/thegreatadventurer/staying-cool-during-summer" data-sslink="https://www.slideshare.net/thegreatadventurer/staying-cool-during-summer" data-sstype="0" data-sstypeasstring="presentation" data-title="Staying Cool During Summer" data-totalslides="8" data-twittershareurl="https://twitter.com/intent/tweet?via=SlideShare&amp;text=Staying+Cool+During+Summer+by+%40imdebdavis+%23howto+%23stayingcool+https%3A%2F%2Fwww.slideshare.net%2Fthegreatadventurer%2Fstaying-cool-during-summer" data-whatsappshareurl="whatsapp://send?text=Checkout+https%3A%2F%2Fwww.slideshare.net%2Fthegreatadventurer%2Fstaying-cool-during-summer+Staying+Cool+During+Summer" data-wordpressshareurl="[slideshare id=57811266&amp;doc=stayingcoolduringsummerss-160203031244]">
-<a class="iso_slideshow_link thumbnail-link recommendation" data-algo-id="" data-cy="document-card" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="thumbnail_link_click" data-index="1" data-module-id="featured-recommended" data-ppt-id="57811266" data-rec-id="57811266" data-recommendation-type="slideshow" data-source-model="" data-source-name="FEATURED" data-urn-type="Slideshow" href="/thegreatadventurer/staying-cool-during-summer">
-<span class="visually-hidden">Staying Cool During Summer</span>
-</a>
-<div class="thumbnail-content">
-<div class="bg-img-container">
-<img alt="" class="j-lazy-thumb" data-original="https://cdn.slidesharecdn.com/ss_thumbnails/stayingcoolduringsummerss-160203031244-thumbnail.jpg?width=600&amp;height=600&amp;fit=bounds" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-</div>
-<div class="details">
-<div class="author">
-<a class="j-author_text notranslate" href="/thegreatadventurer" rel="nofollow" title="Deborah Davis">Deborah Davis</a>
-</div>
-<span class="title title-link antialiased">
-          Staying Cool During Summer
-        </span>
-<div class="small-info">
-          7y ago, 26,218 views
-        </div>
-<hr/>
-<div class="info">
-          7y ago, 26,218 views
-        </div>
-<div class="actions">
-<a class="favorite j-favorite action-btn" data-cy="like-button" data-e2e="browse-favorite-button" data-ss-created-at="2016-02-03 03:12:44 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="https://www.slideshare.net/thegreatadventurer/staying-cool-during-summer" data-ssid="57811266" href="#" role="button" title="Like this SlideShare">
-<i aria-hidden="true" class="fa fa-heart"></i>
-<span class="visually-hidden">Like Staying Cool During Summer SlideShare.</span>
-</a>
-<a class="action-btn save j-save download download-slideshow-57811266" data-cy="download-button" data-download="/slideshow/download?download_key=582a4c75f3d774d8031f19c91902cdcb8edcafd2fea0d5b951c70a8ea26b7487&amp;slideshow_id=57811266" data-e2e="browse-download-button" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="save_click" data-ss-created-at="2016-02-03 03:12:44 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="/thegreatadventurer/staying-cool-during-summer" data-ssid="57811266" data-subscription-required="true" href="#" rel="nofollow" title="Save this SlideShare">
-<i aria-hidden="true" class="fa fa-download"></i>
-<span class="visually-hidden">Save Staying Cool During Summer SlideShare.</span>
-</a>
-<a class="action-btn share desktop-share j-share ga-track-share_desktop-share" data-cy="share" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="share_click" data-ss-created-at="2016-02-03 03:12:44 UTC" data-ss-format="presentation" data-ss-language="en" data-ssid="57811266" href="#" role="button" title="Share this SlideShare">
-<i aria-hidden="true" class="fa fa-share"></i>
-<span class="visually-hidden">Share Staying Cool During Summer SlideShare.</span>
-</a>
-</div>
-</div>
-</div>
-</li>
-<li class="iso_slideshow ss-thumbnail ss-slideshow-thumbnail notranslate presentation" data-cy="slideshow-listing" data-emailshareurl="mailto:?subject=Check out this SlideShare presentation&amp;body=https://www.slideshare.net/flashgamm/ride-the-storm-navigating-through-unstable-periods-katerina-rudko-belka-games" data-embedcode='&lt;iframe src="https://www.slideshare.net/slideshow/embed_code/key/stLdoOdKp52fhQ" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="https://www.slideshare.net/flashgamm/ride-the-storm-navigating-through-unstable-periods-katerina-rudko-belka-games" title="Ride the Storm: Navigating Through Unstable Periods / Katerina Rudko (Belka Games)" target="_blank"&gt;Ride the Storm: Navigating Through Unstable Periods / Katerina Rudko (Belka Games)&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="https://www.slideshare.net/flashgamm" target="_blank"&gt;DevGAMM Conference&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;' data-facebookshareurl="https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.slideshare.net%2Fflashgamm%2Fride-the-storm-navigating-through-unstable-periods-katerina-rudko-belka-games&amp;t=Ride+the+Storm%3A+Navigating+Through+Unstable+Periods+%2F+Katerina+Rudko+%28Belka+Games%29" data-linkedinshareurl="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww.slideshare.net%2Fflashgamm%2Fride-the-storm-navigating-through-unstable-periods-katerina-rudko-belka-games&amp;trk=SLIDESHARE" data-pinterestshareurl="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.slideshare.net%2Fflashgamm%2Fride-the-storm-navigating-through-unstable-periods-katerina-rudko-belka-games&amp;media=https%3A%2F%2Fimage.slidesharecdn.com%2Fdevgammkaterinarudkobelkagames1-230710101345-76ef0d8b%2F85%2Fride-the-storm-navigating-through-unstable-periods-katerina-rudko-belka-games-1-638.jpg%3Fcb%3D1688984468&amp;description=Ride+the+Storm%3A+Navigating+Through+Unstable+Periods+%2F+Katerina+Rudko+%28Belka+Games%29" data-pptlocation="devgammkaterinarudkobelkagames1-230710101345-76ef0d8b" data-slideshowauthorid="25655516" data-slideshowid="259115774" data-slideshowtype="0" data-smsshareurl="sms:?body=Check out this SlideShare : https://www.slideshare.net/flashgamm/ride-the-storm-navigating-through-unstable-periods-katerina-rudko-belka-games" data-sslink="https://www.slideshare.net/flashgamm/ride-the-storm-navigating-through-unstable-periods-katerina-rudko-belka-games" data-sstype="0" data-sstypeasstring="presentation" data-title="Ride the Storm: Navigating Through Unstable Periods / Katerina Rudko (Belka Games)" data-totalslides="12" data-twittershareurl="https://twitter.com/intent/tweet?via=SlideShare&amp;text=Ride+the+Storm%3A+Navigating+Through+Unstable+Periods+%2F+Katerina+Rudko+%28Belka+G...+by+%40DevGAMM+https%3A%2F%2Fwww.slideshare.net%2Fflashgamm%2Fride-the-storm-navigating-through-unstable-periods-katerina-rudko-belka-games" data-whatsappshareurl="whatsapp://send?text=Checkout+https%3A%2F%2Fwww.slideshare.net%2Fflashgamm%2Fride-the-storm-navigating-through-unstable-periods-katerina-rudko-belka-games+Ride+the+Storm%3A+Navigating+Through+Unstable+Periods+%2F+Katerina+Rudko+%28Belka+Games%29" data-wordpressshareurl="[slideshare id=259115774&amp;doc=devgammkaterinarudkobelkagames1-230710101345-76ef0d8b]">
-<a class="iso_slideshow_link thumbnail-link recommendation" data-algo-id="" data-cy="document-card" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="thumbnail_link_click" data-index="2" data-module-id="featured-recommended" data-ppt-id="259115774" data-rec-id="259115774" data-recommendation-type="slideshow" data-source-model="" data-source-name="FEATURED" data-urn-type="Slideshow" href="/flashgamm/ride-the-storm-navigating-through-unstable-periods-katerina-rudko-belka-games">
-<span class="visually-hidden">Ride the Storm: Navigating Through Unstable Periods / Katerina Rudko (Belka Games)</span>
-</a>
-<div class="thumbnail-content">
-<div class="bg-img-container">
-<img alt="" class="j-lazy-thumb" data-original="https://cdn.slidesharecdn.com/ss_thumbnails/devgammkaterinarudkobelkagames1-230710101345-76ef0d8b-thumbnail.jpg?width=600&amp;height=600&amp;fit=bounds" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-</div>
-<div class="details">
-<div class="author">
-<a class="j-author_text notranslate" href="/flashgamm" rel="nofollow" title="DevGAMM Conference">DevGAMM Conference</a>
-</div>
-<span class="title title-link antialiased">
-          Ride the Storm: Navigating Through Unstable Periods / Katerina Rudko (Belka Games)
-        </span>
-<div class="small-info">
-          1m ago, 1,408 views
-        </div>
-<hr/>
-<div class="info">
-          1m ago, 1,408 views
-        </div>
-<div class="actions">
-<a class="favorite j-favorite action-btn" data-cy="like-button" data-e2e="browse-favorite-button" data-ss-created-at="2023-07-10 10:13:45 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="https://www.slideshare.net/flashgamm/ride-the-storm-navigating-through-unstable-periods-katerina-rudko-belka-games" data-ssid="259115774" href="#" role="button" title="Like this SlideShare">
-<i aria-hidden="true" class="fa fa-heart"></i>
-<span class="visually-hidden">Like Ride the Storm: Navigating Through Unstable Periods / Katerina Rudko (Belka Games) SlideShare.</span>
-</a>
-<a class="action-btn save j-save download download-slideshow-259115774" data-cy="download-button" data-download="/slideshow/download?download_key=075354bbc7d45303631387c190821a4cc9344f5edacdb87b354d2b8866994c36&amp;slideshow_id=259115774" data-e2e="browse-download-button" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="save_click" data-ss-created-at="2023-07-10 10:13:45 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="/flashgamm/ride-the-storm-navigating-through-unstable-periods-katerina-rudko-belka-games" data-ssid="259115774" data-subscription-required="false" href="#" rel="nofollow" title="Save this SlideShare">
-<i aria-hidden="true" class="fa fa-download"></i>
-<span class="visually-hidden">Save Ride the Storm: Navigating Through Unstable Periods / Katerina Rudko (Belka Games) SlideShare.</span>
-</a>
-<a class="action-btn share desktop-share j-share ga-track-share_desktop-share" data-cy="share" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="share_click" data-ss-created-at="2023-07-10 10:13:45 UTC" data-ss-format="presentation" data-ss-language="en" data-ssid="259115774" href="#" role="button" title="Share this SlideShare">
-<i aria-hidden="true" class="fa fa-share"></i>
-<span class="visually-hidden">Share Ride the Storm: Navigating Through Unstable Periods / Katerina Rudko (Belka Games) SlideShare.</span>
-</a>
-</div>
-</div>
-</div>
-</li>
-<li class="iso_slideshow ss-thumbnail ss-slideshow-thumbnail notranslate presentation" data-cy="slideshow-listing" data-emailshareurl="mailto:?subject=Check out this SlideShare presentation&amp;body=https://www.slideshare.net/EricaSantiago3/barbie-brand-strategy-presentation" data-embedcode='&lt;iframe src="https://www.slideshare.net/slideshow/embed_code/key/CGaFvp9aA6KW60" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt; &lt;strong&gt; &lt;a href="https://www.slideshare.net/EricaSantiago3/barbie-brand-strategy-presentation" title="Barbie - Brand Strategy Presentation" target="_blank"&gt;Barbie - Brand Strategy Presentation&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="https://www.slideshare.net/EricaSantiago3" target="_blank"&gt;Erica Santiago&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;' data-facebookshareurl="https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.slideshare.net%2FEricaSantiago3%2Fbarbie-brand-strategy-presentation&amp;t=Barbie+-+Brand+Strategy+Presentation" data-linkedinshareurl="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww.slideshare.net%2FEricaSantiago3%2Fbarbie-brand-strategy-presentation&amp;trk=SLIDESHARE" data-pinterestshareurl="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.slideshare.net%2FEricaSantiago3%2Fbarbie-brand-strategy-presentation&amp;media=https%3A%2F%2Fimage.slidesharecdn.com%2Fbarbiebrandpresentation-160503144216%2F85%2Fbarbie-brand-strategy-presentation-1-638.jpg%3Fcb%3D1666364709&amp;description=Barbie+-+Brand+Strategy+Presentation" data-pptlocation="barbiebrandpresentation-160503144216" data-slideshowauthorid="85308927" data-slideshowid="61627520" data-slideshowtype="0" data-smsshareurl="sms:?body=Check out this SlideShare : https://www.slideshare.net/EricaSantiago3/barbie-brand-strategy-presentation" data-sslink="https://www.slideshare.net/EricaSantiago3/barbie-brand-strategy-presentation" data-sstype="0" data-sstypeasstring="presentation" data-title="Barbie - Brand Strategy Presentation" data-totalslides="46" data-twittershareurl="https://twitter.com/intent/tweet?via=SlideShare&amp;text=Barbie+-+Brand+Strategy+Presentation+%23brandstrategy+%23portfoliostrategy+https%3A%2F%2Fwww.slideshare.net%2FEricaSantiago3%2Fbarbie-brand-strategy-presentation" data-whatsappshareurl="whatsapp://send?text=Checkout+https%3A%2F%2Fwww.slideshare.net%2FEricaSantiago3%2Fbarbie-brand-strategy-presentation+Barbie+-+Brand+Strategy+Presentation" data-wordpressshareurl="[slideshare id=61627520&amp;doc=barbiebrandpresentation-160503144216]">
-<a class="iso_slideshow_link thumbnail-link recommendation" data-algo-id="" data-cy="document-card" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="thumbnail_link_click" data-index="3" data-module-id="featured-recommended" data-ppt-id="61627520" data-rec-id="61627520" data-recommendation-type="slideshow" data-source-model="" data-source-name="FEATURED" data-urn-type="Slideshow" href="/EricaSantiago3/barbie-brand-strategy-presentation">
-<span class="visually-hidden">Barbie - Brand Strategy Presentation</span>
-</a>
-<div class="thumbnail-content">
-<div class="bg-img-container">
-<img alt="" class="j-lazy-thumb" data-original="https://cdn.slidesharecdn.com/ss_thumbnails/barbiebrandpresentation-160503144216-thumbnail.jpg?width=600&amp;height=600&amp;fit=bounds" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
-</div>
-<div class="details">
-<div class="author">
-<a class="j-author_text notranslate" href="/EricaSantiago3" rel="nofollow" title="Erica Santiago">Erica Santiago</a>
-</div>
-<span class="title title-link antialiased">
-          Barbie - Brand Strategy Presentation
-        </span>
-<div class="small-info">
-          7y ago, 19,025 views
-        </div>
-<hr/>
-<div class="info">
-          7y ago, 19,025 views
-        </div>
-<div class="actions">
-<a class="favorite j-favorite action-btn" data-cy="like-button" data-e2e="browse-favorite-button" data-ss-created-at="2016-05-03 14:42:16 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="https://www.slideshare.net/EricaSantiago3/barbie-brand-strategy-presentation" data-ssid="61627520" href="#" role="button" title="Like this SlideShare">
-<i aria-hidden="true" class="fa fa-heart"></i>
-<span class="visually-hidden">Like Barbie - Brand Strategy Presentation SlideShare.</span>
-</a>
-<a class="action-btn save j-save download download-slideshow-61627520" data-cy="download-button" data-download="/slideshow/download?download_key=62a5e423b94225e737cd5c0d03465003ba875ba21f1cb93be13cd7e4ae3aa29d&amp;slideshow_id=61627520" data-e2e="browse-download-button" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="save_click" data-ss-created-at="2016-05-03 14:42:16 UTC" data-ss-format="presentation" data-ss-language="en" data-ss-url="/EricaSantiago3/barbie-brand-strategy-presentation" data-ssid="61627520" data-subscription-required="true" href="#" rel="nofollow" title="Save this SlideShare">
-<i aria-hidden="true" class="fa fa-download"></i>
-<span class="visually-hidden">Save Barbie - Brand Strategy Presentation SlideShare.</span>
-</a>
-<a class="action-btn share desktop-share j-share ga-track-share_desktop-share" data-cy="share" data-ga-action="slideshow_thumbnail" data-ga-cat="homepage_loggedout" data-ga-label="share_click" data-ss-created-at="2016-05-03 14:42:16 UTC" data-ss-format="presentation" data-ss-language="en" data-ssid="61627520" href="#" role="button" title="Share this SlideShare">
-<i aria-hidden="true" class="fa fa-share"></i>
-<span class="visually-hidden">Share Barbie - Brand Strategy Presentation SlideShare.</span>
-</a>
-</div>
-</div>
-</div>
-</li>
-</ul>
-</div>
-</div>
-</section><!-- /#hp-featured -->
-<!-- Slideshows directory links -->
-<section id="hp-directory">
-<div class="row">
-<div class="columns text-center">
-<h3>Browse SlideShares: </h3>
-<a aria-label="Browse SlideShares by a" href="/directory/content">a</a>
-<a aria-label="Browse SlideShares by b" href="/directory/content/b">b</a>
-<a aria-label="Browse SlideShares by c" href="/directory/content/c">c</a>
-<a aria-label="Browse SlideShares by d" href="/directory/content/d">d</a>
-<a aria-label="Browse SlideShares by e" href="/directory/content/e">e</a>
-<a aria-label="Browse SlideShares by f" href="/directory/content/f">f</a>
-<a aria-label="Browse SlideShares by g" href="/directory/content/g">g</a>
-<a aria-label="Browse SlideShares by h" href="/directory/content/h">h</a>
-<a aria-label="Browse SlideShares by i" href="/directory/content/i">i</a>
-<a aria-label="Browse SlideShares by j" href="/directory/content/j">j</a>
-<a aria-label="Browse SlideShares by k" href="/directory/content/k">k</a>
-<a aria-label="Browse SlideShares by l" href="/directory/content/l">l</a>
-<a aria-label="Browse SlideShares by m" href="/directory/content/m">m</a>
-<a aria-label="Browse SlideShares by n" href="/directory/content/n">n</a>
-<a aria-label="Browse SlideShares by o" href="/directory/content/o">o</a>
-<a aria-label="Browse SlideShares by p" href="/directory/content/p">p</a>
-<a aria-label="Browse SlideShares by q" href="/directory/content/q">q</a>
-<a aria-label="Browse SlideShares by r" href="/directory/content/r">r</a>
-<a aria-label="Browse SlideShares by s" href="/directory/content/s">s</a>
-<a aria-label="Browse SlideShares by t" href="/directory/content/t">t</a>
-<a aria-label="Browse SlideShares by u" href="/directory/content/u">u</a>
-<a aria-label="Browse SlideShares by v" href="/directory/content/v">v</a>
-<a aria-label="Browse SlideShares by w" href="/directory/content/w">w</a>
-<a aria-label="Browse SlideShares by x" href="/directory/content/x">x</a>
-<a aria-label="Browse SlideShares by y" href="/directory/content/y">y</a>
-<a aria-label="Browse SlideShares by z" href="/directory/content/z">z</a>
-<a aria-label="Browse SlideShares by 0" href="/directory/content/0">0</a>
-<a aria-label="Browse SlideShares by 1" href="/directory/content/1">1</a>
-<a aria-label="Browse SlideShares by 2" href="/directory/content/2">2</a>
-<a aria-label="Browse SlideShares by 3" href="/directory/content/3">3</a>
-<a aria-label="Browse SlideShares by 4" href="/directory/content/4">4</a>
-<a aria-label="Browse SlideShares by 5" href="/directory/content/5">5</a>
-<a aria-label="Browse SlideShares by 6" href="/directory/content/6">6</a>
-<a aria-label="Browse SlideShares by 7" href="/directory/content/7">7</a>
-<a aria-label="Browse SlideShares by 8" href="/directory/content/8">8</a>
-<a aria-label="Browse SlideShares by 9" href="/directory/content/9">9</a>
-<a aria-label="Browse SlideShares by -" href="/directory/content/-">-</a>
-</div>
-</div>
-</section>
-<footer id="modernize-footer">
-<div id="footer-inner">
-<div id="footer-top">
-<ul class="main-links">
-<li><a class="modernize" href="/about">About</a></li>
-<li><a class="modernize" href="/help">Support</a></li>
-<li><a class="modernize" href="/terms">Terms</a></li>
-<li><a class="modernize" href="/privacy">Privacy</a></li>
-<li><a class="modernize" href="/copyright-policy">Copyright</a></li>
-<li><a href="#" onclick="Osano.cm.showDrawer('osano-cm-dom-info-dialog-open')">Cookie Preferences</a></li>
-<li><a href="//support.scribd.com/hc/en-us/articles/360038016931-Privacy-Rights-Request-Form">Do not sell or share my personal information</a></li>
-</ul>
-<div class="modernize-dropdown-wrapper">
-<div aria-controls="language-dropdown" aria-expanded="false" aria-haspopup="listbox" aria-label="Change Language" class="modernize modernize-dropdown-trigger" data-position-desktop="top-right" data-position-mobile="top-right" data-target="language-dropdown" id="language-selector" role="combobox" tabindex="0">
-            English
-            <i class="modernize icon-caret-down"></i>
-</div>
-<div class="dropdown modernize-dropdown" id="language-dropdown" role="listbox">
-<div aria-label="English" aria-selected="true" class="j-www" id="language-dropdown-option-0" role="option">
-<a class="modernize grey-link selected" href="https://www.slideshare.net/" hreflang="en" lang="en" tabindex="-1" title="Share and Discover Knowledge on SlideShare - English">
-<span class="visually-hidden">
-                  Current Language:
-                </span>
-<i class="icon-check"></i>English
-            </a>
-</div>
-<div aria-label="Español" aria-selected="false" class="j-es" id="language-dropdown-option-1" role="option">
-<a class="modernize grey-link" href="https://es.slideshare.net/" hreflang="es" lang="es" tabindex="-1" title="Share and Discover Knowledge on SlideShare - Español">
-<i class="icon-check visibility-hidden"></i>Español
-            </a>
-</div>
-<div aria-label="Português" aria-selected="false" class="j-pt" id="language-dropdown-option-2" role="option">
-<a class="modernize grey-link" href="https://pt.slideshare.net/" hreflang="pt" lang="pt" tabindex="-1" title="Share and Discover Knowledge on SlideShare - Portugues">
-<i class="icon-check visibility-hidden"></i>Português
-            </a>
-</div>
-<div aria-label="Français" aria-selected="false" class="j-fr" id="language-dropdown-option-3" role="option">
-<a class="modernize grey-link" href="https://fr.slideshare.net/" hreflang="fr" lang="fr" tabindex="-1" title="Share and Discover Knowledge on SlideShare - Français">
-<i class="icon-check visibility-hidden"></i>Français
-            </a>
-</div>
-<div aria-label="Deutsch" aria-selected="false" class="j-de" id="language-dropdown-option-4" role="option">
-<a class="modernize grey-link last-element-in-dropdown-list" href="https://de.slideshare.net/" hreflang="de" lang="de" tabindex="-1" title="Share and Discover Knowledge on SlideShare - Deutsche">
-<i class="icon-check visibility-hidden"></i>Deutsch
-            </a>
-</div>
-</div>
-</div>
-</div>
-<hr>
-<div id="footer-bottom">
-<span id="copyright">
-        © 2023 SlideShare from Scribd
-      </span>
-<ul class="social-links text-center">
-<li>
-<a aria-label="Slideshare on Twitter" href="https://twitter.com/SlideShare"><i class="modernize icon-twitter"></i></a>
-</li>
-<li>
-<a aria-label="Slideshare RSS Feed" href="https://www.slideshare.net/rss/latest"><i class="modernize icon-rss-feed"></i></a>
-</li>
-</ul>
-</div>
-</hr></div>
-</footer>
-<div class="textads banner-ads banner_ads ad-unit ad-zone ad-space adsbox ads" style="height: 1px;"></div>
-</div>
-<div class="reveal-modal" data-reveal="" id="alert-modal">
-<p></p>
-<a aria-label="Close" class="close-reveal-modal">×</a>
-</div>
-<link href="https://public.slidesharecdn.com/v2/stylesheets/sidebar.6cf5b6c68f54ea6a3a4c.css" media="screen" rel="stylesheet"/>
-<link href="https://public.slidesharecdn.com/v2/stylesheets/footer.be44216b4dc89bb5d999.css" media="screen" rel="stylesheet"/>
-<div class="modal_popup_container">
-<div class="j-modal-share modal-share mobile-hide" data-ga-track-action="" data-ga-track-category="homepage" id="homepage-modal-share" style="display: none;">
-<div aria-labelledby="button-share-tab" class="j-modal-popup modal-popup" role="dialog">
-<div class="modal-content-wrapper">
-<div class="j-modal-content modal-content" data-slideshowid="" id="modal-content">
-<button aria-label="Close" class="j-modal-close modal-close" type="button"></button>
-<header class="j-tabs tabs">
-<a class="selected j-button-share-tab" data-cy="share-modal" id="button-share-tab" role="button">Share SlideShare</a>
-<hr class="divider">
-</hr></header>
-<div class="j-share-tab share-tab">
-<div>
-<ul class="j-share-social-list share-social-list" data-canonical-url="">
-<li class="facebook" data-network="facebook">
-<div class="social-hover">
-<a class="share-link" data-u="" href="#" rel="nofollow" title="Share on Facebook">Facebook</a>
-</div>
-</li>
-<li class="twitter" data-network="twitter">
-<div class="social-hover">
-<a class="share-link" data-related="" data-text="" data-url="" data-via="SlideShare" href="#" rel="nofollow" title="Tweet on Twitter">Twitter</a>
-</div>
-</li>
-<li class="linkedin" data-network="linkedin">
-<div class="social-hover">
-<a class="share-link" data-text="" data-url="" href="#" rel="nofollow" title="Share on Linkedin">LinkedIn</a>
-</div>
-</li>
-</ul>
-</div>
-<div class="j-share-embed section share-embed">
-<label class="header" for="share-embed-link">Embed</label>
-<textarea class="j-share-embed-link j-share-expand-trigger" data-cy="share-embed-link" data-ga="link" id="share-embed-link" readonly=""></textarea>
-<div class="share-embed-options j-share-expand">
-<div class="embed-size">
-<label class="title" for="embed-size-picker">Size (px)</label>
-<select class="j-embed-size-picker embed-size-picker j-update-embed" data-ga="size-picker" id="embed-size-picker"></select>
-</div>
-<div class="embed-show-related" style="display:none">
-<input checked="checked" class="j-embed-related-cbox embed-related-cbox j-update-embed" data-ga="related" name="related-content" type="checkbox"/>
-<span>Show related SlideShares at end</span>
-</div>
-</div>
-</div>
-<div class="wordpress-container section">
-<label class="header" for="share-embed-wp">WordPress Shortcode</label>
-<input class="j-share-embed-wp text quiet h-wpembedcode j-share-expand-trigger" data-ga="wp-link" id="share-embed-wp" name="embed-code" readonly="readonly" type="text" value=""/>
-</div>
-<div class="share-link-container section">
-<label class="header" for="modal-share-link-url">Link</label>
-<input class="j-share-link-url j-share-expand-trigger" data-ga="link" id="modal-share-link-url" readonly="" type="text"/>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div><!-- share modal -->
-<div class="j-mobileShare mobileShare mobile-share-container" data-ga="homepage" style="display: none;">
-<div class="share-overlay"></div>
-<div class="mobile-share-list-container">
-<div class="share-msg" data-cy="share-message">Share this SlideShare</div>
-<button aria-label="Close" class="j-close close-btn" type="button">
-<i class="fa fa-times-circle-o"></i>
-</button>
-<ul class="mobile-share-list">
-<li class="li-share-btn" data-ga="linkedin">
-<a aria-label="Linkedin" data-network="linkedin" data-url="" href="#" rel="external" target="_blank" title="Linkedin">
-<i class="fa fa-linkedin-square"></i>
-</a>
-</li>
-<li class="fb-share-btn" data-ga="facebook">
-<a aria-label="Facebook" data-network="facebook" data-url="" href="#" rel="external" target="_blank" title="Facebook">
-<i class="fa fa-facebook-square"></i>
-</a>
-</li>
-<li class="tw-share-btn" data-ga="twitter">
-<a aria-label="Twitter" data-network="twitter" data-url="" href="#" rel="external" target="_blank" title="Twitter">
-<i class="fa fa-twitter"></i>
-</a>
-</li>
-<li class="pinterest-share-btn pinterest-share">
-<a aria-label="Pinterest" data-network="pinterest" data-url="" href="#" rel="external" target="_blank" title="Pinterest">
-<i class="fa fa-pinterest"></i>
-</a>
-</li>
-<li class="email-share-btn email-share">
-<a aria-label="Email" data-url="" href="#" id="sharebyemail" rel="external" title="E-mail">
-<i class="fa fa-envelope"></i>
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<script>
-</script>
-<script src="https://public.slidesharecdn.com/v2/assets/javascripts/packs/runtime.2cfd655d21cb3e8587ce.js"></script>
-<script src="https://public.slidesharecdn.com/v2/javascripts/packs/combined_jquery.5343856581d89fcb9fa5.js"></script>
-<script src="https://public.slidesharecdn.com/v2/javascripts/packs/combined_base.7a076c46e2067ab52822.js"></script>
-<script src="https://public.slidesharecdn.com/v2/javascripts/packs/combined_foundation.a2ffa8e81b4c2b5dfc41.js"></script>
-<link href="https://public.slidesharecdn.com/v2/stylesheets/app.10d489608a34b3c77437.css" media="screen" rel="stylesheet"/>
-<link href="https://public.slidesharecdn.com/v2/stylesheets/bigboot/modal_share.4f420759c85553a9472b.css" media="screen" rel="stylesheet"/>
-<link href="https://public.slidesharecdn.com/v2/stylesheets/bigboot/mobile_modal_share.54f21d41ef3735bcf620.css" media="screen" rel="stylesheet"/>
-<link href="https://public.slidesharecdn.com/v2/stylesheets/privacy_policy_explicit_opt_in_modal.5236bbcdbef62e37a633.css" media="screen" rel="stylesheet"/>
-<link href="https://public.slidesharecdn.com/v2/stylesheets/whitelist_slideshow_modal.958996a43d31d289db5d.css" media="screen" rel="stylesheet"/>
-<script src="https://public.slidesharecdn.com/v2/javascripts/packs/combined_analytics.015a1d32775044fae186.js"></script>
-<script src="https://public.slidesharecdn.com/v2/javascripts/packs/combined_index.ac74c077153bdcefa469.js"></script>
+<!-- End Google Tag Manager -->
+<!-- start Mixpanel -->
 <script type="text/javascript">
-    window.addEventListener('load', function() {
-      var dataAttribute = Math.max(window.innerWidth, window.innerHeight) <= 640 ?
-        'mobile' : 'original';
-
-      $('.j-lazyload-hp').lazyload({
-        effect : 'fadeIn',
-        data_attribute: dataAttribute,
-      });
-      // Slideshare Object
-
-
-      slideshare_object.bind_favorites('body');
-
-      slideshare_object.is_homepage = true;
-
-      var gaCat = "homepage_loggedout";
-
-      slideshare_object.ga(gaCat, 'pageload', null, null, true);
-
-      $(document).ready(function() {
-        if (getUrlVar('from', window.location.href) === "logout") {
-          var expiry = new Date();
-          expiry.setHours(expiry.getHours() + 4);
-          cookie("autologin_disabled", true, { path: '/', expires: expiry });
-        }
-
-        // Resize handler
-
-        var slideshowRatio = 225 / 300;
-        var courseRatio = 373 / 663;
-        var $slideshows = $(".ss-slideshow-thumbnail, .ss-conference-thumbnail");
-
-        var resizeHandler = function() {
-          $slideshows.each(function(index) {
-            var $this = $(this);
-            var $slideshowThumbnail = $this.find(".link-bg-img");
-            var thumbnailRatio = $slideshowThumbnail.hasClass('j-course-image') ? courseRatio : slideshowRatio;
-
-            $slideshowThumbnail.height(Math.floor($slideshowThumbnail.width() * thumbnailRatio));
-
-            if ($this.hasClass('ss-slideshow-thumbnail') && $this.width() < 250) {
-              $this.addClass("ss-small-thumbnail");
-            } else {
-              $this.removeClass("ss-small-thumbnail");
+        (function(e, b) {
+            if (!b.__SV) {
+                var a, f, i, g;
+                window.mixpanel = b;
+                b._i = [];
+                b.init = function(a, e, d) {
+                    function f(b, h) {
+                        var a = h.split(".");
+                        2 == a.length && (b = b[a[0]], h = a[1]);
+                        b[h] = function() {
+                            b.push([h].concat(Array.prototype.slice.call(arguments, 0)))
+                        }
+                    }
+                    var c = b;
+                    "undefined" !== typeof d ? c = b[d] = [] : d = "mixpanel";
+                    c.people = c.people || [];
+                    c.toString = function(b) {
+                        var a = "mixpanel";
+                        "mixpanel" !== d && (a += "." + d);
+                        b || (a += " (stub)");
+                        return a
+                    };
+                    c.people.toString = function() {
+                        return c.toString(1) + ".people (stub)"
+                    };
+                    i = "disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+                    for (g = 0; g < i.length; g++) f(c, i[g]);
+                    b._i.push([a, e, d])
+                };
+                b.__SV = 1.2;
+                a = e.createElement("script");
+                a.type = "text/javascript";
+                a.async = !0;
+                a.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL ? MIXPANEL_CUSTOM_LIB_URL : "file:" === e.location.protocol && "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//) ? "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js" : "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";
+                f = e.getElementsByTagName("script")[0];
+                f.parentNode.insertBefore(a, f)
             }
-          });
-        };
+        })(document, window.mixpanel || []);
 
-        $(window).resize(function() { resizeHandler(); });
-
-        resizeHandler();
-
-        // Favorites update
-
-        if (slideshare_object.user.loggedin) {
-          slideshare_object.favoritesStatusUpdate();
-        }
-
-        // Bind list page modal share
-
-        if (slideshare_object.is_mobile) {
-          var mobile_modal_share = new MobileModalShare({
-            shareBtn: '.j-share.mobile-share',
-            parentEl: 'body',
-            el: '.j-mobileShare'
-          });
-        } else {
-          var listPageModalShare = new ListPageModalShare({
-            btnShare: '.j-share.desktop-share',
-            parentEl: 'body',
-            el: '#homepage-modal-share'
-          });
-        }
-
-        /* Update status of the follow action
-        *
-        * Parameters:
-        * elem <selector> the action-btn to be toggled
-        * category url of the category to update
-        */
-
-        var followStatusUpdate = function(el, category){
-          var $el = $(el);
-          var isFollowing = $el.children().hasClass('fa-check');
-
-          var config = {
-            'url':  isFollowing ? "/follow/delete" : "/follow/create",
-            'data': {
-              user_id : slideshare_object.user ? slideshare_object.user.id : '',
-              category : category
+            mixpanel.init("c5491a995ed9e9ee29ba488d355afed9", {
+                'loaded': function() {
+                    $(function() {
+                        if (typeof window.__insp !== 'undefined') {
+                            //Init Mixpanel with callback function "loaded" to get mixpanel distinct_id for Inspectlet Tag User Session
+                            __insp.push(['tagSession', {
+                                mp_distinct_id: mixpanel.get_distinct_id(),
+                                checkout_url: document.baseURI,
+                                referrer_url: document.referrer
+                            }]);
+                        }
+                    });
+                }
+            });
+            </script>
+<!-- end Mixpanel -->
+<!-- Begin Criteo Asynchronous Code -->
+<script async="true" src="//static.criteo.net/js/ld/ld.js" type="text/javascript"></script>
+<script type="text/javascript">
+        window.criteo_q = window.criteo_q || [];
+        var deviceType = /iPad/.test(navigator.userAgent) ? "t" : /Mobile|iP(hone|od)|Android|BlackBerry|IEMobile|Silk/.test(navigator.userAgent) ? "m" : "d";
+        window.criteo_q.push({
+                event: "setAccount",
+                account: 57373            }, {
+                event: "setSiteType",
+                type: deviceType
             }
-          };
-
-          $el.children().toggleClass('fa-check fa-plus');
-
-          $.ajax({
-            url: config.url,
-            data: config.data,
-            dataType: 'json',
-            type: 'POST',
-            success: function(response) {
-              if(response.success){
-                slideshare_object.ga(gaCat, isFollowing ? 'unfollow_topic_click' : 'follow_topic_click', category);
-              }
-            },
-            error: function(data) {
-              $el.children().toggleClass('fa-check fa-plus');
-            }
-          });
-        };
-
-        // Ads
-        $('#hp-ad-1').html(slideshare_object.ads_config.ads_homepage_right2_fill);
-      });
-    });
-  </script>
-<script src="https://public.slidesharecdn.com/v2/javascripts/assets/components/header.15ecdfaffe86b647d0f4.js"></script>
-<script src="https://public.slidesharecdn.com/v2/javascripts/assets/scribd/signup_account_gating.047d4eaa54d60b599201.js"></script>
-<section aria-describedby="sign-up-popup-drawer-container-title-description" aria-labelledby="sign-up-popup-drawer-container-title" aria-modal="true" class="sign-up-popup-drawer-container hidden" id="signup-popup-drawer-slideshow-container" role="dialog" tabindex="-1">
-<div class="heading-section">
-<div class="heading-text">Hate ads?</div>
-<button aria-label="Close ad-free sign up popover" class="popup-close-button reset-primary-button-style" type="button">
-<svg fill="none" height="18" viewbox="0 0 18 18" width="18" xmlns="http://www.w3.org/2000/svg">
-<path d="M10.4099 9.00019L16.7099 2.71019C16.8982 2.52188 17.004 2.26649 17.004 2.00019C17.004 1.73388 16.8982 1.47849 16.7099 1.29019C16.5216 1.10188 16.2662 0.996094 15.9999 0.996094C15.7336 0.996094 15.4782 1.10188 15.2899 1.29019L8.99994 7.59019L2.70994 1.29019C2.52164 1.10188 2.26624 0.996094 1.99994 0.996094C1.73364 0.996094 1.47824 1.10188 1.28994 1.29019C1.10164 1.47849 0.995847 1.73388 0.995847 2.00019C0.995847 2.26649 1.10164 2.52188 1.28994 2.71019L7.58994 9.00019L1.28994 15.2902C1.19621 15.3831 1.12182 15.4937 1.07105 15.6156C1.02028 15.7375 0.994141 15.8682 0.994141 16.0002C0.994141 16.1322 1.02028 16.2629 1.07105 16.3848C1.12182 16.5066 1.19621 16.6172 1.28994 16.7102C1.3829 16.8039 1.4935 16.8783 1.61536 16.9291C1.73722 16.9798 1.86793 17.006 1.99994 17.006C2.13195 17.006 2.26266 16.9798 2.38452 16.9291C2.50638 16.8783 2.61698 16.8039 2.70994 16.7102L8.99994 10.4102L15.2899 16.7102C15.3829 16.8039 15.4935 16.8783 15.6154 16.9291C15.7372 16.9798 15.8679 17.006 15.9999 17.006C16.132 17.006 16.2627 16.9798 16.3845 16.9291C16.5064 16.8783 16.617 16.8039 16.7099 16.7102C16.8037 16.6172 16.8781 16.5066 16.9288 16.3848C16.9796 16.2629 17.0057 16.1322 17.0057 16.0002C17.0057 15.8682 16.9796 15.7375 16.9288 15.6156C16.8781 15.4937 16.8037 15.3831 16.7099 15.2902L10.4099 9.00019Z" fill="#424766"></path>
-</svg>
-</button>
-<button aria-label="Collapse ad-free sign up section" class="collapse-drawer-button reset-primary-button-style" type="button">
-<svg fill="none" height="8" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg">
-<path d="M11.0002 1.1697C10.8128 0.983448 10.5594 0.878906 10.2952 0.878906C10.031 0.878906 9.77756 0.983448 9.59019 1.1697L6.00019 4.7097L2.46019 1.1697C2.27283 0.983448 2.01938 0.878906 1.75519 0.878906C1.49101 0.878906 1.23756 0.983448 1.05019 1.1697C0.956464 1.26266 0.88207 1.37326 0.831301 1.49512C0.780533 1.61698 0.754395 1.74769 0.754395 1.8797C0.754395 2.01171 0.780533 2.14242 0.831301 2.26428C0.88207 2.38613 0.956464 2.49674 1.05019 2.5897L5.29019 6.8297C5.38316 6.92343 5.49376 6.99782 5.61562 7.04859C5.73747 7.09936 5.86818 7.1255 6.00019 7.1255C6.1322 7.1255 6.26291 7.09936 6.38477 7.04859C6.50663 6.99782 6.61723 6.92343 6.71019 6.8297L11.0002 2.5897C11.0939 2.49674 11.1683 2.38613 11.2191 2.26428C11.2699 2.14242 11.296 2.01171 11.296 1.8797C11.296 1.74769 11.2699 1.61698 11.2191 1.49512C11.1683 1.37326 11.0939 1.26266 11.0002 1.1697Z" fill="#424766"></path>
-</svg>
-</button>
-<button aria-label="Expand ad-free sign up section" class="expand-drawer-button reset-primary-button-style" type="button">
-<svg fill="none" height="8" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg">
-<path d="M11.0002 5.4108L6.71019 1.1708C6.61723 1.07707 6.50663 1.00268 6.38477 0.951907C6.26291 0.901138 6.1322 0.875 6.00019 0.875C5.86818 0.875 5.73747 0.901138 5.61562 0.951907C5.49376 1.00268 5.38316 1.07707 5.29019 1.1708L1.05019 5.4108C0.956464 5.50376 0.88207 5.61436 0.831301 5.73622C0.780533 5.85808 0.754395 5.98879 0.754395 6.1208C0.754395 6.25281 0.780533 6.38352 0.831301 6.50537C0.88207 6.62723 0.956464 6.73783 1.05019 6.8308C1.23756 7.01705 1.49101 7.12159 1.75519 7.12159C2.01938 7.12159 2.27283 7.01705 2.46019 6.8308L6.00019 3.2908L9.54019 6.8308C9.72645 7.01554 9.97785 7.11969 10.2402 7.1208C10.3718 7.12156 10.5023 7.09633 10.6241 7.04657C10.7459 6.99681 10.8568 6.92348 10.9502 6.8308C11.0473 6.74118 11.1256 6.63321 11.1807 6.51314C11.2358 6.39306 11.2666 6.26326 11.2713 6.13122C11.2759 5.99919 11.2543 5.86754 11.2078 5.74389C11.1613 5.62023 11.0907 5.50702 11.0002 5.4108Z" fill="#424766"></path>
-</svg>
+            , {"event":"viewHome"}, {"event":"setData","ui_target":"yes"}        );
+    </script>
+<!-- End Criteo Asynchronous Code -->
+</head>
+<body class="site-index-page d-flex flex-column h-100">
+<div class="flex-shrink-0">
+<header>
+<div class="header navbar navbar-dark bg-dark">
+<div class="container container-1280 d-flex align-content-around">
+<div class="logo flex-grow-1">
+<a class="navbar-brand" href="https://www.guestreservations.com/" title="Guest Reservations">
+<img alt="Guest Reservations - Logo" src="/assets/f415e69c/images/logo/logo-bell-dark.svg" title="Guest Reservations - Logo"/><br/>
+<small>An independent travel network</small>
+</a>
+</div>
+<div class="menu for-desktop">
+<nav class="my-2 my-md-0 mr-md-3">
+<a class="js-hl-groups-link" href="https://groups.guestreservations.com/Group-Rate/" title="Groups (9+ Rooms)">Groups (9+ Rooms)</a>
+<a class="js-hl-guides" href="https://www.guestreservations.com/about/news" title="Travel Guides">Travel Guides</a>
+<a class="js-hl-my-booking" href="https://www.guestreservations.com/about/mybooking" title="My Booking">My Booking</a>
+</nav>
+</div>
+<div class="phone border-left js-mp-track-phone">
+<div class="for-desktop">
+<a class="d-flex flex-column" href="tel:6569559391"><span class="text-warning">
+<img alt="call" src="/assets/f415e69c/images/phone-yellow.svg" title="call"/>Call now</span>
+<span class="js-phone-number">+65 6955 9391</span>
+</a>
+</div>
+<div class="for-tablet">
+<a class="d-flex flex-column" href="tel:6569559391"><span class="text-warning">
+<img alt="call" src="/assets/f415e69c/images/phone-yellow.svg" title="call"/>Call now</span>
+<span class="js-phone-number">+65 6955 9391</span>
+</a>
+</div>
+<div class="for-mobile">
+<a class="d-flex flex-column" href="tel:6569559392"><span class="text-warning">
+<img alt="call" src="/assets/f415e69c/images/phone-yellow.svg" title="call"/>Call now</span>
+<span class="js-phone-number">+65 6955 9392</span>
+</a>
+</div> </div>
+</div>
+</div> </header>
+<main role="main">
+<div class="home-book-form position-relative">
+<div class="container container-1280">
+<div class="title-form-home text-center">
+<h1>Book your <span class="nowrap">perfect trip</span></h1>
+<p>A proudly independent travel network <span class="nowrap">with over 100,000 hotels worldwide</span></p>
+</div>
+<div class="body-form-home position-relative">
+<div class="destination-hotel-booking position-absolute">
+<div class="container">
+<form action="/search/page" autocomplete="off" class="js-searching" method="GET" name="searching">
+<div class="form-search-hotels js-booking-form destination-include">
+<div class="row no-gutters js-first-room js-room-block" data-room_block="1">
+<div class="destination col">
+<div class="form-group">
+<label for="js-destination">Destination</label>
+<input autocomplete="off" class="form-control jsv-validation jsv-notempty jsv-destination" id="js-destination" name="destination" placeholder="Where are you going?" type="text" value=""/>
+</div>
+</div>
+<input id="js-locality" name="locality" type="hidden" value=""/>
+<input id="js-region" name="region" type="hidden" value=""/>
+<input id="js-country" name="country" type="hidden" value=""/>
+<input id="js-latitude" name="latitude" type="hidden" value=""/>
+<input id="js-longitude" name="longitude" type="hidden" value=""/>
+<div class="row line-row no-gutters col">
+<div class="date-info col row no-gutters" data-lastdayofpenultimatemonth="08/31/2024" data-maxdate="09/30/2024" data-mindate="08/14/2023" id="date-info">
+<div class="check-in col js-check-date-block">
+<div class="form-group">
+<label for="check_in_view">Check-in </label>
+<div class="js-check_date_wrap check_date_wrap">
+<input autocomplete="off" class="form-control js-check_date check_date unvisible" ct-datepicker="true" data-startdate="08/14/2023" id="check_in" name="checkIn" placeholder="Check In:" readonly="readonly" type="text" value="08/14/2023"/>
+<input autocomplete="off" class="form-control js-check_date_view check_date_view" ct-datepicker="true" id="check_in_view" onfocus="this.blur();" placeholder="Check In:" readonly="readonly" type="text" value="Mon, Aug 14"/>
+</div>
+</div>
+</div>
+<div class="check-out col js-check-date-block">
+<div class="form-group">
+<label for="check_out_view">Check-out </label>
+<div class="js-check_date_wrap check_date_wrap">
+<input autocomplete="off" class="form-control js-check_date check_date unvisible" ct-datepicker="true" data-startdate="08/15/2023" id="check_out" name="checkOut" placeholder="Check out:" readonly="readonly" type="text" value="08/15/2023"/>
+<input autocomplete="off" class="form-control js-check_date_view check_date_view" ct-datepicker="true" id="check_out_view" onfocus="this.blur();" placeholder="Check out:" readonly="readonly" type="text" value="Tue, Aug 15"/>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="rooms col">
+<div class="form-group">
+<label for="rooms">Rooms</label>
+<div class="dropdown js-rooms">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuRooms" type="button"></button>
+<input id="rooms" name="rooms" type="hidden" value="1"/>
+<div aria-labelledby="dropdownMenuRooms" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-callback="goToGroupRates" data-option="9" data-process-dropdown="no" type="button">9+</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="people col row no-gutters">
+<div class="adults col">
+<div class="form-group">
+<label for="adults[1]">Adults</label>
+<div class="dropdown js-adults">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuAdults_1" type="button"></button>
+<input id="adults[1]" name="adults[1]" type="hidden" value="2"/>
+<div aria-labelledby="dropdownMenuAdults_1" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="children col">
+<div class="form-group">
+<label for="children[1]">Children</label>
+<div class="dropdown js-children">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_1" type="button"></button>
+<input id="children[1]" name="children[1]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_1" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+<div class="search-button col d-flex align-content">
+<button class="btn btn-warning" type="submit">Find Rooms</button>
+</div>
+<div class="bg-white drop-down-list js-more-rooms">
+<div class="row no-gutters children-ages js-children-ages-block hidden" data-room_block="1">
+<div class="children-ages-title col">
+                        Children ages <br/> (1-17, enter 0 for infants)
+                    </div>
+<div class="children-ages-body w-100 d-flex justify-content-end">
+<div class="child col">
+<div class="form-group">
+<div class="dropdown scroll-bar js-children-ages no-auto-init">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_11" type="button"></button>
+<input data-childrenid="1" disabled="disabled" id="ages[1][1]" name="ages[1][1]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_11" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-option="9" type="button">9</button>
+<button class="dropdown-item" data-option="10" type="button">10</button>
+<button class="dropdown-item" data-option="11" type="button">11</button>
+<button class="dropdown-item" data-option="12" type="button">12</button>
+<button class="dropdown-item" data-option="13" type="button">13</button>
+<button class="dropdown-item" data-option="14" type="button">14</button>
+<button class="dropdown-item" data-option="15" type="button">15</button>
+<button class="dropdown-item" data-option="16" type="button">16</button>
+<button class="dropdown-item" data-option="17" type="button">17</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="child col">
+<div class="form-group">
+<div class="dropdown scroll-bar js-children-ages no-auto-init">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_12" type="button"></button>
+<input data-childrenid="2" disabled="disabled" id="ages[1][2]" name="ages[1][2]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_12" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-option="9" type="button">9</button>
+<button class="dropdown-item" data-option="10" type="button">10</button>
+<button class="dropdown-item" data-option="11" type="button">11</button>
+<button class="dropdown-item" data-option="12" type="button">12</button>
+<button class="dropdown-item" data-option="13" type="button">13</button>
+<button class="dropdown-item" data-option="14" type="button">14</button>
+<button class="dropdown-item" data-option="15" type="button">15</button>
+<button class="dropdown-item" data-option="16" type="button">16</button>
+<button class="dropdown-item" data-option="17" type="button">17</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="child col">
+<div class="form-group">
+<div class="dropdown scroll-bar js-children-ages no-auto-init">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_13" type="button"></button>
+<input data-childrenid="3" disabled="disabled" id="ages[1][3]" name="ages[1][3]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_13" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-option="9" type="button">9</button>
+<button class="dropdown-item" data-option="10" type="button">10</button>
+<button class="dropdown-item" data-option="11" type="button">11</button>
+<button class="dropdown-item" data-option="12" type="button">12</button>
+<button class="dropdown-item" data-option="13" type="button">13</button>
+<button class="dropdown-item" data-option="14" type="button">14</button>
+<button class="dropdown-item" data-option="15" type="button">15</button>
+<button class="dropdown-item" data-option="16" type="button">16</button>
+<button class="dropdown-item" data-option="17" type="button">17</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="child col">
+<div class="form-group">
+<div class="dropdown scroll-bar js-children-ages no-auto-init">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_14" type="button"></button>
+<input data-childrenid="4" disabled="disabled" id="ages[1][4]" name="ages[1][4]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_14" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-option="9" type="button">9</button>
+<button class="dropdown-item" data-option="10" type="button">10</button>
+<button class="dropdown-item" data-option="11" type="button">11</button>
+<button class="dropdown-item" data-option="12" type="button">12</button>
+<button class="dropdown-item" data-option="13" type="button">13</button>
+<button class="dropdown-item" data-option="14" type="button">14</button>
+<button class="dropdown-item" data-option="15" type="button">15</button>
+<button class="dropdown-item" data-option="16" type="button">16</button>
+<button class="dropdown-item" data-option="17" type="button">17</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="child col">
+<div class="form-group">
+<div class="dropdown scroll-bar js-children-ages no-auto-init">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_15" type="button"></button>
+<input data-childrenid="5" disabled="disabled" id="ages[1][5]" name="ages[1][5]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_15" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-option="9" type="button">9</button>
+<button class="dropdown-item" data-option="10" type="button">10</button>
+<button class="dropdown-item" data-option="11" type="button">11</button>
+<button class="dropdown-item" data-option="12" type="button">12</button>
+<button class="dropdown-item" data-option="13" type="button">13</button>
+<button class="dropdown-item" data-option="14" type="button">14</button>
+<button class="dropdown-item" data-option="15" type="button">15</button>
+<button class="dropdown-item" data-option="16" type="button">16</button>
+<button class="dropdown-item" data-option="17" type="button">17</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="child col">
+<div class="form-group">
+<div class="dropdown scroll-bar js-children-ages no-auto-init">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_16" type="button"></button>
+<input data-childrenid="6" disabled="disabled" id="ages[1][6]" name="ages[1][6]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_16" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-option="9" type="button">9</button>
+<button class="dropdown-item" data-option="10" type="button">10</button>
+<button class="dropdown-item" data-option="11" type="button">11</button>
+<button class="dropdown-item" data-option="12" type="button">12</button>
+<button class="dropdown-item" data-option="13" type="button">13</button>
+<button class="dropdown-item" data-option="14" type="button">14</button>
+<button class="dropdown-item" data-option="15" type="button">15</button>
+<button class="dropdown-item" data-option="16" type="button">16</button>
+<button class="dropdown-item" data-option="17" type="button">17</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="child col">
+<div class="form-group">
+<div class="dropdown scroll-bar js-children-ages no-auto-init">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_17" type="button"></button>
+<input data-childrenid="7" disabled="disabled" id="ages[1][7]" name="ages[1][7]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_17" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-option="9" type="button">9</button>
+<button class="dropdown-item" data-option="10" type="button">10</button>
+<button class="dropdown-item" data-option="11" type="button">11</button>
+<button class="dropdown-item" data-option="12" type="button">12</button>
+<button class="dropdown-item" data-option="13" type="button">13</button>
+<button class="dropdown-item" data-option="14" type="button">14</button>
+<button class="dropdown-item" data-option="15" type="button">15</button>
+<button class="dropdown-item" data-option="16" type="button">16</button>
+<button class="dropdown-item" data-option="17" type="button">17</button>
+</div>
+</div>
+</div> </div>
+</div>
+<div class="child col">
+<div class="form-group">
+<div class="dropdown scroll-bar js-children-ages no-auto-init">
+<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-display="static" data-toggle="dropdown" id="dropdownMenuChildren_18" type="button"></button>
+<input data-childrenid="8" disabled="disabled" id="ages[1][8]" name="ages[1][8]" type="hidden" value="0"/>
+<div aria-labelledby="dropdownMenuChildren_18" class="dropdown-menu js-dropdown-menu dropdown-menu-right">
+<div class="scroll-inner simple-scrollbar">
+<button class="dropdown-item" data-option="0" type="button">0</button>
+<button class="dropdown-item" data-option="1" type="button">1</button>
+<button class="dropdown-item" data-option="2" type="button">2</button>
+<button class="dropdown-item" data-option="3" type="button">3</button>
+<button class="dropdown-item" data-option="4" type="button">4</button>
+<button class="dropdown-item" data-option="5" type="button">5</button>
+<button class="dropdown-item" data-option="6" type="button">6</button>
+<button class="dropdown-item" data-option="7" type="button">7</button>
+<button class="dropdown-item" data-option="8" type="button">8</button>
+<button class="dropdown-item" data-option="9" type="button">9</button>
+<button class="dropdown-item" data-option="10" type="button">10</button>
+<button class="dropdown-item" data-option="11" type="button">11</button>
+<button class="dropdown-item" data-option="12" type="button">12</button>
+<button class="dropdown-item" data-option="13" type="button">13</button>
+<button class="dropdown-item" data-option="14" type="button">14</button>
+<button class="dropdown-item" data-option="15" type="button">15</button>
+<button class="dropdown-item" data-option="16" type="button">16</button>
+<button class="dropdown-item" data-option="17" type="button">17</button>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form> </div>
+</div>
+<div class="box-shadow-form">
+<div class="container">
+<div class="box-shadow-bg"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="bg-light-gray bg-bottom-form"></div>
+</div>
+<div class="block-destinations bg-light-gray">
+<div class="container">
+<div class="title-block text-center">
+<h2>Top Destinations</h2>
+<p>Still deciding where to go? Here are <span class="nowrap">some of our favorite places</span></p>
+</div>
+<div class="destinations-city slider-block">
+<div class="wrap-slick-slider">
+<div class="top-destinations-slider slick-slider">
+<div class="col">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotels-United_Kingdom/London" style="display: block" title="London">
+<figure class="figure">
+<section class="bg-overflow">
+<img alt="London" class="card-img" src="/images/pages/p-home/destinations/london.jpg" title="London"/></section>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-name">London</p>
+<p class="card-bottom">1038 hotels available</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotels-United_States_of_America/CA/Los_Angeles" style="display: block" title="Los Angeles">
+<figure class="figure">
+<section class="bg-overflow">
+<img alt="Los Angeles" class="card-img" src="/images/pages/p-home/destinations/los-angeles.jpg" title="Los Angeles"/></section>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-name">Los Angeles</p>
+<p class="card-bottom">170 hotels available</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotels-United_States_of_America/FL/Miami" style="display: block" title="Miami">
+<figure class="figure">
+<section class="bg-overflow">
+<img alt="Miami" class="card-img" src="/images/pages/p-home/destinations/miami.jpg" title="Miami"/></section>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-name">Miami</p>
+<p class="card-bottom">183 hotels available</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotels-United_States_of_America/New_York" style="display: block" title="New York">
+<figure class="figure">
+<section class="bg-overflow">
+<img alt="New York" class="card-img" src="/images/pages/p-home/destinations/new-york.jpg" title="New York"/></section>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-name">New York</p>
+<p class="card-bottom">229 hotels available</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotels-Thailand/Phuket" style="display: block" title="Phuket">
+<figure class="figure">
+<section class="bg-overflow">
+<img alt="Phuket" class="card-img" src="/images/pages/p-home/destinations/phuket.jpg" title="Phuket"/></section>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-name">Phuket</p>
+<p class="card-bottom">432 hotels available</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotels-Australia/Sydney" style="display: block" title="Sydney">
+<figure class="figure">
+<section class="bg-overflow">
+<img alt="Sydney" class="card-img" src="/images/pages/p-home/destinations/sydney.jpg" title="Sydney"/></section>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-name">Sydney</p>
+<p class="card-bottom">133 hotels available</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotels-Italy/Rome" style="display: block" title="Rome">
+<figure class="figure">
+<section class="bg-overflow">
+<img alt="Rome" class="card-img" src="/images/pages/p-home/destinations/rom.jpg" title="Rome"/></section>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-name">Rome</p>
+<p class="card-bottom">1754 hotels available</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+<div class="col">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotels-Japan/Tokyo" style="display: block" title="Tokyo">
+<figure class="figure">
+<section class="bg-overflow">
+<img alt="Tokyo" class="card-img" src="/images/pages/p-home/destinations/tokyo.jpg" title="Tokyo"/></section>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-name">Tokyo</p>
+<p class="card-bottom">503 hotels available</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="about-gr-bg-home">
+<div class="d-flex align-items-center position-absolute">
+<div class="about-gr-text text-center">
+<section class="container">
+<p class="text-big"> The <br class="for-mobile-small"/> <b class="trademark-name">Guest Reservations<sup>TM</sup></b> Difference</p>
+<p>We aggregate the best possible <br class="for-mobile"/> deals for our users by connecting
+                    <br/> with over 100,000 hotels worldwide</p>
+<p class="link">
+<a class="btn btn-warning js-learn-more" href="#" title="Learn more">Learn more</a>
+</p>
+</section>
+</div>
+</div>
+</div>
+<div class="block-hotels-city">
+<div class="container">
+<div class="title-block text-center">
+<h2>Featured Hotels</h2>
+<p>Trending properties from around <span class="nowrap">the world</span></p>
+</div>
+<div class="slider-block">
+<div class="wrap-slick-slider">
+<div class="properties-slider slick-slider">
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/rancho-bernardo-inn/booking" title="Rancho Bernardo Inn">
+<figure class="figure">
+<img alt="Rancho Bernardo Inn" class="card-img" src="/images/pages/p-home/featured-hotels/4e59e3fb-e543-4c2c-acdc-53a4d78517e8.jpg" title="Rancho Bernardo Inn"/>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-city">San Diego, CA</p>
+<p class="card-name">Rancho Bernardo Inn</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/mountaineer-square/booking" title="The Lodge at Mountaineer Square">
+<figure class="figure">
+<img alt="The Lodge at Mountaineer Square" class="card-img" src="/images/pages/p-home/featured-hotels/45548bfb-0c67-4443-a625-68b838cfa293.jpg" title="The Lodge at Mountaineer Square"/>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-city">Mt. Crested Butte, CO</p>
+<p class="card-name">The Lodge at Mountaineer Square</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/reunion-resortra-salamander-golf-spa-resort/booking" title="Reunion Resort">
+<figure class="figure">
+<img alt="Reunion Resort" class="card-img" src="/images/pages/p-home/featured-hotels/2217841c-6eb8-5ab2-8857-db7c1f4ad5d1.jpg" title="Reunion Resort"/>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-city">Kissimmee, FL</p>
+<p class="card-name">Reunion Resort</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotel-praia-ipanema/booking" title="Praia Ipanema Hotel">
+<figure class="figure">
+<img alt="Praia Ipanema Hotel" class="card-img" src="/images/pages/p-home/featured-hotels/d592e189-fceb-51bd-a379-ef0c81c11455.jpg" title="Praia Ipanema Hotel"/>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-city">Rio de Janeiro, Brazil</p>
+<p class="card-name">Praia Ipanema Hotel</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/hotel-principe-venice/booking" title="Hotel Principe">
+<figure class="figure">
+<img alt="Hotel Principe" class="card-img" src="/images/pages/p-home/featured-hotels/52ce0231-cb14-575e-8f97-ce5586cea1ab.jpg" title="Hotel Principe"/>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-city">Venice, Italy</p>
+<p class="card-name">Hotel Principe</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+<div class="card position-relative text-white">
+<a href="https://www.guestreservations.com/four-seasons-resort-koh-samui/booking" title="Four Seasons Resort Koh Samui">
+<figure class="figure">
+<img alt="Four Seasons Resort Koh Samui" class="card-img" src="/images/pages/p-home/featured-hotels/9a145841-8c30-5f28-b0be-c5db01841f01.jpg" title="Four Seasons Resort Koh Samui"/>
+<figcaption class="figure-caption d-flex align-items-end card-figure-bg position-absolute">
+<section class="mt-auto card-text">
+<p class="card-city">Koh Samui, Thailand</p>
+<p class="card-name">Four Seasons Resort Koh Samui</p>
+</section>
+</figcaption>
+</figure>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block-city-top">
+<div class="container">
+<div class="d-flex title">
+<div class="bd-highlight align-self-center">
+<h3><span class="for-tablet-inline for-desktop-inline">Hotels in Other </span>Top Cities</h3></div>
+<div class="ml-auto">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America" title="See all cities">See all cities</a>
+</div>
+</div>
+<div class="link-city">
+<div class="row no-gutters">
+<div class="col-md-3">
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Victoria">Victoria Hotels</a></p>
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/NJ/Newark">Newark Hotels</a></p>
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-Spain/Madrid">Madrid Hotels</a></p>
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/DC/Washington">Washington D.C. Hotels</a></p>
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/San_Francisco">San Francisco Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Italy/Milan">Milan Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/Minneapolis">Minneapolis Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Calgary">Calgary Hotels</a></p>
+</div>
+<div class="col-md-3">
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-France/Nice">Nice Hotels</a></p>
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/Los_Angeles">Los Angeles Hotels</a></p>
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-Germany/Hamburg">Hamburg Hotels</a></p>
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-Austria/Vienna">Vienna Hotels</a></p>
+<p class="city city">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_Kingdom/Edinburgh">Edinburgh Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/Anaheim">Anaheim Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/Fort_Lauderdale">Fort Lauderdale Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/Atlantic_City">Atlantic City Hotels</a></p>
+</div>
+<div class="col-md-3">
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Mexico/Mexico_City">Mexico City Hotels</a></p>
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Denmark/Copenhagen">Copenhagen Hotels</a></p>
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-China/Shanghai">Shanghai Hotels</a></p>
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Japan/Tokyo">Tokyo Hotels</a></p>
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Banff">Banff Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Switzerland/Bern">Bern Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Mexico/Cancun">Cancun Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-China/Xi%27an">Xi'an Hotels</a></p>
+</div>
+<div class="col-md-3">
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-China/Beijing">Beijing Hotels</a></p>
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Vancouver">Vancouver Hotels</a></p>
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Toronto">Toronto Hotels</a></p>
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-Canada/Quebec_City">Quebec City Hotels</a></p>
+<p class="city city for-tablet for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/New_York">New York Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_States_of_America/NV/Las_Vegas">Las Vegas Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-United_Kingdom/London">London Hotels</a></p>
+<p class="city city for-desktop">
+<a class="btn" href="https://www.guestreservations.com/hotels-France/Paris">Paris Hotels</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade modal-learn-more reasons js-modal-learn-more" role="dialog" tabindex="-1">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h2>4 REASONS TO BOOK WITH <br/> <b class="trademark-name">Guest Reservations<sup>TM</sup></b> </h2>
+<button aria-label="Close" class="close" data-dismiss="modal" type="button">
+<span aria-hidden="true">×</span>
 </button>
 </div>
-<div class="content-body">
-<h2 class="popup-drawer-prominent-heading" id="sign-up-popup-drawer-container-title">Get SlideShare without ads</h2>
-<div class="popup-drawer-content" id="sign-up-popup-drawer-container-title-description">Enjoy access to millions of presentations, documents, ebooks, audiobooks, magazines, and more <b>ad-free.</b></div>
-<button class="popup-drawer-primary-cta" type="button">
-        Try free for 30 days
-    </button>
+<div class="modal-body">
+<p>As an independent travel network offering over 100,000 hotels worldwide,
+                    we can get you the same deals you expect with a bigger travel agency or direct from the hotel.
+                    We compile the best rates from several top suppliers to make it easy to book the perfect room.
+                    Combine these deals with our all-devices booking engine, strict privacy focus, and world-class
+                    support and you have the <b class="trademark-name">Guest Reservations<sup>TM</sup></b>  difference.
+                    Learn more <a href="https://www.guestreservations.com/about/page" target="_blank" title="about us"> about us</a>.</p>
+<section class="reasons-block">
+<div class="row">
+<div class="col-6">
+<div class="media">
+<img alt="Exclusive Deals" class="mr-4" src="/assets/4a44a40b/images/reasons/exclusive-deals.svg"/>
+<div class="media-body">
+<h5 class="mt-0">Exclusive Deals</h5>
+                                    Deep Discounts And Popular Exclusives.
+                                </div>
+</div>
+</div>
+<div class="col-6">
+<div class="media">
+<img alt="Massive selection" class="mr-4" src="/assets/4a44a40b/images/reasons/massive-selection.svg"/>
+<div class="media-body">
+<h5 class="mt-0">Massive selection</h5>
+                                    100,000+ Hotels From All The Top Suppliers!
+                                </div>
+</div>
+</div>
+<div class="w-100"></div>
+<div class="col-6">
+<div class="media">
+<img alt="Leading Customer Service" class="mr-4" src="/assets/4a44a40b/images/reasons/customer-service.svg"/>
+<div class="media-body">
+<h5 class="mt-0">Leading Customer Service</h5>
+                                    Our Agents Are Friendly And Available 24/7.
+                                </div>
+</div>
+</div>
+<div class="col-6">
+<div class="media">
+<img alt="Strict Privacy Focus" class="mr-4" src="/assets/4a44a40b/images/reasons/strict-privac.svg"/>
+<div class="media-body">
+<h5 class="mt-0">Strict Privacy Focus</h5>
+                                    All Bookings Are Secured And Protected.
+                                </div>
+</div>
+</div>
 </div>
 </section>
-<link href="https://public.slidesharecdn.com/v2/stylesheets/scribd_ads_on_slideshow_page.59ac1bd02645a189a25a.css" media="screen" rel="stylesheet"/>
-<div aria-labelledby="scribd-ad-title" aria-modal="true" class="scribd-ad-exit-modal hidden" id="scribd-ad-exit-modal" role="dialog">
-<div class="backdrop" id="scribd-ad-exit-backdrop"></div>
-<div class="scribd-ad-modal-wrapper">
-<div class="modal-title">
-<h2 id="scribd-ad-title">Special Offer to SlideShare Readers</h2>
-<button aria-label="Close" class="close" type="button">×</button>
-</div>
-<div class="modal-content">
-<div class="sidebar">
-<div class="slideshare-plus-scribd">
-<div class="image-container slideshare-logo">
-<img alt="" class="image" src="https://public.slidesharecdn.com/v2/images/slideshow/scribd_ads/slideshare_logo.svg"/>
-</div>
-<div class="image-container plus">
-<img alt="" class="image" src="https://public.slidesharecdn.com/v2/images/slideshow/scribd_ads/plus.svg"/>
-</div>
-<div class="image-container scribd-logo">
-<img alt="" class="image" src="https://public.slidesharecdn.com/v2/images/slideshow/scribd_ads/scribd_logo.svg"/>
-</div>
-</div>
-<div class="image-container studying-illustration">
-<img alt="" class="image" src="https://public.slidesharecdn.com/v2/images/slideshow/scribd_ads/studying.svg"/>
-</div>
-</div>
-<div class="content">
-<h2 class="header">
-<span class="bold">Just for you:</span> FREE 60-day trial to the world’s largest digital library.
-        </h2>
-<p class="body">
-          The SlideShare family just got bigger. Enjoy access to millions of ebooks, audiobooks, magazines, and more from Scribd.
-        </p>
-<div class="actions">
-<a class="cta" href="https://scribd.com/slideshare?utm_medium=cpc&amp;utm_source=slideshare&amp;utm_campaign=promo-exit-v1" target="_blank">
-            Read free for 60 days
-          </a>
-</div>
-<span class="cancel-anytime">Cancel anytime.</span>
 </div>
 </div>
 </div>
 </div>
-<div aria-labelledby="slideshow-likes-modal-title" aria-modal="true" class="slideshow-likes-info hidden" id="slideshow-likes-modal" role="dialog">
-<div class="backdrop" id="slideshow-likes-modal-backdrop"></div>
-<div class="slideshow-likes-modal-content-wrapper">
-<div class="modal-title">
-<button aria-label="Back" class="mobile-back-button" type="button">
-<i class="icon-arrow-left"></i>
-</button>
-<h2 id="slideshow-likes-modal-title">0 likes</h2>
-<button aria-label="Close" class="close" type="button">×</button>
+<script>
+    GR.loadPage('site.Index', {"destinationFromUrl":false});
+</script>
+</main>
 </div>
-<div class="modal-content">
-<div class="likes-empty-text">
-          Be the first to like this
-        </div>
-</div>
-</div>
-</div>
-<div aria-labelledby="slideshow-views-modal-title" aria-modal="true" class="slideshow-views-info hidden" id="slideshow-views-modal" role="dialog">
-<div class="backdrop" id="slideshow-views-modal-backdrop"></div>
-<div class="slideshow-views-modal-content-wrapper">
-<div class="modal-title">
-<button aria-label="Back" class="mobile-back-button" type="button">
-<i class="icon-arrow-left"></i>
-</button>
-<h2 id="slideshow-views-modal-title">Views</h2>
-<button aria-label="Close" class="close" type="button">×</button>
-</div>
-<div class="modal-content">
-<div class="views-data-row">
-<div class="view-type-text">Total views</div>
-<div class="view-type-val">0</div>
-</div>
-<div class="views-data-row">
-<div class="view-type-text">On SlideShare</div>
-<div class="view-type-val j-slideshare-views">0</div>
-</div>
-<div class="views-data-row">
-<div class="view-type-text">From Embeds</div>
-<div class="view-type-val j-embed-views">0</div>
-</div>
-<div class="views-data-row">
-<div class="view-type-text">Number of Embeds</div>
-<div class="view-type-val">0</div>
-</div>
-</div>
-</div>
-</div>
-<div aria-labelledby="subscription-success-learn-more-modal-title" aria-modal="true" class="subscription-success-learn-more hidden" id="subscription-success-learn-more-modal" role="dialog">
-<div class="backdrop" id="subscription-success-learn-more-modal-backdrop"></div>
-<div class="learn-more-modal-content-wrapper">
-<div class="modal-content-top-section">
-<div class="modal-title">
-<h2 id="subscription-success-learn-more-modal-title">You have now unlocked unlimited access to 20M+ documents!</h2>
-<button aria-label="Close" class="close" type="button">×</button>
-</div>
-<div class="content-top-section">
-<div class="content-left">
-<img alt="" class="unlimited-reading-icon" src="https://public.slidesharecdn.com/v2/images/unlimited-reading.svg"/>
-<div>
-<p class="sub-heading">Unlimited Reading</p>
-<p class="sub-text">Learn faster and smarter from top experts</p>
-</div>
-</div>
-<div class="content-right">
-<img alt="" class="unlimited-downloading-icon" src="https://public.slidesharecdn.com/v2/images/unlimited-downloading.svg"/>
-<div>
-<p class="sub-heading">Unlimited Downloading</p>
-<p class="sub-text">Download to take your learnings offline and on the go</p>
-</div>
-</div>
-</div>
-</div>
-<div class="modal-content-bottom-section">
-<p class="section-heading">You also get free access to Scribd!<p>
-<div class="scribd-benefits-list">
-<div class="list-item">
-<i class="icon-check"></i>
-<p class="list-item-text">Instant access to millions of ebooks, audiobooks, magazines, podcasts and more.</p>
-</div>
-<div class="list-item">
-<i class="icon-check"></i>
-<p class="list-item-text">Read and listen offline with any device.</p>
-</div>
-<div class="list-item">
-<i class="icon-check"></i>
-<p class="list-item-text">Free access to premium services like Tuneln, Mubi and more.</p>
-</div>
-</div>
-<a class="scribd-redirect-link" href="https://scribd.com/" target="_blank">Discover More On Scribd</a>
-</p></p></div>
-</div>
-</div>
-<div aria-labelledby="whitelist-modal-title" aria-modal="true" class="whitelist-slideshow-page hidden" id="whitelist-slideshow-modal" role="dialog">
-<div class="backdrop" id="whitelist-slideshow-modal-backdrop"></div>
-<div class="content-wrapper">
-<a class="logo-container" href="/">
-<img alt="SlideShare a Scribd company logo" height="75" src="https://public.slidesharecdn.com/v2/images/logo/slideshare-scribd-logo.svg" width="170"/>
+<div class="footer mt-auto">
+<footer>
+<div class="w-100 footer-padding bg-light">
+<div class="container container-1280">
+<div class="footer-nav w-100">
+<div class="row">
+<div class="col logo-social d-flex flex-column">
+<span class="navbar-brand d-flex flex-column mb-auto">
+<img alt="Guestreservations - Logo" src="/assets/237ed65f/images/logo-dark-tm.svg" title="Guestreservations - Logo"/>
+<small> An independent travel network</small>
+</span>
+<div class="social-networks">
+<a href="https://www.facebook.com/guestreservations" target="_blank" title="GuestReservations on Facebook">
+<img alt="GuestReservations on Facebook" src="/assets/237ed65f/images/social-networks/facebook.svg" title="GuestReservations on Facebook"/>
 </a>
-<h2 id="whitelist-modal-title">Help us keep SlideShare free</h2>
-<div class="top-section">
-<p>It appears that you have an ad-blocker running. By whitelisting SlideShare on your ad-blocker, you are supporting our community of content creators.</p>
-<div class="modal-actions">
-<button class="whitelist-modal-assertive" type="button">
-          Whitelist SlideShare
-        </button>
-<button class="whitelist-modal-non-assertive" type="button">
-          Continue without Whitelisting
-        </button>
+<a href="https://twitter.com/guest_res" target="_blank" title="GuestReservations on Twitter">
+<img alt="GuestReservations on Twitter" src="/assets/237ed65f/images/social-networks/twitter.svg" title="GuestReservations on Twitter"/>
+</a>
+<a href="https://www.instagram.com/guestreservations/" target="_blank" title="GuestReservations on Instagram">
+<img alt="GuestReservations on Instagram" src="/assets/237ed65f/images/social-networks/instagram.svg" title="GuestReservations on Instagram"/>
+</a>
+<a href="https://www.pinterest.com/guestreservations/" target="_blank" title="GuestReservations on Pinterest">
+<img alt="GuestReservations on Pinterest" src="/assets/237ed65f/images/social-networks/pinterest.svg" title="GuestReservations on Pinterest"/>
+</a>
+<a href="https://www.youtube.com/@GuestReservations" target="_blank" title="GuestReservations on YouTube">
+<img alt="GuestReservations on YouTube" src="/assets/237ed65f/images/social-networks/you-tube.svg" title="GuestReservations on YouTube"/>
+</a>
 </div>
 </div>
-<div class="horizontal-divider"></div>
-<div class="bottom-section">
-<div class="whitelist-modal-additional-action">Hate ads? <button class="highlight-non-assertive-action" type="button">Get SlideShare without ads</button></div>
+<div class="col nav-footer d-flex">
+<div class="styles">
+<h5>Learn More</h5>
+<ul class="list-unstyled">
+<li><a href="https://www.guestreservations.com/about/page" title="About Us">About Us</a></li>
+<li><a href="https://www.guestreservations.com/about/faq" title="FAQs">FAQs</a></li>
+<li><a href="https://www.guestreservations.com/about/news" title="News">News</a></li>
+<li><a href="https://www.guestreservations.com/about/reviews" title="Customer Reviews">Customer
+                                    Reviews</a></li>
+<li><a href="https://www.guestreservations.com/about/termsofuse" title="Terms of Service">Terms of
+                                    Service</a></li>
+<li><a href="https://www.guestreservations.com/about/privacy" title="Privacy Policy">Privacy Policy</a></li>
+<li><a class="no-affiliation-popup-link" href="#" title="Hotel Non-Affiliation">Hotel
+                                    Non-Affiliation</a></li>
+</ul>
+</div>
+<div class="styles">
+<h5>Get in Touch</h5>
+<ul class="list-unstyled">
+<li><a href="https://www.guestreservations.com/about/contact" title="Contact Us">Contact Us</a>
+</li>
+<li><a href="https://www.guestreservations.com/about/mybooking" title="My Booking">My Booking</a>
+</li>
+<li><a href="https://groups.guestreservations.com/Group-Rate/" title="Group Rates">Group Rates</a></li>
+<li><a href="https://groups.guestreservations.com/Group-Rate/?GroupType=150&amp;sc=GRes_Weddings" title="Weddings">Weddings</a></li>
+<li><a href="https://groups.guestreservations.com/Group-Rate/?es=1" title="Extended Stay">Extended Stay</a></li>
+</ul>
 </div>
 </div>
 </div>
-<script src="https://public.slidesharecdn.com/v2/javascripts/assets/tracking/page-view.6f8071512e3de58da60b.js"></script>
-<script src="https://public.slidesharecdn.com/v2/javascripts/assets/common/privacy-policy-updates.319a6fb9588d0710d56b.js"></script>
-<div aria-labelledby="privacy-policy-explicit-opt-in-modal-title" aria-modal="true" class="privacy-policy-explicit-opt-in hidden" id="privacy-policy-explicit-opt-in-modal" role="dialog">
-<div class="backdrop" id="privacy-policy-explicit-opt-in-modal-backdrop"></div>
-<div class="content-wrapper">
-<button aria-label="Close" class="close" type="button">×</button>
-<h2 id="privacy-policy-explicit-opt-in-modal-title">We've updated our privacy policy.</h2>
+</div>
+<div aria-labelledby="myModalLabel" class="modal fade modal-admin" id="show-no-affiliation" tabindex="-1">
+<div class="modal-dialog modal-log" role="document">
 <div class="modal-content">
-<p>We’ve updated our privacy policy so that we are compliant with changing global privacy regulations and to provide you with insight into the limited ways in which we use your data.</p>
-<p>You can read the details below. By accepting, you agree to the updated privacy policy.</p>
-<p>Thank you!</p>
-<div class="modal-actions">
-<button class="updated-privacy-policy-assertive" type="button">Accept and continue</button>
-<a class="view-updated-privacy-policy" href="https://www.scribd.com/privacy" role="button" target="_blank">View updated privacy policy</a>
+<div class="modal-header text-center">
+<button aria-label="Close" class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span></button>
+<h4 class="modal-title trademark-name" id="myModalLabel">Guest Reservations<sup>TM</sup><br/>
+                    Hotel Non-Affiliation – Proudly Independent Network</h4>
 </div>
-<div class="modal-action-error hidden">We've encountered a problem, please try again.</div>
+<div class="modal-body" id="modal-body">
+<div class="panel panel-default">
+                    We are an independent travel network for over 100,000 hotels worldwide. We are not owned or
+                    sponsored by any particular hotel, and the trademarks of all hotels in our network are owned
+                    by the respective hotels or licensors. We only use hotel trademarks or information to the
+                    extent necessary to assist our customers to book rooms in the travel destination of their
+                    choice.
+                </div>
+<div class="panel panel-default">
+<div class="panel-heading">
+<b class="trademark-name">Guest Reservations<sup>TM</sup></b> Connects Travelers to Relevant
+                        Deals:
+                    </div>
+<div class="panel-body no-padding">
+<span class="row">
+<p class="icons icon-case">We are focused on connecting travelers to the most relevant deals.</p>
+</span>
+<span class="row">
+<p class="icons icon-bed">As an independent travel network and online travel agent (OTA), we can offer rooms
+                                through hotel room suppliers and through global distribution systems where hotels
+                                place their inventory for sale.</p>
+</span>
+<span class="row">
+<p class="icons icon-sale">This allows us, as an independent travel network, to get you the same deals you
+                                expect with larger travel agencies.</p>
+</span>
 </div>
 </div>
 </div>
-</link></body>
+</div>
+</div>
+</div>
+<div class="copyrighted-slogan w-100">
+<div class="row">
+<div class="col-md-auto copyrighted">
+<p>Copyright 2023 <b class="trademark-name">Guest Reservations<sup>TM</sup></b>.</p>
+</div>
+<div class="col slogan">
+<p> <span class="trademark-name"> <b class="trademark-name">Guest Reservations<sup>TM</sup></b> is an independent
+                           travel network <br class="for-mobile for-tablet"/> offering over 100,000 hotels worldwide.</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCGyzSMOtzEO7yuVY1c_XrQqOxKdZ6NZTU&amp;libraries=places&amp;callback=initAutocomplete&amp;language=en"></script> <!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NPMZ2WN" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Bing -->
+<script>
+            (function(w, d, t, r, u) {
+                var f, n, i;
+                w[u] = w[u] || [], f = function() {
+                    var o = {
+                        ti: "5267870"
+                    };
+                    o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad")
+                }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function() {
+                    var s = this.readyState;
+                    s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null)
+                }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i)
+            })(window, document, "script", "//bat.bing.com/bat.js", "uetq");
+        </script><noscript><img height="0" src="//bat.bing.com/action/0?ti=5267870&amp;Ver=2" style="display:none; visibility: hidden;" width="0"/></noscript>
+<iframe class="search-loading" src="/site/searchloading" style="display: none"></iframe>
+<div id="mobile-indicator"></div>
+<!-- serverHost: web02 -->
+<script>(function(){var js = "window['__CF$cv$params']={r:'7f6f0ccd4a9646e5',t:'MTY5MjA3NzQ3My4xMTYwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script></body>
 </html>
